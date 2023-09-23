@@ -1,0 +1,93 @@
+title: 校园卡介绍
+icon: card
+author: Mr.Hope
+time: 2023-09-22T16:59:13.421Z
+shareable: true
+content:
+  - tag: title
+    text: 校园卡介绍
+
+  - tag: text
+    text: 校园卡分为实体卡和微信校园卡 (电子卡) 两种。目前学校正在逐步推进校园卡的电子化工作。
+
+  - tag: title
+    text: 实体校园卡
+
+  - tag: text
+    text: 学校开学发放，报到时领取。
+
+  - tag: img
+    src: $img/card/card.jpg
+    desc: 校园卡照片
+
+  - tag: text
+    heading: 实体卡主要功能
+    text: 校园卡主要承担着校园内的生活、消费和身份认证三大功能。
+
+  - tag: ul
+    heading: 生活
+    text:
+      - 学校门禁
+      - 食堂消费
+      - 生活用水
+      - 饮用水
+      - 校园网缴费付费
+      - 体育馆门禁
+
+  - tag: ul
+    heading: 学习
+    text:
+      - 图书超期罚款
+      - 图书馆电子阅览室的图书借阅
+      - 图书馆门禁
+      - 期中期末考试身份认证
+      - 计算机等级考试身份认证
+      - 英语四六级考试身份认证
+
+  - tag: title
+    text: 微信校园卡 (电子卡)
+
+  - tag: text
+    text: 在关注并认证企业微信后可以使用。
+
+  - tag: list
+    header: false
+    items:
+      - text: 企业微信认证
+        icon: wechat
+        path: /guide/account/wechat/authorize
+
+      - text: 微信校园卡详细介绍
+        icon: card
+        path: wechat
+
+  - tag: text
+    heading: 微信校园卡主要功能
+    text:
+      - 微信校园卡已开通了食堂、超市消费、各楼宇门禁功能，学校校门门禁、洗衣机、直饮水、生活用水等陆续升级中。
+
+  - tag: title
+    text: 消费限额
+
+  - tag: p
+    text:
+      - 由于校园卡是东师内部的“电子钱包”，为了保障您的资金安全，学校对校园卡在初始情况下进行了消费上的限制。当刷卡金额超过限额时，刷卡时必须由您在卡机上输入密码才能完成消费。
+      - 您可以根据自身的消费习惯通过自助终端机修改消费限额，并定期更改校园卡密码。
+
+  - tag: text
+    type: info
+    heading: 默认限额
+    text:
+      - 单次消费限额 50 元
+      - 每日累计消费限额 100 元
+
+  - tag: title
+    text: 注意事项
+
+  - tag: ul
+    type: info
+    heading: 不同的计费系统
+    text:
+      - 直饮机、生活用水、网费都是有自己的小钱包的，并且可通过校园卡充值。
+      - 浴池设置单独钱包，只能通过微信充值。
+      - 本部电费是单独计费的。

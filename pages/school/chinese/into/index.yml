@@ -1,0 +1,15 @@
+title: 文学院准入要求
+time: 2023-07-18T06:35:12.514Z
+shareable: true
+content:
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 汉语言文学专业
+        path: chinese
+
+      - text: 汉语言文学专业 (公费师范)
+        path: normal
+
+      - text: 汉语言文学专业 (优师专项)
+        path: great

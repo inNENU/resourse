@@ -1,0 +1,51 @@
+title: 在 Windows 10 中添加 Internet Explorer 11
+icon: ie
+author: Mr.Hope
+time: 2023-09-23T10:52:59.586Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - Internet Explorer 11 是 Windows 10 默认启用的功能。除非您刻意移除了该功能，否则该功能应该是存在的。
+      - 如果您无法在指定位置找到 Internet Explorer 快捷方式，请尝试使用 Windows 搜索寻找 (快捷键 Win + S)。
+
+  - tag: text
+    type: warning
+    heading: Internet Explorer 将被停用
+    text:
+      - Internet Explorer 11 将于 2022 年 6 月份被自动禁用，只要您在使用 20H2 及更新版本的半年渠道 Windows 10，届时 Internet Explorer 都将被彻底禁用 (就跟不久前的 Flash 一样)。
+      - 为了提供历史向下兼容，微软在 Microsoft Edge 提供了兼容模式。
+      - 为了良好的体验，Mr.Hope 建议您使用 IE Tab 扩展程序或 Microsoft Edge 提供的 IE 兼容模式。
+
+  - tag: list
+    header: 相关链接
+    items:
+      - text: 使用 IE Tab 扩展程序
+        icon: ie
+        path: ietab/
+
+      - text: 使用 Microsoft Edge 提供的 IE 兼容模式
+        icon: edge
+        path: msedge
+
+  - tag: title
+    text: 安装方式
+
+  - tag: text
+    text: 进入系统设置 (快捷键 Win + I) 后按图操作。
+
+  - tag: img
+    src: $img/tip/win10-ie-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win10-ie-2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win10-ie-3.jpg
+    watermark: true
+
+  - tag: text
+    text: 耐心等待安装完成之后重启。

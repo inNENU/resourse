@@ -1,0 +1,63 @@
+title: 常见问题
+icon: faq
+author: Mr.Hope
+time: 2023-09-23T12:11:49.065Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 报到之前
+    items:
+      - text: 录取相关
+        icon: enroll
+        path: enroll
+
+      - text: 录取通知书相关
+        icon: letter
+        path: admission-notice
+
+  - tag: list
+    header: 新生报到
+    items:
+      - text: 到校相关
+        icon: plane
+        path: arrival
+
+      - text: 报到相关
+        icon: check
+        path: check
+
+      - text: 军训相关
+        icon: military
+        path: /newcomer/activity/military/faq
+
+      - text: 管理相关
+        icon: setting
+        path: manage
+
+  - tag: list
+    header: 校园生活
+    items:
+      - text: 校园卡
+        icon: card
+        path: card
+
+      - text: 校园网
+        icon: network
+        path: network
+
+      - text: 寝室相关
+        icon: dorm
+        path: dorm
+
+      - text: 浴池相关
+        icon: bath
+        path: bath
+
+      - text: 生活相关
+        icon: life
+        path: life
+
+      - text: 放假安排
+        icon: calendar
+        path: vacation

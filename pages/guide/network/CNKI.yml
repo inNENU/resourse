@@ -1,0 +1,37 @@
+title: 校外访问知网
+icon: cnki
+author: Mr.Hope
+time: 2023-09-23T10:52:59.420Z
+shareable: true
+content:
+  - tag: title
+    text: 访问入口
+
+  - tag: action
+    content: https://www-cnki-net-s.webvpn.nenu.edu.cn/
+
+  - tag: text
+    text: 请直接访问上述地址，并在要求登录时跳转到 Web VPN 进行登录即可。
+
+  # - tag: p
+  #   heading: 登录地址
+  #   text: 使用非校园 IP 地址打开浏览器，输入入口网址，在页面上的 “选择高校／机构” 下拉框中选 择“东北师范大学”，点击 “前往”。
+
+  # - tag: img
+  #   src: $img/account/cnki1.jpg
+
+  # - tag: ul
+  #   text:
+  #     - 跳转至 “东北师范大学” 身份验证界面
+  #     - 输入用户名和密码，用户名为学号，密码为校园邮箱密码
+
+  # - tag: img
+  #   src: $img/account/cnki2.jpg
+
+  # - tag: ul
+  #   text:
+  #     - 选择“不要再询问我” 并点击 “同意”。
+  #     - 通过验证，就可以顺利访问图书馆订购的 CNKI 数据库的学术资源了!
+
+  # - tag: img
+  #   src: $img/account/cnki3.jpg

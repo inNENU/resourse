@@ -1,0 +1,45 @@
+title: 启动转换助理小贴士
+author: Mr.Hope
+time: 2022-08-21
+grey: true
+shareable: true
+content:
+  - tag: ul
+    type: note
+    heading: 仅限搭载 Intel 处理器的 Mac
+    text:
+      - 您可以使用“启动转换助理”在搭载 Intel 处理器的 Mac 上安装 Windows 10。
+      - 如果您的 Mac 搭载 Apple 芯片，您需要使用虚拟机。
+
+  - tag: list
+    items:
+      - text: 通过虚拟机运行 Windows
+        icon: idea
+        desc: Apple 芯片
+        path: ../parallels/
+
+  - tag: list
+    items:
+      - text: 哪些机型可以使用启动转换助理
+        icon: intro
+        path: device
+
+      - text: 通过启动转换助理在 Mac 上安装 Windows
+        icon: idea
+        path: install
+
+      - text: 在 Windows 和 macOS 之间切换
+        icon: change
+        path: switch
+
+      - text: 从 macOS 设定默认操作系统
+        icon: setting
+        path: default
+
+      - text: 使用“启动转换”从 Mac 上移除 Windows
+        icon: delete
+        path: remove
+
+      - text: 常见问题
+        icon: faq
+        path: faq

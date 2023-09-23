@@ -1,0 +1,26 @@
+title: 净月快递
+author: Mr.Hope
+time: 2023-08-24T20:04:03.947Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 提示
+    items:
+      - text: 新生邮寄快递提示
+        icon: idea
+        path: /guide/express/tip
+
+  - tag: list
+    items:
+      - text: 快递介绍
+        icon: about
+        path: /guide/express/jingyue-intro
+
+      - text: 菜鸟驿站
+        icon: cainiao
+        path: /guide/express/jingyue-cainiao
+
+      - text: 临时取件点
+        icon: express
+        path: /guide/express/jingyue-temp

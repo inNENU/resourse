@@ -1,0 +1,16 @@
+title: 大类招生
+icon: enroll
+author: Mr.Hope
+time: 2023-09-23T11:16:45.430Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 大类招生介绍
+        icon: about
+        path: intro
+
+      - text: 本科大类招生专业分流工作指导意见
+        icon: notice
+        path: rule

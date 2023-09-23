@@ -1,0 +1,21 @@
+title: 飞机小贴士
+icon: idea
+author: Mr.Hope
+time: 2023-09-23T10:52:59.671Z
+grey: true
+shareable: true
+content:
+  - tag: text
+    type: tip
+    text: Mr.Hope 仍在完善此板块。
+
+  - tag: list
+    header: 介绍
+    items:
+      - text: 购飞机票
+        icon: ticket
+        path: ticket
+
+      - text: 乘坐飞机流程
+        icon: flow
+        path: flow

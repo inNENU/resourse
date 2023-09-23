@@ -1,0 +1,36 @@
+title: 本部洗衣店
+icon: washer
+author: Mr.Hope
+time: 2023-09-23T10:52:59.415Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
+    text:
+      - |-
+        北苑洗衣店: 北苑地下一楼南侧
+
+  - tag: location
+    title: 本部洗衣店
+    points:
+      - latitude: 43.862562
+        longitude: 125.332911
+        name: 北苑洗衣店
+        detail: 北苑地下一楼南侧
+
+  - tag: text
+    heading: 北苑洗衣店
+
+  - tag: img
+    src: $img/life/beiyuan/wash.jpg
+    desc: 北苑洗衣价格
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text:
+      - 暂无信息

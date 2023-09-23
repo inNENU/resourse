@@ -1,0 +1,118 @@
+title: 地理科学学院专业
+author: Mr.Hope
+time: 2023-08-22T04:50:16.377Z
+shareable: true
+content:
+  - tag: title
+    text: 本科招生概况
+
+  - tag: p
+    text:
+      - 地理科学学院现设有地理科学(公费师范)、地理科学、人文地理与城乡规划、地理信息科学四个专业。
+      - 2020 年开始，学院实行地理科学类大类招生，招生专业为地理科学 (公费师范) 、地理科学 (优师专项)、地理科学类 (包括地理科学、人文地理与城乡规划、地理信息科学 3 个专业培养方向) 。
+
+  - tag: list
+    header: 专业详情
+    items:
+      - text: 地理科学 (公费师范)
+        path: normal
+
+      - text: 地理科学类
+        path: class
+
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 地理科学类
+        path: into/class
+
+      - text: 地理科学专业 (公费师范)
+        path: into/normal
+
+      - text: 地理科学专业 (优师专项)
+        path: into/great
+
+  - tag: doc
+    name: 地理科学学院本科人才培养方案 (2020)
+    url: $file/course-plan/geography/2020.pdf
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 地载万物 理蕴乾坤
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/F/9F/95/AEF900FCF09BD4293CB7929D63B_1821A624_390A68A9.mp4?e=.mp4
+
+  - tag: title
+    text: 硕士研究生招生概况
+
+  - tag: action
+    header: 查询地址
+    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+
+  - tag: text
+    heading: 相关介绍
+
+  - tag: doc
+    name: 地理学一级学科学术学位硕士研究生培养方案
+    url: $file/study/geography-dlx.pdf
+
+  - tag: doc
+    name: 城乡规划学一级学科学术学位硕士研究生培养方案
+    url: $file/study/geography-cxghx.pdf
+
+  - tag: doc
+    name: 土地资源管理专业学术学位硕士研究生培养方案
+    url: $file/study/geography-tdzy.pdf
+
+  - tag: doc
+    name: 区域经济学专业学术学位硕士研究生培养方案
+    url: $file/study/geography-qyjjx.pdf
+
+  - tag: doc
+    name: 旅游管理专业学术学位硕士研究生培养方案
+    url: $file/study/geography-lygl.pdf
+
+  - tag: doc
+    name: 课程与教学论专业(地理)学术学位硕士研究生培养方案
+    url: $file/study/geography-040102.pdf
+
+  - tag: doc
+    name: 地理科学学院全职硕导教师简介
+    url: $file/study/geography-teacher.pdf
+
+  - tag: phone
+    header: 硕士研究生招生咨询电话
+    fName: 存铭
+    lName: 邹
+    num: 0431-85099550
+    org: 东北师范大学地理科学学院
+    title: 硕士研究生招生负责人
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024
+    mail: zoucm100@nenu.edu.cn
+
+  - tag: title
+    text: 博士生相关介绍
+
+  - tag: doc
+    name: 自然地理专业博士学位研究生培养方案
+    url: $file/study/geography-zrdl.pdf
+
+  - tag: doc
+    name: 人文地理学专业博士学位研究生培养方案
+    url: $file/study/geography-rwdl.pdf
+
+  - tag: doc
+    name: 区域经济学专业博士学位研究生培养方案
+    url: $file/study/geography-tdzy.pdf
+
+  - tag: doc
+    name: 城市与区域规划专业博士学位研究生培养方案
+    url: $file/study/geography-csyqygh.pdf
+
+  - tag: doc
+    name: 地图学与地理信息系统专业博士学位研究生培养方案
+    url: $file/study/geography-dtx.pdf

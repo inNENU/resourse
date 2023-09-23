@@ -1,0 +1,33 @@
+title: 二食堂三楼西南侧窗口
+icon: dining
+desc: |-
+  特别鸣谢浅浅笙歌提供相关照片
+author: Mr.Hope
+time: 2023-09-22T16:59:13.589Z
+shareable: true
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text: 二食堂三楼西北侧是三楼的后方，共有 2 家档口。
+
+  - tag: ul
+    text:
+      - 新派水煮肉片@米饭
+      - 菓碰茶
+
+  - tag: title
+    text: 相关菜品与价格
+
+  - tag: img
+    src: $img/dining/dining2/special14.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special15-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special15-2.jpg
+    watermark: true

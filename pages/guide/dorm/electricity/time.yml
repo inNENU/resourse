@@ -1,0 +1,36 @@
+title: 供电时间
+icon: time
+author: Mr.Hope
+time: 2023-09-23T08:04:54.132Z
+shareable: true
+content:
+  - tag: title
+    text: 本科生供电时间
+
+  - tag: ul
+    heading: 平时供电时间
+    text:
+      - "早: 06:00 — 08:00"
+      - "中: 11:00 / 11:30 / 12:00 — 13:30"
+      - "晚: 15:30 — 23:00"
+
+  - tag: text
+    type: tip
+    text:
+      - 体育公寓早 5:00 供电。
+      - 本部中午 12:00 供电；净月部分寝室如夏华 11:00 供电，部分寝室如光华 11:30 供电。
+
+  - tag: ul
+    heading: 周末供电时间
+    text:
+      - 06:00 — 23:00
+
+  - tag: text
+    type: tip
+    text: 体育公寓早 5:00 供电。
+
+  - tag: title
+    text: 研究生供电时间
+
+  - tag: text
+    text: 研究生宿舍全天供电。

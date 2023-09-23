@@ -1,0 +1,14 @@
+title: 在 Windows 中强制打开 IE
+icon: ie
+author: Mr.Hope
+time: 2023-09-23T10:52:59.582Z
+shareable: true
+content:
+  - tag: text
+    text:
+      - 目前，Win 11 并未移除 IE 组件，也没有禁用入口，您可以使用脚本强制打开。
+      - 您可以从下方的地址下载脚本
+
+  - tag: action
+    header: Win11 强制打开 IE 脚本
+    content: $file/tools/win11-ie.vbs

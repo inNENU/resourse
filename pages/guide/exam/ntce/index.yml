@@ -1,0 +1,66 @@
+title: 中小学教师资格考试
+icon: teacher
+author: Mr.Hope
+time: 2023-09-23T08:04:54.176Z
+grey: true
+shareable: true
+content:
+  - tag: ul
+    type: tip
+    heading: 2023 年下半年时间安排
+    text:
+      - 2023 年下半年中小学教师资格考试 (笔试) 报名工作将于 7 月 7 日 8:00 开始 (吉林省 7 月 12 日 15:00 止)。
+      - 2022 年 7 月 12 日 24 时停止缴费
+      - 2023 年 9 月 11 日 - 9 月 16 日可打印教师资格考试笔试准考证。
+      - 考试时间为 2023 年 9 月 16 日 (星期六)。
+      - 2023 年 11 月 8 日可查询考试成绩
+
+  - tag: list
+    header: false
+    items:
+      - text: 相关公告
+        icon: notice
+        path: notice
+
+  - tag: list
+    header: 介绍
+    items:
+      - text: 介绍
+        icon: about
+        path: intro
+
+      - text: 考试科目
+        icon: books
+        path: subject
+
+      - text: 考试大纲
+        icon: rule
+        path: outline
+
+  - tag: list
+    header: 考试
+    items:
+      - text: 笔试报名
+        icon: enroll
+        path: enroll
+
+      - text: 笔试详情
+        icon: test
+        path: writing
+
+      - text: 面试详情
+        icon: association
+        path: facing
+
+  - tag: list
+    header: 申请
+    items:
+      - text: 资格证申请
+        icon: apply
+        path: apply
+
+  - tag: list
+    items:
+      - text: 常见问题
+        icon: faq
+        path: faq

@@ -1,0 +1,83 @@
+title: 登录选课系统
+icon: account
+author: Mr.Hope
+time: 2023-09-23T10:52:59.518Z
+shareable: true
+content:
+  - tag: text
+    type: warning
+    heading: 系统兼容性
+    text:
+      - 由于选课研发于 21 世纪初期，请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。其他内核浏览器存在兼容性问题，无法正确显示选课弹窗。
+      - 具体的限制及注意事项请点击查看。
+    path: /guide/tip/ie/
+
+  - tag: title
+    text: 校内进入选课系统
+
+  - tag: text
+    heading: 本科生
+    text: 打开浏览器输入 http://xk.nenu.edu.cn/ 直接进入选课页面。
+
+  - tag: action
+    content: http://xk.nenu.edu.cn/
+
+  - tag: text
+    heading: 研究生
+    text: 打开浏览器输入 http://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
+
+  - tag: action
+    content: http://dsyjs.nenu.edu.cn/yjsxk/
+
+  - tag: title
+    text: 校外进入选课系统
+
+  - tag: text
+    text: 打开浏览器输入 https://webvpn.nenu.edu.cn/ 进入 Web VPN 并登录。
+
+  - tag: action
+    content: https://webvpn.nenu.edu.cn/
+
+  - tag: list
+    header: false
+    items:
+      - text: VPN 介绍
+        icon: vpn
+        path: /guide/network/vpn
+
+  - tag: text
+    text: 之后选择选课系统进入。
+
+  - tag: title
+    text: 用户名与密码
+
+  - tag: text
+    text:
+      - 用户名为学号，所有学生密码均为统一身份认证密码。
+
+  - tag: text
+    type: info
+    heading: 忘记密码
+    text:
+      - 如果忘记用户名或密码，请登录统一身份认证系统，点击忘记密码尝试通过手机号、微信等辅助验证方式找回。
+      - 如果仍无法找回密码，请尽快与学校信息化管理与规划办公室联系，以免耽误选课。
+
+  - tag: list
+    header: false
+    items:
+      - text: 统一身份认证
+        icon: authorize
+        path: /guide/account/authorize/
+
+      - text: 信息化办
+        icon: tech
+        path: /apartment/xxhb/
+
+  - tag: title
+    text: Mr.Hope の 吐槽
+
+  - tag: p
+    text:
+      - 我知道很多人会抱怨东师的选课系统老，还时常崩溃。但是有一说一，升级换代这个系统真的没您想象的那么简单。
+      - 目前高校教务系统、图书系统这些方面基本上是处于一种垄断的情况，报价极其高昂，一套教务系统报价最低也要几十万起步，通常动辄上百万。所以如果旧系统依旧能满足基本的正常使用的话，学校采购新系统就变得异常困难。
+      - 另外，由于选课系统需要和教务系统配合，导入您的已选课程和已选学分，并且最终要将选课数据输出到教务系统生成学生的最终课程情况，所以选课系统单独换是不太现实的。再加上说实在的，这系统也还能凑合着用，所以就变成了您看到的这个样子。

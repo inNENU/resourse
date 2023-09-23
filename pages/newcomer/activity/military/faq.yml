@@ -1,0 +1,58 @@
+title: 军训常见问题
+icon: faq
+author: Mr.Hope
+time: 2023-09-23T12:11:48.947Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    heading: 军训何时进行？
+    text:
+      - 2023年军训时间为 9 月 16 日 (星期六) - 9 月 28 日 (星期四)
+    path: detail
+
+  - tag: text
+    type: info
+    heading: 军训需要统一着装么？
+    text:
+      - 是的，军训需要穿着统一的作训服，需要自费购买。
+      - 开学时，学校会统一组织新生购买作训服。作训服包括帽子、T恤、上衣、长裤、鞋子、腰带、臂章等。
+
+  - tag: text
+    type: info
+    heading: 军训要持续多久？军训过程中还有其他安排么？
+    text:
+      - 军训持续两周 (14天)，在此期间无其他安排。学生需要在规定的时间内参与训练。
+    path: detail
+
+  - tag: text
+    type: info
+    heading: 军训有哪些项目
+    text:
+      - 以队列训练为主，即站军姿、踢正步。但军训期间还会有各种特色的军事体验活动，如搭帐篷、野炊、定向越野、拉练等项目。
+    path: detail
+
+  - tag: text
+    type: tip
+    heading: 我可以不参加军训么
+    text:
+      - 不可以，军训是学校规定的必修课程，不参加军训无法毕业。
+      - 如果您身体的确无法参加，可以申请保健班。
+    path: exempt
+
+  - tag: text
+    type: tip
+    heading: 军训强度高么？
+    text:
+      - 由于东师女生基数较高，所以军训运动量不高。
+      - 军训强度甚至低于大部分高中军训。
+
+  - tag: text
+    type: tip
+    heading: 衣服能否晾干
+    text: 长春气候比较干燥，只要同学们互相帮助，一人一头把衣服使劲拧拧，晚上洗完衣服早上基本会干的，不干也差不多可以穿了。
+
+  - tag: text
+    type: tip
+    heading: 有机会摸真枪🔫么?
+    text: 额......您可以做做白日梦什么的。站队列和白日梦最配哦!

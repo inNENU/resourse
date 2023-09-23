@@ -1,0 +1,15 @@
+title: 火车学生票
+icon: student
+author: Mr.Hope
+time: 2023-09-23T10:52:59.705Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 学生票介绍
+        icon: intro
+        path: intro
+
+      - text: 学生票核验
+        icon: check
+        path: check

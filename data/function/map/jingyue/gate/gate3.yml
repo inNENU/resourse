@@ -1,0 +1,12 @@
+title: 3 号门
+photo:
+  - $img/scenery/jingyue/gate/gate3-1.jpg
+  - $img/scenery/jingyue/gate/gate3-2.jpg
+  - $img/scenery/jingyue/gate/gate3-3.jpg
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text:
+      - 三号门位于博硕路上，紧靠一食堂。三号门有集中的外卖放置/自提点。

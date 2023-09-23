@@ -1,0 +1,15 @@
+title: 教育学部准入要求
+time: 2023-07-18T06:35:12.560Z
+shareable: true
+content:
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 教育学类
+        path: class
+
+      - text: 小学教育专业 (公费师范)
+        path: primary
+
+      - text: 学前教育专业 (公费师范)
+        path: before

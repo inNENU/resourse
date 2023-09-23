@@ -1,0 +1,67 @@
+title: 学术科技类社团
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2023-08-31T16:22:59.385Z
+shareable: true
+content:
+  - tag: title
+    text: 本部校区
+
+  - tag: list
+    header: false
+    items:
+      - text: 教师技能协会
+        path: teach
+
+      - text: 科技爱好者协会
+        path: technology
+
+      - text: 物理学术竞赛协会
+        path: phy-contest
+
+      - text: 数学建模协会
+        path: math-modal
+
+      - text: D.N.A 协会
+        path: dna
+
+      - text: 心理协会
+        path: psychology
+
+      - text: 史学协会
+        path: history
+
+      - text: 全英辩社
+        path: en-debate
+
+  - tag: title
+    text: 净月校区
+
+  - tag: list
+    header: false
+    items:
+      - text: 模拟联合国协会
+        icon: $img/association/mun/logo.png
+        path: mun
+
+      - text: 三农学社
+        desc: 暂无详情
+
+  - tag: functional-list
+    header: 欢迎社团入驻本页面
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

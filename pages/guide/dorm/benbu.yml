@@ -1,0 +1,113 @@
+title: 寝室
+icon: dorm
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.611Z
+shareable: true
+content:
+  - tag: list
+    header: 寝室分布
+    items:
+      - text: 寝室分配
+        desc: 是否可以选择寝室
+        icon: explain
+        path: choose
+
+      - text: 入住数据
+        icon: data
+        path: locate/data
+
+      - text: 本部校区本科寝室
+        path: locate/benbu
+
+      - text: 本部校区体育公寓
+        path: locate/pe
+
+      - text: 本部校区研究生寝室
+        path: locate/benbu-master
+
+  - tag: list
+    header: 寝室详细介绍
+    items:
+      - text: 室内环境介绍
+        icon: environment
+        path: detail/env
+
+      - text: 个人区域介绍
+        icon: environment
+        path: detail/person
+
+  - tag: list
+    header: 配套设置
+    items:
+      - text: 热水房
+        icon: hot-water
+        path: detail/hot-water
+
+      - text: 洗漱间
+        icon: washing-room
+        path: detail/washing
+
+      - text: 洗衣房/洗衣机
+        icon: washer
+        path: detail/benbu-washer
+
+      - text: 电梯
+        icon: lift
+        path: detail/lift
+
+      - text: 自习室
+        icon: study
+        path: detail/self-study
+
+      - text: 微波炉
+        icon: microwave
+        path: detail/microwave
+
+      - text: 卫生间
+        icon: toilet
+        path: detail/toilet
+
+  - tag: list
+    header: 供电供网
+    items:
+      - text: 供电时间
+        icon: time
+        path: electricity/time
+
+      - text: 功率限制
+        icon: power
+        path: electricity/power
+
+      - text: 缴纳电费
+        icon: money
+        path: electricity/pay
+
+      - text: 寝室供网
+        icon: network
+        path: network
+
+  - tag: list
+    header: 规章制度
+    items:
+      - text: 寝室门禁
+        icon: door-guard
+        path: door-guard
+
+      - text: 走读与调宿
+        icon: day-reading
+        path: day-reading
+
+      - text: 违禁物品
+        icon: ban
+        path: ban
+
+  - tag: action
+    header: 故障报修
+    content: http://gyglxt.nenu.edu.cn/repair/redirect/website/index
+
+  - tag: list
+    items:
+      - text: Mr.Hope の建议
+        icon: idea
+        path: advice

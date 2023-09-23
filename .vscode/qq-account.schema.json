@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "$defs": {
+    "qq-account": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "账号名称",
+          "type": "string"
+        },
+        "desc": {
+          "description": "账号描述",
+          "type": "string"
+        },
+        "logo": {
+          "description": "账户图标",
+          "type": "string",
+          "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
+        },
+        "id": {
+          "description": "账户QQ号",
+          "type": "number"
+        },
+        "openid": {
+          "description": "QQ OPENID",
+          "type": "string"
+        },
+        "qrcode": {
+          "description": "账户二维码",
+          "type": "string",
+          "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
+        }
+      },
+      "required": ["name", "desc", "logo", "id"],
+      "additionalProperties": false
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "分类名称"
+      },
+      "account": {
+        "type": "array",
+        "items": {
+          "$ref": "#/$defs/qq-account"
+        }
+      }
+    }
+  }
+}

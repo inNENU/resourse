@@ -1,0 +1,79 @@
+title: 本科课程
+icon: content
+author: Mr.Hope
+time: 2023-09-22T16:59:13.475Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 课程类别
+    items:
+      - text: 通识教育课程
+        icon: content
+        path: general/
+
+      - text: 专业教育课程
+        icon: content
+        path: professional
+
+      - text: 发展方向课程
+        icon: content
+        path: develop
+
+      - text: 新生研讨课
+        icon: content
+        path: discuss
+
+  - tag: list
+    header: 课程安排
+    items:
+      - text: 本科课程表
+        icon: course-table
+        path: table
+
+      - text: 本科人才培养计划
+        icon: plan
+        path: plan/
+
+  - tag: list
+    header: 体育课
+    items:
+      - text: 体育课介绍
+        icon: basketball
+        path: pe/intro
+
+      - text: 校园跑
+        icon: run
+        path: pe/running
+
+  - tag: list
+    header: 网课
+    items:
+      - text: 网课说明
+        icon: network
+        path: net-course
+
+  - tag: list
+    header: 英语课程
+    items:
+      - text: 英语课程简介
+        icon: english
+        path: english/intro
+
+      - text: 英语免修评定
+        icon: exemption
+        path: /guide/course/english/exemption
+
+      - text: 东北师范大学英语水平测试
+        icon: english
+        path: english/DET
+
+      - text: 小语种外语课程
+        icon: more
+        path: english/other
+
+  - tag: list
+    items:
+      - text: Mr.Hope の个人建议
+        icon: idea
+        path: advice

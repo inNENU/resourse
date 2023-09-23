@@ -1,0 +1,29 @@
+title: 博士生申请国际学术会议资助
+icon: apply
+author: Mr.Hope
+time: 2023-09-22T16:59:13.276Z
+shareable: true
+cite: http://my.nenu.edu.cn/hallIndex/showAppDetail?appid=d2c25e42115f430db0be37a3cfb9cd95
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: ol
+    text:
+      - 申请者下载并提交《博士生参加国际学术会议申请表》
+      - 导师推荐、签字
+      - 培养单位审核、主管领导签字
+      - 提交学术学位培养 _ 工作办公室审批
+      - 审批通过后通知申请者按要求参会
+      - 申请者参会结束后持相关票据和总结报告(需有会议证明、会议论文或发言证明等)到学术学位培养工作办公室办理报销事宜
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 东北师范大学博士生参加国际学术会议申请表
+    url: $file/action/doctor-conference-apply.docx
+
+  - tag: doc
+    name: 东北师范大学博士生参加学术会议总结报告
+    url: $file/action/doctor-conference-report.docx

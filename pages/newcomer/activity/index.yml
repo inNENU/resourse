@@ -1,0 +1,63 @@
+title: 开学活动
+icon: activity
+author: Mr.Hope
+time: 2023-09-23T12:11:48.931Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 本科生
+    items:
+      - text: 体检
+        icon: medical-exam
+        path: /newcomer/check/medical-examination
+
+      - text: 英语分班考试
+        icon: english
+        path: /guide/test/grading-exam
+
+      - text: 体测考试
+        desc: 影响毕业
+        icon: basketball
+        path: /guide/test/pe-test/
+
+      - text: 军训
+        desc: 必修
+        icon: military
+        path: military/
+
+      - text: 基地班选拔考试
+        icon: star
+        path: base
+
+      - text: 注册课程
+        desc: 很重要
+        icon: content
+        path: /guide/select/register
+
+      - text: 兵役登记
+        desc: 仅 18 周岁男生
+        icon: military
+        path: conscription/register
+
+      - text: 更多活动
+        desc: 请读我
+        icon: more
+        path: under
+
+  - tag: list
+    header: 研究生
+    items:
+      - text: 体检
+        icon: medical-exam
+        path: /newcomer/check/medical-examination
+
+      - text: 选择导师
+        desc: 请趁早
+        icon: teacher
+        path: choose
+
+      - text: 更多活动
+        desc: 请读我
+        icon: more
+        path: post

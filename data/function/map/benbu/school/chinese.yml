@@ -1,0 +1,27 @@
+title: 文学院
+author: Mr.Hope
+time: 2020-09-01
+photo:
+  - $img/scenery/benbu/school/chinese.jpg
+content:
+  - tag: account
+    name: 文学院
+    logo: $img/media/chinese.png
+    detail: 东北师范大学文学院
+    wxid: dongshiwenyuan
+    account: chinese
+    location:
+      latitude: 43.85947
+      longitude: 125.32917
+    mail: chinese@nenu.edu.cn
+    site: http://chinese.nenu.edu.cn/home
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: /school/chinese/intro
+
+      - text: 招生介绍
+        icon: intro
+        path: /school/chinese/enroll

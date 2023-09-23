@@ -1,0 +1,189 @@
+title: 规章制度
+icon: rule
+grey: true
+author: Mr.Hope
+time: 2023-09-23T11:16:45.538Z
+shareable: true
+content:
+  - tag: list
+    header: 学校章程
+    items:
+      - text: 东北师范大学章程
+        icon: rule
+        path: rule
+
+      - text: 学生管理规定
+        icon: rule
+        path: student
+
+  - tag: list
+    header: 教学相关
+    items:
+      - text: 本科大类招生专业分流工作指导意见
+        icon: flow
+        path: /intro/enroll/class/rule
+
+      - text: 全日制本科生转专业实施办法
+        icon: change
+        path: under-change-major
+
+      - text: 东北师范大学本科学生实验守则
+        icon: experiment
+        path: experiment
+
+      - text: 本科学分制教学管理暂行办法
+        icon: star
+        path: under-teaching
+
+      - text: 东北师范大学本科教育实践工作管理规定
+        icon: teacher
+        path: under-edu-practice
+
+      - text: 东北师范大学本科专业实践工作管理规定
+        icon: teacher
+        path: under-major-practice
+
+      - text: 教育部普通高等学校教材管理办法
+        icon: books
+        path: book
+
+  - tag: list
+    header: 校园管理
+    items:
+      - text: 学生违纪惩处办法
+        icon: rule
+        path: punish
+
+  - tag: list
+    header: 宿舍管理
+    items:
+      - text: 学生公寓管理办法
+        icon: rule
+        path: dorm-manage
+
+      - text: 宿舍分配管理办法 (试行)
+        icon: rule
+        path: dorm-distribution
+
+  - tag: list
+    header: 学籍管理
+    items:
+      - text: 本科学生学籍管理条例
+        icon: rule
+        path: under-school-roll
+
+      - text: 研究生学籍管理规定
+        icon: rule
+        path: post-school-roll
+
+  - tag: list
+    header: 学位管理
+    items:
+      - text: 东北师范大学本硕博一体化拔尖创新人才培养工作试行办法
+        icon: rule
+        path: degree-all
+
+      - text: 东北师范大学本科学生学士学位授予细则
+        desc: 试行
+        icon: rule
+        path: under-degree
+
+      - text: 东北师范大学关于本科荣誉学位管理的指导意见
+        desc: 试行
+        icon: rule
+        path: under-honor-degree
+
+      - text: 中华人民共和国学位条例
+        icon: rule
+        path: degree
+
+      - text: 中华人民共和国学位条例暂行实施办法
+        icon: notice
+        path: degree-method
+
+      - text: 学士学位授权与授予管理办法
+        icon: rule
+        path: bachelor
+
+      - text: 关于深化本科教育教学改革全面提高人才培养质量的意见
+        icon: notice
+        path: under-deep
+
+      - text: 关于加快建设高水平本科教育全面提高人才培养能力的意见
+        icon: notice
+        path: under-up
+
+      - text: 普通高等学校本科专业设置管理规定
+        icon: rule
+        path: under-major
+
+  - tag: list
+    header: 学术
+    items:
+      - text: 东北师范大学研究生国家奖学金评审细则
+        icon: rule
+        path: post-scholarship
+
+      - text: 东北师范大学研究生学术道德规范
+        icon: rule
+        path: academic-ethics
+
+  - tag: list
+    header: 招生
+    items:
+      - text: 本科招生简章
+        icon: plan
+        path: /intro/enroll/under/rule/
+
+      - text: 研究生招生简章
+        icon: plan
+        path: /intro/enroll/grad/rule/
+
+      - text: 第二学士学位招生简章
+        icon: plan
+        path: /intro/enroll/second-degree/
+
+      - text: 普通高等学校招生体检工作指导意见
+        icon: rule
+        path: body-exam
+
+  - tag: list
+    header: 考试
+    items:
+      - text: 普通高等学校招生违规行为处理暂行办法
+        icon: rule
+        path: enroll-obey
+
+      - text: 国家教育考试违规处理办法
+        icon: rule
+        path: national-exam-obey
+
+  - tag: list
+    header: 征兵
+    items:
+      - text: 征兵工作条例
+        icon: rule
+        path: official-conscription
+
+      - text: 东师征兵工作实施细则
+        icon: rule
+        path: conscription
+
+      - text: 中华人民共和国兵役法
+        icon: politics
+        path: solder
+
+      - text: 中华人民共和国国防法
+        icon: politics
+        path: defense
+
+  - tag: list
+    header: 辅导员
+    items:
+      - text: 普通高等学校辅导员队伍建设规定
+        icon: rule
+        path: counselor
+
+      - text: 高等学校辅导员职业能力标准
+        icon: rule
+        path: counselor-standard

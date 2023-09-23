@@ -1,0 +1,40 @@
+title: 净月临时售卖点
+icon: shop
+author: Mr.Hope
+time: 2023-09-23T10:52:59.527Z
+shareable: true
+content:
+  - tag: title
+    text: 临时售卖点
+
+  - tag: text
+    text:
+      - 学校在二食堂南侧搭建了帐篷，安放了临时售卖点，以满足新生的采购需要。
+
+  - tag: img
+    src: $img/shop/jingyue-temp1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/shop/jingyue-temp2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/shop/jingyue-temp3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/shop/jingyue-temp4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/shop/jingyue-temp5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/shop/jingyue-temp6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/shop/jingyue-temp7.jpg
+    watermark: true

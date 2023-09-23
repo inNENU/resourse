@@ -1,0 +1,36 @@
+title: 企业微信号
+icon: wechat
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.270Z
+shareable: true
+content:
+  - tag: list
+    header: 开始使用
+    items:
+      - text: 企业号介绍
+        icon: about
+        path: intro
+
+      - text: 企业号认证
+        icon: authorize
+        path: authorize
+
+      - text: 更换微信与手机号
+        icon: change
+        path: change
+
+  - tag: list
+    header: 功能
+    items:
+      - text: 校园卡充值
+        icon: card
+        path: /guide/card/charge/wechat
+
+      - text: 校园网充值
+        icon: network
+        path: /guide/network/charge/wechat
+
+  - tag: img
+    src: $img/account/wechat-follow.png
+    desc: 企业微信二维码

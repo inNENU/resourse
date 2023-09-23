@@ -1,0 +1,37 @@
+title: 教务处人员信息
+icon: jwc
+author: Mr.Hope
+time: 2023-09-22T15:38:33.099Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 教务处处长人员信息
+        path: leader
+
+      - text: 综合办公室
+        path: complex
+
+      - text: 教学建设与改革办公室
+        path: construct
+
+      - text: 教学运行管理办公室
+        path: run
+
+      - text: 学籍管理办公室
+        path: roll
+
+      - text: 教学质量管理办公室
+        path: quality
+
+      - text: 教学质量管理办公室
+        path: innovate
+
+      - text: 本科生招生办公室
+        path: enroll
+
+      - text: 净月教务管理办公室
+        path: jingyue
+
+      - text: 经济管理实验教学中心
+        path: economy

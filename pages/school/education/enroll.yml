@@ -1,0 +1,94 @@
+title: 教育学部招生
+desc: 研究生招生信息来自研究生院
+time: 2023-08-22T04:50:16.326Z
+shareable: true
+content:
+  - tag: title
+    text: 本科招生概况
+
+  - tag: p
+    text: |-
+      教育学部自 1951 年开始招收培养本科生。2023 年，学部招生专业/类包括: 教育学类、学前教育 (公费师范)、小学教育 (公费师范)，全部是国家级一流本科专业建设点。
+
+  - tag: list
+    header: 专业详情
+    items:
+      - text: 教育学类
+        path: class
+
+      - text: 小学教育(公费师范)
+        path: primary-normal
+
+      - text: 学前教育(公费师范)
+        path: before-normal
+
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 教育学类
+        path: into/class
+
+      - text: 小学教育专业 (公费师范)
+        path: into/primary
+
+      - text: 学前教育专业 (公费师范)
+        path: into/before
+
+  - tag: doc
+    name: 教育学部学前教育专业人才培养方案
+    url: $file/course-plan/education/before-school.docx
+
+  - tag: doc
+    name: 教育学部学前教育(公费师范)专业人才培养方案
+    url: $file/course-plan/education/before-school-normal.docx
+
+  - tag: doc
+    name: 教育学部小学教育专业人才培养方案
+    url: $file/course-plan/education/primary.docx
+
+  - tag: doc
+    name: 教育学部小学教育(公费师范)专业人才培养方案
+    url: $file/course-plan/education/primary-normal.docx
+
+  - tag: doc
+    name: 教育学部教育学专业人才培养方案
+    url: $file/course-plan/education/education.docx
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 松高芝兰 教育诗篇
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/F/40/B3/9F9AB244ECB4AF264F5774132C7_75BE73FC_2A1CB2BF.mp4?e=.mp4
+
+  - tag: title
+    text: 本科招生咨询电话
+
+  - tag: phone
+    fName: 王老师
+    num: 0431-85098033
+    org: 东北师范大学教育学部
+    title: 本科教务秘书
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024
+    mail: fed@nenu.edu.cn
+
+  - tag: title
+    text: 硕士研究生招生概况
+
+  - tag: action
+    header: 查询地址
+    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+
+  - tag: phone
+    header: 硕士研究生招生咨询电话
+    fName: 建光
+    lName: 肖
+    num: 0431-85098033
+    org: 东北师范大学教育学部
+    title: 硕士研究生招生负责人
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024
+    mail: xiaojg074@nenu.edu.cn

@@ -1,0 +1,41 @@
+title: 账户
+icon: account
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.244Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    heading: 统一身份认证
+    text:
+      - 学校为每个人分配了一个统一身份，这个身份就是您的邮箱账号和密码。
+      - 无论您登录校园网、进入内网查看通知、查看是否欠书未还、查看校园卡余额以及消费记录、进入选课平台、访问 BB 平台、通过教学服务系统查成绩查课表等等，各种与信息查询提交的有关的操作都需要这个统一身份。
+      - 更多详情详见“统一身份认证”
+    path: authorize/
+
+  - tag: list
+    header: 校园邮箱
+    items:
+      - text: 邮箱介绍
+        icon: intro
+        path: mail/intro
+
+      - text: 邮箱客户端设置
+        icon: email
+        path: mail/client
+
+  - tag: list
+    header: 企业微信
+    items:
+      - text: 企业号介绍
+        icon: wechat
+        path: wechat/intro
+
+      - text: 企业号认证
+        icon: authorize
+        path: wechat/authorize
+
+      - text: 手机号更改
+        icon: phone
+        path: wechat/change

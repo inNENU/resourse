@@ -1,0 +1,109 @@
+title: NCRE 考试大纲
+icon: rule
+author: Mr.Hope
+time: 2023-09-23T08:04:54.168Z
+shareable: true
+content:
+  - tag: title
+    text: 一级
+
+  - tag: doc
+    name: 一级计算机基础及 WPS Office 应用考试大纲 (2022 年版)
+    url: $file/ncre/2022-1-1.pdf
+
+  - tag: doc
+    name: 一级计算机基础及 MS Office 应用考试大纲 (2022 年版)
+    url: $file/ncre/2022-1-2.pdf
+
+  - tag: doc
+    name: 一级计算机基础及 Photoshop 应用考试大纲 (2022 年版)
+    url: $file/ncre/2022-1-3.pdf
+
+  - tag: doc
+    name: 一级网络安全素质教育考试大纲 (2022 年版)
+    url: $file/ncre/2022-1-4.pdf
+
+  - tag: title
+    text: 二级
+
+  - tag: doc
+    name: 二级公共基础知识考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-1.pdf
+
+  - tag: doc
+    name: 二级 C 语言程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-2.pdf
+
+  - tag: doc
+    name: 二级 Java 语言程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-3.pdf
+
+  - tag: doc
+    name: 二级 Access 数据库程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-4.pdf
+
+  - tag: doc
+    name: 二级 C++ 语言程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-5.pdf
+
+  - tag: doc
+    name: 二级 MySQL 数据库程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-6.pdf
+
+  - tag: doc
+    name: 二级 Web 程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-7.pdf
+
+  - tag: doc
+    name: 二级 MS Office 高级应用与设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-8.pdf
+
+  - tag: doc
+    name: 二级 Python 语言程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-9.pdf
+
+  - tag: doc
+    name: 二级 WPS Office 高级应用与设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-10.pdf
+
+  - tag: doc
+    name: 二级 openGauss 数据库程序设计考试大纲 (2022 年版)
+    url: $file/ncre/2022-2-11.pdf
+
+  - tag: title
+    text: 三级
+
+  - tag: doc
+    name: 三级网络技术考试大纲 (2022 年版)
+    url: $file/ncre/2022-3-1.pdf
+
+  - tag: doc
+    name: 三级数据库技术考试大纲 (2022 年版)
+    url: $file/ncre/2022-3-2.pdf
+
+  - tag: doc
+    name: 三级信息安全技术考试大纲 (2022 年版)
+    url: $file/ncre/2022-3-3.pdf
+
+  - tag: doc
+    name: 三级嵌入式系统开发技术考试大纲 (2022 年版)
+    url: $file/ncre/2022-3-4.pdf
+
+  - tag: title
+    text: 四级
+
+  - tag: doc
+    name: 四级操作系统原理考试大纲 (2022 年版)
+    url: $file/ncre/2022-4-1.pdf
+
+  - tag: doc
+    name: 四级计算机组成与接口考试大纲 (2022 年版)
+    url: $file/ncre/2022-4-2.pdf
+
+  - tag: doc
+    name: 四级计算机网络考试大纲 (2022 年版)
+    url: $file/ncre/2022-4-3.pdf
+
+  - tag: doc
+    name: 四级数据库原理考试大纲 (2022 年版)
+    url: $file/ncre/2022-4-4.pdf

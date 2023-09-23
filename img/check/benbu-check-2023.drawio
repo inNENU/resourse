@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-08-25T18:06:45.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dUUH2B72Dyf1g3T3Dj9T" version="21.6.9" type="device">
+  <diagram id="Ui5sOVj6citz6IWkuLqR" name="第 1 页">
+    <mxGraphModel dx="1744" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="400" background="#A9C4EB" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-6" value="教育学部" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="620" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-7" value="心理学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="710" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-8" value="文学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="800" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-9" value="地理科学学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-10" value="外国语学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="980" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-11" value="马克思主义学部" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-12" value="数学与统计学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-14" value="生命科学学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;总服务台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="50" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-16" value="绿色通道办理处" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="180" y="190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-27" value="2023 年本部摆台示意图" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=48;" parent="1" vertex="1">
+          <mxGeometry x="585" y="20" width="530" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;startSize=10;strokeColor=#000000;strokeWidth=4;jumpSize=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="120" as="sourcePoint" />
+            <mxPoint x="1560" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2yhWJLSUOvCclqhOJnbZ-29" value="南" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="60" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vsQ8-shH1Kgp3DYNfaAP-1" value="化学学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sZBy2OHGM0dHQLzSxyM-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;校医院&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sZBy2OHGM0dHQLzSxyM-23" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;家长休息区&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sZBy2OHGM0dHQLzSxyM-24" value="历史文化学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="890" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sZBy2OHGM0dHQLzSxyM-25" value="物理学院" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-sZBy2OHGM0dHQLzSxyM-26" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;作者: Mr.Hope&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="360" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

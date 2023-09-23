@@ -1,0 +1,52 @@
+title: 政法学院
+author: Mr.Hope
+time: 2020-09-01
+content:
+  - tag: account
+    name: 政法学院
+    logo: $img/media/politics.png
+    detail: 东北师范大学政法学院
+    wxid: lovezhengfa
+
+    account: politics
+    location:
+      latitude: 43.82714
+      longitude: 125.42598
+    site: https://zf.nenu.edu.cn/
+
+  - tag: title
+    text: 简介
+
+  - tag: list
+    header: false
+    items:
+      - text: 学院简介
+        icon: about
+        path: /school/politics/intro
+
+      - text: 专业
+        icon: intro
+        path: /school/politics/enroll
+
+  - tag: title
+    text: 学科建设
+
+  - tag: text
+    text:
+      - |-
+        政法学院共有三个一级学科: 政治学、法学和公共管理
+
+  - tag: list
+    header: 详情
+    items:
+      - text: 学科建设
+        path: /school/politics/subject
+
+      - text: 政治学
+        path: /school/politics/politic-subject
+
+      - text: 法学
+        path: /school/politics/law-subject
+
+      - text: 公共管理
+        path: /school/politics/manage-subject

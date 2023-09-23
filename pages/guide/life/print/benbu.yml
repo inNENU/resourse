@@ -1,0 +1,120 @@
+title: 本部打印复印
+icon: print
+author: Mr.Hope
+time: 2023-09-23T10:52:59.409Z
+shareable: true
+content:
+  - tag: title
+    text: 校内位置
+
+  - tag: ul
+    text:
+      - |-
+        好又快图文店: 浴池正门右侧
+      - |-
+        北苑复印店: 北苑地下一楼南侧
+      - |-
+        云印空间: 北苑地下一楼南侧
+      - |-
+        南苑复印店: 南苑餐厅东门
+      # TODO: 确定名称，照片
+      - |-
+        春辉图文: 图书馆一楼右侧
+      - |-
+        图书馆电子阅览室
+
+  - tag: location
+    title: 本部打印复印
+    points:
+      - latitude: 43.862399
+        longitude: 125.337065
+        name: 好又快图文店
+        detail: 浴池正门右侧
+
+      - latitude: 43.862576
+        longitude: 125.332823
+        name: 北苑复印店
+        detail: 北苑地下一楼南侧
+
+      - latitude: 43.862576
+        longitude: 125.332830
+        name: 云印空间
+        detail: 北苑地下一楼南侧
+
+      - latitude: 43.860107
+        longitude: 125.333552
+        name: 南苑复印店
+        detail: 南苑餐厅东门
+
+      - latitude: 43.861629
+        longitude: 125.328177
+        name: 春辉图文
+        detail: 图书馆一楼右侧
+
+      - latitude: 43.861814
+        longitude: 125.328197
+        name: 图书馆电子阅览室
+
+  - tag: text
+    heading: 好又快图文店
+    text: 位于浴池一楼。
+
+  - tag: img
+    src: $img/bath/benbu-right.jpg
+    desc: 浴池好又快图文店
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/bath-copy.jpg
+    desc: 好又快图文店内照片
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/bath-price.jpg
+    desc: 价格表
+    watermark: true
+
+  - tag: text
+    heading: 北苑复印店
+    text:
+      - 北苑地下一楼、超市南侧
+
+  - tag: img
+    src: $img/life/beiyuan/beiyuan-print.jpg
+    watermark: true
+
+  - tag: text
+    heading: 云印空间
+    text:
+      - 北苑地下一楼、超市南侧
+
+  - tag: img
+    src: $img/life/beiyuan/yunyin.jpg
+    desc: 云印空间
+    watermark: true
+
+  - tag: text
+    heading: 南苑复印店
+    text: 位于南苑东门北侧
+
+  - tag: img
+    src: $img/life/benbu/nanyuan-copy.jpg
+    desc: 南苑复印店
+    watermark: true
+
+  - tag: title
+    text: 校外位置
+
+  - tag: text
+    heading: 东师文昌路数码图文快印
+    text:
+      - |-
+        地址: 东师文昌路小南门东行 30 米绿园餐厅楼上中门二楼
+      - 黑白打印一律 8 分，激光彩色打印 5 角起，个人或拼单 30 元可送货
+      - 可开发票 效果好 速度快
+      - |-
+        营业时间: 7:00 —— 22:30
+      - |-
+        QQ: 2102257311 3279519252
+      - |-
+        手机/微信: 13694307499 13843189514

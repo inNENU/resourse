@@ -1,0 +1,26 @@
+title: 党委宣传部文件
+icon: file
+desc: |-
+  信息来源: 党委宣传部官网
+time: 2023-09-22T15:38:33.334Z
+shareable: true
+cite: https://xcb.nenu.edu.cn/gzzd.htm
+content:
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 东北师范大学二级单位新媒体内容发布审核表
+    url: $file/apartment/publicize-new-media.docx
+
+  - tag: doc
+    name: 东北师范大学“东师新闻”内容发布审核表
+    url: $file/apartment/publicize-news.docx
+
+  - tag: doc
+    name: 东北师范大学网络舆情信息表
+    url: $file/apartment/public-opinion-info.docx
+
+  - tag: doc
+    name: 东北师范大学校园宣传内容审批表
+    url: $file/apartment/publicize.docx

@@ -1,0 +1,50 @@
+title: 校园邮箱
+icon: email
+grey: true
+author: Mr.Hope
+time: 2023-09-23T12:19:59.575Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    heading: 校园邮箱
+    text:
+      - 学校允许每名同学申请一个终身有效的校园邮箱，以 "@nenu.edu.cn" 后缀结尾。
+
+  - tag: list
+    items:
+      - text: 邮箱介绍
+        icon: email
+        path: intro
+
+      - text: 邮箱申请
+        icon: apply
+        path: apply
+
+      - text: 邮箱账号获取
+        icon: register
+        path: get
+
+  - tag: list
+    header: 客户端设置
+    items:
+      - text: 安卓邮箱客户端设置
+        icon: android
+        path: android
+
+      - text: iOS 邮箱客户端设置
+        icon: apple
+        path: ios
+
+      - text: Windows 邮箱客户端设置
+        icon: windows
+        path: windows
+
+      - text: macOS 邮箱客户端设置
+        icon: apple
+        path: macos
+
+  - tag: img
+    src: $img/account/emailAdvance.png
+    desc: 邮件客户端高级设置
+    watermark: true

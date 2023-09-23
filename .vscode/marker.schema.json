@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "$defs": {
+    "location": {
+      "type": "object",
+      "properties": {
+        "longitude": {
+          "description": "经度",
+          "type": "number"
+        },
+        "latitude": {
+          "description": "纬度",
+          "type": "number"
+        },
+        "name": {
+          "description": "点位名称",
+          "type": "string"
+        },
+        "detail": {
+          "description": "点位详情文字",
+          "type": "string"
+        },
+        "path": {
+          "description": "地点详情路径",
+          "type": "string"
+        }
+      },
+      "required": ["name", "longitude", "latitude"],
+      "additionalProperties": false
+    },
+    "category-data": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "分类名称",
+          "type": "string"
+        },
+        "content": {
+          "description": "分类点位",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/location"
+          }
+        }
+      },
+      "required": ["name", "content"],
+      "additionalProperties": false
+    }
+  },
+  "propertyNames": {
+    "type": "string",
+    "description": "分类名称"
+  },
+  "patternProperties": {
+    "^.+$": {
+      "description": "分类数据",
+      "$ref": "#/$defs/category-data"
+    }
+  },
+  "type": "object"
+}

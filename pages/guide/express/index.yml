@@ -1,0 +1,47 @@
+title: 快递
+icon: express
+author: Mr.Hope
+time: 2023-09-23T08:04:54.198Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 提示
+    items:
+      - text: 新生邮寄快递提示
+        icon: idea
+        path: tip
+
+  - tag: list
+    header: 本部
+    items:
+      - text: 快递介绍
+        icon: about
+        path: benbu-intro
+
+      - text: 菜鸟驿站
+        icon: cainiao
+        path: benbu-cainiao
+
+      - text: 快递柜
+        icon: express-cabinet
+        path: benbu-cabinet
+
+      - text: 地下车库取件点
+        icon: express
+        path: benbu-garage
+
+  - tag: list
+    header: 净月
+    items:
+      - text: 快递介绍
+        icon: about
+        path: jingyue-intro
+
+      - text: 菜鸟驿站
+        icon: cainiao
+        path: jingyue-cainiao
+
+      - text: 临时取件点
+        icon: express
+        path: jingyue-temp

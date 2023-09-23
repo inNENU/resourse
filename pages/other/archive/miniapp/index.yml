@@ -1,0 +1,59 @@
+title: 东师 e 起战疫
+author: Mr.Hope
+time: 2023-09-22T16:59:14.162Z
+grey: true
+shareable: true
+content:
+  - tag: text
+    type: info
+    text: 东师 e 起战疫是由学校外包团队开发的学生健康信息报送小程序，具有居家健康报送、在校健康汇报、出入校审批等功能。
+
+  - tag: list
+    header: false
+    items:
+      - text: 小程序介绍
+        icon: intro
+        path: intro
+
+      - text: 小程序登录
+        icon: account
+        path: login
+
+  - tag: list
+    header: 返校相关
+    items:
+      - text: 每日健康打卡介绍
+        icon: check
+        path: check
+
+      - text: 返校健康码
+        icon: code
+        path: code
+
+  - tag: list
+    header: 在校相关
+    items:
+      - text: 在校健康检测
+        icon: plan
+        path: report
+
+      - text: 出校申请
+        icon: exit
+        path: exit
+
+      - text: 返校申请
+        icon: enter
+        path: return
+
+  - tag: title
+    text: 国家政务平台
+    env:
+      - wx
+
+  - tag: card
+    title: 核酸检测查询
+    options:
+      appId: wx2eec5fb00157a603
+      path: fangkongfuwu/pages/kths/index
+    env:
+      - wx

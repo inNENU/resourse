@@ -1,0 +1,18 @@
+title: 钱包金额查看
+icon: money
+author: Mr.Hope
+time: 2023-09-22T16:59:13.413Z
+shareable: true
+content:
+  - tag: title
+    text: 钱包金额查看
+
+  - tag: img
+    src: $img/bath/personal-center.jpg
+    desc: 点击个人中心
+    watermark: true
+
+  - tag: img
+    src: $img/bath/wallet.jpg
+    desc: 个人中心页面会显示钱包余额
+    watermark: true

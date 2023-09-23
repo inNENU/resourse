@@ -1,0 +1,20 @@
+title: 党委宣传部
+icon: league
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.337Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 党委宣传部介绍
+        icon: about
+        path: intro
+
+      - text: 规章制度
+        icon: rule
+        path: rule
+
+      - text: 相关文件
+        icon: file
+        path: file

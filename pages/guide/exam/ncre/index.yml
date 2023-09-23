@@ -1,0 +1,55 @@
+title: NCRE
+icon: pc
+author: Mr.Hope
+time: 2023-09-23T08:04:54.161Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 2023 年时间安排
+        icon: time
+        path: time
+
+  - tag: list
+    items:
+      - text: NCRE 介绍
+        icon: intro
+        path: intro
+
+      - text: 考试报名
+        icon: apply
+        path: apply
+
+      - text: 考试大纲
+        icon: rule
+        path: outline
+
+      - text: 环境安装
+        icon: install
+        path: env
+
+      - text: 成绩说明
+        icon: score
+        path: grade
+
+  - tag: list
+    header: 各等级详情
+    items:
+      - text: 计算机二级
+        icon: pc
+        path: ncre2
+
+      - text: 计算机三级
+        icon: pc
+        path: ncre3
+
+      - text: 计算机四级
+        icon: pc
+        path: ncre4
+
+  - tag: list
+    items:
+      - text: 常见问题
+        icon: faq
+        path: faq

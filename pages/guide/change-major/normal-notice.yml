@@ -1,0 +1,35 @@
+title: 关于 2023 年非师范生转为公费师范生工作的通知
+icon: notice
+shareable: true
+cite:
+  - https://m.nenu.edu.cn/page/viewNews?ID=993002c4a43a420cb8e337ee7005c900
+content:
+  - tag: list
+    items:
+      - text: 通知详情
+        icon: notice
+        url: notice-detail?id=993002c4a43a420cb8e337ee7005c900&title=关于2023年非师范生转为公费师范生工作的通知
+
+  - tag: action
+    header: 教学服务系统
+    content: https://webvpn.nenu.edu.cn/
+
+  - tag: title
+    text: 可选专业
+
+  - tag: ul
+    text:
+      - 地理科学学院	地理科学 (公费师范) 	广西	1人	2022级
+      - 外国语学院	英语 (公费师范) 	广东	1人	2021级
+      - 外国语学院	英语 (公费师范) 	广西	1人	2021级
+
+  - tag: list
+    header: 相关政策
+    items:
+      - text: 教育部直属师范大学师范生公费教育实施办法
+        icon: rule
+        path: /guide/normal/normal
+
+  - tag: doc
+    name: 2022 年转入公费师范专业可选列表
+    url: $file/change-major/2022-normal-in.docx

@@ -1,0 +1,124 @@
+title: 馆际互借
+icon: borrow
+desc: |-
+  信息来源: 图书馆官网
+shareable: true
+time: 2023-09-22T15:38:33.218Z
+cite:
+  - http://www.library.nenu.edu.cn/page/87308/show?leftNavId=2995406&pageId=0&wfwfid=21248&websiteId=0
+content:
+  - tag: title
+    text: 服务介绍
+
+  - tag: text
+    text: 在版权许可的范围内，为本校读者提供我馆未收藏图书的原书或复制件。
+
+  - tag: action
+    header: 系统地址
+    content: http://ill.calis.edu.cn/reader/index.html?tenant=a000618
+
+  - tag: title
+    text: 服务流程
+
+  - tag: text
+    heading: 注册
+    text:
+      - 请点击馆际互借与文献传递系统读者端进行注册，工作人员会在注册信息提交成功后的 1-2 个工作日内完成审核。
+
+  - tag: ol
+    type: tip
+    text:
+      - 推荐使用谷歌或火狐浏览器，如果使用360浏览器，请使用极速模式；
+      - 登录账号为读者的校园一卡通卡号，初始密码与卡号相同；
+      - 请正确填写电话号码及常用电子邮箱，并确保有效；
+
+  - tag: text
+    heading: 提交申请
+    text:
+      - 登录馆际互借与文献传递系统读者端提交馆际借书申请 (可以通过联合目录检索自动生成表单，也可以手动填写表单) ，工作人员会在3个工作日内进行处理。
+
+  - tag: action
+    header: CALIS 联合目录检索系统
+    content: http://opac.calis.edu.cn/opac/simpleSearch.do
+
+  - tag: action
+    header: 国家图书馆目录查询系统
+    content: http://opac.nlc.cn/F
+
+  - tag: action
+    header: 上海图书馆目录检索系统
+    content: http://ipac.library.sh.cn/ipac20/ipac.jsp?profile=#focus#focus#focus
+
+  - tag: action
+    header: CASHL (开世览文)
+    content: http://www.cashl.edu.cn/
+
+  - tag: ul
+    heading: 获取文献
+    text:
+      - |-
+        纸本文献: 工作人员电话通知读者到馆自取。
+      - |-
+        电子文献: 发送至读者电子邮箱。
+
+  - tag: title
+    text: 收费标准与补贴政策
+
+  - tag: text
+    text: |-
+      图书提供单位向我馆读者提供有偿图书借阅服务，我馆为读者提供费用补贴，政策如下:
+
+  - tag: ol
+    text:
+      - |-
+        国家图书馆: 42元/册，我馆长期向读者提供全额补贴及图书运费；
+      - |-
+        上海图书馆: 28元/册，我馆长期向读者提供全额补贴及图书运费；
+      - |-
+        高校图书馆: 40元/册，我馆长期向读者提供50%补贴及图书运费；
+      - |-
+        图书复制: 0.3元/页-1.3元/页不等+装订费+邮寄费，我馆长期向读者提供50%补贴。
+
+  - tag: text
+    type: tip
+    text: 对于所缴费用我馆可开具本校财务报销的收据。
+
+  - tag: title
+    text: 服务时间与联系方式
+
+  - tag: text
+    heading: 服务时间
+    text:
+      - 周一至周五  上午 8:00-11:30   下午 1:30-5:00
+
+  - tag: text
+    heading: 联系方式
+
+  - tag: phone
+    fName: 静波
+    lName: 许
+    num: 0431-85098516
+    mail: xujb@nenu.edu.cn
+    remark: 本部校区图书馆612室
+
+  - tag: phone
+    fName: 枫
+    lName: 徐
+    num: 0431-85098516
+    mail: xuf872@nenu.edu.cn
+    remark: 本部校区图书馆612室
+
+  - tag: phone
+    fName: 青华
+    lName: 刘
+    num: 0431-84536170
+    mail: liuqh@nenu.edu.cn
+    remark: 净月校区图书馆306室
+
+  - tag: title
+    text: 版权声明
+
+  - tag: ol
+    text:
+      - 读者在使用东北师范大学图书馆文献传递与馆际互借服务所提供的文献时，必须遵循中华人民共和国有关的版权法，仅为个人学习、研究、教学或欣赏之用，不得直接用于以盈利为目的的活动中。
+      - 读者在申请使用文献传递与馆际互借服务时，即被认为接受以上版权要求，并将遵守以上版权要求。

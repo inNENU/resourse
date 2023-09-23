@@ -1,0 +1,63 @@
+title: 学习
+icon: study
+grey: true
+author: Mr.Hope
+time: 2023-09-23T10:52:59.543Z
+shareable: true
+content:
+  - tag: list
+    header: 相关通知
+    items:
+      # TODO: Update 2023-09
+      - text: 2022 年秋季学期补考、缓考与免修通知
+        icon: notice
+        url: notice-detail?id=c251e9fd220744bd829461c995ae4e2f&title=2022年秋季学期补考、缓考与免修通知
+
+      - text: 操作指南
+        path: /guide/system/
+
+  - tag: list
+    header: 日常学习
+    items:
+      - text: 上课时间、地点
+        icon: time
+        path: location-and-time
+
+      - text: 补考
+        icon: change
+        path: make-up
+
+      - text: 缓考
+        icon: time
+        path: aftertake
+
+      - text: 课程免修
+        icon: exemption
+        path: exemption
+
+      - text: 重修
+        icon: reset
+        path: retake
+
+      - text: 学业预警
+        icon: alert
+        path: alert
+
+  - tag: list
+    header: 考核与成绩
+    items:
+      - text: 学分
+        icon: star
+        path: credit
+
+      - text: 成绩认定
+        icon: verify
+        path: verify
+
+      - text: 绩点
+        icon: star
+        path: gpa
+
+      - text: 成绩单与成绩档案
+        icon: score
+        path: grade

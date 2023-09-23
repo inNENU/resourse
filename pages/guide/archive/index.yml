@@ -1,0 +1,62 @@
+title: 档案相关
+icon: archive
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.310Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 档案介绍
+        icon: about
+        path: intro
+
+  - tag: list
+    header: 档案转入
+    items:
+      - text: 本科生档案转入
+        icon: enter
+        path: under-in
+
+      - text: 研究生档案转入
+        icon: enter
+        path: post-in
+
+  - tag: list
+    header: 档案转出
+    items:
+      - text: 毕业档案去向
+        icon: exit
+        path: exit
+
+      - text: 档案派遣
+        icon: dispatch
+        path: dispatch
+
+      - text: 查询档案邮寄情况
+        icon: search
+        path: search
+
+      - text: 暂缓档案
+        icon: postpone
+        path: postpone
+
+      - text: 特殊情况的档案处理
+        icon: alert
+        path: special
+
+      - text: 其他常见问题
+        icon: faq
+        path: faq
+
+      - text: 咨询与联系
+        icon: phone
+        path: contact
+
+  - tag: action
+    header: 毕业生档案转递系统
+    content: http://dsdazd.nenu.edu.cn:8090/nutzfwdbsd/management/login
+
+  - tag: action
+    header: 东师档案集成服务平台
+    content: http://dagfwly.nenu.edu.cn/lyfwpt/login.jsp

@@ -1,0 +1,60 @@
+title: 教务处
+icon: jwc
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.075Z
+shareable: true
+content:
+  - tag: account
+    name: 教务处
+    logo: $img/media/course.png
+    detail: 东北师范大学教务处
+    wxid: gh_6831c1b199d0
+
+    account: course
+    mail: jwc@nenu.edu.cn
+    site: https://jwc.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 教务处介绍
+        icon: about
+        path: intro
+
+      - text: 机构设置
+        icon: apartment
+        path: apartment
+
+      - text: 各学院教务秘书电话
+        icon: jwc
+        path: contact
+
+  - tag: list
+    header: 人员信息
+    items:
+      - text: 教务处处长人员信息
+        path: info/leader
+
+      - text: 综合办公室人员信息
+        path: info/complex
+
+      - text: 教学建设与改革办公室人员信息
+        path: info/construct
+
+      - text: 教学运行管理办公室人员信息
+        path: info/run
+
+      - text: 学籍管理办公室人员信息
+        path: info/roll
+
+      - text: 教学质量管理办公室人员信息
+        path: info/quality
+
+      - text: 教学质量管理办公室人员信息
+        path: info/innovate
+
+      - text: 本科生招生办公室人员信息
+        path: info/enroll
+
+      - text: 净月教务管理办公室人员信息
+        path: info/jingyue

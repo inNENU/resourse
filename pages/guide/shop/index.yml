@@ -1,0 +1,71 @@
+title: 超市
+icon: shop
+author: Mr.Hope
+time: 2023-09-23T10:52:59.523Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: Mr.Hope 的建议
+        icon: idea
+        path: tip
+
+  - tag: title
+    text: 本部
+
+  - tag: text
+    text: 本部校区的主要超市是天猫超市。
+
+  - tag: list
+    header: false
+    items:
+      - text: 天猫超市
+        path: tmall
+
+      - text: 北苑生活区介绍
+        path: /guide/life/beiyuan-district
+
+      - text: 临时购买点
+        path: benbu-temp
+
+      - text: 南苑超市
+        path: nanyuan
+
+  - tag: text
+    heading: 校外超市
+
+  - tag: list
+    header: false
+    items:
+      - text: 本部校外超市
+        path: benbu-out
+
+  - tag: title
+    text: 净月
+
+  - tag: text
+    text: 净月校区的主要超市是京东便利店师大净月店。
+
+  - tag: list
+    header: false
+    items:
+      - text: 京东便利店师大净月店
+        path: jingdong
+
+      - text: 二食堂生活区
+        path: /guide/life/dining2-district
+
+      - text: 水之源超市
+        path: shuizhiyuan
+
+      - text: 净月临时售卖点
+        path: jingyue-temp
+
+  - tag: text
+    heading: 校外超市
+
+  - tag: list
+    header: false
+    items:
+      - text: 净月校外超市
+        path: jingyue-out

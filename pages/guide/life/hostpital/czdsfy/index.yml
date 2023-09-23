@@ -1,0 +1,19 @@
+title: 中医药三院
+icon: hospital
+author: Mr.Hope
+time: 2023-09-23T10:52:59.386Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 医院简介
+        icon: about
+        path: intro
+
+      - text: 楼层导航
+        icon: floor
+        path: floor
+
+      - text: 医院联系方式
+        icon: phone
+        path: contact

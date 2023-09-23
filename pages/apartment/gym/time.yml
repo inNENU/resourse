@@ -1,0 +1,46 @@
+title: 场馆开放时间
+desc: |-
+  信息来源: 综合体育馆官网
+icon: time
+time: 2023-09-22T15:38:33.170Z
+shareable: true
+cite: https://m.nenu.edu.cn/page/viewNews?ID=b5a0337d575f499d95ce03c3b1aac003
+content:
+  - tag: title
+    text: 开放时段
+
+  - tag: ul
+    heading: 星期一至星期五
+    text:
+      - 6:00 - 7:30
+      - 17:30 - 21:00
+
+  - tag: ul
+    heading: 周末、节假日
+    text:
+      - 9:00 - 17:00
+
+  - tag: title
+    text: 开放场馆
+
+  - tag: ul
+    text:
+      - |-
+        本部校区: 综合体育馆、北苑乒乓球馆、健美操馆、篮球馆。
+      - |-
+        净月校区: 篮球馆、乒乓球馆、体育长廊羽毛球 (健身室、瑜伽室) 。
+
+  - tag: title
+    text: 值班电话
+
+  - tag: phone
+    header: 本部
+    num: 0431-85099582
+    fName: 本部场馆值班电话
+    org: 东北师范大学
+
+  - tag: phone
+    header: 净月
+    num: 0431-84636117
+    fName: 净月场馆值班电话
+    org: 东北师范大学

@@ -1,0 +1,90 @@
+title: 信息科学与技术学院招生
+author: Mr.Hope
+time: 2023-08-22T04:50:16.407Z
+shareable: true
+content:
+  - tag: title
+    text: 本科招生概况
+
+  - tag: p
+    text: 信息科学与技术学院设有教育技术学(公费师范)、教育技术学、计算机科学与技术、图书馆学、智能科学与技术、计算机科学与技术(中外合作办学)六个专业，其中教育技术学、计算机科学与技术、图书馆学、智能科学与技术进行大类招生。
+
+  - tag: list
+    header: 专业详情
+    items:
+      - text: 计算机类
+        path: class
+
+      - text: 教育技术学 (公费师范)
+        path: tech-normal
+
+      - text: 计算机科学与技术 (中外合作办学)
+        path: science-cop
+
+  - tag: list
+    header: 准入要求
+    items:
+      - text: 计算机科学与技术
+        path: into/science
+
+      - text: 智能科学与技术
+        path: into/ai
+
+      - text: 教育技术学
+        path: into/tech
+
+      - text: 图书馆学
+        path: into/library
+
+      - text: 教育技术学 (公费师范)
+        path: into/tech-normal
+
+  - tag: doc
+    name: 信息科学与技术学院本科人才培养方案 (2020)
+    url: $file/course-plan/ist/2020.pdf
+
+  - tag: text
+    heading: 相关介绍
+
+  - tag: doc
+    name: 计算机科学与技术专业、教育技术学专业、图书馆学专业和信息资源管理专业课程简介与大纲
+    url: $file/study/ist-kcjj.pdf
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 智能创造 遇见未来
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/A/18/19/1CA7AB30BA1CE91A218AF5ECA05_6232FFFB_2A1C9A5F.mp4?e=.mp4
+
+  - tag: phone
+    fName: 信息科学与技术学院本科招生
+    num: 0431-84536338
+    org: 东北师范大学
+    street: 吉林省长春市净月大街 2555 号
+    postCode: 130117
+    hostNum: 0431-84536331
+    site: https://ist.nenu.edu.cn/
+
+  - tag: title
+    text: 硕士研究生招生概况
+
+  - tag: text
+    text: 信息科学与技术学院下设计算机科学系、教育技术系、信息管理系、软件工程系和大学计算机基础教学与研究中心，设有计算机科学与技术、教育技术学、软件工程、图书馆学和信息资源管理 5 个本科专业，计算机系统结构、计算机应用技术、课程与教学论(计算机)、软件工程、教育技术学、图书馆学、情报学 7 个学术硕士学位授权点，计算机技术、软件工程、现代教育技术和图书情报 4 个专业硕士学位授权点，教育技术学和智能环境分析与规划 2 个博士学位授权点。
+
+  - tag: action
+    header: 查询地址
+    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+
+  - tag: phone
+    header: 硕士研究生招生咨询电话
+    fName: 红岩
+    lName: 王
+    num: 0431-84536338
+    org: 东北师范大学信息科学与技术学院
+    title: 硕士研究生招生负责人
+    street: 吉林省长春市净月大街 2555 号
+    postCode: 130117
+    mail: wanghy668@nenu.edu.cn

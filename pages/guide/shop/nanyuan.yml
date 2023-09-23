@@ -1,0 +1,17 @@
+title: 南苑超市
+icon: shop
+author: Mr.Hope
+time: 2023-09-23T10:52:59.530Z
+shareable: true
+content:
+  - tag: title
+    text: 介绍
+
+  - tag: p
+    text: 南苑 1F 有一个私人开的超市，价格为普通零售价，性质类似于小区食杂店。主要售卖大众食品饮料以及常用生活用品等，东西不全。
+
+  - tag: text
+    type: tip
+    text:
+      - 这个超市主要是辐射校园南部的区域，满足大家简单的购买需求。
+      - 如果需要购买大量物品，建议去天猫超市或者校外超市。

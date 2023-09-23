@@ -1,0 +1,27 @@
+title: Mr.Hope 对学生工作的看法
+grey: true
+author: Mr.Hope
+time: 2022-08-21
+shareable: true
+content:
+  - tag: list
+    header: 学生工作
+    items:
+      - text: 总体介绍
+        icon: intro
+        path: intro
+
+      - text: 学生工作是否必要
+        path: necessity
+
+      - text: 成为学生干部的优劣
+        path: benefit
+
+      - text: 学生干部的要求
+        path: requirement
+
+      - text: 班级年级学生工作介绍
+        path: stage/class
+
+      - text: 团学组织工作介绍
+        path: stage/group

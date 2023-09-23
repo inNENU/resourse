@@ -1,0 +1,21 @@
+title: 信息科学与技术学院准入要求
+time: 2023-07-18T06:35:12.698Z
+shareable: true
+content:
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 计算机科学与技术
+        path: science
+
+      - text: 智能科学与技术
+        path: ai
+
+      - text: 教育技术学
+        path: tech
+
+      - text: 图书馆学
+        path: library
+
+      - text: 教育技术学 (公费师范)
+        path: tech-normal

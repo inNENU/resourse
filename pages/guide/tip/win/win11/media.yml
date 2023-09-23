@@ -1,0 +1,54 @@
+title: Windows 11 启动盘制作
+icon: udisk
+author: Mr.Hope
+time: 2023-09-23T12:20:00.204Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 请准备一个不小于 8 GB 的空 U 盘 (或您确定 U 盘没有有用的内容也可)，并访问下方链接下载并运行媒体制作工具。
+
+  - tag: action
+    header: Windows 11 媒体制作工具
+    content: https://go.microsoft.com/fwlink/?linkid=2156295
+
+  - tag: title
+    text: Windows 11 启动盘制作流程
+
+  - tag: img
+    src: $img/tip/win11-media-1.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-2.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-3.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-4.png
+    desc: 视您使用的 U 盘品牌，其名称可能与图片不符
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-5.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-6.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-7.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-8.png
+    watermark: true
+
+  - tag: img
+    src: $img/tip/win11-media-9.png
+    watermark: true

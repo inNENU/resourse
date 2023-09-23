@@ -1,0 +1,40 @@
+title: 常见网上诈骗
+icon: network
+author: Mr.Hope
+time: 2023-09-23T12:11:49.133Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 针对新生诈骗
+    items:
+      - text: 群聊诈骗
+        icon: qq-group
+        path: group
+
+      - text: 伪装学长学姐
+        icon: elder
+        path: elder
+
+      - text: 伪装官方
+        icon: $img/song/schoolLogo.jpg
+        path: official
+
+      - text: 盗号
+        icon: thief
+        path: account
+
+      - text: 分享屏幕
+        icon: cellphone
+        path: screen
+
+      - text: 电话入会
+        icon: phone
+        path: phone
+
+  - tag: list
+    header: 常见其他诈骗
+    items:
+      - text: |-
+          发送病毒
+          请在电脑和手机上启用杀毒软件，并在运行任何一个文件前，使用它们对文件进行扫描与检查。如报毒请立即删除相关文件。

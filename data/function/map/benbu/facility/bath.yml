@@ -1,0 +1,48 @@
+title: 自由校区学生浴池
+author: Mr.Hope
+time: 2020-09-01
+photo:
+  - $img/bath/benbu-main.jpg
+  - $img/bath/benbu-main-2.jpg
+  - $img/bath/benbu-env.jpg
+  - $img/bath/benbu-outside.jpg
+  - $img/bath/benbu-left.jpg
+  - $img/bath/benbu-right.jpg
+  - $img/bath/benbu-shop3.jpg
+  - $img/bath/benbu-shop4.jpg
+content:
+  - tag: text
+    type: info
+    heading: 简介
+    text:
+      - 由于寝室没有独立卫浴，本部校区均设有公共浴池。学生浴池采用单间洗浴，舒适、便利性、私密、安全。
+      - 浴池同时配备了免费健身房与休息厅，以及便民商家服务。
+
+  - tag: list
+    header: false
+    items:
+      - text: 如何洗浴
+        icon: bath
+        path: /guide/bath/usage
+
+      - text: 本部浴池介绍
+        path: /guide/bath/benbu
+
+  - tag: list
+    header: 浴池账户
+    items:
+      - text: 提供商与计费
+        icon: account
+        path: /guide/bath/account
+
+      - text: 浴池充值
+        icon: charge
+        path: /guide/bath/charge
+
+      - text: 浴池金额查看
+        icon: money
+        path: /guide/bath/money
+
+      - text: 浴池提现
+        icon: change
+        path: /guide/bath/cash

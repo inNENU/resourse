@@ -1,0 +1,35 @@
+title: 东北师范大学 2024 年研究生全国推免与统考招生专业目录
+icon: list
+desc: |-
+  来源: 研究生院官网
+time: 2023-09-23T11:16:45.438Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 关于完整的招生专业、人数以及联系方式，请详见下方链接。
+
+  - tag: list
+    items:
+      - text: 2024 年研究生推免计划
+        icon: content
+        url: enroll-post-plan?recommend=true
+
+      - text: 2024 年研究生招生计划
+        icon: content
+        url: enroll-post-plan
+
+  - tag: text
+    type: tip
+    heading: 统考招生人数
+    text:
+      - 目前，学校暂未i共统考招生人数。学校会在推免工作结束后根据推免工作的实际情况，确定统考招生人数。
+
+  - tag: action
+    header: 查询地址
+    content: https://yzb.nenu.edu.cn/tmp/2024ssml.htm
+
+  - tag: doc
+    name: 2024 年研究生学费及培养校区
+    url: $file/enroll/post-fee-2024.xlsx

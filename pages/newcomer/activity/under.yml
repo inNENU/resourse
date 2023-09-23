@@ -1,0 +1,88 @@
+title: 本科生开学活动
+icon: activity
+author: Mr.Hope
+time: 2023-09-23T12:11:48.940Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 重要活动
+    items:
+      - text: 体检
+        icon: medical-exam
+        path: /newcomer/check/medical-examination
+
+      - text: 英语分班考试
+        icon: english
+        path: /guide/test/grading-exam
+
+      - text: 体测考试
+        icon: basketball
+        path: /guide/test/pe-test/
+
+      - text: 预科分班考试
+        desc: 仅预科生
+        icon: test
+        path: pre-test
+
+      - text: 军训
+        icon: military
+        path: military/
+
+      - text: 兵役登记
+        desc: 仅 18 周岁男生
+        icon: military
+        path: conscription/register
+
+      - text: 注册课程
+        icon: content
+        path: /guide/select/register
+
+  - tag: list
+    header: 其他活动
+    items:
+      - text: 学费缴纳
+        icon: money
+        path: /guide/pay/
+
+      - text: 注册学籍
+        icon: rule
+        path: /guide/system/under/school-roll
+
+      - text: 银行卡办理
+        icon: card
+        path: bank-card
+
+      - text: 保险办理
+        desc: 自愿
+        icon: insurance
+        path: /guide/insurance/
+
+      - text: 火车优惠卡申领
+        icon: train
+        path: train-card
+
+      - text: 献血
+        icon: heart
+        path: blood-donate
+
+      - text: 团学组织纳新宣讲
+        desc: 自己学院安排时间
+
+      - text: 学籍图像采集
+        desc: 好好照
+
+  - tag: list
+    header: 征兵工作
+    items:
+      - text: 征兵工作条例
+        icon: rule
+        path: /intro/rule/official-conscription
+
+      - text: 东师征兵工作实施细则
+        icon: rule
+        path: /intro/rule/conscription
+
+      - text: 参军入伍待遇解释
+        icon: idea
+        path: conscription/explain

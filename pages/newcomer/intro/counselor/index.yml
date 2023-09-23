@@ -1,0 +1,27 @@
+title: 辅导员
+icon: teacher
+author: Mr.Hope
+time: 2023-09-23T12:11:49.085Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 辅导员介绍
+        icon: about
+        path: intro
+
+      - text: 2023 级辅导员大揭秘
+        icon: teacher
+        path: "2023"
+
+  - tag: list
+    header: 相关要求
+    items:
+      - text: 普通高等学校辅导员队伍建设规定
+        icon: rule
+        path: /intro/rule/counselor
+
+      - text: 高等学校辅导员职业能力标准
+        icon: rule
+        path: /intro/rule/counselor-standard

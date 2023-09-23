@@ -1,0 +1,20 @@
+title: 就业法律法规
+icon: politics
+author: Mr.Hope
+time: 2023-09-23T08:04:53.737Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 中华人民共和国劳动法
+        icon: rule
+        path: work
+
+      - text: 中华人民共和国劳动合同法
+        icon: rule
+        path: work-contract
+
+      - text: 中华人民共和国劳动合同法实施条例
+        icon: rule
+        path: work-contract-rule

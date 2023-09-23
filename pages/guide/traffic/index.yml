@@ -1,0 +1,40 @@
+title: 交通出行
+icon: traffic
+author: Mr.Hope
+time: 2023-09-23T10:52:59.652Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 长春站点介绍
+    items:
+      - text: 火车站介绍
+        icon: railway
+        path: station/
+
+      - text: 机场介绍
+        icon: plane
+        path: airport/
+
+  - tag: list
+    header: 交通出行
+    items:
+      - text: 轨道交通出行
+        icon: train
+        path: railway/
+
+      - text: 铁路出行
+        icon: railway
+        path: train/
+
+      - text: 飞机出行
+        icon: plane
+        path: plane/
+
+      - text: 公交出行
+        icon: bus
+        path: bus/
+
+      - text: 本部净月往返
+        icon: change
+        path: switch

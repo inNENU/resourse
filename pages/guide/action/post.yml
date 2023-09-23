@@ -1,0 +1,32 @@
+title: 研究生服务办理
+icon: contact
+author: Mr.Hope
+time: 2023-09-22T16:59:13.284Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 东师日常
+    items:
+      - text: 障碍报修
+        icon: repair
+        path: repair
+
+      - text: 班车激活
+        icon: bus
+        path: bus
+
+  - tag: list
+    header: 学习相关
+    items:
+      - text: 本部图书馆学术沙龙座位预约
+        icon: time
+        path: benbu-salon
+
+      - text: 毕业生图书馆离校手续办理
+        icon: leave
+        path: library-leave
+
+      - text: 博士生申请国际学术会议资助
+        icon: apply
+        path: doctor-conference

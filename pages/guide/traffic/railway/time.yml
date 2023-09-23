@@ -1,0 +1,37 @@
+title: 长春轨道交通运营时间
+icon: time
+desc: 数据来自长春市轨道交通集团有限公司官网
+author: Mr.Hope
+time: 2023-09-23T10:52:59.684Z
+shareable: true
+cite: http://ccqg.com/1hx4
+content:
+  - tag: title
+    text: 地铁 1 号线运营时间
+
+  - tag: img
+    src: $img/traffic/ccqg/subway-1-time.jpg
+
+  - tag: title
+    text: 地铁 2 号线运营时间
+
+  - tag: img
+    src: $img/traffic/ccqg/subway-2-time.jpg
+
+  - tag: title
+    text: 轻轨 3 号线运营时间
+
+  - tag: img
+    src: $img/traffic/ccqg/railway-3-time.jpg
+
+  - tag: title
+    text: 轻轨 4 号线运营时间
+
+  - tag: img
+    src: $img/traffic/ccqg/railway-4-time.jpg
+
+  - tag: title
+    text: 轻轨 8 号线运营时间
+
+  - tag: img
+    src: $img/traffic/ccqg/railway-8-time.png

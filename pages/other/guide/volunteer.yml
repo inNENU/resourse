@@ -1,0 +1,56 @@
+title: in 东师志愿者招募
+author: Mr.Hope
+time: 2023-09-09T15:57:22.698Z
+shareable: true
+content:
+  - tag: title
+    text: 相关背景
+
+  - tag: p
+    text:
+      - in 东师是 Mr.Hope 的个人作品，从未得到学校任何形式的帮助。
+      - 自 2018 年 in 东师上线的 5 年多来，Mr.Hope 一直个人承担 in 东师代码和内容全部的编写和维护工作，并已服务 6 届学子。经多年扩充与维护， in 东师字数现已超过 100 万字。
+      - Mr.Hope 目前在东师就读理论物理硕士生，科研压力较大。Mr.Hope 当前精力已不足以及时更新并维护庞大的 in 东师内容。Mr.Hope 现面向全体在校生招纳志愿者协助 Mr.Hope 更新并维护 in 东师，主要工作是完善或修正 in 东师、摄影、视频制作、资料归纳等。
+
+  - tag: text
+    type: info
+    heading: 特别提示
+    text:
+      - 如果您想要协助 Mr.Hope，您需要放弃贡献内容的全部版权并将其不可撤销的转让给 Mr.Hope 与 in 东师 in 东师，与此同时，Mr.Hope 会要求您保留并同时尊重您贡献内容的署名权。
+
+  - tag: card
+    title: in 东师计划表
+    options:
+      appId: wxd45c635d754dbf59
+      path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH
+    env:
+      - wx
+
+  - tag: action
+    header: 计划列表
+    content: https://docs.qq.com/sheet/DYnJRZ2RpenJ3WGFH
+    env:
+      - app
+      - qq
+
+  - tag: text
+    type: tip
+    text: 如果您有意帮助 Mr.Hope，欢迎通过 in 东师渠道内联系我。
+
+  - tag: functional-list
+    header: 联系方式
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

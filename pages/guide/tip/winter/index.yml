@@ -1,0 +1,20 @@
+title: 过冬提示
+icon: snowman
+author: Mr.Hope
+time: 2023-09-23T10:52:59.649Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 冬季御寒衣物选择
+        icon: life
+        path: cloth
+
+      - text: 冬季衣物选购贴士
+        icon: money
+        path: buy
+
+      - text: 保暖要领
+        icon: idea
+        path: warm

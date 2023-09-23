@@ -1,0 +1,36 @@
+title: 国家疫情防控政策
+icon: virus
+time: 2023-09-23T11:16:45.503Z
+shareable: true
+cite: http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml
+content:
+  - tag: title
+    text: 最新方案
+
+  - tag: doc
+    name: 新型冠状病毒肺炎防控方案 (第十版)
+    url: $file/epidemic/covid-19-10th.pdf
+
+  - tag: title
+    text: 相关公文
+
+  - tag: list
+    header: false
+    items:
+      - text: 解读第十版方案
+        icon: explain
+        path: explain
+
+  - tag: list
+    items:
+      - text: 新二十条
+        icon: intro
+        path: 20notice
+
+      - text: 新十条
+        icon: intro
+        path: 10notice
+
+      - text: 新十条方案常见问题
+        icon: faq
+        path: 10notice-faq

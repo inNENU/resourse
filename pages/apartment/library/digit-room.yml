@@ -1,0 +1,74 @@
+title: 电子阅览室
+icon: pc
+author: Mr.Hope
+time: 2023-09-22T15:38:33.220Z
+shareable: true
+cite:
+  - http://www.library.nenu.edu.cn/page/87872/show?leftNavId=3001792&pageId=0&wfwfid=21248&websiteId=0
+content:
+  - tag: title
+    text: 介绍
+
+  - tag: text
+    text: 两校区图书馆均设有电子阅览室，既保障了读者电脑设备使用高峰期的需求，又让读者有了全新的自习体验。每个阅览席配套电源插座、USB取电口、电脑及5G网络。每台电脑内置“云学院”，可用于组织各类型信息化学习活动。读者登录电脑后，首页会显示学习画像，向读者揭示其课内外学习进度、学习分析、预警、资源利用、学习轨迹等内容，为读者自主学习能力养成提供引导及数据可视化支持。
+
+  - tag: title
+    text: 位置
+
+  - tag: text
+    heading: 本部
+    text: 本部图书馆电子阅览室位于 213 室(二楼南侧 B 区)，共有 128 个“自习阅览/电子阅览”两用阅览席。
+
+  - tag: text
+    heading: 净月
+    text: 净月图书馆电子阅览室位于 318 室(三楼 C 区)，共有 123 个机位。
+
+  - tag: title
+    text: 上机方式
+
+  - tag: ol
+    text:
+      - 进门处刷卡上机
+      - 选定座位
+      - 统一认证登录
+      - 开始使用
+      - 退出统一认证
+      - 进门处刷卡下机
+
+  # TODO: 检查
+  # - tag: text
+  #   heading: 账号
+  #   text: 电子阅览室的默认账号和密码均为学号。
+
+  - tag: title
+    text: 计费
+
+  - tag: text
+    heading: 免费上机时长
+    text:
+      - 每个人每学年有 60 学时的免费上机时间，一学时为 45 分钟。
+
+  # TODO: 完善
+  - tag: ul
+    heading: 充值
+    text:
+      - 在圈存机处充值。
+      - 东北师范大学企业公众号——东师图书馆——我的圕——费用结算
+
+  - tag: title
+    text: 其他服务
+
+  - tag: text
+    heading: 打印
+    text: 电子阅览室可以打印黑白的文档，打印十分便宜。
+
+  - tag: text
+    type: note
+    text: 打印费用只能在自费机时中扣除。
+
+  - tag: text
+    type: tip
+    heading: Mr.Hope の提示
+    text:
+      - 电子阅览室的使用时间是完全由刷卡上下机时间决定的，而不是您实际电脑的使用时间，所以使用完电子阅览室后请务必不要忘记刷卡下机。
+      - 电子阅览室的免费机时是按照学年计算的，也就是每年免费 45 小时。

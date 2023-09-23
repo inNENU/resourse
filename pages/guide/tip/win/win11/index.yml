@@ -1,0 +1,32 @@
+title: Windows 11 贴士
+icon: idea
+author: Mr.Hope
+time: 2023-09-23T12:20:00.199Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: Windows 11 支持的设备
+        icon: support
+        path: support
+
+      - text: 如何升级 Windows 11
+        icon: upgrade
+        path: upgrade
+
+      - text: 制作 Windows 11 启动盘
+        icon: udisk
+        path: media
+
+      - text: 从 Windows 11 启动盘启动
+        icon: play
+        path: ../reinstall/usb-boot
+
+      - text: Windows 11 启动盘安装指引
+        icon: install
+        path: install
+
+      - text: Windows 11 用户向导指引
+        icon: idea
+        path: setup

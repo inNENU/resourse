@@ -1,0 +1,23 @@
+title: 政治学类介绍
+author: Mr.Hope
+time: 2022-08-21
+shareable: true
+content:
+  - tag: title
+    text: 专业简介
+
+  - tag: p
+    text:
+      - 为普通类专业。学生入学半年后依据专业成绩和个人意愿分为政治学与行政学、国际政治和行政管理三个专业。
+
+  - tag: list
+    header: 专业介绍
+    items:
+      - text: 政治学与行政学
+        path: politics
+
+      - text: 国际政治
+        path: international
+
+      - text: 行政管理
+        path: manage

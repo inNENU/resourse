@@ -1,0 +1,21 @@
+title: 转专业公示名单
+icon: plan
+author: Mr.Hope
+time: 2023-09-22T16:59:13.452Z
+shareable: true
+content:
+  - tag: text
+    type: note
+    text: 以下仅供热门专业、人数的参考。
+
+  - tag: doc
+    name: 2022 年转专业公示名单
+    url: $file/change-major/2022.xlsx
+
+  - tag: doc
+    name: 2021 年转专业公示名单
+    url: $file/change-major/2021.xlsx
+
+  - tag: doc
+    name: 2020 年转专业公示名单
+    url: $file/change-major/2020.xlsx

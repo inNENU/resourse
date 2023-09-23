@@ -1,0 +1,75 @@
+title: 手机使用缴费系统缴费
+icon: mobile
+author: Mr.Hope
+time: 2023-09-23T10:52:59.487Z
+shareable: true
+content:
+  - tag: title
+    text: 缴费方式
+
+  - tag: text
+    text:
+      - 新生可通过校园缴费平台自行线上缴费。请使用微信或支付宝扫描下方二维码。
+
+  - tag: img
+    src: $img/pay/qrcode.png
+
+  - tag: title
+    text: 登录方式
+
+  - tag: img
+    src: $img/pay/mobile-login.jpg
+
+  - tag: ul
+    heading: 校内用户登录
+    text:
+      - 请选择“本校师生”。
+      - 默认账号和密码同统一身份认证账号和密码。
+
+  - tag: list
+    header: false
+    items:
+      - text: 统一身份认证
+        icon: account
+        path: /guide/account/authorize/
+
+  - tag: text
+    type: tip
+    text: 首次登录时会要求填写接收发票的邮箱和手机，请准确填写自己正在使用的号码，并输入收到的短信验证码。
+
+  - tag: text
+    heading: 校外用户登录
+    text: 学校会给校外用户发送 “缴费支付码”，校外用户通过收到的“缴费支付码”登录平台。
+
+  - tag: text
+    type: info
+    heading: Mr.Hope の 提示
+    text: 校外用户是指需要向学校缴纳其他费用的其他人员。并不是校内访问和校外访问的区分。您在校外也可以访问该系统。
+
+  - tag: title
+    text: 缴费方式
+
+  - tag: img
+    src: $img/pay/mobile-interface.jpg
+
+  - tag: ul
+    text: 选择需要缴费的项目并进行缴费。
+
+  - tag: text
+    type: tip
+    heading: Mr.Hope の 提示
+    text: 每笔缴费最高为 1 万元，如果您的学费超过了 1 万元，请您分批缴费(选择部分缴费)。
+
+  - tag: ul
+    text: 之后选择合适的支付方式进行支付
+
+  - tag: img
+    src: $img/pay/mobile-select.jpg
+
+  - tag: phone
+    header: 咨询电话
+    fName: 财务处管理科
+    num: 0431-85099359
+    org: 东北师范大学
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024

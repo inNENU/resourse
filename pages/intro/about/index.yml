@@ -1,0 +1,56 @@
+title: 学校概况
+icon: about
+grey: true
+author: Mr.Hope
+time: 2023-09-23T11:16:45.410Z
+shareable: true
+content:
+  - tag: list
+    header: 学校介绍
+    items:
+      - text: 学校介绍
+        icon: about
+        path: intro
+
+      - text: 学校定位
+        icon: locate
+        path: locate
+
+      - text: 学校标识
+        icon: activity
+        path: sign
+
+      - text: 学校校史
+        icon: history
+        path: history
+
+      - text: 校情统计
+        icon: data
+        path: data
+
+      - text: 领导机构
+        icon: leader
+        path: leader
+
+  - tag: list
+    header: 东师实力
+    items:
+      - text: 师资队伍
+        icon: teacher
+        path: teacher/intro
+
+      - text: 杰出人才
+        icon: star
+        path: teacher/talent
+
+      - text: 学科建设
+        icon: content
+        path: ../subject/
+
+      - text: 对外合作办学
+        icon: cooperate
+        path: cooperate
+
+  - tag: action
+    header: 信息公开网
+    content: https://publish.nenu.edu.cn

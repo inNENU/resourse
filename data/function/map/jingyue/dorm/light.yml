@@ -1,0 +1,11 @@
+title: 光华公寓
+photo:
+  - $img/scenery/jingyue/dorm/light1.jpg
+  - $img/scenery/jingyue/dorm/light2.jpg
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text:
+      - 男生宿舍楼，分 A、B 两栋，楼高 6 层。主要入住传媒科学学院、经济与管理学院、美术学院、外国语学院、信息科学与技术学院和音乐学院的本科生。

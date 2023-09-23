@@ -1,0 +1,39 @@
+title: 生活贴士
+author: Mr.Hope
+time: 2023-09-23T10:52:59.578Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 洗衣相关
+    items:
+      - text: 衣物标签介绍
+        icon: tag
+        path: washing/tag
+
+      - text: 常见洗涤剂
+        icon: washing-room
+        path: washing/detergent
+
+      - text: 洗涤的选择
+        icon: select
+        path: washing/choose
+
+      - text: 手洗技巧
+        icon: idea
+        path: washing/hand
+
+      - text: 机洗技巧
+        icon: washer
+        path: washing/machine
+
+  - tag: list
+    header: 过冬贴士
+    items:
+      - text: 冬季御寒衣物选择
+        icon: life
+        path: winter/cloth
+
+      - text: 保暖要领
+        icon: idea
+        path: winter/warm

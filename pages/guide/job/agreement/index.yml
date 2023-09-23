@@ -1,0 +1,38 @@
+title: 就业协议
+icon: rule
+author: Mr.Hope
+time: 2023-09-23T08:04:54.232Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 签约协议
+    items:
+      - text: 就业协议书介绍
+        icon: about
+        desc: 三方协议
+        path: intro
+
+      - text: 就业协议签订指南
+        icon: idea
+        path: instruction
+
+      - text: 签订注意事项
+        icon: alert
+        path: attention
+
+      - text: 协议丢失
+        icon: lost
+        path: lost
+
+      - text: 违约
+        icon: ban
+        path: break-contract
+
+      - text: 考研待取就业
+        icon: study
+        path: postgraduate
+
+      - text: 常见问题
+        icon: faq
+        path: faq

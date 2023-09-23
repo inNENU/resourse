@@ -1,0 +1,28 @@
+title: 本科补办学生证
+icon: lost
+author: Mr.Hope
+time: 2023-09-22T16:59:13.302Z
+shareable: true
+content:
+  - tag: text
+    text: 请通过本科教学服务系统进行办理。
+
+  - tag: action
+    header: 校内
+    content: http://dsjx.nenu.edu.cn/ggxx/xj/xs_zjbl_list.jsp
+
+  - tag: action
+    header: 校外
+    content: https://dsjx.webvpn.nenu.edu.cn/ggxx/xj/xs_zjbl_list.jsp
+
+  - tag: title
+    text: 收费标准
+
+  - tag: text
+    text: 学生证补办收取工本费 15 元；学生证更换需持旧证，收取工本费 5 元。
+
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: $img/action/get-student-id.jpg

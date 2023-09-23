@@ -1,0 +1,38 @@
+title: 入学教育课程介绍
+icon: about
+author: Mr.Hope
+time: 2023-09-23T12:11:49.140Z
+shareable: true
+content:
+  - tag: title
+    text: 介绍
+
+  - tag: text
+    type: info
+    text:
+      - 为帮助 2023 级新生理解东师文化、感悟东师精神，顺利完成“新东师人”的用色转变，同时尽快适应并合理规划大学生活，时刻牢记新时代青年的使命担当与责任，学校设计了内容丰富、形式多样的菜单式入学教育网络课程。
+
+  - tag: title
+    text: 要求
+
+  - tag: p
+    text: 每位新生同学都必须加入此课程并完成课程学习、考试与作业互评。
+
+  - tag: text
+    type: warning
+    text:
+      - 未能及时完成入学教育课程学习的新生，可在报到后联系所在学院(部)辅导员，于报到后三周内完成课程学习及考试。
+
+  - tag: title
+    text: 注意事项
+
+  - tag: text
+    heading: 校方认证
+    text:
+      - 预科生、第二学士学位学生的信息没有录入，无法完成校方认证。
+      - 如您遇到认证问题，请致电学生处
+
+  - tag: phone
+    num: 0431-85099937
+    fName: 学生处
+    org: 东北师范大学

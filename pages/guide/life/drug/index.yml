@@ -1,0 +1,13 @@
+title: 药店
+icon: drug
+author: Mr.Hope
+time: 2023-09-23T10:52:59.362Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 本部
+        desc: 暂无药店
+
+      - text: 净月
+        path: jingyue

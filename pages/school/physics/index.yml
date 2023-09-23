@@ -1,0 +1,44 @@
+title: 物理学院
+author: Mr.Hope
+time: 2023-09-05T02:41:08.846Z
+shareable: true
+content:
+  - tag: account
+    name: 物理学院
+    logo: $img/media/phy.jpg
+    detail: 东北师范大学物理学院
+    wxid: nenuphy
+
+    account: phy
+    location:
+      latitude: 43.86133
+      longitude: 125.33095
+    site: http://www.phy.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: intro
+
+      - text: 专业介绍
+        icon: intro
+        path: enroll
+
+  - tag: list
+    header: 优秀毕业生建议
+    items:
+      - text: 顾卓成
+        desc: 公费师范
+        icon: idea
+        path: /newcomer/advice/physics/gu
+
+      - text: 张歌扬
+        desc: 物理学
+        icon: idea
+        path: /newcomer/advice/physics/zhang
+
+      - text: 张哲
+        desc: 材料物理
+        icon: idea
+        path: /newcomer/advice/physics/zhe

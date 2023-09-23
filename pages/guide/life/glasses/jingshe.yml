@@ -1,0 +1,86 @@
+title: 镜舍眼镜店
+icon: glasses
+author: Mr.Hope
+time: 2023-09-23T10:52:59.370Z
+shareable: true
+content:
+  - tag: title
+    text: 店铺位置
+
+  - tag: text
+    text:
+      - 位于浴池一楼正门内。
+      - 您需要走进浴池正门，即可在右面看到镜舍的店门。
+
+  - tag: img
+    src: $img/life/benbu/jingshe-location.jpg
+    desc: 镜舍位置
+    watermark: true
+
+  - tag: title
+    text: 店铺环境
+
+  - tag: text
+    text:
+      - 镜舍店内很有生活情趣，被老板布置的非常温馨。老板也是一个很温柔的人。
+
+  - tag: img
+    src: $img/life/benbu/jingshe-env-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/jingshe-env-2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/jingshe-env-3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/jingshe-env-4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/jingshe-gift.jpg
+    watermark: true
+
+  - tag: text
+    heading: 营业时间
+    text:
+      - 11:00🕚 - 21:30🕤
+
+  - tag: text
+    heading: 店铺服务
+    text:
+      - 镜舍内提供非常全面的镜架以及镜片，基本涵盖不同价位。
+
+  - tag: text
+    type: info
+    heading: 镜架
+    text:
+      - 超轻钛架、网红大框、时尚金属镜架等。
+
+  - tag: text
+    type: info
+    heading: 镜片
+    text:
+      - 镜舍提供明月镜片、韩国凯米、韩国大明、法国依视路等知名品牌镜片；类别上提供专业防蓝光防辐射镜片、变色片、超薄镜片等。
+
+  - tag: text
+    type: tip
+    heading: 免费服务
+    text:
+      - 每一位来店里同学均可享受免费验光、免费调换小零件、免费修理、免费清洗、免费调整镜架变形等服务。
+
+  - tag: text
+    type: info
+    heading: 店主寄语
+    text: 尊敬的会员您好!欢迎惠顾镜舍眼镜店，本店免费清洗、维修、配件、免费验光、免费眼镜布。本店经营超轻钛架、网红大框、时尚金属镜架等。明月镜片，韩国凯米，韩国大明，法国依视路等知名品牌镜片。专业防蓝光防辐射镜片，变色片，超薄镜片等。会员活动定期更新欢迎到店咨询。祝您学业有成、事事顺利、天天好心情!
+
+  - tag: text
+    type: tip
+    heading: Mr.Hope 的推荐
+    text:
+      - 老板人真的超级好，无论您的眼镜是否购买自店内，只要您找到他，他都会非常热心的帮助您修理、清洗、调整镜架变形，而且在绝大多数情况下这些都是完全免费的。(少数零件需要收费)
+      - 而且您只要在店里空闲的时候来验光，老板都会热情的帮您。
+      - 所以本部的同学们如果在校内因为视力下降、是眼镜严重损坏或是款式等需求想要更换眼镜，Mr.Hope 强烈推荐您去这家店看看!

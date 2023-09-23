@@ -1,0 +1,75 @@
+title: 一食堂一楼北侧档口
+icon: dining
+desc: |-
+  特别鸣谢浅浅笙歌提供相关照片
+author: Mr.Hope
+time: 2023-09-22T16:59:13.572Z
+shareable: true
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text: 一食堂一楼北侧共有 11 家档口。
+
+  - tag: ul
+    heading: 从西到东
+    text:
+      - 重庆鸡公煲
+      - 哈尔滨水饺
+      - 食全食美
+      - 田蜀记川香味
+      - 小锅猪肚鸡
+      - 老北京鸡肉卷饼
+      - 盛月轩鸡排饭
+      - 吉祥牛肉面/粉
+      - 杂粮煎饼
+      - 老长沙米粉
+      - 小姑娘冰激凌
+
+  - tag: title
+    text: 相关菜品与价格
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail7.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail8.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail9.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail10.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/1f-north-detail11.jpg
+    watermark: true

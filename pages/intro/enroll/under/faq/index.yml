@@ -1,0 +1,16 @@
+title: 本科招生常见问题
+icon: faq
+author: Mr.Hope
+time: 2023-09-23T11:16:45.467Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 报考相关
+        icon: apply
+        path: apply
+
+      - text: 录取相关
+        icon: letter
+        path: admission

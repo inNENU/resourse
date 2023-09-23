@@ -1,0 +1,29 @@
+title: 东师服务
+icon: contact
+grey: true
+content:
+  - tag: grid
+    items:
+      - text: 学费缴纳
+        color: olive
+        name: Pay
+        icon: money
+        path: pay/
+
+      - text: 保险
+        color: blue
+        name: Insurance
+        icon: insurance
+        path: insurance/
+
+      - text: 规章制度
+        color: orange
+        name: Rule
+        icon: rule
+        path: /intro/rule/
+
+      - text: 常见服务
+        color: mauve
+        name: Service
+        icon: service
+        path: action/

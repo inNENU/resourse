@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "$defs": {
+    "wx-account": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "账号名称",
+          "type": "string"
+        },
+        "desc": {
+          "description": "账号描述",
+          "type": "string"
+        },
+        "logo": {
+          "description": "账户图标",
+          "type": "string",
+          "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
+        },
+        "path": {
+          "description": "账户页面名称",
+          "type": "string"
+        }
+      },
+      "required": ["name", "desc", "logo", "path"],
+      "additionalProperties": false
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "分类名称"
+      },
+      "account": {
+        "type": "array",
+        "items": {
+          "$ref": "#/$defs/wx-account"
+        }
+      }
+    }
+  }
+}

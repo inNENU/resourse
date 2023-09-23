@@ -1,0 +1,68 @@
+title: 各类物品
+icon: necessity
+author: Mr.Hope
+time: 2023-09-23T12:11:49.096Z
+grey: true
+shareable: true
+content:
+  - tag: p
+    type: note
+    text: 以下物品可以自己带到学校，也可以在适应期内慢慢补足。此物品清单仅作参考! 并不是每个人都需要买。
+
+  - tag: text
+    type: tip
+    text: 标记 “*” 的意味着校内超市有售
+
+  - tag: list
+    header: false
+    items:
+      - text: 校内外超市
+        icon: shop
+        path: /guide/shop/
+
+  - tag: list
+    header: 物品分类
+    items:
+      - text: 证件材料类
+        icon: id
+        path: material
+
+      - text: 学习用品
+        icon: study
+        path: study
+
+      - text: 生活用品
+        icon: life
+        path: life
+
+      - text: 洗护用品类
+        icon: washing
+        path: washing
+
+      - text: 其他工具类
+        icon: repair
+        path: tool
+
+      - text: 饮食相关类
+        icon: dining
+        path: food
+
+      - text: 寝室神器类
+        icon: star
+        path: artifact
+
+      - text: 数码产品类
+        icon: digital
+        path: digital
+
+  - tag: list
+    items:
+      - text: 寝室违禁物品
+        icon: ban
+        path: /guide/dorm/ban
+
+  - tag: list
+    items:
+      - text: Mr.Hope 的建议
+        icon: idea
+        path: advice

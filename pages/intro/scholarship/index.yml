@@ -1,0 +1,39 @@
+title: 奖学金
+icon: metal
+grey: true
+author: Mr.Hope
+time: 2023-09-23T11:16:45.575Z
+shareable: true
+content:
+  - tag: list
+    header: 本科生
+    items:
+      - text: 本科生奖学金介绍
+        icon: metal
+        path: under
+
+      - text: 本科奖学金评审说明
+        icon: about
+        path: explain
+
+  - tag: list
+    header: 研究生
+    items:
+      - text: 研究生奖学金介绍
+        icon: metal
+        path: post
+
+      - text: 2022 - 2023 学年通知
+        icon: notice
+        url: notice-detail?id=453b33b80f4a49668052bdc7c5fd2bd6&title=关于开展2022-2023学年研究生评奖评优工作的通知
+
+  - tag: list
+    header: 奖学金申请
+    items:
+      - text: 奖学金申请
+        icon: apply
+        path: apply
+
+  - tag: doc
+    name: 东北师范大学学生奖励办法
+    url: $file/scholarship/reward.pdf

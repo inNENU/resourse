@@ -1,0 +1,66 @@
+title: 本部志愿服务类社团
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2023-08-31T16:22:59.394Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 东北师范大学国际学生交流协会
+        icon: $img/association/NISA.png
+        path: NISA
+
+      - text: 萤火支教团
+        icon: $img/association/yinghuo.png
+        path: yinghuo
+
+      - text: 绿色动力环保志愿者协会
+        icon: $img/association/green.png
+        path: green
+
+      - text: 志远支教团
+        path: zhiyuan
+
+      - text: 明日乡支教团
+        path: mingri
+
+      - text: 山海之行·黔之行支教团
+        path: shanhai
+
+      - text: 红丝带志愿者协会
+        path: redribbon
+
+      - text: 郭明义爱心团队东北师范大学 “播爱·蒲公英”分队
+        path: dandelion
+
+      - text: 蒙你所爱支教团
+        path: meng
+
+      - text: 风信子社会心理服务社团
+        path: fengxinzi
+
+      - text: 元晖支教团
+        path: yuanhui
+
+      - text: 常春藤环保公益协会
+        desc: 暂无详情
+
+  - tag: functional-list
+    header: 欢迎社团入驻本页面
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

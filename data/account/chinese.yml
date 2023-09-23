@@ -1,0 +1,660 @@
+name: 东师文苑
+detail: 东北师范大学文学院
+desc: 欢迎关注东北师范大学文学院
+id: dongshiwenyuan
+logo: $img/media/chinese.png
+article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTforTbsibW4NAc7H8gyLFB6HLDuRyWH90c17zSFta85EeianmJUJPLZqjY7ApcTJE4NGcHIV5SuZnITw/0?wx_fmt=jpeg
+    title: 文学院举行杨公骥先生、孙常叙先生塑像迁立仪式
+    desc: 文学院隆重举行杨公骥先生、孙常叙先生塑像迁立仪式。
+    url: https://mp.weixin.qq.com/s/ZIu7Lc4BAwkRZMbizGu9RA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrwDcjCOia9Cp9ric9O4ghC6Mb9Curia8jia6hqOadElOAmFxXZTuZ76ib3YcncdEK5Isak4HpYQvoEHbw/0?wx_fmt=jpeg
+    title: 文学院举办“明德杯”新生辩论赛培训会
+    desc: 文学院举办“明德杯”新生辩论赛培训会。
+    url: https://mp.weixin.qq.com/s/1Uue6UyOM62O6Z6c36Tn-g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo45CfyGabc3DN5e7xiauh7TsyMb24WxTI2ictc6gzML4LmKus93CMnkxY1DT1dlfG1Cjju1QDAAohA/0?wx_fmt=jpeg
+    title: 文学青年行动计划 | 文苑师生共赏话剧《猎枪》
+    desc: 文苑师生共度话剧《猎枪》之夜。
+    url: https://mp.weixin.qq.com/s/623AcTi7JP4hN7-HZdDCWQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfq35Ih4a3FUZLKuE2RW0wNV9OCJJkyyKu9iaoowukTq3L3FQHq48mHzMoshNIhQkH8icLw7ME9vxOIg/0?wx_fmt=jpeg
+    title: 体育赛事 | 文学院新生篮球赛圆满落幕
+    desc: 文学院新生篮球赛圆满落幕！
+    url: https://mp.weixin.qq.com/s/de-q8eT8VpF_3AxR4wrp3A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpGvYRND0lREBy0l5PhHwgPNT79UQRtBDoLmu5VHldxwrPTqCp2naNudicmf8b80QMM5DKCNS5jXvg/0?wx_fmt=jpeg
+    title: 我院整理的《孙常叙著作集》出版
+    desc: 我院整理的《孙常叙著作集》出版。
+    url: https://mp.weixin.qq.com/s/xWB2axTs-5hcoZhD1-Ci8A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpGvYRND0lREBy0l5PhHwgP2Z25Ij2lqicmUqmJ9yh0TMoVOetJrxPEmfFsiaIDxuSVGnpIK55F0B7A/0?wx_fmt=jpeg
+    title: 文学院召开2023级学生开学典礼
+    desc: 文学院召开2023级学生开学典礼。
+    url: https://mp.weixin.qq.com/s/_NaO4X-8DMoM6HV701rBNg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpGvYRND0lREBy0l5PhHwgPhgP3x7MmEtm9m7nNDbfJNWR0OKicQn5ia8FOiabAicXLPe4ZFIialkd5l6Q/0?wx_fmt=jpeg
+    title: 文学院2023级新生开学典礼院长王春雨教授致辞
+    desc: 文学院2023级新生开学典礼院长王春雨教授致辞。
+    url: https://mp.weixin.qq.com/s/FaCp8b68HoO6rUy0V8jlxw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpV8St5iaBnmdKzyrLRpR74SFkkcyho61OkcEMDTkBEPbICOorEUsQEngcU6nHtEqe9nTvlUwjKVtQ/0?wx_fmt=jpeg
+    title: 文学院举办“青春的东北 青春的文学——文学名家进校园”活动
+    desc: 文学院举办“青春的东北 青春的文学——文学名家进校园”活动。
+    url: https://mp.weixin.qq.com/s/cv9NrhrbSuNwl1HhkbieCA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrNhFic07IaOy6EempJcjJIj6Sf12CZVZEHTlp4e6Z56JfA6ko3A0t0jNoj8QxW7orgia61dX5txGWA/0?wx_fmt=jpeg
+    title: 重磅 | 中国诗词大会（2024）再次起航！
+    desc: 中国诗词大会（2024）再次起航！
+    url: https://mp.weixin.qq.com/s/ZX2-WRff9TlE5qM-kgQxCg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrVujCwUSe7k9nlXaEAHdUia29wlj5mTIIYKbIzx00hjAHCkbIsguckPbgHT8Hz7tk0a78lezbmrjA/0?wx_fmt=jpeg
+    title: 教师节 | 晨曦细雨育桃李，正声雅音颂师恩
+    desc: 教师节快乐！
+    url: https://mp.weixin.qq.com/s/aNXTLmsjtAFnWXmuwVyRYg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrwJoWAIFVuD5qWkNbFILJcmpbAj3hzMoRktHheXYOvKibqMMEF75icGD2qbulYC7InqBG3SstuwSmQ/0?wx_fmt=jpeg
+    title: 诗韵文苑 | 诗遇二十四节气文化主题活动之白露篇
+    desc: 文苑“迈迈时运，穆穆良朝”——诗遇二十四节气文化主题活动之“白露篇”，邀大家共赏夏至时节之美~
+    url: https://mp.weixin.qq.com/s/3ETWn7qdVZUBQrcOhDrmcA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoLFB9vib5o9iafW1ZP8p5RSbagXvw8jTGFDjNqeu0DoS46fQ349x55n6GibAM2hibTwB7vwmNYjhHo6A/0?wx_fmt=jpeg
+    title: 纳新｜文学院团委、学生会纳新啦
+    desc: 满心欢喜，恰在等你！文学院团委、学生会纳新啦～
+    url: https://mp.weixin.qq.com/s/Yv4jUErzrKuxT4jX12pVbQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoLFB9vib5o9iafW1ZP8p5RSbx1Qq4BAP20S8nADLAtcCEPTPOauQLD2YyUB1J2NlXaMcLiarNicUrUGg/0?wx_fmt=jpeg
+    title: 帮推｜文学院爱心使者团纳新啦
+    desc: 文学院爱心使者团纳新啦！
+    url: https://mp.weixin.qq.com/s/kxFU9cZxyVN1Iui8xtNGvQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrajibTznutpfsoL2opljwib1ibIrd1L4MmywGv3rmPyShqzsXrJsluX1kf0EgFNN6ugHIHvlpuK9HJw/0?wx_fmt=jpeg
+    title: 帮推｜饮风文学社纳新&“百团大战”活动预告：一阵风拍了拍你，并向你投出橄榄枝
+    desc: 饮风文学社招新啦！
+    url: https://mp.weixin.qq.com/s/ylqNVwx-UjGNVuuXKFn8CQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrajibTznutpfsoL2opljwib1dbozwyxLZke6CPcWb1eKj4DW0KrFibgGxtSUAicWaWmf4BqSuOCxFibvg/0?wx_fmt=jpeg
+    title: 帮推丨文学院青马学会纳新：青马起航，青春飞扬
+    desc: 文学院青年马克思主义者学习研究会开始纳新啦！
+    url: https://mp.weixin.qq.com/s/rkuqjsIx-uschHl5E6HmZw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrajibTznutpfsoL2opljwib16sbdJ2QSX3FFLeYVdCp7rg38XzM3lE2HcwPDqQblEFDg4kjnRskMyg/0?wx_fmt=jpeg
+    title: 帮推 | 文苑红烛志愿者协会纳新
+    desc: 文苑红烛纳新啦！快来看看吧！
+    url: https://mp.weixin.qq.com/s/T5HSYm3P_iDVxES5Uz6otw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrVue8HhmlUqSZSiaZTjcq52QLfqb025WOgFUTogIplXt8SRuYMOgPpBTsEdYeiaj4YicxuEYEICcgSQ/0?wx_fmt=jpeg
+    title: 帮推｜“志远”支教团纳新：励志教育，与爱同行
+    desc: “志远”支教团纳新啦！
+    url: https://mp.weixin.qq.com/s/0QWN6Vo04-ghgfK4ukdT-A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrVue8HhmlUqSZSiaZTjcq52Lv7TqstyQbyibevPWDPzqKfibORiaGonflCEJbWsoCboKBVVlv9XTYvow/0?wx_fmt=jpeg
+    title: 帮推｜厚普语文组纳新啦
+    desc: 风里雨里，厚普等你。
+    url: https://mp.weixin.qq.com/s/ru0gWrVkcOerua5wmEPL_Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo4RxwCr2JaOM3vBVfewSejLLVw668HYOzyPPc5ow0BKaAO4lPCqibcMa670y3f1kzSAp9fPicmGmiag/0?wx_fmt=jpeg
+    title: 文苑迎新季 | 萌新来袭，直击现场！
+    desc: 文苑迎新季 | 萌新来袭，直击现场！
+    url: https://mp.weixin.qq.com/s/kbgXC3-oWYPe78Iu9C2jVg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoCYxfxR2ZCpKMB24ldicXf38KDlsTAkog44BodbibpOLlYwTGib2lKoTJ0PzRDKEmD9mEoXzWlmibecA/0?wx_fmt=jpeg
+    title: 文苑迎新季 | NENUer，快来查收你的专属答疑集锦~
+    desc: NENUer，快来查收你的专属答疑集锦~
+    url: https://mp.weixin.qq.com/s/JkGbuuLnjx3H2ZiviZNMSg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqibyeDeyDxuCwKtBzuCAdUOvLothXyeuuibqKxn2awYT3Wia8g1Ll7XlfWRoSWsnYP5fI1q7ic7AkpXw/0?wx_fmt=jpeg
+    title: 诗韵文苑 | 诗遇二十四节气文化主题活动之处暑篇
+    desc: 文苑“迈迈时运，穆穆良朝”——诗遇二十四节气文化主题活动之“处暑篇”，邀大家共同体会处暑时节之美～
+    url: https://mp.weixin.qq.com/s/De6aYgRFKGLeJPQalMq-xA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpNnVgOpkNOku3WwAGnReb8d318stKFu9h5x6UEleMk6rx1EOpuKt4HpibTFjGENPAQt5In3fMqRDw/0?wx_fmt=jpeg
+    title: 暑期社会实践风采展 | 绽放青春勇拼搏 青春聚力正当时
+    desc: 东北师范大学文学院学子于2023年暑期进行了社会实践，多支团队分别开展了\x26quot;推普助力乡村振兴\x26quot;全国大学生暑期社会实践志愿服务活动及“三下乡”社会实践活动。
+    url: https://mp.weixin.qq.com/s/m8TuJmQAx1AtlkQCNkXKwQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfra8b39OxaTLb4sgL0XRwZ9P9wiaNduw8sMTDAad6ibkvyObdzVg2quEyASwSw9FQGU7ljyiaeNlicxLg/0?wx_fmt=jpeg
+    title: 诗韵文苑 | 诗遇二十四节气文化主题活动之立秋篇
+    desc: 文苑“迈迈时运，穆穆良朝”——诗遇二十四节气文化主题活动之“立秋篇”，邀大家共赏立秋时节之美~
+    url: https://mp.weixin.qq.com/s/tAXO6MRjhI2OlxP85UIm_g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr7Cc4S3vtqnSrE0INpvCyXyaeArPOicUUfbk4qibIUWoicH9tqGh62yKOzFvsBOdzDRbprnHALw3ADw/0?wx_fmt=jpeg
+    title: 文学院“诗遇二十四节气”文化主题活动中期小结
+    desc: 文学院“诗遇二十四节气”文化主题活动中期小结。
+    url: https://mp.weixin.qq.com/s/THWC6htYDopB3QmLGbX_Og
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpjJ3FrNzIXO0go4Lgy9Pmb0CqMRP3NvJOpefKcKgicYNynMuzogkcTQOZ1bDPRtkvd8gMMvN3FmkQ/0?wx_fmt=jpeg
+    title: 鲜衣怒马少年时——文学院2022级军训生活落下帷幕
+    desc: 鲜衣怒马少年时——文学院2022级军训生活落下帷幕。
+    url: https://mp.weixin.qq.com/s/oV9L1yk9JNWDwexkdCw1MA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqs4S2aPJiaMbtjTnOmdibwedfb8ibF10JNrutwthu3TkxtPF4v945w58DyeqvjPNXs0giaApUbaQ5bibQ/0?wx_fmt=jpeg
+    title: 中国文艺理论学会2023年理事会暨“新时代文艺理论建构与创新”学术研讨会在我院举行
+    desc: 中国文艺理论学会2023年理事会暨“新时代文艺理论建构与创新”学术研讨会在我院举行。
+    url: https://mp.weixin.qq.com/s/Efrz_lVYGAeLfCTWMm_goA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfp6EyYjvOxvicN0f2oGHtibibX9l0ticWMwhcicdBLDPK8HEk489Ed1lickH3JpxvbdZmhyzzzMRVurMbog/0?wx_fmt=jpeg
+    title: 诗韵文苑 | 诗遇二十四节气文化主题活动之大暑篇
+    desc: 文苑“迈迈时运，穆穆良朝”——诗遇二十四节气文化主题活动之“大暑篇”，邀大家共同体会大暑时节之美。
+    url: https://mp.weixin.qq.com/s/dyB2Vz2DNP-owmH23nnhmw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpZn4A4mCTZpPpljoR62nyxR7ibDONmlyXRSibV9XTgfiaCibLOooxwFraUZuEoicjMr3uACSWWHSYVAQQ/0?wx_fmt=jpeg
+    title: 文学院第四十九届团委、学生会换届选举结果公示
+    desc: 文学院第四十九届团委、学生会换届选举结果公示。
+    url: https://mp.weixin.qq.com/s/Swx6AAXCJwKoWrY59LBFWQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoVPz9uQaibk8mD3j0yrke06ibPvGDSyGLO4KsYg1NCfXuoG5YUibH4gCtOLzv9ZRRvck9ZhysznARHg/0?wx_fmt=jpeg
+    title: 诗韵文苑 | 诗遇二十四节气文化主题活动之小暑篇
+    desc: 文苑“迈迈时运，穆穆良朝”——诗遇二十四节气文化主题活动之“小暑篇”，邀大家共赏小暑时节之美~
+    url: https://mp.weixin.qq.com/s/XqkTivNJk5zxwIR9O493JA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfp5eftPfib6CjgyiaXJvRkslicaeLCpAMeCJj4KU8z3dKqNgy4TDTO8rf47xM97T9O9QJ18V7IwI5jGw/0?wx_fmt=jpeg
+    title: 叮！您有一份诚信考试倡议书需要查收……
+    desc: 诚信考试，从我做起。祝同学们考试顺利！
+    url: https://mp.weixin.qq.com/s/NKXpAvi6uKqYoN8jI7vBdw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrXfU7hyGySDGXXibIdjZvvb7HXgfeR6jHmyTIhzlB6O5XUyXVXsE5AyLTzYldaCic4xINzkbEPojiaw/0?wx_fmt=jpeg
+    title: 文学院组织学生观看话剧《徐娘梦》
+    desc: 文学院组织学生观看话剧《徐娘梦》。
+    url: https://mp.weixin.qq.com/s/HbjMMDw36eVErt2wXHOiwA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrXfU7hyGySDGXXibIdjZvvbrw5uQMic7rsY2ibnzJjoZ1IcbUicicAUjQ9HiaC5U0S8MFTgicHibVdAoWkZQ/0?wx_fmt=jpeg
+    title: 喜报 | 我院两支志愿服务团队入选2023年“推普助力乡村振兴”全国大学生暑期社会实践志愿服务项目
+    desc: 我院两支志愿服务团队入选2023年“推普助力乡村振兴”全国大学生暑期社会实践志愿服务项目。
+    url: https://mp.weixin.qq.com/s/v96Dq6Ae8bahpDeH9Of1Lw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpDSlnchrXiao4d4NklZkUp6VZOoVhIPNdAVKO2DnTGtgia9eeibdxUa2FwrDQ4WR35UULg3h3SsOFEQ/0?wx_fmt=jpeg
+    title: 文学院社团展示风采——缤纷社团展风采，放飞青春绽年华
+    desc: 缤纷社团展风采，放飞青春绽年华!
+    url: https://mp.weixin.qq.com/s/KgXloiA4WDA2uqYN9ZP_FA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqXdCkNIesfYSYp3Wsv5XGPq46IeGoDOTg93xicxbsO3JX4jtZ15iaswE7mgkDkuenvES2JHPGRZShA/0?wx_fmt=jpeg
+    title: 文学院举办2023届学生毕业典礼暨学位授予仪式
+    desc: 6月21日，文学院2023届学生毕业典礼暨学位授予仪式在自由校区新综合楼举行。
+    url: https://mp.weixin.qq.com/s/bSwQA2-0kqmgIEEpMVP1KQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrnDAic5sVa6fia84TeZkEeepxZXLLBJ4aUvYAksRjO0pXpqVMFORmB7xXIB0VtwGUkh6NCNyRRMxCg/0?wx_fmt=jpeg
+    title: 我院2023届“路遥知骥 明志守心”毕业晚会圆满落幕
+    desc: 我院2023届“路遥知骥 明志守心”毕业晚会圆满落幕。
+    url: https://mp.weixin.qq.com/s/-VKLW-148t7eWjsGBv0OtQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqWB09Odewg7dk10lwyUPSeiaM60bPDJIfWqGgib8pvwcoXZFVFXG1CT1HlmOEZ8p7xkEWaN22dWGicA/0?wx_fmt=jpeg
+    title: 文学院承办吉林省首届高师联盟院校诗词大会
+    desc: 文学院承办吉林省首届高师联盟院校诗词大会。
+    url: https://mp.weixin.qq.com/s/DPOFU_8OYgMKgEr3DFszcw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr7NQyA01WPwvqGyOaceOCB66YfVgjvMPp32YQAmjab1sAobb3hjpMZPR7Q0XwVDhmSZK2gORpX1Q/0?wx_fmt=jpeg
+    title: 喜报 | 文苑师生驰骋赛场 魅力绽放青春飞扬
+    desc: 文苑师生驰骋赛场，魅力绽放青春飞扬。
+    url: https://mp.weixin.qq.com/s/WDArE9Na5KDfr3qOy_Ps3A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqB9dt7WtZImkocb3BAglIiakRBd4d9icgTD6M1S4UniblgvPBChJGCovjuS899FNvibhocEIDQQKLyRA/0?wx_fmt=jpeg
+    title: 文学院2023年“锤炼技能亮风采，踔厉奋发向未来”教师技能大赛圆满收官
+    desc: 6月7日，文学院“锤炼技能亮风采，踔厉奋发向未来”教师技能大赛决赛在逸夫楼智慧教室圆满收官。
+    url: https://mp.weixin.qq.com/s/6nAhcmvQ_G7X41chPsYxnw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo0nDRN1N9iaTEnhFVYoNuSgvlfGoPVNGtvblRWDYib5UYAkVzKQEcEfkM9sTpUCVNmyIh3JbwiaAXug/0?wx_fmt=jpeg
+    title: 文学院青马学会开展“马克思主义视域下的消费主义”半月谈活动
+    desc: 文学院青马学会开展“马克思主义视域下的消费主义”半月谈活动。
+    url: https://mp.weixin.qq.com/s/ld08XU1U3B4vmM_xUUjYow
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo8qX7xwiccDIAFYf1wHD5n9dB7SVJagdo6ib6Ibao3QRH7eawkuaoib9LIzRgH8victo6kGJRNy3NJ1w/0?wx_fmt=jpeg
+    title: 文学院举办“文蕴英华”青年干部培训活动
+    desc: 文学院举办“文蕴英华”青年干部培训活动。
+    url: https://mp.weixin.qq.com/s/b60ohL6NMHWpqYFoWLTlEQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoM53hlBGVwlwBj5epyJstjnJYAzy4rsSXvbD380tnzW7jpQ7VicFzMI2V3OR3qENnrZchuufcH7xA/0?wx_fmt=jpeg
+    title: 东北师范大学文学院关于2023级研究生新生团员团组织关系转接的说明
+    desc: 东北师范大学文学院关于2023级研究生新生团员团组织关系转接的说明。
+    url: https://mp.weixin.qq.com/s/k24a9JlUmdeNNxY9r3GWtQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoM53hlBGVwlwBj5epyJstjHdTYnzic5gBY81stcN4vWgjibzbmOKNMdGAvJfiaDxVtSxIbMleVlribxw/0?wx_fmt=jpeg
+    title: 东北师范大学文学院关于2023级研究生新生党员组织关系接转的说明
+    desc: 东北师范大学文学院关于2023级研究生新生党员组织关系接转的说明。
+    url: https://mp.weixin.qq.com/s/JHJMIelZOsXE5pQ9KIRuiQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr7BmbeIoFoy1tmmlH2fwL6062HFiaW7bBX5kUFN2zEicAuyIf01wm4X1ZaJV4OQLR19eS2ZyuHc2eg/0?wx_fmt=jpeg
+    title: 第二十三届“理想与成才”报告团巡回报告会 (文学院专场) 成功举办
+    desc: 第二十三届“理想与成才”报告团巡回报告会在文学院210会议室成功举办。
+    url: https://mp.weixin.qq.com/s/qeoJ0GFUXeWqRj7Kob5Gow
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr7BmbeIoFoy1tmmlH2fwL6AicIR342M5sibSk2pDRJSzjlOMsGOxhXSOic4xclYS16rguCFqvr6ysAw/0?wx_fmt=jpeg
+    title: 喜报 | 文学院学生在全校大学生学习贯彻党的二十大精神知识竞赛中荣获一等奖
+    desc: 文学院学生在全校大学生学习贯彻党的二十大精神知识竞赛中荣获一等奖。
+    url: https://mp.weixin.qq.com/s/_E3c5ZS7K41fxnOmBLZXuQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr7BmbeIoFoy1tmmlH2fwL6hhgwc44mqskoFC37ooyARdmFLJia3n8dF4quB1hQk9dh9HqP03icUxyQ/0?wx_fmt=jpeg
+    title: 寝室风采 | 文学院“达交之星”模范选拔活动圆满落幕
+    desc: “达交之星”模范选拔活动圆满落幕。
+    url: https://mp.weixin.qq.com/s/tXHVppIH7rjoJ3DLvgDskA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqiboj2oKkdsbVfaNibhxaaILxf1zIo8PicszPkW5WeCibfzI27gHAapLXRT9T26dK7sY4JrtQia2TBfyA/0?wx_fmt=jpeg
+    title: 回顾 | 文学院创意写作课程、 “文学青年行动计划”新成果
+    desc: 回顾文学院创意写作课程、 “文学青年行动计划”新成果。
+    url: https://mp.weixin.qq.com/s/UaUQC7g-c8wVbVq_ZKGujw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqG3Bs8R6vb5vmUx2Qm2XCB98hEFZ82hwaP8ORG3Y5q7egZiamNUmHMxamrdxhgIe7GjyxXzx1EAibQ/0?wx_fmt=jpeg
+    title: 文苑学子在“东师杯”五人制足球赛上斩获佳绩
+    desc: 文苑学子在“东师杯”五人制足球赛上斩获佳绩!
+    url: https://mp.weixin.qq.com/s/b6benBCL37eLHhpmNz2ehg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo9P7XdOGCLBFlxfWib3HmiatO6RoxnUsL1TO8wiaK6cYheBRz0NPRM962uIHBFeq3xJ7MyCibMSZf22Q/0?wx_fmt=jpeg
+    title: 吉林省文艺评论基地揭牌仪式暨“新时代新征程吉林文艺高质量繁荣发展”专题研讨会在文学院举办
+    desc: 吉林省文艺评论基地揭牌仪式暨“新时代新征程吉林文艺高质量繁荣发展”专题研讨会在文学院举办。
+    url: https://mp.weixin.qq.com/s/7FE3VH8vR9EiFfk4NY9w_Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpqt8MnZmspe0A87FZOyAWwZZnc3nGvjONiaYAUlMicaXRjE6ib0rghM32duymSDFOnluHZR1MQ5EO1g/0?wx_fmt=jpeg
+    title: 喜报 | 文学院2020级本科生赵路遥获评“长春向上向善好青年”荣誉称号
+    desc: 文学院2020级本科生赵路遥获评“长春向上向善好青年”荣誉称号！
+    url: https://mp.weixin.qq.com/s/fg5JoMzqz8q3AOU27aN_WA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoiaN8Ulu3kYoZ4pFnhoIliaULODdGwLvJD8cYKVqDDZkU7VQOwiaMNqzbpGOhjK7e4brRrEkFHgyOcw/0?wx_fmt=jpeg
+    title: 文学院开展“老少共话二十大，踔厉奋发新征程” 主题座谈会
+    desc: 文学院开展“老少共话二十大，踔厉奋发新征程” 主题座谈会。
+    url: https://mp.weixin.qq.com/s/zl22sF0fvbHfabZ76j-7Dw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpXrhRhtlYN4YsT7OK9VBVHfg0CSOBibwPETUuzZZ2S1JO2joggpualp2uXtzJBEFm8rH7RFSgfMpA/0?wx_fmt=jpeg
+    title: 做传播文学之美的素心人 | 文学院优秀校友曾坤为文学院学生作教师成长主题报告
+    desc: 文学院优秀校友曾坤为文学院学生作教师成长主题报告。
+    url: https://mp.weixin.qq.com/s/GEF8hTivPvoP-3j_de4MjA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoToYL2lRLegqLsAgMLls0tbA9yxPLEkYywkkrqBNIt2gbFib9nCCPJfqzibQh5WKXOj3JffI1C2haQ/0?wx_fmt=jpeg
+    title: 文学院开展学习贯彻习近平新时代中国特色社会主义思想主题教育知识竞赛
+    desc: 文学院开展学习贯彻习近平新时代中国特色社会主义思想主题教育知识竞赛。
+    url: https://mp.weixin.qq.com/s/-aR4xUwk_PRQU9MPWAVZMw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoToYL2lRLegqLsAgMLls0tNxXL2MBugsEI96ebKje937cfT9xFMuS9HdMLIsBUYicooyeZDjP5Tiaw/0?wx_fmt=jpeg
+    title: 文苑合唱团唱响青春之歌
+    desc: 文苑合唱团唱响青春之歌！
+    url: https://mp.weixin.qq.com/s/wonky5JTaM7Qx_1tw9ZwdA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrKDVzPMJeXCGk05vlNyFB0oQU8ia1VrYscBYMan22qaNp2IV3ChVAMnSeEVibgIM43RaKCVeDicxALg/0?wx_fmt=jpeg
+    title: 喜报 | 文学院多名学生在吉林省第十二届大学生运动会中荣获佳绩
+    desc: 文学院多名学生在吉林省第十二届大学生运动会中荣获佳绩！
+    url: https://mp.weixin.qq.com/s/4iv1g51_AfNtAYejPb92-A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr4NGvLbXZqRAhqBHUe4rl7dleAmYMno8KySpTuEibsvWXT3zjyvqQJUGu7fzTpyy0GsOqRICibSOLw/0?wx_fmt=jpeg
+    title: 文学院2023年教师技能大赛开始啦！
+    desc: 文学院2023年教师技能大赛开始啦！
+    url: https://mp.weixin.qq.com/s/Y7VcASz-VmdzCL8e3CSO-w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr4NGvLbXZqRAhqBHUe4rl7ggmUJt8z1WhoOmz685uzTs6RrKWj7oTFEsCP9hba8Z6YvzyZ6ibiaa7A/0?wx_fmt=jpeg
+    title: 我为同学办实事——文学院开展“点亮小小微心愿，传递青春正能量”活动
+    desc: 文学院开展“点亮小小微心愿，传递青春正能量”活动。
+    url: https://mp.weixin.qq.com/s/xO-rK2-G1vQY-yhbmDJpEA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrd7VLBtNOzs7STO3tUbLlKV18vsrjkic8mSkhksqwibRZLUAjKJ15oqMxEax9hFlKlvibwawv7r9icsA/0?wx_fmt=jpeg
+    title: 文学院启动“文学青年行动计划”
+    desc: 文学院启动“文学青年行动计划”。
+    url: https://mp.weixin.qq.com/s/dCsRg1M39eDUenEZBHk7qw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfob8ziavviaXpqoeaC9Enf0UwKKM79IAuEauLAfWRO7jLh0gd24HqHeR2to73SfsCRam8NoSkVvAlsw/0?wx_fmt=jpeg
+    title: 春日迟迟，温情漪漪——文学院第十一届爱心使者团见面会圆满结束
+    desc: 2023年文学院第十一届爱心使者团全体成员见面会圆满结束啦！
+    url: https://mp.weixin.qq.com/s/yhVSksSkQeAtwK085ECp2Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfolVhQRHSyNwrHVTB2aIhpKWlhKe9vAia6IrtIH6orLO8EicOSmSUib1fuL4tuvvS5npTKwtW6xNxdnQ/0?wx_fmt=jpeg
+    title: 文学院学生袁青骋参加吉林省首届“阅读中华 悦动青春”大学生读书节启动仪式
+    desc: 文学院学生袁青骋参加吉林省首届“阅读中华 悦动青春”大学生读书节启动仪式。
+    url: https://mp.weixin.qq.com/s/LnrkB3QQ0_3gkXNMV9VUEw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqF8btNYjB9kbciaic6luQEgAKFUgLBa1aiaAU2noL1jI9AtnPFARvEsZu3crb96zHibmZRAyMicuJj5cQ/0?wx_fmt=jpeg
+    title: 寝室文化节 | 与你相“寓”，一见钟“寝”寝室文化节圆满结束
+    desc: 文学院2023年“与你相‘寓’，一见钟‘寝’”寝室文化节于4月16日圆满结束啦！
+    url: https://mp.weixin.qq.com/s/FRY0U53gY_xJguzuS424YA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfosCjfPqeeMRVGibu16IOsW0Awf3gDxiaBy4MPcLCZ1XnRf11YUVkI7KTrxRj79AicgZNmgd3ofFyicRg/0?wx_fmt=jpeg
+    title: 文学院古文字专长班师生访问郑州大学并开展联合学术考察活动
+    desc: 文学院古文字专长班师生访问郑州大学并开展联合学术考察活动。
+    url: https://mp.weixin.qq.com/s/1L2CaAVP7vL165du3-ZvlA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfosCjfPqeeMRVGibu16IOsW03z5NeQMHnhibm8FLdt605xCLMSZGpjksbyVOYOlYY8iclfQol3BicyHew/0?wx_fmt=jpeg
+    title: 文学院“景明春和 文韵笙歌”迎春晚会圆满落幕
+    desc: 文学院“景明春和 文韵笙歌”迎春晚会圆满落幕！
+    url: https://mp.weixin.qq.com/s/_T0Jg1AslGrFtpJ_LezktA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpUnVcjKggWqYxoFZv51eJRIzmmAIm1wj0RZl7tHiahyicEffbohzC5X2tkqghibcsOyZkEuqv6bOrBw/0?wx_fmt=jpeg
+    title: 文学院青马学会开展“饮水思源 慎终追远”主题教育实践活动
+    desc: 文学院青马学会开展“饮水思源 慎终追远”主题教育实践活动。
+    url: https://mp.weixin.qq.com/s/MtJkIJuK7x1ihdSxobuehw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpUnVcjKggWqYxoFZv51eJRfOg8JJibfTCxYibCIcBlt0fMmoepfI5NQnoTtDN58LBvBibk9lBDVLZtA/0?wx_fmt=jpeg
+    title: 文苑赛事 | 文学院成功举办第十三届“挑战杯”排球赛
+    desc: 文学院成功举办第十三届“挑战杯”排球赛，快来看看文苑学子们的精彩表现！
+    url: https://mp.weixin.qq.com/s/fflBQ2TTzTyq4GvNR5YLww
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqx45O9mAvAQzibVib3Xt3IV325J5t1ibmCrcAQnwGnyATVATQUCsE3TANp6vcg4RZZib1ibQqTss4A1Ww/0?wx_fmt=jpeg
+    title: 喜报 | 文学院学生在“挑战杯”和“互联网+” 创新创业大赛上获佳绩
+    desc: 文学院学生在“挑战杯”和“互联网+” 创新创业大赛上获佳绩！
+    url: https://mp.weixin.qq.com/s/_sdl3OYgme0QtGMSWFtG3w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqx45O9mAvAQzibVib3Xt3IV3ibggSkjwG8XsEp1FogbdzickuYjGiaHKPAF5maOCMtPOl4afwONJx4frw/0?wx_fmt=jpeg
+    title: 寝室文化节 | 与你相“寓”，一见钟“寝”
+    desc: 叮咚叮咚，文学院寝室文化节来敲门啦！
+    url: https://mp.weixin.qq.com/s/7qnI0GnQ37MO7QKo-KaH3w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrwQVciaFdDaDLciaQ1Z64a2GIMVhOuGLlEO7e7hMHibcCUUwYjoyictgYLrovxUKjTWz3UDTOUkhPQNQ/0?wx_fmt=jpeg
+    title: 文学院团委、学生会举办“文蕴青苗”朋辈技能培训大会
+    desc: 文学院“文蕴青苗”朋辈技能培训大会圆满结束！
+    url: https://mp.weixin.qq.com/s/7SmXTm8DcJGMSWhbj-1l7w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrwQVciaFdDaDLciaQ1Z64a2Gc0K3VoXibU621fnKRK5VciboiaDatXfjpste2Y3CxjpJNXnUaGjQfl0RA/0?wx_fmt=jpeg
+    title: 文学院第六届“文昌杯”学术论文大赛圆满收官
+    desc: 文学院第六届“文昌杯”学术论文大赛圆满收官！
+    url: https://mp.weixin.qq.com/s/67At80fZv0QkjA3UADfEGQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpPH9Fxo5fheTIshyJibtcvHF62MHmt1Yx1cammWibFnMWt1GrULgpp1bQMQl7OxbsXMTkAvYXCKibNw/0?wx_fmt=jpeg
+    title: 文学院举办“献礼二十大”之“激扬青春梦，奋进新征程” 主题立项团日活动
+    desc: 文学院“献礼二十大”之激扬青春梦，奋进新征程”主题立项团日活动圆满落幕！
+    url: https://mp.weixin.qq.com/s/8sKYCCY0tXJOlSj_R_UchA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpibicb8jkZt7kOeE1jlCFqC3nTCDnnXkEtkQPjHvbZNFSibc4BLEr7TzInF89cOfJwv3E6zic3q175LQ/0?wx_fmt=jpeg
+    title: 文学院开展“争做新时代雷锋精神传承者” 系列教育活动
+    desc: 传承雷锋精神，争做时代新人。
+    url: https://mp.weixin.qq.com/s/xky8U_iDEqRAZpOe7hm4mg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoVGrXBYiaenxHyyoWX3WaQWnIMQ0icY2eR6mkAiaMGqlHuM4epUVIUibvgr8AHiaPLPYiaSWKMJLst318A/0?wx_fmt=jpeg
+    title: 号外号外！文学院第二届“健君奖学金”评选开始啦！
+    desc: 文学院第二届“健君奖学金”评选开始啦，期待有才华的你！
+    url: https://mp.weixin.qq.com/s/O1VtuKgEBsGsljcLqUny6Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrr39ljF9GhH6HAWszsv747ibpTfwEvIoc8icTbBLS6yEHWbOlbpM5tIe1vGOlmP1WcuzAYqVoZfv4g/0?wx_fmt=jpeg
+    title: 叮咚～文苑的花式考研祝福，请查收！
+    desc: 来自东师文苑的水果祝福语，请注意查收哦！
+    url: https://mp.weixin.qq.com/s/F7D9lG4HQojyJpu8kmvCBg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqGF7hias8w9nN64pzyDpDDpNwZYuTyXk2FpsFbZtwsicpV0dzEba3FdnaTBANMphdpOYBaIkE2aOmw/0?wx_fmt=jpeg
+    title: 文学院举办教育部师范教育协同提质计划东北师范大学组团DM5.地方语言文学学科专业能力提升项目启动会
+    desc: 11月25日，文学院组织召开了教育部师范教育协同提质计划东北师范大学组团DM5.地方语言文学学科专业能力提升项目启动会。
+    url: https://mp.weixin.qq.com/s/v6jOckrZfGzu78hcIgYzlw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfocCa1xzJsibicM16fMDo37L9g3tTTCuoSQnEOSM6l44Pg1A3YyK405NZIib10vrRic8I0WSKClZ5rgmQ/0?wx_fmt=jpeg
+    title: 2022年文学院“华昌杯”新生辩论赛圆满落幕
+    desc: 历时半个多月，文学院2022年“华昌杯”新生辩论赛圆满落幕！
+    url: https://mp.weixin.qq.com/s/vw1XCNJkIwaqbMmg92skZQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo9KWzlwaBicWypxoBdEOO9zq1Sseukniau0uOqeYZ0rzp5C2CQgpGRt2LbFmVbpOV1lRGkUX39RgDQ/0?wx_fmt=jpeg
+    title: 2023年度国创科研本科生项目申报开始啦！
+    desc: 等你来！2023年度国创科研本科生项目申报开始啦！
+    url: https://mp.weixin.qq.com/s/H8yLicrjhG23PujyzRXJNQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr5fWOh4Xmkick3lDeVxtJsicVY8snQPO1XnRFYfzYShpHnk3y8tpIb5swau5ZD0xlzWCHibGV3o5ZOA/0?wx_fmt=jpeg
+    title: 文学院举办首届“健君奖学金”(文学创作类)表彰大会
+    desc: 文学院主办的首届“健君奖学金” (文学创作类) 表彰大会通过线上会议形式举办。
+    url: https://mp.weixin.qq.com/s/FHc9cSClZKmEJ-aaQPPKYQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfq5bKic3FABgQqibGpRT7Ob2vqsf2vUEfrRjj1gEe7qiblPiaMpD72UzTAINtqWUOFfxiaRmTZ2G9PUv8A/0?wx_fmt=jpeg
+    title: “创造的课堂”第二十九届大学生教师技能大赛院级选拔鸣锣开赛啦！
+    desc: “创造的课堂”第二十九届大学生教师技能大赛选拔拉开帷幕！
+    url: https://mp.weixin.qq.com/s/RohETS6qyy8h_EaXv9RN4A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfr7NJoFltJVWDPGs53CbVJPvFpjZB98Oe41zuJaQjR2vHYMDCXgfzVXhtJbpMlBMMky3q6FzBhyJw/0?wx_fmt=jpeg
+    title: 文学院组织师生党员收看党的二十大开幕盛况
+    desc: 文学院采取“线上线下”相结合的方式组织师生党员收看党的二十大开幕盛况。
+    url: https://mp.weixin.qq.com/s/WplgHa0kfGqWKSJNYVS2lQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoy1HibXadNQFG6aGyzkAm7SOGIiaHq0gPvZbXsSVO5ibqibD1xIqLDTPwSCRD31icmib7RXAncLVWbicCQQ/0?wx_fmt=jpeg
+    title: 东北师范大学文学院师资博士后招聘启事
+    desc: 东北师范大学文学院师资博士后招聘启事
+    url: https://mp.weixin.qq.com/s/QhNYOI-5m6yKWkIqGU4Y0Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqllKHFheu5rDkfHcB0YIOTKu2Nml46sHsU2cphQdFpxcR1eq24MPxysN1ALQDbLmpSH8YjDkDqAg/0?wx_fmt=jpeg
+    title: 2022年度东北师范大学“活力社团”风采展示 中华古诗词吟诵团
+    desc: 2022年度东北师范大学“活力社团”风采展示 中华古诗词吟诵团
+    url: https://mp.weixin.qq.com/s/wm9hrPcx-A1g076Tx1TPtg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrSuqvwWI5uPJSgfo1Qg1MFhUh679VRKribVtzEwokxm9aaxmnIjR2Y8UF7j92nxbqDhY2g2RgW2aQ/0?wx_fmt=jpeg
+    title: 【讲述校园里的雕像，致敬院史中的大师】丰碑永存，清芬靡忒——语言文字学家孙常叙
+    desc: 丰碑永存，清芬靡忒——语言文字学家孙常叙。
+    url: https://mp.weixin.qq.com/s/ysxjqp-NOuxT5rfsVUkxUw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrkU8vPP7qDwPM5upXWwRPEas7hknSibhHTa4VxRFLy73wqbbk7zB283lOuOFhiaf76yxsynFxiaz5AA/0?wx_fmt=jpeg
+    title: 【讲述校园里的雕像，致敬院史中的大师】追求真理始终不渝的文史大家杨公骥
+    desc: 追求真理始终不渝的文史大家杨公骥。
+    url: https://mp.weixin.qq.com/s/f0_Wd9RtaTEsC5EUCwM1FQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqnpYkFfNPicibn0pjXgUXncwaV7DGeLbcTTCIAicZXibITrVEsTVP0Px0ArfibJv1qiaLB6cTkXcfRKhug/0?wx_fmt=jpeg
+    title: 文苑迎新季 | 北国秋韵初浓，欢迎你的到来
+    desc: 2022级文苑新生，欢迎你的到来！
+    url: https://mp.weixin.qq.com/s/gdEA7r7x7OPzwNgg6NrTdA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpVRsHRsxj0TLPwSVJicm3U7VYxMDNLzzduDAomwNOEX28XartuhEHyRCC84HdG8JXiagobz5AyBOQQ/0?wx_fmt=jpeg
+    title: 文苑迎新季 | 新生迷惑大解答
+    desc: 小萌新们是不是对校园生活还有许多疑问呀？快进来看看吧，这里也许有你要找的答案哦~
+    url: https://mp.weixin.qq.com/s/BPt8s_CUsRt4hQ7v7NagPA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfp4N1VZcuRnxSzWhcHuB3ibWlIBmxf42wMWBFYqAELVAA2icIricjxUiaQlmfsS7MnJqeg2szwJMBFZ9Q/0?wx_fmt=jpeg
+    title: 文苑迎新季 | 萌新数据大揭秘
+    desc: 快来看看文苑小萌新们的数据大揭秘~
+    url: https://mp.weixin.qq.com/s/VeaBG-fIXANgGWvgsvAROw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfq5LylFLVzrPgGDTE0lhddzB3T57osEbl4fH5lCZ7fhdP4nFiauLROxz9FpIT19ia050jm3HGquI2Kg/0?wx_fmt=jpeg
+    title: 防范诈骗 从我做起
+    desc: 疫情挡住了大家出门的脚步，却阻止不了骗子的处心积虑。如今，电信网络诈骗高发，各位同学更要擦亮眼睛，认清这些诈骗套路！
+    url: https://mp.weixin.qq.com/s/t8bf3dkrjB3TqxFsoyG0JA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_png/kEqMDVjicTfq5LylFLVzrPgGDTE0lhddzTibXAhEjLLDuDe9lfFKfksyGw4cK3aIiaJTmFgVJ3EanfQRzkIEenKnQ/0?wx_fmt=png
+    title: 致文学院2022届毕业生
+    desc: 文学院是你们坚实的后盾和温暖的家园，将永远珍藏你们青春的记忆，凝望你们奋进的身姿，助推你们更快地翱翔。
+    url: https://mp.weixin.qq.com/s/w2n6cuYkLCY6yAczZAuSJw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_png/kEqMDVjicTfqAUN4xaFsuW0YYG8pKgZ0fOJOBu47OyLBEeibH8iazuibCIpaGUdE67v7bS3ib8rVjdKHCKLTXTy9MMw/0?wx_fmt=png
+    title: 阳光心态•疫路成长 | 心理文化节原创作品征集
+    desc: 笔墨下，“文”以聚心；光影间，“艺”起抗疫。
+    url: https://mp.weixin.qq.com/s/hkTdAWe-CqwnK7YLNYrDzQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpraVI3liaPFvSRy8J7HcDtC48DVKY6QDUgchIyV1wWVKksSd4pCTRR4Pcyehd35avtawp5aapibVSg/0?wx_fmt=jpeg
+    title: 文学院第五届“文昌杯”学术论文大赛圆满落幕
+    desc: 北国春天，疫情肆虐，却也挡不住东师文院学子的文思泉涌。
+    url: https://mp.weixin.qq.com/s/Sz43mCWu5L_QoOsSRGcmog
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqtySvLQTRHEia4tJ8yDNZfh3T2grl93ibJykEXGvCzfibtG8JkyVCAWboOBPsmzDemJVLnAQNCt7dmA/0?wx_fmt=jpeg
+    title: 庆祝建团百年，喜迎二十大 | 文苑学子观看庆祝中国共产主义青年团成立100周年大会
+    desc: 庆祝中国共产主义青年团成立100周年大会在北京人民大会堂隆重举行！
+    url: https://mp.weixin.qq.com/s/nOj1eTkGITJKyBO7rJv0DA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrOENcDTZAP6SIjuicE7hXdYibqNOlOA8nlFPN3Y6Rt85ibcYqFcw0k0v06KdzcHoMs6115aOiak7DP1Q/0?wx_fmt=jpeg
+    title: 文苑声音 | “疫隔两念化诗情——师心诗情”第六季收官  你好，春天！
+    desc: “疫隔两念化诗情—师心诗情”第六季收官  你好春天！
+    url: https://mp.weixin.qq.com/s/Aw6usbc2Swx9bjQ_ySjTJQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfp9W6BtTkVqdRMUsvp33woQlg2AEkibjo3qTSm9RWrlJpBg7XZXuxaNqSibgqWuhZmyVkqVeHibXlfwg/0?wx_fmt=jpeg
+    title: 重磅来袭｜文昌讲坛第三季  精彩继续
+    desc: 用学术之光激发理性，用文学之情化育心灵，这是人文学术之责任，更是文苑教师之使命
+    url: https://mp.weixin.qq.com/s/avX_aRQbAcM2wkVBItozhw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfp9W6BtTkVqdRMUsvp33woQWFVaOBic87avPZvtJKa1PXTvpFea4TK4RgstiaibiaeABicZZUKymV2icd6g/0?wx_fmt=jpeg
+    title: 文苑抗疫图鉴
+    desc: 艰难，挡不住战“疫”的步伐；疲惫，挡不住文苑人的坚守；动人的、勇敢的......  不只是被定格的瞬间
+    url: https://mp.weixin.qq.com/s/3-ReukUmLLInxW_-ueLmAw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpVrx3qFossukfmY3Qgt1Hpu3VVqRYekjTakPicYsESpKABaibLE4Ks4TbbO0HWoHrralJKtacCwicNQ/0?wx_fmt=jpeg
+    title: 文苑声音 | “疫隔两念化诗情——师心诗情”第五季如约而至
+    desc: 让我们在经典的诗作里、在师长温暖的声线中，驱散阴霾、安抚心灵、讴歌英雄、鼓舞士气
+    url: https://mp.weixin.qq.com/s/BCNo_MyLPSvHtQGuKQtutA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrGSDvDoeoeloe8PicSM0svc1JEHEMhjemT2jtcrVRicicg7Bg25BYKbw4FY0sIHEibqltaiaOAImQ5HOA/0?wx_fmt=jpeg
+    title: 文苑声音 | “疫隔两念化诗情——师心诗情”第四季惊喜不断
+    desc: 让我们在经典的诗作里、在师长温暖的声线中，驱散阴霾、安抚心灵、讴歌英雄、鼓舞士气。
+    url: https://mp.weixin.qq.com/s/dnUzU1QNWRq0Gz7zpKIkMg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpxnIdeBbDMxvYcY1aONcY79QWiar8XOR1sfgbf6bHbjOhKtlDs0DgPxsFr25sGsv8Rkqanjzom0Rw/0?wx_fmt=jpeg
+    title: 文苑声音 | “诗情化疫应师心——生声传情”特别活动
+    desc: 疫隔两念化诗情，师心诗情；诗情化疫应师心，生声传情
+    url: https://mp.weixin.qq.com/s/BoEEuv89PHOj2TFIdnrNUw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrGSDvDoeoeloe8PicSM0svcqZ0J2l6uUcJnd6GCunYopZgne65XXKvX15iaGqWeIFGRFqcYcAQI9DA/0?wx_fmt=jpeg
+    title: 身静心动 | 健君奖学金又@了你
+    desc: 为了鼓励大家在居寝学习期间深入思考、投入创作，健君奖学金将投稿时间延长至4月末，希望同学们踊跃参与，让这段难忘的日子更加充实，更有收获！
+    url: https://mp.weixin.qq.com/s/nCwykB1XFVxYHLVnqcOpMA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpm7RxSTEQA0gwibZ2PdFRibFzCJtV8GuRrfVm6UEO6jYc0r0kiclcV8VUyCuGRCcAq68sOoN0EYgCYQ/0?wx_fmt=jpeg
+    title: 文苑声音 | “疫隔两念化诗情——师心诗情”第三季精彩继续
+    desc: 文章合为时而著歌诗合为事而作
+    url: https://mp.weixin.qq.com/s/9j7Y4kYkWXnFqSxIbEizGA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqkejb0WL8xyS2gzW1aUKyuG0OQ0vVQo9wQ2WB35TtbzCRjo7beDuVYVlSnZzSf5EWG8ZcVzgclvw/0?wx_fmt=jpeg
+    title: 文苑声音 | “疫隔两念化诗情——师心诗情”第二季与你相约
+    desc: “疫隔两念化诗情——师心诗情”第二季来啦！
+    url: https://mp.weixin.qq.com/s/1-trdFph01XqZZ_-NxXgwg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrsBU2xHbreiaZYkfQgKPzQRDTJJNt4vWedm4DpZzRzHiaw9QjuibIAjK9Mg8LpKY9ncPdjCspNh3jUA/0?wx_fmt=jpeg
+    title: “文昌讲坛”第二季来啦！
+    desc: 文昌讲坛第二季  如约而至！
+    url: https://mp.weixin.qq.com/s/K5eeLC9QrqGrvOAWthQ9og
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfq2LqLmOwWYPprEESdEI5PnWa7CFG6lice8a44c3bZGiayjv1znkOX7vKh0eOOlvbMqBzmI03HNqOLg/0?wx_fmt=jpeg
+    title: 文苑声音 | 疫隔两念化诗情——师心诗情特别活动
+    desc: 让我们在经典的诗作里、在师长温暖的声线中，驱散阴霾、安抚心灵、讴歌英雄、鼓舞士气
+    url: https://mp.weixin.qq.com/s/XWwY12A0QtLmNW5IhnCiHQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqicQBRMnl9LqLhHAnbbAj4MMUOkibyeH8N341LB1SshBoNOBhwS4sJTLWaPcytsfVUeERuvwfdCMicg/0?wx_fmt=jpeg
+    title: 战疫之下|亦动亦静亦温文
+    desc: 青山缭绕疑无路，忽见千帆隐映来。万物复苏必有时，疫去安来春可期。
+    url: https://mp.weixin.qq.com/s/mE_6uY6uJM5ONqb5hrjKVA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfricVvBqNbZ8iaLXjcwX6Elu4Qd9onFOerKNDl0BBTSoMCDWLJAxToh6XYSFGJaEunJIBCffguBttTw/0?wx_fmt=jpeg
+    title: 守望相助，共克时艰｜文学院文昌讲坛系列学术讲座开讲了！
+    desc: 用学术之光激发理性，用文学之情化育心灵，这是人文学术之责任，更是文苑教师之使命。
+    url: https://mp.weixin.qq.com/s/33rN38c-ZOtCZgkY7hStaQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrNibLcjBdNC5coFDs41mgKPyia5OyJjPTWtsZVlagTtnkmeglFdibSHRGmzt0OiaCRTBJiaKMhPELNssg/0?wx_fmt=jpeg
+    title: 致文学院师生的一封信
+    desc: 君不见长松卧壑困风霜，时来屹立扶明堂！
+    url: https://mp.weixin.qq.com/s/kgjkNMW6YidhGkm5w3ilug
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrPeGICSPqDN0aAztqehD2Z8ianYpibnVDZ4DHLhscrxzzPKaHKY9RT42g0BmVPkHCZPw47vRGaic4tw/0?wx_fmt=jpeg
+    title: 寒假不躺平·时间不荒废｜文学院第五届“文昌杯”学术论文大赛来啦！
+    desc: 文学院第五届“文昌杯”学术论文大赛来啦！
+    url: https://mp.weixin.qq.com/s/fb0wFr4mM2cm_OjEen-NKw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrAldWvFsDJQibkj9VCa8sje03ULs7e7tQnoH2hwsiam41WTaCho2YicdlcQqfbCxjrhU6Hh0uIvQnLw/0?wx_fmt=jpeg
+    title: “健君奖学金”拍了拍你
+    desc: 文学院设立“健君奖学金”啦！大家快来看看吧~
+    url: https://mp.weixin.qq.com/s/swKwcS3cuWgwBk1cee8h7g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfp8DxaudiapSGzcHsZybZFadHaWI2hXmIKooRKnCQbMlJFA3f2y5HgDlX2ucJuzyk6gTl38I3nzF2w/0?wx_fmt=jpeg
+    title: 叮！您有一份诚信考试倡议书需要查收……
+    desc: 诚信考试，从我做起。祝同学们考试顺利！
+    url: https://mp.weixin.qq.com/s/MiWB9mUldaLQ685rUxFk2A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqvrMzM1a6a7xC4Dqibicb7vJ2GaFpAHDN0Y4kNicU8MaxsZ4Kica180NELEM8JKW0FcIDxWbVCXicqpRA/0?wx_fmt=jpeg
+    title: 东师优秀习作集结号吹响了！
+    desc: 东师优秀习作集征文开始啦！大家快来参加呀~
+    url: https://mp.weixin.qq.com/s/XWLdYzrbiVa1GoQIXBIODw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpOJp8DtLMnibdn7b1d8p5gJic0cZaIwgkJyJdI9cRVicMicT1mUNepvmS4875El0JSc4Vl2LS0U4iaX4A/0?wx_fmt=jpeg
+    title: 2021年文学院“百年栉风沐雨，初心历久弥坚”主题立项团日活动
+    desc: 东北师范大学文学院2021年“百年栉风沐雨，初心历久弥坚”主题团日活动圆满落幕！大家快来看看吧~
+    url: https://mp.weixin.qq.com/s/ZA5ZZ6-zTcW1TcX4pW6NWA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpt3zhpdwemKZBtPf4AUyHRMhYXicKuTibiaO330SJVb0N8N7hD7rGurMY7wYkzBibiblbcx9195xV6vcA/0?wx_fmt=jpeg
+    title: 寝室文化节 | 宿舍风采展示
+    desc: 文学院宿舍文化节风采展示环节来啦！大家快来看看吧！
+    url: https://mp.weixin.qq.com/s/5K_EkpPqzooxLLRJQG2gQg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpMPicFzQcyuP2eP0E2Smiacj498ibicdIAYtN2wTOo05FJNceRwvjicOFBib2wBtib5dy5sxjweeQicpCic3A/0?wx_fmt=jpeg
+    title: 青·说｜青年学生热议文学院舞台实验剧《冯志远》
+    desc: 让信仰引路，用大爱铸魂。文学院大型舞台实验剧《冯志远》引发强烈反响！大家快来看看吧~
+    url: https://mp.weixin.qq.com/s/ZcsWT9Qy9iPOKSou13vwFw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpuIcrhTZicWkbDtSHVAZCsZVNPOHKqBdXxDrnXoQCHRPdqD9jUoJ6sVlvvTYLyLaGzoH9jxkSCBSA/0?wx_fmt=jpeg
+    title: 文学院与吉林省图书馆签署合作共建协议
+    desc: 共建学术服务高地全面助力学科发展——文学院与吉林省图书馆签署合作共建协议
+    url: https://mp.weixin.qq.com/s/THOlJsHaaOZcjzFLkLvg8A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrEflWBy8bA4zN4ibictVNtKICIMhHnyoChmkuwnibPt7rBWJJ7ibXibibC6WKvfJzJmDASia3OZEjt6eliaA/0?wx_fmt=jpeg
+    title: “文蕴菁华”青年干部培训系列活动首场报告圆满结束！
+    desc: 青年干部培训活动，青春与经验交流，热情与求知碰撞，将一束束希望的光，汇聚成隽永的亮！
+    url: https://mp.weixin.qq.com/s/t91JykYiuju8rp12TdmMeA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqLBKHDkniaxxIoZceeBfwZGPtdju0xuSzteXiaTxbq1B6wXTpApkLlZhtcyic045hicqoI5TTqXC6qQw/0?wx_fmt=jpeg
+    title: 我为同学做件事 | 文学院青年干部培训活动来啦！
+    desc: 青年干部培训活动，青春与经验交流，热情与求知碰撞，将一束束希望的光，汇聚成隽永的亮！
+    url: https://mp.weixin.qq.com/s/iBsKxMfmEpODd2pqjGDg3g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfo8skthspm1tNkGruIF0Q5ODwc79nVXIsWCI9HYWh2EWz76fMKKwbuJqnNVQJ4zz7wwNMAzjJQmsg/0?wx_fmt=jpeg
+    title: 2021年“东师杯”羽毛球赛圆满落幕
+    desc: 激情飞扬，拼搏无畏，文学院再添风采！
+    url: https://mp.weixin.qq.com/s/MBNQihBzM7L20-RwmMYM0A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfounWnnzuvMHhMCBP6v1yx6vdFcaS05EaLYGOZagpApOiaP7eAqXV0IMxIQwRghJuxKgic11Z21I1fw/0?wx_fmt=jpeg
+    title: 文学院大型舞台实验剧《冯志远》圆满成功
+    desc: 让信仰引路，用大爱铸魂。
+    url: https://mp.weixin.qq.com/s/lNdXY19smxv5qYUv2LxAjQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfounWnnzuvMHhMCBP6v1yx6XxRNkX5w7icCOic19FJdTPxiabyHeeMYHiaeffu7MFb9pRN9qtr9xZfpoQ/0?wx_fmt=jpeg
+    title: 寝室文化节暨文学院宿舍安全卫生月活动
+    desc: 寝室文化节暨文学院宿舍安全卫生月活动开始啦，大家快来参加~
+    url: https://mp.weixin.qq.com/s/CL__7kM5vuNxVfCq0xfprA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfounWnnzuvMHhMCBP6v1yx6Gkkz7IUETBNtPhz4GXrthFTmvwAV1vpX0cmQibV38kELUXcVlaaqtew/0?wx_fmt=jpeg
+    title: 安全卫生，健康生活——致文苑学子的倡议书
+    desc: 安全卫生无小事，须臾片刻不可松! 致文苑学子一封信，大家注意查收哦~
+    url: https://mp.weixin.qq.com/s/MUQ0oS0FcLmoHwVpb6D7zA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrh5icWx4EpXNvSqibNSia2hJ3hyakgUicWuTrQmRkricOBMn9MG7hdYWIQc07F617K1CUHfiaugFSRK1rA/0?wx_fmt=jpeg
+    title: 文学院学生会改革情况公示
+    url: https://mp.weixin.qq.com/s/AbV17LKMQ8IoZOee6rk9IQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrh5icWx4EpXNvSqibNSia2hJ3gbibJvTMD4eGDWOXrYXSCT53WibRDD1ia5LlAuDicibUsJXUBuLmu5yEjBg/0?wx_fmt=jpeg
+    title: 文学院研究生会改革情况公示
+    url: https://mp.weixin.qq.com/s/nxbCBe73wTacAHU0uKOrow
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrh5icWx4EpXNvSqibNSia2hJ3VEdMyQYibE2jZyG1QJvfiaxKR9BhlqKgBx3TzOJP69aayGwM7VF1kI4w/0?wx_fmt=jpeg
+    title: 夺冠! 文学院蝉联 2021 年“东师杯”排球赛冠军
+    desc: 2021 年“东师杯”排球赛文学院再夺桂冠!
+    url: https://mp.weixin.qq.com/s/svDjKV1V9G7HV_vlBxISKg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoTG4219WLnic09gJd2kgO2IBDLrr2hTrsjsbt2BUDF1DUtkXJqBrFQ5so62Ek19usLnNFnAOry5Uw/0?wx_fmt=jpeg
+    title: 文学院 2021 级“赤心文才，礼赞青春”迎新晚会完美落幕
+    desc: 文学院 2021 级迎新晚会完美落幕，快来看看吧~
+    url: https://mp.weixin.qq.com/s/pbnVj9wBqUreFrEVJocjqg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoTG4219WLnic09gJd2kgO2IUYYialXHY1pMc2VXoK6cogWzzkvyNSnpQOhe7JaBRfDTyKmcRAqsKlg/0?wx_fmt=jpeg
+    title: “东师杯”乒乓球比赛圆满结束
+    desc: “东师杯”乒乓球比赛圆满结束! 快来看看吧!
+    url: https://mp.weixin.qq.com/s/MdGE02K0LkafJ21fuuI8ew
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqfuovRu4ibmWicW8EB5KK9XzTF6S6qfB7ichzU5k1RGicowEyane0pQfOah6K1p72rO9ttyibsj2KfOMQ/0?wx_fmt=jpeg
+    title: 帮推 | 文学院红小烛第一次全体见面会圆满结束!
+    desc: “金秋秉烛行，静聆雏凤声”——  第二十八届文学院红烛志愿者协会新老成员见面会 圆满结束!
+    url: https://mp.weixin.qq.com/s/f5mhM2t6AzliUePGbxCIzg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpjoy9ZCx9p0icPk9pND7FyJFUbceOZk3ibgYPhRF4v0cxhYnYboiagUHze9jN8wuk8lvj3b2Qv0xribg/0?wx_fmt=jpeg
+    title: 文学院推出首届古文字专长班
+    desc: 文学院推出首届古文字专长班啦~大家快来看看吧!
+    url: https://mp.weixin.qq.com/s/fnZvdlThg1NTmdz6UEhGEw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfpZ7yPQ29kRJw7FmZia2nbzOgx06l9IY6BxX6VBML00lPCgj5wVjzkbEgt9K2ic8S19j8YiauVjUyIEQ/0?wx_fmt=jpeg
+    title: 文学院承办《中国诗词大会》第七季(吉林赛区)面试选拔活动圆满结束
+    desc: 以诗会友，寻古明知。
+    url: https://mp.weixin.qq.com/s/8bbr8PPjvCfOrNd3adzWfA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrN2eTSafVAPAA2JlDl33NHVPd4icW3zHraI4H0BmAic1fpPznnyL97GOq5e9CCGicPrwA8JtSZMwx7g/0?wx_fmt=jpeg
+    title: 文学院“明论杯”新生辩论赛决赛圆满结束
+    desc: 妙辞佳语惊四座，华山论剑决雌雄。
+    url: https://mp.weixin.qq.com/s/Xk1oS_bzecjyzZNu176ZQg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrN2eTSafVAPAA2JlDl33NHFCRAqB0X35S6ZbGSWeLVX5RbicP4VoPib6u1DFFH55iafJibVgk6uevDibw/0?wx_fmt=jpeg
+    title: |-
+      讲座 | 王怀宇: 文学就在我们身边
+    desc: 文学就在我们身边? 快来看看吧!
+    url: https://mp.weixin.qq.com/s/nPymdEcZHt9-rwwTD9qokQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqH02Oh2SuA1ER8DEGeI7iaxXT3SY6lva2jTBO5lWrCxhVugGpJDJgA3HxozEQ3oSQZWI29Vs0WD4A/0?wx_fmt=jpeg
+    title: 我为同学做件事 | 来一场球赛吧，元气马上回来!
+    desc: 秋高气爽，让我们畅快地来一场排球赛吧! 释放压力，增进友谊，在运动中让你的元气马上回来!
+    url: https://mp.weixin.qq.com/s/cjruLyLuPUDey33NB00OHQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrrcCgVd1icC6VshqPswYjjiaxO4l1OicHppibvqjXt5ticF7jia0pvVA27vmL2H9RkAmV4HbfGh042icgoQ/0?wx_fmt=jpeg
+    title: |-
+      帮推 | “志远”支教团纳新: 励志教育，与爱同行
+    desc: “志远”支教团纳新啦! 一起来看~
+    url: https://mp.weixin.qq.com/s/CS9ZA01EPKWTp1amuZnmJw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfqDjaS3ZQ8ARIgZeZfuao7OCOY2Wy95vrNe3xh4RR8WiaULPRGxSFkLF1PK8y7VKA8wmCQrMnXr0DA/0?wx_fmt=jpeg
+    title: 东北师范大学文学院、东北师范大学国家语言文字推广基地与延边州教育学院联合开展实施国家通用语言文字培训活动
+    desc: 东北师范大学文学院、东北师范大学国家语言文字推广基地与延边州教育学院联合开展实施国家通用语言文字培训活动圆满结束! 大家快来看看吧~
+    url: https://mp.weixin.qq.com/s/6p2iKmiy5UJo2T-SlywccQ

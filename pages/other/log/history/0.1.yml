@@ -1,0 +1,93 @@
+title: v0.1 开发日志
+grey: true
+content:
+  - tag: text
+    heading: v0.1
+    text: |-
+      修复了全部已知 bug；
+      缩小了 50 % 的代码包体积
+      修复了以下 bug:
+        修复了 tabBar 文字消失的问题；
+        修复了主题页面文字不能换色的问题；
+        修复夜间模式彩蛋显示不清的问题；
+        修复首页及主题页夜间模式异常的问题；
+      进行了以下优化:
+        对东师指南和功能界面进行夜间模式适配；
+        删除无用代码与注释；
+        统一已编写代码格式；
+        优化 logo 与 nenuyouth 图片大小；
+
+  - tag: text
+    heading: v0.1.1
+    text: |-
+      修复了链接列表文字略偏上的问题；
+      修复了链接列表箭头略偏下的问题；
+      修复 navtitle 动画延后的问题；
+      修复了在某些机型上 navigationBar title 位置错误的问题；
+
+  - tag: text
+    heading: v0.1.2
+    text: |-
+      在 navigationBar 中加入了返回交互动画；
+      尝试适配 iPhone X；
+      优化了界面通信；
+      修复了夜间模式必须重启才可切换的问题；
+
+  - tag: text
+    heading: v0.1.3
+    text: |-
+      重建主题控件，完成了主题切换模式；
+      修复了 tabBar 栏在切换夜间模式后不能变黑的问题；
+      少量错误修复；
+
+  - tag: text
+    heading: v0.1.4
+    text: |-
+      重新编写了滚动动画，优化了 iOS 主题下 navBar 的显示效果；
+      略微减小了 navBar 高度；去除冗余语句；
+      优化了代码包的体积；
+
+  - tag: text
+    heading: v0.1.5
+    text: |-
+      修复了 navB 动画延后的问题，优化滚动动画响应速度；
+      判断基础库版本，过低禁用小程序；
+      修复了 v0.0.1 日志界面不能返回的问题；
+      修复了主题界面的显示问题；
+
+  - tag: text
+    heading: v0.1.6
+    text: |-
+      重新构建小程序；
+      去除冗余语句；
+      大幅减少代码包的体积；
+
+  - tag: text
+    heading: v0.1.7
+    text: "重新新构建界面，使用 wx: for 渲染 template 模板，将页面信息置于 js 的 pageData 中；"
+
+  - tag: text
+    heading: v0.1.8
+    text: |-
+      完全适配 iPhone X；
+      改善了 iOS 样式，完善了与 iOS 原生系统不一致的一些细节；
+
+  - tag: text
+    heading: v0.1.9
+    text: |-
+      大幅改进 iOSList 标签；
+      改进了主题切换逻辑；
+      改变了开关触发器；
+
+  - tag: text
+    heading: v0.1.10
+    text: |-
+      大幅精简 iOShead，通过添加界面传参来优化 page 参数数量；
+      少量代码压缩及故障修复；
+
+  - tag: text
+    heading: v0.1.11
+    text: |-
+      对 iOS 样式进行重新整理与精简；
+      优化了部分函数逻辑，减少渲染时间；
+      数个 bug 修复；

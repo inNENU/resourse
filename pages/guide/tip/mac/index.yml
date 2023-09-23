@@ -1,0 +1,25 @@
+title: Mac 小贴士
+icon: apple
+author: Mr.Hope
+time: 2023-09-23T10:52:59.602Z
+grey: true
+shareable: true
+content:
+  - tag: action
+    header: Mac 使用教程
+    content: https://support.apple.com/zh-cn/guide/mac-help/welcome/mac
+
+  - tag: list
+    header: 使用 Windows
+    items:
+      - text: 识别 MacBook 机型
+        icon: about
+        path: model
+
+      - text: 使用”启动转换助理“安装 Windows
+        icon: idea
+        path: bootcamp/
+
+      - text: 通过 Parallels Desktop 运行 Windows
+        icon: idea
+        path: parallels/

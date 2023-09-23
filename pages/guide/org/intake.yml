@@ -1,0 +1,80 @@
+title: 学生组织纳新
+desc: |-
+  新增、修改、删除学生组织纳新信息请联系 Mr.Hope
+author: Mr.Hope
+time: 2023-09-06T18:11:27.741Z
+shareable: true
+content:
+  - tag: card
+    cover: https://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJkaWCR4aDTneRttJA1aicVDCDoeibt7dlDxLweq9LPysYuibrTQ9VLn90LPPEyV3xVvjcAd53CibOxkBA/0?wx_fmt=jpeg
+    logo: $img/organization/nenuyouth.png
+    name: 东师青年
+    title: 纳新进行时丨“融”汇力量 “媒”好启程
+    desc: 融媒体大家庭期待你的到来!
+    url: https://mp.weixin.qq.com/s/TBfVD-FSotCpVCSsGDoGhw
+    env:
+      - app
+      - wx
+
+  - tag: card
+    cover: https://mmbiz.qpic.cn/mmbiz_jpg/s67UCDghNJkaWCR4aDTneRttJA1aicVDCDoeibt7dlDxLweq9LPysYuibrTQ9VLn90LPPEyV3xVvjcAd53CibOxkBA/0?wx_fmt=jpeg
+    logo: $img/organization/nenuyouth.png
+    name: 东师青年
+    title: 纳新进行时丨“融”汇力量 “媒”好启程
+    desc: 融媒体大家庭期待你的到来!
+    path: media/intake
+    env:
+      - qq
+
+  - tag: card
+    title: 青·纳新 | 《东师青年》报社拍了拍你，并向你递出橄榄枝！
+    cover: https://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHnwdxGwgcDoUHiaoHiaMjbR3UQvar4kRULbpYIUl3nibPPSxgRlve8ben3c4tMZBz4CDVvMGT2IxSJyg/0?wx_fmt=jpeg
+    desc: 秋风执笔，白露成章。崭新的秋天里，《东师青年》报社开启新的篇章。立足校园，观察天下。
+    name: 《东师青年》报社
+    logo: $img/organization/newspaper/logo.png
+    url: https://mp.weixin.qq.com/s/6PAXbqQX-rw7DUOaGMxl0w
+    env:
+      - app
+      - wx
+
+  - tag: card
+    title: 青·纳新 | 《东师青年》报社拍了拍你，并向你递出橄榄枝！
+    cover: https://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHnwdxGwgcDoUHiaoHiaMjbR3UQvar4kRULbpYIUl3nibPPSxgRlve8ben3c4tMZBz4CDVvMGT2IxSJyg/0?wx_fmt=jpeg
+    desc: 秋风执笔，白露成章。崭新的秋天里，《东师青年》报社开启新的篇章。立足校园，观察天下。
+    name: 《东师青年》报社
+    logo: $img/organization/newspaper/logo.png
+    path: intake
+    env:
+      - qq
+
+  - tag: list
+    items:
+      - text: “东师之声”校园广播站
+        icon: $img/organization/voice.png
+        path: voice/intake
+
+      - text: 厚普公益学校艺术分校纳新
+        icon: $img/organization/houpu.png
+        path: hope/art-intake
+
+      - text: 红烛志愿者协会
+        icon: $img/organization/hongzhu/logo.png
+        path: hongzhu/intake
+
+  - tag: functional-list
+    header: 如需修改信息，请
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

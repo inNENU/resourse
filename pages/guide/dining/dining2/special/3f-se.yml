@@ -1,0 +1,87 @@
+title: 二食堂三楼东南侧窗口
+icon: dining
+desc: |-
+  特别鸣谢浅浅笙歌提供相关照片
+author: Mr.Hope
+time: 2023-09-22T16:59:13.591Z
+shareable: true
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text: 二食堂三楼东南侧是三楼的正面，共有 8 家档口。
+
+  - tag: ul
+    text:
+      - 金家韩式简餐
+      - 台北私房菜
+      - 禾谷鱼粉
+      - 有饭有面
+      - 航语佳烤盘饭
+      - 金明池特色鱼
+      - 川渝小面·拌面
+      - 重庆鸡公煲
+
+  - tag: title
+    text: 相关菜品与价格
+
+  - tag: img
+    src: $img/dining/dining2/special3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special4-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special4-2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special7.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special8.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special8-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special8-2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special8-3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special9.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special9-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special10.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining2/special10-1.jpg
+    watermark: true

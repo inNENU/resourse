@@ -1,0 +1,47 @@
+title: 历史开发日志
+grey: true
+content:
+  - tag: list
+    header: 历史日志
+    items:
+      - text: alpha 日志
+        url: info?path=Olog/history/dev
+
+      - text: v0.1 开发日志
+        url: info?path=Olog/history/0.1
+
+      - text: v0.2 开发日志
+        url: info?path=Olog/history/0.2
+
+      - text: v0.3 开发日志
+        url: info?path=Olog/history/0.3
+
+      - text: v0.4 开发日志
+        url: info?path=Olog/history/0.4
+
+      - text: v0.5 开发日志
+        url: info?path=Olog/history/0.5
+
+      - text: v0.6 开发日志
+        url: info?path=Olog/history/0.6
+
+      - text: v0.7 开发日志
+        url: info?path=Olog/history/0.7
+
+      - text: v0.8 开发日志
+        url: info?path=Olog/history/0.8
+
+      - text: v0.9 开发日志
+        url: info?path=Olog/history/0.9
+
+      - text: v1 开发日志
+        url: info?path=Olog/history/v1
+
+      - text: v2 开发日志
+        url: info?path=Olog/history/v2
+
+      - text: v3 开发日志
+        url: info?path=Olog/history/v3
+
+      - text: v4 开发日志
+        url: info?path=Olog/history/v4

@@ -1,0 +1,18 @@
+title: 数学学院准入要求
+time: 2023-07-18T06:35:12.736Z
+shareable: true
+content:
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 数学与应用数学
+        path: math
+
+      - text: 数学与应用数学(公费师范)
+        path: normal
+
+      - text: 数学与应用数学(优师专项)
+        path: great
+
+      - text: 统计学
+        path: statistics

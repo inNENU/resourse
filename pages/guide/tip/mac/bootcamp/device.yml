@@ -1,0 +1,35 @@
+title: 哪些机型可以使用启动转换助理
+author: Mr.Hope
+time: 2022-08-21
+shareable: true
+cite: https://support.apple.com/zh-cn/HT201468
+content:
+  - tag: text
+    type: info
+    heading: 硬件要求
+    text:
+      - BootCamp (启动转换助理) 只适用于搭载 Intel 处理器的 MacBook。如果您在使用搭载 Apple 芯片 (M1、M1 Pro) 的 MacBook，您只能使用虚拟机启动 Windows。
+
+  - tag: list
+    header: false
+    items:
+      - text: 识别 MacBook 机型
+        icon: about
+        path: ../model
+
+      - text: 通过虚拟机运行 Windows
+        icon: idea
+        path: ../parallels/
+
+  - tag: title
+    text: 可以使用启动转换助理的机型
+
+  - tag: ul
+    text:
+      - 2015 年或之后推出的 MacBook
+      - 2012 年或之后推出的 MacBook Air
+      - 2012 年或之后推出的 MacBook Pro
+      - 2012 年或之后推出的 Mac mini
+      - 2012 年或之后推出的 iMac1
+      - iMac Pro (所有机型)
+      - 2013 年或之后推出的 Mac Pro

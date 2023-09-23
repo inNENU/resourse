@@ -1,0 +1,110 @@
+title: 外国语学院专业
+author: Mr.Hope
+time: 2023-08-22T04:50:16.356Z
+shareable: true
+content:
+  - tag: title
+    text: 本科招生概况
+
+  - tag: ul
+    text:
+      - "英语(公费师范): 公费培养"
+      - "英语: ￥5810/年"
+      - "英语(中外合作办学): ￥26000元/年"
+      - "日语: ￥5810/年"
+      - "俄语: ￥5810/年"
+      - "德语: ￥5290/年"
+      - "商务英语: ￥5810/年"
+      - "商务英语(预科): ￥5000/年"
+
+  - tag: ul
+    type: warning
+    text:
+      - “英语(公费师范)”和“英语”在本部校区外国语学院。
+      - “日语”、“俄语”、“德语”、“商务英语”、“英语 (中外合作办学)” 在净月校区外国语学院。
+
+  - tag: list
+    header: 专业详情
+    items:
+      - text: 英语
+        path: english
+
+      - text: 英语 (中外合作办学)
+        path: english-cop
+
+      - text: 日语
+        path: japanese
+
+      - text: 俄语
+        path: russia
+
+      - text: 德语
+        path: german
+
+      - text: 商务英语
+        path: business
+
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 英语专业
+        path: into/english
+
+      - text: 英语专业 (公费师范)
+        path: into/normal
+
+      - text: 英语专业 (优师专项)
+        path: into/great
+
+      - text: 德语
+        path: into/german
+
+      - text: 俄语
+        path: into/russia
+
+      - text: 日语
+        path: into/japanese
+
+      - text: 商务英语
+        path: into/business
+
+  - tag: doc
+    name: 外国语学院本科人才培养方案
+    url: $file/course-plan/foreign/foreign.pdf
+
+  - tag: title
+    text: 专业介绍视频
+
+  - tag: text
+    heading: 续传统 开拓创新 砥砺奋进
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/6/5D/7C/66ED20D696D64243C84625B586D_78A8A8F0_2F9EEC00.mp4?e=.mp4
+
+  - tag: phone
+    fName: 外国语学院本科招生咨询
+    num: 0431-85099679
+    org: 东北师范大学
+    street: 吉林省长春市人民大街 5268 号
+    hostNum: 0431-85099679
+    postCode: 130024(本部) / 130117(净月)
+    mail: wy@nenu.edu.cn
+    site: https://wy.nenu.edu.cn/
+
+  - tag: title
+    text: 硕士研究生招生概况
+
+  - tag: action
+    header: 查询地址
+    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+
+  - tag: phone
+    header: 硕士研究生招生咨询电话
+    fName: 海洪
+    lName: 汪
+    num: 0431-85099457
+    org: 东北师范大学外国语学院
+    title: 硕士研究生招生负责人
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024
+    mail: wanghh687@nenu.edu.cn

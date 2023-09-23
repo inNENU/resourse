@@ -1,0 +1,11 @@
+title: 故障报修
+icon: repair
+author: Mr.Hope
+time: 2023-09-22T16:59:13.285Z
+shareable: true
+content:
+  - tag: text
+    text: 请通过以下网址报修
+
+  - tag: action
+    content: http://gyglxt.nenu.edu.cn/repair/redirect/website/index

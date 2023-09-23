@@ -1,0 +1,20 @@
+title: 东北师范大学 2023 年研究生全国统考招生专业目录
+icon: list
+desc: |-
+  来源: 研究生院官网
+time: 2023-09-23T11:16:45.437Z
+shareable: true
+cite: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+content:
+  - tag: text
+    type: info
+    text:
+      - 关于完整的招生专业、人数以及联系方式，请详见官网。
+
+  - tag: action
+    header: 查询地址
+    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+
+  - tag: doc
+    name: 2023 年研究生学费及培养校区
+    url: $file/enroll/post-fee-2023.xlsx

@@ -1,0 +1,56 @@
+title: 课程与学习
+icon: study
+author: Mr.Hope
+time: 2023-09-23T12:11:49.158Z
+shareable: true
+content:
+  - tag: title
+    text: 学习与课程
+
+  - tag: ul
+    type: info
+    heading: 课程设置
+    text:
+      - 我校的课程体系由『通识教育课程』、『专业教育课程』和『发展方向课程』组成。
+      - 新生入学后的第一个学期采取『注课制』，一般在『学期初』进行。
+      - 我校标准学制为『4』年，修业年限『3 - 5』年。不同专业毕业最低学分要求不同，原则上在『135 - 155』学分之间。
+      - 我校“第二课堂成绩单”平台主要围绕『“德、智、体、美、劳”五个方面』开设课程。
+    path: /guide/course/
+
+  - tag: ul
+    type: info
+    heading: 新生研讨课
+    text:
+      - 新生研讨课 (Freshman Seminars) 是专门面向大一新生开设的小班研讨类课程，教学方式以研讨式教学为主。一般包括『有效预习』、『课前资料』、『课堂有效讨论』、『课后扩展延伸』等环节。
+    path: /guide/course/discuss
+
+  - tag: ul
+    type: info
+    heading: 奖学金
+    text:
+      - 学校的本科生奖学金包括『学校奖学金、国家奖学金、社会奖学金』。
+      # 暂无
+      - 学校设立奖学金的目的是为了『激励学生勤奋学习、努力进取』；『激励学生在德、智、体、美等方面全面发展』；『通过奖学金对学生实现的每一个小目标给予认可』；『奖励品学兼优、特别优秀的学生』。
+    path: /intro/scholarship/
+
+  - tag: ul
+    type: info
+    heading: 转专业
+    text:
+      - 转专业的要求是『从未转过专业』、『在校期间无违法违纪行为，未受过处分』、『在读一、二年级的本科非定向生』、『身体条件符合申请转入专业的体检标准者』、『非艺术类、体育类、中外合作办学类等特殊招生专业』。
+    path: /guide/change-major/
+
+  - tag: ul
+    type: info
+    heading: 缓考
+    text:
+      - 对于因病或其它特殊情况不能正常参加期末考试者，须出具县级以上医院证明等材料，方能申请『缓考』。
+    path: /guide/study/aftertake
+
+  - tag: ul
+    type: info
+    heading: 学业警示
+    text:
+      - 学业预警按照情节轻重程度分为学业警示和退学警示。
+      - 『初次达到退学警示一年后，再次受到退学警示』，学校将予以退学处理。
+    path: /guide/study/alert

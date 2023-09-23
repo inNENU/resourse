@@ -1,0 +1,13 @@
+title: 西门(正门)
+author: Mr.Hope
+time: 2020-09-01
+photo:
+  - $img/scenery/benbu/gate/west1.jpg
+  - $img/scenery/benbu/gate/west2.jpg
+  - $img/scenery/benbu/gate/west3.jpg
+content:
+  - tag: title
+    text: 简介
+
+  - tag: p
+    text: 西门也是学校的正门，进门正对着就是学校的图书馆。

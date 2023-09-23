@@ -1,0 +1,58 @@
+title: 坐飞机-到本部-动车
+icon: railway
+author: Mr.Hope
+time: 2023-09-23T12:11:48.982Z
+shareable: true
+content:
+  - tag: text
+    text: 您需要先坐动车到长春站，再从长春站到本部校区。
+
+  - tag: title
+    text: 时间与费用
+
+  - tag: text
+    text:
+      - 时间约 40 至 80 分钟 (视列车时间)
+      - 费用 10.5 元
+
+  - tag: title
+    text: 流程
+
+  - tag: ol
+    text:
+      - 下飞机取行李
+      - 通过 T2 航站楼有地下连廊，需要从 1 号通廊向北步行至与 3 号通廊交界处后，一直向东前进
+      - 走过连廊即可直接到达机场高铁站
+      - 买票并乘坐高铁到长春站
+      - 后续流程见页尾
+
+  - tag: text
+    type: info
+    heading: 动车时刻表
+    text:
+      - 动车价格便宜，车次频繁，速度快，全程约 15 分钟，每 45 分钟一班。每天大约有 16 趟车。
+      - 一定要查好班车时间，提前规划。
+
+  - tag: img
+    src: $img/traffic/train-airport-changchun.png
+    desc: 吉林-龙嘉-长春 动车时刻表
+
+  - tag: ul
+    heading: 动车价格
+    text:
+      - |-
+        一等座: ￥15
+      - |-
+        二等座: ￥8.5
+
+  - tag: text
+    type: info
+    text:
+      - 可以提前在 12306 APP 或支付宝首页“出行”上购买动车票。
+
+  - tag: list
+    header: 后续行程介绍
+    items:
+      - text: 长春站-本部
+        icon: railway
+        path: ../train-benbu/

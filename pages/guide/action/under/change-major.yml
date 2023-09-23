@@ -1,0 +1,22 @@
+title: 本科生转专业流程
+icon: degree
+author: Mr.Hope
+time: 2023-09-22T16:59:13.291Z
+shareable: true
+cite: http://my.nenu.edu.cn/hallIndex/showAppDetail?appid=04367bd6f9da487abd916ba58e6c82ce
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: $img/action/change-major.jpg
+
+  - tag: title
+    text: 相关内容
+
+  - tag: list
+    header: false
+    items:
+      - text: 转专业
+        icon: degree
+        path: /guide/change-major/

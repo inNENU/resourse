@@ -1,0 +1,48 @@
+title: 英语免修评定
+icon: exemption
+desc: 部分截图素材来自阮怀正
+author: Mr.Hope
+time: 2023-09-23T12:20:00.120Z
+shareable: true
+content:
+  - tag: title
+    text: 申请方式
+
+  - tag: text
+    text: 访问本科教学服务系统，在系统内发起申请。
+
+  - tag: text
+    type: info
+    heading: 如何访问本科教学服务系统
+    path: ../intro
+
+  - tag: title
+    text: 申请流程
+
+  - tag: ol
+    text:
+      - 点击“考试管理”
+      - 点击“专项课程免修申请”，并点击增加
+      - 普通类学生选择“大学英语读写 1”、“大学英语读写 2”，术科类学生选择“综合英语1”，“综合英语2”。
+      - 输入合适的理由并上传附件
+      - 保存并送审
+
+  - tag: img
+    src: $img/system/test-manage.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/system/english-exemption1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/system/english-exemption2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/system/english-exemption3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/system/english-exemption4.jpg
+    watermark: true

@@ -1,0 +1,51 @@
+title: 社团纳新
+desc: |-
+  新增、修改、删除社团纳新信息请联系 Mr.Hope
+author: Mr.Hope
+time: 2023-09-02T16:14:35.769Z
+shareable: true
+content:
+  - tag: card
+    cover: $img/media/join.png
+    logo: $img/association/yinfeng/logo.png
+    name: 饮风文学社
+    title: 我们在纳新
+    url: info?path=/guide/association/culture/yinfeng-in
+
+  - tag: card
+    cover: $img/media/join.png
+    name: 光年合唱团
+    title: 我们在纳新
+    url: info?path=/guide/association/culture/guangnian-in
+
+  - tag: card
+    cover: $img/media/join.png
+    logo: $img/association/quyi.png
+    name: 师说曲艺社
+    title: 我们在纳新
+    url: info?path=/guide/association/culture/quyi-in
+
+  - tag: card
+    cover: $img/media/join.png
+    logo: $img/association/mun/logo.png
+    name: 模拟联合国协会
+    title: 我们在纳新
+    url: info?path=/guide/association/study/mun-in
+
+  - tag: functional-list
+    header: 如需修改信息，请
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

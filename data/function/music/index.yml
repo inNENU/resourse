@@ -1,0 +1,127 @@
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl80MDI2NzgyODI=
+  cover: $img/organization/nenuyouth.png
+  title: 东师姑娘
+  singer: 朴正敏
+  lyric: nenu-girl
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzUxMTg5NzIxOF8yMjQ3NDgzNzQ2
+  cover: $img/organization/nenuyouth.png
+  title: 远方有你
+  singer: "词: 石彦伟  曲: 王铁卫"
+  lyric: far-you
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl81MDQzODM1MjQ=
+  cover: $img/organization/nenuyouth.png
+  title: 一生有你
+  singer: 杨淇
+  lyric: life-you
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl81MDQzODEwODg=
+  cover: $img/organization/nenuyouth.png
+  title: 微微一笑很东师
+  singer: 新媒体中心填词歌曲
+  lyric: smile-nenu
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODczNTMx
+  cover: $img/organization/nenuyouth.png
+  title: 等你下课(东师版)
+  singer: 新媒体中心填词歌曲
+  lyric: wait-you
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzUxMTg5NzIxOF8yMjQ3NDgzNzU0
+  cover: $img/organization/nenuyouth.png
+  title: 师大师大
+  singer: 朴正敏
+  lyric: nenu
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzUxMTg5NzIxOF8yMjQ3NDgzNzU1
+  cover: $img/organization/nenuyouth.png
+  title: 好想你(东师版)
+  singer: 新媒体中心填词歌曲
+  lyric: miss-you
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODgyNzM0
+  cover: $img/organization/nenuyouth.png
+  title: 想见你(东师版)
+  singer: 新媒体中心填词歌曲
+  lyric: wanna-see-you
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODgzNjcz
+  cover: $img/organization/nenuyouth.png
+  title: 喜欢你(东师版)
+  singer: 新媒体中心填词歌曲
+  lyric: like-you
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODc2MDU4
+  cover: $img/organization/nenuyouth.png
+  title: 那些花儿东师版
+  singer: 新媒体中心填词歌曲
+  lyric: flower
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzIxOTk0MTkzMF8yMjQ3NDgzODAw
+  cover: $img/organization/nenuyouth.png
+  title: 成都(东师版)
+  singer: "词改编: 荆鹏  演唱: 翟欣奕"
+  lyric: chengdu
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODgwNDgw
+  cover: $img/organization/nenuyouth.png
+  title: 毕业快乐
+  singer: "演唱: 冯瑶"
+  lyric: graduate-happy
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODc0NjQ4
+  cover: $img/organization/nenuyouth.png
+  title: 不一样的共青团歌
+  singer: 朴正敏
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODg5OTkx
+  cover: $img/organization/nenuyouth.png
+  title: 致我的东师女孩
+  singer: 付上智
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzI2MTE4OTM0N18yNjU0NjA0MDI2
+  cover: $img/song/schoolLogo.jpg
+  title: 陪你度过漫长岁月
+  singer: "词改编: 武嘉翼、费泽铠  演唱: 费泽铠"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzI2MTE4OTM0N18yNjU0NjA2MTY0
+  cover: $img/song/schoolLogo.jpg
+  title: 东师的你
+  singer: "词改编: 李正朔 赵雪晴 武嘉翼"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzIyNjU0OTcwNF8yMjQ3NDkyNTUx
+  cover: $img/song/shiquanshimei.jpg
+  title: 东师童谣
+  singer: "音频: 陈璐 张明星 李雨徽 屈瑞雪 李彦英"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzIyNjU0OTcwNF8yMjQ3NDkxNjc4
+  cover: $img/song/shiquanshimei.jpg
+  title: 写给静湖
+  singer: "演唱: 朴正敏"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzIyNjU0OTcwNF8yMjQ3NDkxNjc5
+  cover: $img/song/shiquanshimei.jpg
+  title: 钟楼
+  singer: "演唱: 姚成毅"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzIyNjU0OTcwNF8yMjQ3NDg1NjE5
+  cover: $img/song/shiquanshimei.jpg
+  title: 东师
+  singer: "演唱: 尚春来 邢筱意(童声)"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzIyNjU0OTcwNF8yMjQ3NDkxNzgx
+  cover: $img/song/shiquanshimei.jpg
+  title: 写给静湖 + 钟楼 + 东师版成都
+  singer: "音乐合成: 马瑞"
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl8yNjUxODc1MzI3
+  cover: $img/organization/nenuyouth.png
+  title: 师德公约
+  singer: 东北师范大学宣
+
+- src: https://res.wx.qq.com/voice/getvoice?mediaid=MzA5MTQ4NjUzMl81MDQzODAzNDQ=
+  cover: $img/song/schoolLogo.jpg
+  title: 东北师范大学校歌
+  singer: "填词: 张松如 谱曲: 吕远"
+  lyric: school

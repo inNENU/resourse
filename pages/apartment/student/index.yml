@@ -1,0 +1,50 @@
+title: 党委学生工作部
+icon: student
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.355Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 党委学生工作部介绍
+        icon: about
+        path: intro
+
+  - tag: list
+    header: 联系方式
+    items:
+      - text: 学院党委副书记通讯录
+        icon: phone
+        path: league-shuji
+
+      - text: 学院团委书记通讯录
+        icon: phone
+        path: group-shuji
+
+      - text: 学院辅导员联系方式
+        icon: phone
+        path: counselor
+
+  - tag: list
+    header: 校园管理条例
+    items:
+      - text: 东北师范大学学生违纪惩处办法
+        icon: punish
+        path: /intro/rule/punish
+
+      - text: 常见犯错以及相关处罚规定
+        icon: punish
+        path: punish
+
+      - text: 加强本科生宿舍门禁管的通知
+        icon: notice
+        path: dorm-door
+
+  - tag: doc
+    name: 东北师范大学学生管理规定
+    url: $file/manage/student-rule.pdf
+
+  - tag: action
+    header: 东师智慧学工系统
+    content: http://sas.nenu.edu.cn/

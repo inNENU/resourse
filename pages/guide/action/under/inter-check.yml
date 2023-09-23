@@ -1,0 +1,27 @@
+title: 本科入学资格复查
+icon: plan
+author: Mr.Hope
+time: 2023-09-22T16:59:13.295Z
+shareable: true
+cite: http://my.nenu.edu.cn/hallIndex/showAppDetail?appid=c19f1bb3b93d4e858110a6c752f792c6
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: $img/action/school-roll.jpg
+
+  - tag: title
+    text: 申报材料
+
+  - tag: text
+    text: 新生入学资格复查表
+
+  - tag: title
+    text: 相关内容
+
+  - tag: list
+    header: false
+    items:
+      - text: 本科学籍注册
+        path: /guide/system/under/school-roll

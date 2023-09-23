@@ -1,0 +1,33 @@
+title: 笔记本选购建议
+desc: 大量材料来自百度贴吧笔记本吧，特别鸣谢夏蒙乾
+author: Mr.Hope
+time: 2023-08-06T14:42:50.548Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 总纲
+    items:
+      - text: 如何选购笔记本电脑
+        icon: flow
+        path: flow
+
+  - tag: list
+    header: 确定笔记本大致类别
+    items:
+      - text: 笔记本类别
+        icon: pc
+        path: type
+
+      - text: 不同专业/软件的性能需求
+        icon: alert
+        path: requirement
+
+  - tag: list
+    header: 笔记本配置介绍
+    items:
+      - text: CPU
+        path: cpu
+
+      - text: 显卡
+        path: gpu

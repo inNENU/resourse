@@ -1,0 +1,23 @@
+title: 国家考试
+icon: test
+grey: true
+author: Mr.Hope
+time: 2023-09-23T08:04:54.143Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 大学英语水平测试
+        icon: cet
+        path: cet/
+
+      - text: 计算机等级考试
+        icon: ncre
+        path: ncre/
+
+      - text: 普通话水平测试
+        path: putong/
+
+      - text: 中小学教师资格考试
+        icon: teacher
+        path: ntce/

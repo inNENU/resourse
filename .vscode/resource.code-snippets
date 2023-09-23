@@ -1,0 +1,168 @@
+{
+  // Place your inNENU-miniapp 工作区 snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+  // Placeholders with the same ids are connected.
+  // Example:
+  "current time": {
+    "scope": "yaml",
+    "prefix": ["time"],
+    "body": [
+      "${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}Z"
+    ],
+    "description": "inset title"
+  },
+  "title component": {
+    "scope": "yaml",
+    "prefix": ["title", "t"],
+    "body": ["  - tag: title", "    text: $0"],
+    "description": "inset title"
+  },
+  "text component": {
+    "scope": "yaml",
+    "prefix": ["text"],
+    "body": ["  - tag: text", "    text: $0"],
+    "description": "inset text"
+  },
+  "paragraph component": {
+    "scope": "yaml",
+    "prefix": "p",
+    "body": ["  - tag: p", "    text: $0"],
+    "description": "inset paragraph"
+  },
+  "texts component": {
+    "scope": "yaml",
+    "prefix": ["ts", "texts"],
+    "body": ["  - tag: text", "    text:", "      - $0"],
+    "description": "inset texts"
+  },
+  "text component with title": {
+    "scope": "yaml",
+    "prefix": ["h", "text"],
+    "body": [
+      "  - tag: text",
+      "${1:    heading: $2}",
+      "    text:",
+      "      - $0"
+    ],
+    "description": "inset texts with title"
+  },
+  "unordered list component": {
+    "scope": "yaml",
+    "prefix": "ul",
+    "body": ["  - tag: ul", "    text:", "      - $0"],
+    "description": "inset ul"
+  },
+  "unordered list component with title": {
+    "scope": "yaml",
+    "prefix": "ul",
+    "body": ["  - tag: ul", "${1:    heading: $2}", "    text:", "      - $0"],
+    "description": "inset ul"
+  },
+  "ordered list component": {
+    "scope": "yaml",
+    "prefix": "ol",
+    "body": ["  - tag: ol", "${1:    heading: $2}", "    text:", "      - $0"],
+    "description": "inset ol"
+  },
+  "ordered list component with title": {
+    "scope": "yaml",
+    "prefix": "olh",
+    "body": ["  - tag: ol", "    text:", "      - $0"],
+    "description": "inset ol"
+  },
+  "hint box component": {
+    "scope": "yaml",
+    "prefix": ["hint", "c"],
+    "body": [
+      "  - tag: ${1|text,p,ul,ol|}",
+      "    type: ${2|tip,info,warning,danger,note|}",
+      "${3:    heading: $4}",
+      "    text:",
+      "      - $0"
+    ],
+    "description": "inset hint"
+  },
+  "image component": {
+    "scope": "yaml",
+    "prefix": "img",
+    "body": ["  - tag: img", "    src: \\$img/$0", "${1:    desc: $2}"],
+    "description": "inset img"
+  },
+  "action component": {
+    "scope": "yaml",
+    "prefix": "act",
+    "body": ["  - tag: action", "    header: $1", "    content: $0"],
+    "description": "inset action"
+  },
+  "doc component": {
+    "scope": "yaml",
+    "prefix": "doc",
+    "body": [
+      "  - tag: doc",
+      "${1:    heading: $2}",
+      "    name: $3",
+      "    url: \\$file/$0"
+    ],
+    "description": "inset doc"
+  },
+  "audio component": {
+    "scope": "yaml",
+    "prefix": "audio",
+    "body": ["  - tag: audio", "    src: $0"],
+    "description": "inset audio"
+  },
+  "list component": {
+    "scope": "yaml",
+    "prefix": ["ls", "list"],
+    "body": ["  - tag: list", "${1:    header: $2}", "    items:", "$0"],
+    "description": "inset list"
+  },
+  "list item": {
+    "scope": "yaml",
+    "prefix": ["li"],
+    "body": ["      - text: $1", "        icon: $2", "        path: $0"],
+    "description": "inset list item"
+  },
+  "phone": {
+    "scope": "yaml",
+    "prefix": ["phone"],
+    "body": [
+      "  - tag: phone",
+      "${1:    header: $2}",
+      "    fName: $3",
+      "    num: $0"
+    ],
+    "description": "inset phone"
+  },
+  "location": {
+    "scope": "yaml",
+    "prefix": ["loc"],
+    "body": ["  - tag: location", "    title: $1", "    points:", "$0"],
+    "description": "inset location"
+  },
+  "location item": {
+    "scope": "yaml",
+    "prefix": ["point"],
+    "body": [
+      "      - latitude: $1",
+      "        longitude: $2",
+      "${3:        detail: $4}"
+    ],
+    "description": "inset location"
+  },
+  "table": {
+    "scope": "yaml",
+    "prefix": ["table"],
+    "body": ["  - tag: table", "    header:", "      - $0", "    body:"],
+    "description": "inset table"
+  },
+  "video component": {
+    "scope": "yaml",
+    "prefix": "video",
+    "body": ["  - tag: video", "    src: $0"],
+    "description": "inset video"
+  }
+}

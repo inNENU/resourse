@@ -1,0 +1,16 @@
+title: 教师队伍
+icon: teacher
+grey: true
+author: Mr.Hope
+time: 2023-09-23T11:16:45.421Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 师资队伍
+        icon: teacher
+        path: intro
+
+      - text: 杰出人才
+        icon: star
+        path: talent

@@ -1,0 +1,43 @@
+title: 浴池提现
+icon: money
+author: Mr.Hope
+time: 2023-09-22T16:59:13.406Z
+shareable: true
+content:
+  - tag: title
+    text: 钱包金额提现
+
+  - tag: text
+    text: 仍然点击公众号内“钱包充值”菜单并选择自己的校区，但这次点击充值页面的“提现”按钮
+
+  - tag: img
+    src: $img/bath/charge-pay.jpg
+    desc: 充值页面
+    watermark: true
+
+  - tag: text
+    text: 点击提现即可对钱包金额进行提现，显示提现成功字样后请等待提现申请通过系统审批。
+
+  - tag: img
+    src: $img/bath/return.jpg
+    desc: 提现页面
+    watermark: true
+
+  - tag: img
+    src: $img/bath/return-success.jpg
+    desc: 发起提现成功提示
+    watermark: true
+
+  - tag: img
+    src: $img/bath/return-wait.jpg
+    desc: 此时只是发起提现申请，提现未成功需要等候通知
+    watermark: true
+
+  - tag: text
+    type: tip
+    text:
+      - 满一元提现是微信的要求。
+      - 另外克扣是由于微信在充值时会收取 0.06% 的渠道费，不是服务商昧下了
+
+  - tag: text
+    text: 24 小时后，微信会通知提现成功并自动将退款退回微信余额。

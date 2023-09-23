@@ -1,0 +1,57 @@
+title: 净月电子维修
+icon: digital
+author: Mr.Hope
+time: 2023-09-23T10:52:59.357Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
+    text:
+      - |-
+        品胜手机电脑: 二食堂一楼
+      - |-
+        中国移动+数码产品维修: 二食堂菜鸟驿站旁
+
+  - tag: location
+    title: 净月电子维修
+    points:
+      - latitude: 43.825193
+        longitude: 125.424987
+        name: 品胜手机电脑
+        detail: 二食堂一楼
+
+      - latitude: 43.825086
+        longitude: 125.424744
+        name: 中国移动+数码产品维修
+        detail: 二食堂菜鸟驿站旁
+
+  - tag: text
+    heading: 品胜手机电脑
+    text:
+      - 提供数码产品售卖与维修服务
+
+  - tag: img
+    src: $img/life/dining2/digital1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/dining2/digital1-1.jpg
+    watermark: true
+
+  - tag: text
+    heading: 中国移动+数码产品维修
+    text:
+      - 提供数码产品售卖与维修服务
+
+  - tag: img
+    src: $img/life/dining2/digital2.jpg
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text:
+      - 暂无信息

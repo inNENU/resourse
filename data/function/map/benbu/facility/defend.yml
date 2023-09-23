@@ -1,0 +1,34 @@
+title: 保卫科
+author:
+  - fy
+  - Mr.Hope
+time: 2020-09-01
+content:
+  - tag: title
+    text: 简介
+
+  - tag: p
+    text:
+      - 保卫科是负责校园安全的科室。
+      - 如发现或遭遇安全问题，请一定要拨打保卫科电话。
+
+  - tag: title
+    text: 联系电话
+
+  - tag: phone
+    header: 本部保卫科
+    fName: 本部保卫科
+    num: 0431-85098110
+    org: 东北师范大学
+    street: 吉林省长春市人民大街 5268 号
+    postCode: 130024
+    site: https://bwc.nenu.edu.cn/
+
+  - tag: phone
+    header: 净月保卫科
+    fName: 净月保卫科
+    num: 0431-85096110
+    org: 东北师范大学
+    street: 吉林省长春市净月大街 2555 号
+    postCode: 130024
+    site: https://bwc.nenu.edu.cn/

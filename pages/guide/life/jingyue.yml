@@ -1,0 +1,136 @@
+title: 净月生活
+icon: life
+author: Mr.Hope
+time: 2023-09-23T10:52:59.343Z
+shareable: true
+content:
+  - tag: title
+    text: 净月
+
+  - tag: list
+    header: false
+    items:
+      - text: 二食堂生活区介绍
+        icon: shop
+        path: dining2-district
+
+      - text: 浴池生活区介绍
+        icon: bath
+        path: jingyue-bath-district
+
+  - tag: title
+    text: 分板块介绍
+
+  - tag: grid
+    header: 衣
+    items:
+      - text: 洗衣店
+        name: Washing
+        color: red
+        icon: washer
+        path: washing/jingyue
+
+  - tag: grid
+    header: 食
+    items:
+      - text: 食堂
+        name: Dining
+        color: mauve
+        icon: dining
+        path: /guide/dining/jingyue
+
+      - text: 水果
+        name: Fruit
+        color: cyan
+        icon: fruit
+        path: fruit/jingyue
+
+      - text: 烘焙坊
+        name: Bake
+        color: purple
+        icon: bake
+        path: bake/jingyue
+
+      - text: 饮品店
+        name: Drink
+        color: olive
+        icon: drink
+        path: drink/jingyue
+
+  - tag: grid
+    header: 住
+    items:
+      - text: 寝室
+        name: Dorm
+        color: blue
+        icon: dorm
+        path: /guide/dorm/
+
+      - text: 浴池
+        name: Bath
+        color: red
+        icon: bath
+        path: /guide/bath/jingyue
+
+      - text: 理发
+        name: Haircut
+        color: mauve
+        icon: haircut
+        path: haircut/jingyue
+
+      - text: 照相
+        name: Photo
+        color: cyan
+        icon: photo
+        path: photo/jingyue
+
+      - text: 打印复印
+        name: Print
+        color: purple
+        icon: print
+        path: print/jingyue
+
+      - text: 数码电子
+        name: Digital
+        color: olive
+        icon: digital
+        path: digital/jingyue
+
+      - text: 书店
+        name: Book
+        color: grey
+        icon: books
+        path: book/jingyue
+
+      - text: 营业厅
+        name: SIM
+        color: grey
+        icon: sim
+        path: sim/
+
+  - tag: grid
+    header: 行
+    items:
+      - text: 交通出行
+        name: Traffic
+        color: blue
+        icon: traffic
+        path: /guide/traffic/
+
+      - text: 存取款
+        name: ATM
+        color: red
+        icon: atm
+        path: atm/jingyue
+
+      - text: 就医
+        name: Hospital
+        color: cyan
+        icon: hospital
+        path: hostpital/jingyue
+
+      - text: 校园周边
+        name: Nearby
+        color: purple
+        icon: nearby
+        path: nearby/jingyue

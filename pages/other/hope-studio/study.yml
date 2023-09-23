@@ -1,0 +1,91 @@
+title: 主要学习内容
+shareable: true
+content:
+  - tag: text
+    text: 工作室每三个月为一个学习周期。
+
+  - tag: title
+    text: 前端开发
+
+  - tag: ul
+    heading: 第一周期
+    text:
+      - 学习并掌握 Git 的使用，能够利用 Git 通过 Github 创建项目并展开多人合作。
+      - 学习并了解 VSCode 的基础使用
+      - 掌握基础的计算机知识、并初步了解互联网、Web 服务、服务器等概念与工作原理。
+      - 基础的 HTML、JavaScript、CSS，能够完成简单的网页
+
+  - tag: ul
+    heading: 第二周期
+    text:
+      - 学习 HTML5 的特性并进一步深入掌握 HTML 相关内容，了解 canvas, svg, picture, audio, video 等新标签。
+      - 深入学习最新的 ECMAScript，掌握函数闭包、Promise, Proxy，Iterator, Generator, Class, asycn/await 等语法与使用。
+      - 熟练掌握 CSS3 transition, transform, animation 等属性，并能够通过渐变、变换、动画、伪类制作精美的页面与交互动画。
+      - 熟练了解 document, window, navigator 等对象，了解 ajax, fetch, localStorage, sessionStorage 等方法或 API。
+      - 初步了解 Node.js 并掌握简单的使用。
+
+  - tag: ul
+    heading: 第三周期
+    text:
+      - 熟练掌握 Node.js 的相关内容，了解并熟练运用常见的 Node.js 内置模块与热门社区模块。
+      - 学习 Typescript 并熟练使用，能够使用 Typescript 完成前端开发。
+      - 掌握 Scss, less, Stylus 等 CSS 超集，能够快速利用 mixin, function, variable 等功能实现样式构建。
+      - 熟练掌握 Vue 框架，并能够使用 Vue 开发中大型或重度交互式网站。
+
+  - tag: ul
+    heading: 第四周期
+    text:
+      - 学习并掌握常见算法算法与数据结构
+      - 承接前端相关项目进行团队协作开发。
+      - 学习 Dart 与 Flutter，能够使用 Flutter 进行 App 开发。
+      - 能够对项目、网站、App 的运行状况进行分析并进行优化。
+
+  - tag: title
+    text: 产品设计
+
+  - tag: ul
+    heading: 第一周期
+    text:
+      - 学习并掌握 Git 的使用，能够利用 Git 通过 Github 创建项目并展开多人合作。
+      - 掌握常见 linux 指令，能够在命令行下熟练执行常见操作
+      - 学习并掌握 Java 与 php，并能够初步使用 Spring 框架完成简单的开发
+      - 学习并掌握常见算法与数据结构。
+
+  - tag: ul
+    heading: 第二周期
+    text:
+      - 学习 ps，ai 等软件的使用，能自主产出矢量图与其他设计图
+      - 学习如何根据功能需求制定产品的内容、模块、交互方式与对应界面。
+      - 学习并能够进行简单的插画设计与绘制
+
+  - tag: ul
+    heading: 第三周期
+    text:
+      - 掌握 UI 设计，能独自将设计图编写为对应的网页、App 等页面。
+      - 掌握产品设计，能够根据需求设计完整的方案。
+
+  - tag: title
+    text: 后端运维
+
+  - tag: ul
+    heading: 第一周期
+    text:
+      - 学习并掌握 Git 的使用，能够利用 Git 通过 Github 创建项目并展开多人合作。
+      - 掌握常见 linux 指令，能够在命令行下熟练执行常见操作
+      - 学习并掌握 Java 与 php，并能够初步使用 Spring 框架完成简单的开发
+      - 学习并掌握常见算法与数据结构。
+
+  - tag: ul
+    heading: 第二周期
+    text:
+      - 了解 Apache 与 Nginx 的历史、区别，并能够熟练完成其中一个的配置。
+      - 学习 MySQL，深入了解 MySQL 的运行原理，能够针对小型项目合理建表并维护项目数据。
+      - 深入学习 Spring 框架，通过 Spring 框架或 PHP，实现具体功能的后端接口开发
+      - 熟悉后端环境搭建与维护，能够通过 SSH 远程在服务器上完成 LAMP、LNMP、Spring 环境的搭建、配置与维护。
+
+  - tag: ul
+    heading: 第三周期
+    text:
+      - 学习 Python、Rust 等多种编程语言，扩充自己开发能力。
+      - 能够创建并维护中大型项目，可以根据项目需求设计相关接口、数据库与具体实现并完成开发
+      - 能够根据接口的内容、预估频次，合理的完成数据库的建表与查询、读写优化

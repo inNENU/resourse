@@ -1,0 +1,16 @@
+title: 大学管理
+icon: setting
+author: Mr.Hope
+time: 2023-09-23T12:11:49.087Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 组织设立
+        icon: student-org
+        path: organization
+
+      - text: 日常生活
+        icon: life
+        path: life

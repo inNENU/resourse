@@ -1,0 +1,65 @@
+title: 数码产品类
+icon: digital
+author: Mr.Hope
+time: 2023-09-23T12:11:49.093Z
+shareable: true
+content:
+  - tag: title
+    text: 电脑
+
+  - tag: ol
+    heading: 使用场景
+    text:
+      - 进入大学参加社团、学生组织后，一些材料会需要电脑完成；
+      - 选课、退课、学籍注册、各类考试报名
+      - 课程中，撰写课程论文、网上提交作业等
+      - 部分专业如计算机类，专业课作业以及课后实战
+
+  - tag: p
+    type: tip
+    heading: 电脑是必需品么
+    text:
+      - 不是，学校图书馆专门开设有电子阅览室可供同学使用。如果您的家庭拮据，您可以选择不购买电脑。
+      - 没有电脑意味着有需求时，需自行前往图书馆的电子阅览室或临时借用室友电脑。这必然会带来一定程度上的不方便，而且电子阅览室在选课阶段可能会较拥挤。
+
+  - tag: list
+    header: false
+    items:
+      - text: 如何选购电脑
+        icon: pc
+        path: /guide/tip/laptop/
+
+  - tag: title
+    text: iPad
+
+  - tag: text
+    text: iPad 可以成为一个具有生产力的工具，并对学习起到帮助作用。如果您是一个自制力比较强的人，而且家庭情况较为优秀，Mr.Hope 推荐您购买 iPad。
+
+  - tag: ul
+    type: info
+    heading: iPad 能做什么
+    text:
+      - 一个很好的在寝室外看网课的工具
+      - 上课时可以使用 Notability 在记笔记的同时进行录音
+      - 可以使用 GoodNotes、备忘录等软件进行手写笔记、随记、备忘、待办列表等。
+      - 美术生可以借助 Procreate、Curve 等工具进行绘画
+      - 研究生可以借助 Margin Note 进行文献、资料的整理、摘录、翻译、查询等。
+
+  - tag: text
+    type: warning
+    heading: 工具的性质要看使用者
+    text: iPad 可以作为一个学习工具，为您带来很大的生产力，但是如果您比较贪玩、自制力较差，iPad 也可能变成一个游戏机和追剧神器。它的必要性和效果最终还要看您自己。
+
+  - tag: title
+    text: 相机
+
+  - tag: text
+    text:
+      - 如果您的家庭比较富裕，而且您本身也比较爱好摄影的话，可以考虑购买入门或进阶级别的单反相机。
+
+  - tag: text
+    type: tip
+    heading: Why?
+    text:
+      - 大部分学生组织和社团都离不开摄影，而如果您拥有这样一台设备，它可以成为您入学后面试很好的一块敲门砖。
+      - 如果您在大学的课余生活中愿意钻研摄影，提高摄影技术并自学后期图片处理的话，您也可以尝试接一些摄影的单子，可以一定程度“回血”。

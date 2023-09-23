@@ -1,0 +1,82 @@
+{
+  "name": "innenu-server",
+  "version": "2023.3.29",
+  "private": true,
+  "description": "inNENU 小程序资源文件",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:inNENU/resource.git"
+  },
+  "license": "Mr.Hope LICENSE",
+  "author": {
+    "name": "Mr.Hope",
+    "email": "mister-hope@outlook.com",
+    "url": "https://mister-hope.com"
+  },
+  "type": "module",
+  "scripts": {
+    "build:site": "vuepress build site",
+    "dev:site": "vuepress dev site",
+    "generate": "tsx ./scripts/gen/index.ts",
+    "generate:account": "tsx ./scripts/gen/account.ts",
+    "generate:site": "tsx ./scripts/gen/site.ts",
+    "lint": "pnpm lint:eslint && pnpm lint:prettier",
+    "lint:eslint": "eslint --ext .ts .",
+    "lint:fix": "pnpm lint:eslint --fix && pnpm lint:prettier --write",
+    "lint:prettier": "prettier --check .",
+    "prepare": "husky install",
+    "push": "tsx ./scripts/push.ts",
+    "sync:oss": "tsx ./scripts/oss.ts",
+    "upload": "tsx ./scripts/upload.ts"
+  },
+  "dependencies": {
+    "@mdit-vue/plugin-frontmatter": "0.12.1",
+    "@mr-hope/assert-type": "2.0.0",
+    "@types/ali-oss": "6.16.8",
+    "@types/js-yaml": "4.0.6",
+    "@types/markdown-it": "13.0.1",
+    "@types/node": "20.6.2",
+    "@types/qrcode": "1.5.2",
+    "@typescript-eslint/eslint-plugin": "6.7.2",
+    "@typescript-eslint/parser": "6.7.2",
+    "@vuepress/client": "2.0.0-beta.67",
+    "@vuepress/utils": "2.0.0-beta.67",
+    "@vueuse/core": "10.4.1",
+    "ali-oss": "6.18.1",
+    "axios": "1.5.0",
+    "cheerio": "1.0.0-rc.12",
+    "del": "7.1.0",
+    "dotenv": "16.3.1",
+    "eslint": "8.49.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-import": "2.28.1",
+    "eslint-plugin-prettier": "5.0.0",
+    "ftp-hope": "0.1.1",
+    "husky": "8.0.3",
+    "js-yaml": "4.1.0",
+    "markdown-it": "13.0.1",
+    "nano-staged": "0.8.0",
+    "nodejs-jieba": "0.0.2",
+    "prettier": "3.0.3",
+    "qrcode": "1.5.3",
+    "sort-package-json": "2.5.1",
+    "svgo": "3.0.2",
+    "tslib": "2.6.2",
+    "tsx": "3.12.10",
+    "typescript": "5.2.2",
+    "vue": "3.3.4",
+    "vuepress": "2.0.0-beta.67",
+    "vuepress-plugin-copyright2": "2.0.0-beta.237",
+    "vuepress-plugin-search-pro": "2.0.0-beta.237",
+    "vuepress-shared": "2.0.0-beta.237",
+    "vuepress-theme-hope": "2.0.0-beta.237"
+  },
+  "packageManager": "pnpm@8.7.6",
+  "nano-staged": {
+    "*.{json,yml,md}": "prettier --write",
+    "*.{js,ts}": [
+      "prettier --write",
+      "eslint --fix"
+    ]
+  }
+}

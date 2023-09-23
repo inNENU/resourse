@@ -1,0 +1,52 @@
+title: Windows 邮件客户端设置
+icon: windows
+author: Mr.Hope
+time: 2023-09-22T16:59:13.265Z
+shareable: true
+content:
+  - tag: text
+    type: tip
+    text:
+      - 以下步骤将指导您在 Windows 的邮件客户端上添加学校邮箱。
+
+  - tag: text
+    text: 打开 Windows 自带的邮件客户端
+
+  - tag: img
+    src: $img/account/mail/windows-1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/account/mail/windows-2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/account/mail/windows-3.png
+    watermark: true
+
+  - tag: img
+    src: $img/account/mail/windows-4.png
+    desc: 输入账号和密码
+    watermark: true
+
+  - tag: img
+    src: $img/account/mail/windows-5.png
+    watermark: true
+
+  - tag: text
+    type: info
+    text: 由于学校并没有有效的 SSL 证书，您还需要额外的下列操作。
+
+  - tag: img
+    src: $img/account/mail/windows-6.png
+    desc: 右键邮箱，选择账户设置，并点击红框
+    watermark: true
+
+  - tag: img
+    src: $img/account/mail/windows-7.png
+    watermark: true
+
+  - tag: img
+    src: $img/account/mail/windows-8.png
+    desc: 修改红框内容
+    watermark: true

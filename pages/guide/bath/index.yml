@@ -1,0 +1,48 @@
+title: 洗浴
+icon: bath
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.409Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    heading: 简介
+    text:
+      - 由于寝室没有独立卫浴，学校两校区均设有公共浴池。学生浴池采用单间洗浴，舒适、便利性、私密、安全。
+      - 浴池同时配备了免费健身房与休息厅，以及便民商家服务。
+
+  - tag: list
+    header: false
+    items:
+      - text: 如何洗浴
+        icon: bath
+        path: usage
+
+  - tag: list
+    header: 浴池介绍
+    items:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue
+
+  - tag: list
+    header: 浴池账户
+    items:
+      - text: 提供商与计费
+        icon: account
+        path: account
+
+      - text: 浴池充值
+        icon: charge
+        path: charge
+
+      - text: 浴池金额查看
+        icon: money
+        path: money
+
+      - text: 浴池提现
+        icon: change
+        path: cash

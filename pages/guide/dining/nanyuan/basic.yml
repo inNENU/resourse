@@ -1,0 +1,48 @@
+title: 南苑基本餐
+icon: dining
+author: Mr.Hope
+time: 2023-09-22T16:59:13.599Z
+shareable: true
+content:
+  - tag: title
+    text: 基本餐供应时间
+
+  - tag: ul
+    text:
+      - |-
+        早: 6:30 - 8:30
+      - |-
+        午: 10:30 - 12:30
+      - |-
+        晚: 16:00 - 18:00
+
+  - tag: title
+    text: 相关图片
+
+  - tag: img
+    src: $img/dining/nanyuan/basic1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/basic2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/basic3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/basic4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/basic5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/basic6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/basic7.jpg
+    watermark: true

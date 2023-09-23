@@ -1,0 +1,27 @@
+title: 数学与统计学院
+grey: true
+author: Mr.Hope
+time: 2023-09-05T02:41:08.798Z
+shareable: true
+content:
+  - tag: account
+    name: 数学与统计学院
+    logo: $img/media/math.png
+    detail: 东北师范大学数学与统计学院
+    wxid: gh_83fa6f6e7577
+
+    account: math
+    location:
+      latitude: 43.86014
+      longitude: 125.32797
+    site: https://math.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: intro
+
+      - text: 专业介绍
+        icon: intro
+        path: enroll

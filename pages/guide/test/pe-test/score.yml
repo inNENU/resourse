@@ -1,0 +1,40 @@
+title: 测试项目评分表
+icon: score
+author: Mr.Hope
+time: 2023-09-23T10:52:59.570Z
+shareable: true
+content:
+  - tag: title
+    text: 体重指数(BMI)评分表
+
+  - tag: img
+    src: $img/exam/BMI.png
+
+  - tag: title
+    text: 男生评分表
+
+  - tag: img
+    src: $img/exam/male.png
+
+  - tag: title
+    text: 女生评分表
+
+  - tag: img
+    src: $img/exam/female.png
+
+  - tag: title
+    text: 加分表
+  - tag: img
+    src: $img/exam/addScore.png
+
+  - tag: ul
+    type: info
+    heading: 加分说明
+    text:
+      - 引体向上、一分钟仰卧起坐为低优指标，学生成绩超过单项评分 100 分后，以超过的次数所对应的分数进行加分。
+      - 1000 米跑、800 米为高优指标，学生成绩低于单项评分 100 分后，以减少的秒数所对应的分数进行加分。
+
+  - tag: text
+    type: tip
+    text:
+      - 也就是说您的成绩比满分还好的话，会给您总成绩额外加分

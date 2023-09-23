@@ -1,0 +1,35 @@
+title: 英语课程
+icon: english
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.483Z
+shareable: true
+content:
+  - tag: list
+    header: 课程说明
+    items:
+      - text: 课程简介
+        icon: english
+        path: intro
+
+      - text: 免修评定
+        icon: exemption
+        path: exemption
+
+      - text: 东北师范大学英语水平测试
+        icon: english
+        path: DET
+
+      - text: 小语种外语课程
+        icon: more
+        path: other
+
+  - tag: list
+    header: 教学计划
+    items:
+      - text: 大学外语教学计划 (2020 版)
+        path: 2020-plan
+
+      - text: 大学外语教学计划 (2015 版)
+        desc: 旧
+        path: 2015-plan

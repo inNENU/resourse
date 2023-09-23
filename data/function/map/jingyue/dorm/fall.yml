@@ -1,0 +1,11 @@
+title: 秋华公寓
+# TODO: Add photo
+photo: []
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text:
+      - 楼高六层，分为 A、B 栋，为女生寝室。主要入住经济与管理学院、音乐学院的本科生。
+      - 部分经济与管理学院的硕士生也在此入住。

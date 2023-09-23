@@ -1,0 +1,26 @@
+title: 毕业生图书馆离校手续办理
+icon: leave
+author: Mr.Hope
+time: 2023-09-22T16:59:13.281Z
+shareable: true
+cite: http://my.nenu.edu.cn/hallIndex/showAppDetail?appid=532f17eb1da449dfa33816b2e51626a2
+content:
+  - tag: text
+    text: 本服务需要到图书馆办理，地点为本部图书馆 118 室、净月图书馆 302 室。
+
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: $img/action/library-leave.png
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 本科生离校通知单
+    url: $file/action/undergraduate-leave.docx
+
+  - tag: doc
+    name: 研究生离校通知单
+    url: $file/action/postgraduate-leave.docx

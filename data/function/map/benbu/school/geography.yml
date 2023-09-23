@@ -1,0 +1,34 @@
+title: 地理科学学院
+author: Mr.Hope
+time: 2020-09-01
+photo:
+  - $img/scenery/benbu/school/geography.jpg
+  - $img/scenery/benbu/school/geography1.jpg
+  - $img/scenery/benbu/school/geography2.jpg
+content:
+  - tag: account
+    name: 地理科学学院
+    logo: $img/media/geo.png
+    detail: 东北师范大学地理科学学院
+    wxid: geonenu
+
+    account: geo
+    location:
+      latitude: 43.86294
+      longitude: 125.33052
+    mail: dili@nenu.edu.cn
+    site: https://geo.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: /school/geography/intro
+
+      - text: 招生介绍
+        icon: intro
+        path: /school/geography/enroll
+
+      - text: 学科建设
+        icon: books
+        path: /school/geography/subject

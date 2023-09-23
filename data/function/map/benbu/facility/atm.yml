@@ -1,0 +1,23 @@
+title: 本部 ATM
+desc: 感谢晴子提供照片
+author: Mr.Hope
+time: 2023-07-16T11:41:47.106Z
+photo:
+  - $img/life/beiyuan/atm1.jpg
+  - $img/life/beiyuan/atm2.jpg
+shareable: true
+content:
+  - tag: title
+    text: 校内 ATM
+
+  - tag: text
+    text:
+      - 目前只有交通银行和中国银行的 ATM 机。
+
+  - tag: img
+    src: $img/life/beiyuan/atm1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/atm2.jpg
+    watermark: true

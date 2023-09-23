@@ -1,0 +1,63 @@
+title: alpha 开发日志
+grey: true
+content:
+  - tag: text
+    heading: V0.0.1
+    text: |-
+      制作了 navigationBar 与 tabBar；
+      导入网页的生活界面；
+      增加制作了 footer；
+      简要地对东师指南界面进行了链接；
+      制作了无定义界面的跳转内容；
+
+  - tag: text
+    heading: V0.0.2
+    text: |-
+      修复 tabBar 的 icon 模糊情况；
+      修复图片显示比例不正常的问题；
+      对页面样式进行了简单的定义与设计；
+
+  - tag: text
+    heading: V0.0.3
+    text: |-
+      利用 globalData，属性进行批量定义；
+      重新组织了界面，为以后开发主题提供接口；
+
+  - tag: text
+    heading: V0.0.4
+    text: |-
+      精简优化了代码，代码数量减少了 15 %；
+      少量错误修复，思考切换主题时如何动态改变界面渲染情况，思考导入夜间模式方法；
+
+  - tag: text
+    heading: V0.0.5
+    text: |-
+      调用微信存储接口保存主题信息；
+      模板化 js，加入公共 js 模板 util.js 并调试成功；
+
+  - tag: text
+    heading: V0.0.6
+    text: |-
+      简单对部分界面添加了样式，进行了美化；
+      初步制作主题切换界面，加入 picker 并进行初步调试；
+
+  - tag: text
+    heading: V0.0.7
+    text: |-
+      修复了几处错误并进行了功能改进；
+      重建小程序目录结构；
+      初步制作 iOS 主题样式；
+
+  - tag: text
+    heading: V0.0.8
+    text: |-
+      对界面内容进行模块化；
+      初步制作 iOS navigationBar 特效；
+      完整构造 iOS 主题样式；
+      初步构建 iOS 夜间模式；
+
+  - tag: text
+    heading: V0.0.9
+    text: |-
+      修复主题选择器无法改变 theme 值的问题，新增夜间模式开关；
+      修复了 iOS 夜间模式的几个 bug，完整构建 iOS 夜间主题；

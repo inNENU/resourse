@@ -1,0 +1,26 @@
+title: 本科生处分
+icon: punish
+author: Mr.Hope
+time: 2023-09-22T16:59:13.298Z
+shareable: true
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: $img/action/sanction.jpg
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 检讨书
+    url: $file/action/review-book.pdf
+
+  - tag: doc
+    name: 学生纪律处分呈报表
+    url: $file/action/sanction.docx
+
+  - tag: doc
+    name: 本科生违纪处分和解除违纪处分工作流程
+    url: $file/manage/sanction-flow.pdf

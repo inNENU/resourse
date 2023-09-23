@@ -1,0 +1,69 @@
+title: 长春站-到净月
+icon: railway
+author: Mr.Hope
+time: 2023-09-23T12:11:48.999Z
+shareable: true
+content:
+  - tag: title
+    text: 腾讯地图导航
+    env:
+      - wx
+
+  - tag: functional-list
+    header: false
+    items:
+      - type: navigator
+        text: 长春站北出口导航到本部
+        # 1 号门
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站出站口4"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        # 2 号门
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站出站口4"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+    env:
+      - wx
+
+  - tag: text
+    type: note
+    text:
+      - 导航功能仅在微信小程序上提供
+    env:
+      - qq
+      - app
+
+  - tag: title
+    text: 到校方式
+
+  - tag: text
+    text: 同学们主要有三种交通方式到达净月校区。
+
+  - tag: text
+    type: tip
+    heading: 轨道交通
+    text: 如果您行李较少，乘坐轨道交通是最快最便捷的方式，推荐大家选择轨道交通中的 1 号线转 3 号线。
+    path: railway
+
+  - tag: text
+    type: tip
+    heading: 出租车/网约车
+    text:
+      - 如果您有太多的行李很难自行搬运，或您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+    path: taxi
+
+  - tag: text
+    type: danger
+    heading: 公交 (不建议)
+    text:
+      - 乘坐公交比较麻烦，而且很大概率没有座，路途花费的时间也更长。
+      - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交!
+    path: bus
+
+  - tag: title
+    text: 新生接待处
+
+  - tag: text
+    text:
+      - 学校在长春站南北出站口设置新生接待处，提供新生咨询服务。
+
+  - tag: text
+    type: tip
+    text:
+      - 学校无接站大巴，新生同学需要自行选择并乘坐交通工具到达学校参与报到。

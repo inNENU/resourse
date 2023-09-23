@@ -1,0 +1,24 @@
+title: 卫生间
+icon: toilet
+author: Mr.Hope
+time: 2023-09-23T08:04:54.127Z
+shareable: true
+content:
+  - tag: ul
+    text:
+      - 卫生间处在公共区域，有阿姨定期打扫卫生，很整洁。
+      - 每个卫生间有七八个位置。
+
+  - tag: img
+    src: $img/dorm/toilet.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dorm/toilet2.jpg
+    watermark: true
+
+  - tag: title
+    text: Mr.Hope の 吐槽
+
+  - tag: p
+    text: 公共卫生间意味着坑位有限，本部男寝这边(女寝我显然并不知道，您问我也没用，我真不知)碰上这一层楼大部分都有早课的情况下，您在 7:20 - 7:40 这个时间段内是很容易发现所有的门里面都有人蹲着的。(净月可能不会这样，因为不像本部 B 座都住满了一层 144 个人但只有 8 个坑位)

@@ -1,0 +1,29 @@
+title: 推免 (保研)
+icon: degree
+author: Mr.Hope
+time: 2023-09-23T11:16:45.516Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      # TODO: Update at 2023-09
+      - text: 2022 年推免通知
+        icon: notice
+        url: notice-detail?id=06108a025da74ddb9742c607c7da2a1d&title=推荐2023届全日制本科毕业生免试攻读硕士学位研究生工作的通知
+
+      # TODO: Update at 2023-09
+      - text: 第 25 届研究生支教团通知
+        icon: notice
+        url: notice-detail?id=73b9568a720747a29d80c83e2f88fdc1&title=关于招募第25届研究生支教团的通知
+
+  - tag: list
+    items:
+      - text: 推免工作实施办法
+        desc: 保研规则
+        icon: rule
+        path: promotion-rule
+
+      - text: 实施办法解读
+        icon: explain
+        path: explain

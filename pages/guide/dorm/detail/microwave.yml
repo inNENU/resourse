@@ -1,0 +1,27 @@
+title: 微波炉
+icon: microwave
+author: Mr.Hope
+time: 2023-09-23T08:04:54.124Z
+shareable: true
+content:
+  - tag: title
+    text: 微波炉
+
+  - tag: text
+    text:
+      - 部分寝室楼下有微波炉，可以加热食物。
+
+  - tag: img
+    src: $img/dorm/microwave.jpg
+
+  - tag: text
+    type: info
+    heading: 微波炉使用注意事项
+    text:
+      - 一、请将微波炉调至中高火，不要用高火
+      - 二、食物请不要带纸制包装加热，以免失火
+      - 三、禁止使用金属餐具和锡箔纸包裹食物
+      - 四、禁止加热带壳类的封闭食物(蛋类、板栗、牡蛎等)或袋/盒装牛奶。
+      - 五、请控制好加热时间，禁止加热过久
+      - 六、仅限于加热饭菜，严禁煮生的食物(土豆、地瓜、棕子、中药等)
+      - 注意:安全第一哟!!!

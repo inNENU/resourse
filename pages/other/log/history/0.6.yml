@@ -1,0 +1,68 @@
+title: v0.6 开发日志
+grey: true
+content:
+  - tag: text
+    heading: v0.6.1
+    text: |-
+      修复完善了 fileList 部分更新的功能；
+      简要制作了部分模块的夜间模式；
+
+  - tag: text
+    heading: v0.6.2
+    text: |-
+      添加了 swiper 组件；
+      改变了价格字体；
+
+  - tag: text
+    heading: v0.6.3
+    text: |-
+      初步制作了东青文创中心界面；
+      建立商品点击态；
+
+  - tag: text
+    heading: v0.6.4
+    text: |-
+      初步制作了文创商品界面结构；
+      构建返回按钮；
+      tab 页改版，新增我的东师界面；
+
+  - tag: text
+    heading: v0.6.5
+    text: |-
+      初步制作了文创商品的弹出层；
+      优化了下载文件时的百分比显示；
+      修复了 wechat 主题设置界面分割线重叠的问题；
+
+  - tag: text
+    heading: v0.6.6
+    text: |-
+      修复了 wechat 夜间模式导航栏阴影异常；
+      添加了 iOS 的 navigationBar 回弹动画；
+      修改了 p 标签 head 参数逻辑；
+
+  - tag: text
+    heading: v0.6.7
+    text: |-
+      所有界面添加了 sN 函数；
+      改进了 utils.js；
+
+  - tag: text
+    heading: v0.6.8
+    text: |-
+      改进了 NENUNav；
+      改进了 error 界面；
+      改进 map 页样式；
+
+  - tag: text
+    heading: v0.6.9
+    text: |-
+      修复 NENUTitle 位置错误；
+      优化了 cart 页动画；
+      构建 common tab；
+
+  - tag: text
+    heading: v0.6.10
+    text: |-
+      增加 NENUTitle 位置错误；
+      重新设计了 map 页面；
+      实现定位功能；

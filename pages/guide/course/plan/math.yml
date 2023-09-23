@@ -1,0 +1,32 @@
+title: 数学学院本科课程计划
+icon: math
+author: Mr.Hope
+time: 2023-09-22T16:59:13.524Z
+shareable: true
+content:
+  - tag: doc
+    name: 数学与应用数学专业人才培养方案 (2021)
+    url: $file/course-plan/math/math-2021.docx
+
+  - tag: doc
+    name: 数学与应用数学专业 (公费师范) 人才培养方案 (2021)
+    url: $file/course-plan/math/normal-2021.docx
+
+  - tag: doc
+    name: 数学与应用数学专业 (优师计划) 人才培养方案 (2021)
+    url: $file/course-plan/math/great-2021.docx
+
+  - tag: doc
+    name: 统计学专业人才培养方案 (2021)
+    url: $file/course-plan/math/statistics-2021.docx
+
+  - tag: title
+    text: 历史版本
+
+  - tag: doc
+    name: 数学学院本科人才培养方案 (2019)
+    url: $file/course-plan/math/2019.pdf
+
+  - tag: doc
+    name: 数学学院本科课程计划 (2015)
+    url: $file/course-plan/math/2015.pdf

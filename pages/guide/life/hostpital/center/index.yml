@@ -1,0 +1,19 @@
+title: 中心医院
+icon: hospital
+author: Mr.Hope
+time: 2023-09-23T10:52:59.381Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 医院简介
+        icon: about
+        path: intro
+
+      - text: 预约挂号
+        icon: time
+        path: book
+
+      - text: 医院联系方式
+        icon: phone
+        path: contact

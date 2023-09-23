@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$ref": "https://mp.innenu.com/.vscode/components.schema.json",
+  "properties": {
+    "title": {
+      "description": "导航栏标题",
+      "type": "string",
+      "maxLength": 12
+    },
+    "icon": {
+      "description": "页面图标",
+      "type": "string"
+    },
+    "desc": {
+      "description": "页面描述",
+      "type": "string"
+    },
+    "author": {
+      "description": "页面作者",
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      ]
+    },
+    "time": {
+      "description": "页面更新时间",
+      "type": "string",
+      "oneOf": [
+        {
+          "format": "date"
+        },
+        {
+          "format": "date-string"
+        }
+      ]
+    },
+    "grey": {
+      "description": "页面是否使用黑色背景",
+      "type": "boolean"
+    },
+    "outdated": {
+      "description": "页面内容是否过时",
+      "type": "boolean"
+    },
+    "cite": {
+      "description": "页面引用",
+      "type": ["string", "array"],
+      "oneOf": [
+        { "type": "string", "pattern": "^https?:\\/\\/" },
+        {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^https?:\\/\\/" }
+        }
+      ]
+    },
+    "shareable": {
+      "description": "页面是否可分享",
+      "type": "boolean"
+    },
+    "content": {
+      "description": "页面内容",
+      "$ref": "#/$defs/components"
+    },
+    "action": {
+      "description": "左上角按钮触发函数",
+      "oneOf": [{ "type": "string" }, { "const": false }]
+    }
+  },
+  "additionalProperties": false,
+  "required": ["title", "content"],
+  "type": "object"
+}

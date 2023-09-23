@@ -1,0 +1,30 @@
+title: 生命科学学院
+author: Mr.Hope
+time: 2020-09-01
+photo:
+  - $img/scenery/benbu/school/biology.jpg
+  - $img/scenery/benbu/school/biology1.jpg
+  - $img/scenery/benbu/school/biology2.jpg
+  - $img/scenery/benbu/school/biology3.jpg
+content:
+  - tag: account
+    name: 生命科学学院
+    logo: $img/media/biology.png
+    detail: 东北师范大学生命科学学院
+    wxid: skyxxxczx2015
+    account: biology
+    location:
+      latitude: 43.859984
+      longitude: 125.328941
+    mail: sky@nenu.edu.cn
+    site: https://sky.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: /school/biology/intro
+
+      - text: 专业介绍
+        icon: intro
+        path: /school/biology/enroll

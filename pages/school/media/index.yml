@@ -1,0 +1,28 @@
+title: 传媒科学学院
+grey: true
+author: Mr.Hope
+time: 2023-09-05T02:41:08.816Z
+shareable: true
+content:
+  - tag: account
+    name: 传媒科学学院
+    logo: $img/media/media.png
+    detail: 东师传媒
+    wxid: nenu_media
+
+    account: media
+    location:
+      latitude: 43.82637
+      longitude: 125.42704
+    mail: chuanmei@nenu.edu.cn
+    site: https://chuanmei.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: intro
+
+      - text: 专业介绍
+        icon: intro
+        path: enroll

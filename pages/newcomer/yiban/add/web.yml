@@ -1,0 +1,44 @@
+title: Web 新生课程添加
+icon: pc
+author: Mr.Hope
+time: 2023-09-23T12:11:49.145Z
+shareable: true
+content:
+  - tag: text
+    text:
+      - 访问 https://www.yiban.cn/
+
+  - tag: action
+    header: 易班优课
+    content: https://www.yiban.cn/
+
+  - tag: text
+    text: 点击图中的 “优课 YOOC” ↓
+
+  - tag: img
+    src: $img/yiban/web-add1.jpg
+    watermark: true
+
+  - tag: text
+    text: 登录并点击右上角头像 - “我的课群” ↓
+
+  - tag: img
+    src: $img/yiban/web-add2.png
+    watermark: true
+
+  - tag: text
+    text: 点击添加课群，输入『EYD6CZXC』并点击确定 ↓
+
+  - tag: action
+    content: EYD6CZXC
+
+  - tag: img
+    src: $img/yiban/web-add3.jpg
+    watermark: true
+
+  - tag: text
+    text: 之后选择返回首页即可开始学习 ↓
+
+  - tag: img
+    src: $img/yiban/web-add5.png
+    watermark: true

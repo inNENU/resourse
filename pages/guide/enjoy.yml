@@ -1,0 +1,23 @@
+title: 乐在东师
+icon: nearby
+grey: true
+content:
+  - tag: grid
+    items:
+      - text: 学生组织
+        color: blue
+        name: Organization
+        icon: student-org
+        path: org/
+
+      - text: 社团
+        color: orange
+        name: Association
+        icon: association
+        path: association/
+
+      - text: 吃喝玩乐
+        color: purple
+        name: Nearby
+        icon: nearby
+        path: life/nearby/

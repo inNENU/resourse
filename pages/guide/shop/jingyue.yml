@@ -1,0 +1,41 @@
+title: 净月超市
+icon: shop
+author: Mr.Hope
+time: 2023-09-23T10:52:59.529Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: Mr.Hope 的建议
+        icon: idea
+        path: tip
+
+  - tag: text
+    text: 净月校区的主要超市是京东便利店师大净月店。
+
+  - tag: list
+    header: false
+    items:
+      - text: 京东便利店师大净月店
+        path: jingdong
+
+      - text: 二食堂生活区
+        path: /guide/life/dining2-district
+
+      - text: 净月临时售卖点
+        path: jingyue-temp
+
+  - tag: text
+    type: info
+    heading: 水之源超市
+    text:
+      - 学生浴池旁边有一家水之源超市，价格为普通零售价，性质类似于小区食杂店。主要售卖大众食品饮料以及常用生活用品等，东西不全。
+
+  - tag: text
+    heading: 校外超市
+
+  - tag: list
+    header: false
+    items:
+      - text: 校外超市
+        path: jingyue-out

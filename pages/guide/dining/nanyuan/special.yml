@@ -1,0 +1,75 @@
+title: 南苑餐厅特色档口
+icon: dining
+author: Mr.Hope
+time: 2023-09-22T16:59:13.604Z
+shareable: true
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text: 南苑餐厅的特色档口主要集中在一楼。
+
+  - tag: title
+    text: 档口
+
+  - tag: ul
+    text:
+      - 味千包子
+      - 轻食减脂餐 四川麻辣烫
+      - 响半天烤盘菜
+      - 好滋味营养套餐 (米饭专家)
+      - 东北饺子王
+      - 金牌快餐 称重自选
+      - 小锅菜翻勺饭 营养套餐炒饭盖饭
+      - 沙县小吃
+      - 阿旺福砂锅土豆粉
+      - 午前午后经典面庄
+      - 麻辣香锅
+
+  - tag: title
+    text: 相关价格
+
+  - tag: img
+    src: $img/dining/nanyuan/special1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special7.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special8.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special9.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special10.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special11.jpg
+    watermark: true

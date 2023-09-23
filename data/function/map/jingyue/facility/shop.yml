@@ -1,0 +1,22 @@
+title: 净月超市
+author: Mr.Hope
+time: 2023-08-24T20:06:42.417Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: Mr.Hope 的建议
+        icon: idea
+        path: /guide/shop/tip
+
+  - tag: text
+    text: 净月校区的主要超市是京东便利店师大净月店。
+
+  - tag: list
+    header: false
+    items:
+      - text: 京东便利店师大净月店
+        path: /guide/shop/jingdong
+
+      - text: 二食堂生活区
+        path: /guide/life/dining2-district

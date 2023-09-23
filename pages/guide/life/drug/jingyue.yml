@@ -1,0 +1,32 @@
+title: 净月药店
+icon: drug
+author: Mr.Hope
+time: 2023-09-23T10:52:59.363Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
+    text:
+      - |-
+        季康大药房: 浴池正门右侧
+
+  - tag: location
+    title: 净月药店
+    points:
+      - latitude: 43.826196
+        longitude: 125.421112
+        name: 季康大药房
+        detail: 学生浴池正门右侧
+
+  - tag: img
+    src: $img/life/jingyue/jikang.jpg
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text:
+      - 暂无信息

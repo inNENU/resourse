@@ -1,0 +1,18 @@
+title: 洗衣店
+icon: washer
+author: Mr.Hope
+time: 2023-09-23T10:52:59.416Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 为方便学生对多种服装的清洁要求，两校区校内均设有洗衣店与干洗店。
+
+  - tag: list
+    items:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

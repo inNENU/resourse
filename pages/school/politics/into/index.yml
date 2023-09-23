@@ -1,0 +1,24 @@
+title: 政法学院准入要求
+time: 2023-07-18T06:35:12.844Z
+shareable: true
+content:
+  - tag: list
+    header: 转入要求
+    items:
+      - text: 政治学与行政学
+        path: politics
+
+      - text: 国际政治
+        path: international
+
+      - text: 行政管理
+        path: manage
+
+      - text: 思想政治教育 (公费师范)
+        path: mind-normal
+
+      - text: 思想政治教育 (优师专项)
+        path: mind-great
+
+      - text: 法学
+        path: law

@@ -1,0 +1,23 @@
+title: 图书馆开馆时间
+icon: time
+author: Mr.Hope
+time: 2023-09-22T15:38:33.226Z
+shareable: true
+content:
+  - tag: title
+    text: 本部校区
+
+  - tag: img
+    src: $img/library/benbu-open-time.png
+
+  - tag: title
+    text: 田家炳楼
+
+  - tag: img
+    src: $img/library/tianjiabing-open-time.png
+
+  - tag: title
+    text: 净月校区
+
+  - tag: img
+    src: $img/library/jingyue-open-time.png

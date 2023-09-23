@@ -1,0 +1,60 @@
+title: 转专业
+icon: change
+author: Mr.Hope
+time: 2023-09-22T16:59:13.450Z
+shareable: true
+content:
+  - tag: title
+    text: 本科生转专业
+
+  - tag: list
+    header: 2023 年公告
+    items:
+      - text: 全日制本科生转专业工作通知
+        icon: notice
+        path: notice
+
+      - text: 非师范生转为公费师范生工作通知
+        icon: notice
+        path: normal-notice
+
+      - text: 往年公示名单
+        icon: plan
+        path: list
+
+  - tag: list
+    header: 规则与流程
+    items:
+      - text: 全日制本科生转专业实施办法
+        desc: 官方文件
+        icon: contract
+        path: /intro/rule/under-change-major
+
+      - text: 本科生转专业执行流程
+        icon: flow
+        path: flow
+
+      - text: 本科生转专业准入细则
+        icon: alert
+        path: requirement
+
+  - tag: list
+    header: 解读与建议
+    items:
+      - text: 本科生转专业实施办法解读
+        icon: explain
+        path: explain
+
+      - text: 常见问题
+        icon: faq
+        path: faq
+
+      - text: Mr.Hope の个人建议
+        icon: idea
+        path: advice
+
+  - tag: title
+    text: 研究生转专业
+
+  - tag: text
+    text: 研究生原则上不得转专业，只有当身体或家庭情况出现重大问题不适合继续在当前学校专业完成学业、导师调整无法继续指导学业或其他重大原因，可经公示后调整专业或学校。

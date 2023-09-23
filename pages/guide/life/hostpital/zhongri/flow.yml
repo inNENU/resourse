@@ -1,0 +1,35 @@
+title: 中日联谊医院就诊流程
+icon: flow
+author: Mr.Hope
+time: 2023-09-23T10:52:59.396Z
+shareable: true
+cite:
+  - https://www.zrlyyy.com/jzzn/jyxz/
+  - https://yygh.zrlyyy.com/
+content:
+  - tag: title
+    text: 预约挂号
+
+  - tag: text
+    text: 您可使用网上预约平台，也可扫描微信/支付宝智慧医院平台二维码按提示进行预约。
+
+  - tag: action
+    header: 网上预约平台
+    content: https://yygh.zrlyyy.com/index.php
+
+  - tag: img
+    src: $img/life/hospital/zhongri-wechat.png
+    desc: 微信平台
+
+  - tag: img
+    src: $img/life/hospital/zhongri-alipay.jpg
+    desc: 支付宝
+
+  - tag: title
+    text: 门诊入口流程
+
+  - tag: ol
+    text:
+      - 出示门诊挂号凭证/预约检查凭证、身份证 (一名患者一位陪护人员) ；
+      - 出示行程卡 (老年人及特殊情况的患者进行人工登记) ；
+      - 通过测温门，体温正常后，闸机扫描吉祥码进入门诊区域 (体温异常或吉祥码有异的人员，配合预检分诊工作人员进行进一步筛查) 。

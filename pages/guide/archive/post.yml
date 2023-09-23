@@ -1,0 +1,39 @@
+title: 档案相关
+icon: archive
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.315Z
+shareable: true
+content:
+  - tag: list
+    header: 档案转入
+    items:
+      - text: 研究生档案转入
+        path: post-in
+
+  - tag: list
+    header: 档案转出
+    items:
+      - text: 档案派遣
+        icon: dispatch
+        path: dispatch
+
+      - text: 查询档案邮寄情况
+        icon: search
+        path: search
+
+      - text: 暂缓档案
+        icon: postpone
+        path: postpone
+
+      - text: 特殊情况的档案处理
+        icon: alert
+        path: special
+
+      - text: 其他常见问题
+        icon: faq
+        path: faq
+
+      - text: 咨询与联系
+        icon: phone
+        path: contact

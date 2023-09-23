@@ -1,0 +1,40 @@
+title: 研究生奖学金简介
+icon: metal
+author: Mr.Hope
+time: 2023-09-23T11:16:45.576Z
+shareable: true
+content:
+  - tag: title
+    text: 国家奖学金
+
+  - tag: p
+    text: 用于奖励学业成绩特别优秀、科学研究成果显著、社会公益活动表现突出的研究生。博士生为 3 万元/人，硕士生为 2 万元/人。学校每年按照国家下达的指标开展评审工作。
+
+  - tag: title
+    text: 学业奖学金
+
+  - tag: p
+    text: 用于奖励和支持研究生更好地完成学业。学业奖学金每学年考核一次，分两次发放，奖励年限不超过该专业基本修业年限。
+
+  - tag: img
+    src: $img/study/postgraduate-intro.png
+    desc: 学业奖学金标准
+
+  - tag: title
+    text: 校长奖学金
+
+  - tag: p
+    text: 用于奖励全面发展的优秀研究生。博士生校长奖学金为 1 万元/生，奖励比例为 5%，硕士生校长奖学金为 0.5 万元/生，奖励比例为 2%，校长奖学金每年评定一次。公费师范毕业生在职攻读教育硕士专业学位研究生校长奖学金于研究生毕业时评定，一等奖学金 1 万元/生，二等奖学金 0.5 万元/生。
+
+  - tag: title
+    text: 宝钢优秀学生奖
+
+  - tag: p
+    text: 由上海宝钢教育基金会设立，用于奖励全面发展的优秀研究生，每生奖励 1 万元。
+
+  - tag: title
+    text: 相关文件
+
+  - tag: doc
+    name: 东北师范大学研究生国家奖学金评审细则
+    url: $file/scholarship/postgraduate.pdf

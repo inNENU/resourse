@@ -1,0 +1,71 @@
+title: 校园卡补办
+icon: add
+author: Mr.Hope
+time: 2023-09-22T16:59:13.431Z
+shareable: true
+content:
+  - tag: text
+    type: warning
+    heading: 完成卡挂失
+    text:
+      - 在补卡前，必须在旁边的自助终端机或微信企业号校园卡板块进行挂失。
+
+  - tag: title
+    text: 补卡流程
+
+  - tag: location
+    title: 自助补卡终端机位置
+    points:
+      - latitude: 43.862774
+        longitude: 125.334059
+        detail: 北苑食堂一楼
+
+      - latitude: 43.824568
+        longitude: 125.425673
+        detail: 冬华公寓门口二楼
+
+  - tag: ul
+    text:
+      - |-
+        前往自助补卡机 (非普通自助终端机)
+        本部在北苑食堂一楼东侧
+        净月在冬华公寓门口左手边的二楼
+      - 输入学号与校园卡密码进行验证
+      - 确认账户信息
+      - 支付补卡费用 20.00元 (支持现金、校园卡余额、微信与支付宝支付)
+      - 等待制卡完成
+
+  - tag: img
+    src: $img/card/create-terminal.jpg
+    desc: 补卡终端机
+
+  - tag: title
+    text: 注意事项
+
+  - tag: text
+    type: tip
+    heading: 补办的卡
+    text: 补办的卡内使用全新的 IC 卡号，是一张彻彻底底的新卡。
+
+  - tag: ul
+    type: note
+    heading: 注意
+    text:
+      - 消费限额以及校园卡密码会被重置为默认值
+      - 卡内余额为 0，旧卡余额需要您手动领取才能转入
+      - 银行卡(学子卡) 绑定会被解除，需要重新绑定
+      - 生活用水和直饮机可能需要手动激活
+      - 直饮机可能需要等待 72 小时后才能使用。
+
+  - tag: ol
+    heading: 您需要
+    text:
+      - 到自助终端机和生活用水补助机激活直饮机与生活热水；
+      - 在旧卡挂失两天(72 小时)后，您才可以通过自助终端机领取旧卡里的余额；
+      - 请您立即到自助终端机修改校园卡密码与消费限额；
+      - 如有需要，请您重新绑定学子卡；
+
+  - tag: text
+    type: warning
+    heading: 注意事项
+    text: 使用新卡后，您将无法在线或使用自助终端机查询旧卡的流水信息。如果您怀疑您的卡被盗刷，请联系信息化办调取旧卡消费记录并移交保卫科处理。

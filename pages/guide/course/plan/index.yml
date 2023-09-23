@@ -1,0 +1,120 @@
+title: 人才培养方案
+icon: plan
+author: Mr.Hope
+time: 2023-09-22T16:59:13.519Z
+desc: 学院顺序来自东北师范大学教务处
+shareable: true
+content:
+  - tag: title
+    text: 人才培养方案
+
+  - tag: p
+    text:
+      - 在大学需要修读的总学分、与每个课程类别需要修读的学分数量，由所在专业的人才培养方案决定。学校会要求学院针对旗下每个招生专业出台对应的人才培养方案。
+      - 人才培养方案会明确规定每个专业的修读年限、修读总学分、各类别课程的学分以及其他要求。同时，人才培养方案还会列出学院内部开设的所有课程的课程名称、课程开设时间、学分以及建议修读学期。
+      - 如果您想明确自己的专业的学习内容与各课程的难度与依赖关系，除了询问学长学姐之外，仔细研读人才培养方案中所在专业开设的课程与建议修学时间也是一个极好的选择。而且，在大一初始就明确人才培养方案的内容，要比大四选课前再查看自己欠缺的课程要好很多，最起码在一开始就明确了自己专业的学习内容。
+
+  - tag: text
+    type: warning
+    text:
+      - 请注意，最近几年几乎每一届的人才培养方案都会有修改、调整或者变动，所以以下内容仅供参考。具体以入学后学院教务秘书下发的当届人才培养方案为准。
+      - 此外，您大一拿到的人才培养方案也很大概率不是最终版本，在后几年可能还会发生变动 (如响应国家要求添加新的课程)，所以请您在大三大四密切关注自己所在年级人才培养方案的修正情况。
+
+  - tag: title
+    text: 各学院人才培养方案
+
+  - tag: list
+    header: false
+    items:
+      - text: 教育学部人才培养方案
+        icon: education
+        path: education
+
+      - text: 心理学院人才培养方案
+        icon: psychology
+        path: psychology
+
+      - text: 政法学院人才培养方案
+        icon: politics
+        path: politics
+
+      - text: 经济与管理学院人才培养方案
+        icon: economy
+        path: economy
+
+      - text: 文学院人才培养方案
+        icon: chinese
+        path: chinese
+
+      - text: 历史文化学院人才培养方案
+        icon: history
+        path: history
+
+      - text: 外国语学院人才培养方案
+        icon: foreign
+        path: foreign
+
+  - tag: doc
+    name: 音乐学院本科人才培养方案
+    url: $file/course-plan/music.pdf
+
+  - tag: doc
+    name: 美术学院本科人才培养方案
+    url: $file/course-plan/fineart.pdf
+
+  - tag: list
+    header: false
+    items:
+      - text: 马克思主义学部本科人才培养方案
+        icon: marx
+        path: marx
+
+      - text: 数学与统计学院本科人才培养方案
+        icon: math
+        path: math
+
+      - text: 信息科学与技术学院人才培养方案
+        icon: ist
+        path: ist
+
+      - text: 物理学院人才培养方案
+        icon: physics
+        path: physics
+
+      - text: 化学学院本科人才培养方案
+        icon: chemistry
+        path: chemistry
+
+      - text: 生命科学学院本科人才培养方案
+        icon: biology
+        path: biology
+
+      - text: 地理科学学院本科人才培养方案
+        icon: geography
+        path: geography
+
+      - text: 环境学院本科人才培养方案
+        icon: environment
+        path: environment
+
+      - text: 体育学院本科人才培养方案
+        icon: basketball
+        path: pe
+
+      - text: 传媒科学学院(新闻学院)本科人才培养方案
+        icon: media
+        path: media
+
+  - tag: doc
+    name: 国际汉学院(海外教育学院)本科人才培养方案
+    url: $file/course-plan/international.pdf
+
+  - tag: doc
+    name: 罗格斯大学·纽瓦克学院本科人才培养方案
+    url: $file/course-plan/Newark.pdf
+
+  - tag: list
+    header: 指导意见
+    items:
+      - text: 东北师范大学本科人才培养方案修订指导性意见
+        path: all

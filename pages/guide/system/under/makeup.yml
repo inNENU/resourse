@@ -1,0 +1,34 @@
+title: 补考课程申请
+icon: reset
+author: Mr.Hope
+time: 2023-09-23T12:20:00.118Z
+shareable: true
+content:
+  - tag: title
+    text: 申请方式
+
+  - tag: text
+    text: 访问本科教学服务系统，在系统内发起申请。
+
+  - tag: text
+    type: info
+    heading: 如何访问本科教学服务系统
+    path: intro
+
+  - tag: title
+    text: 申请流程
+
+  - tag: ol
+    text:
+      - 点击“考试管理”
+      - 点击“补考报名”
+      - 在列表中选择需要报名的课程
+      - 保存并送审
+
+  - tag: img
+    src: $img/system/test-manage.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/system/makeup.png
+    watermark: true

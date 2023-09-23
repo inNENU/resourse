@@ -1,0 +1,203 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mp.innenu.com/.vscode/components.schema.json",
+  "additionalProperties": false,
+  "$defs": {
+    "service-status": {
+      "description": "服务状态",
+      "oneOf": [{ "const": "local" }, { "const": "online" }]
+    }
+  },
+  "properties": {
+    "main-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|unlogin|default)": { "type": "string" }
+      }
+    },
+    "main-presets": {
+      "type": "object",
+      "patternProperties": {
+        ".*": { "$ref": "#/$defs/components" }
+      }
+    },
+    "function-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|unlogin|default)": { "type": "string" }
+      }
+    },
+    "function-presets": {
+      "type": "object",
+      "patternProperties": {
+        "patternProperties": {
+          ".*": { "$ref": "#/$defs/components" }
+        }
+      }
+    },
+    "intro-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|unlogin|default)": {
+          "type": "object",
+          "properties": {
+            "items": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "more": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "guide-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|unlogin|default)": {
+          "type": "object",
+          "properties": {
+            "items": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "more": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "user": {
+      "$ref": "#/$defs/components"
+    },
+    "about": {
+      "$ref": "#/$defs/components"
+    },
+    "service": {
+      "type": "object",
+      "properties": {
+        "activate": {
+          "description": "账号激活",
+          "$ref": "#/$defs/service-status"
+        },
+        "apply-email": {
+          "description": "邮箱申请",
+          "$ref": "#/$defs/service-status"
+        },
+        "borrow-books": {
+          "description": "借书数据",
+          "$ref": "#/$defs/service-status"
+        },
+        "card-balance": {
+          "description": "校园卡余额",
+          "$ref": "#/$defs/service-status"
+        },
+        "change-major-plan": {
+          "description": "转专业计划",
+          "$ref": "#/$defs/service-status"
+        },
+        "course-grade": {
+          "description": "成绩列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "course-table": {
+          "description": "课程表",
+          "$ref": "#/$defs/service-status"
+        },
+        "exam-place": {
+          "description": "考场地点",
+          "$ref": "#/$defs/service-status"
+        },
+        "check-email": {
+          "description": "邮箱检查",
+          "$ref": "#/$defs/service-status"
+        },
+        "recent-email": {
+          "description": "近期邮件",
+          "$ref": "#/$defs/service-status"
+        },
+        "email-page": {
+          "description": "邮件页面",
+          "$ref": "#/$defs/service-status"
+        },
+        "info-list": {
+          "description": "官网通知列表",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "info-detail": {
+          "description": "官网通知详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "reset": {
+          "description": "密码重置",
+          "$ref": "#/$defs/service-status"
+        },
+        "notice-list": {
+          "description": "通知列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "notice-detail": {
+          "description": "通知详情",
+          "$ref": "#/$defs/service-status"
+        }
+      },
+      "additionalProperties": false
+    },
+    "notice": {
+      "type": "object",
+      "patternProperties": {
+        ".*": {
+          "description": "页面 ID",
+          "type": "object",
+          "properties": {
+            "title": {
+              "description": "通知标题",
+              "type": "string"
+            },
+            "content": {
+              "description": "通知内容",
+              "type": "string"
+            },
+            "force": {
+              "description": "是否强制显示",
+              "type": "boolean"
+            }
+          },
+          "required": ["title", "content"]
+        }
+      }
+    },
+    "update": {
+      "type": "object",
+      "description": "升级配置",
+      "properties": {
+        "force": {
+          "description": "是否强制升级",
+          "type": "boolean"
+        },
+        "reset": {
+          "description": "是否重置",
+          "type": "boolean"
+        }
+      }
+    }
+  },
+  "required": [
+    "main-page",
+    "main-presets",
+    "function-page",
+    "function-presets",
+    "intro-page",
+    "guide-page",
+    "user",
+    "about",
+    "service",
+    "notice"
+  ],
+  "type": "object"
+}

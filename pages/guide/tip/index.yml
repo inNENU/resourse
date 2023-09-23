@@ -1,0 +1,50 @@
+title: 小贴士
+icon: idea
+author: Mr.Hope
+time: 2023-09-23T10:52:59.576Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 学习相关
+    items:
+      - text: 优秀毕业生建议
+        icon: study
+        path: /newcomer/advice/
+
+  - tag: list
+    header: 数码相关
+    items:
+      - text: Windows 相关
+        icon: windows
+        path: win/
+
+      - text: Windows 相关
+        icon: windows
+        path: win/
+
+      - text: Mac 相关
+        icon: apple
+        path: mac/
+
+  - tag: list
+    header: 生活常识
+    items:
+      - text: 洗衣相关
+        icon: washer
+        path: washing/
+
+      - text: 过冬贴士
+        icon: snowman
+        path: winter/
+
+      - text: 交通出行
+        icon: train
+        path: /guide/traffic/
+
+  - tag: list
+    header: 文化相关
+    items:
+      - text: 东北习俗
+        icon: habit
+        path: habit/

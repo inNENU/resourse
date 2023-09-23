@@ -1,0 +1,82 @@
+title: 师范生介绍
+icon: teacher
+author: Mr.Hope
+time: 2023-09-23T10:52:59.445Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 师范生协议填写说明
+        icon: idea
+        path: fill
+
+  - tag: list
+    items:
+      - text: 公费师范生介绍
+        icon: teacher
+        path: free-intro
+
+      - text: 优师专项师范生介绍
+        icon: teacher
+        path: great-intro
+
+  - tag: list
+    header: 国优计划
+    items:
+      - text: 教育部通知
+        icon: notice
+        path: nation-great/notice
+
+      - text: 教育部解读
+        icon: explain
+        path: nation-great/explain
+
+  - tag: list
+    header: 相关政策
+    items:
+      - text: 教育部直属师范大学师范生公费教育实施办法
+        icon: rule
+        path: normal
+
+      - text: 公费师范生协议
+        icon: contract
+        path: free-contract
+
+      - text: 优师专项师范生协议
+        icon: contract
+        path: great-contract
+
+  - tag: list
+    header: 师范类专业认证
+    items:
+      - text: 师范类专业认证情况
+        icon: verify
+        path: authorize/status
+
+      - text: 师范类专业认证解释
+        icon: explain
+        path: authorize/explain
+
+      - text: 普通高等学校师范类专业认证实施办法 (暂行)
+        icon: rule
+        path: authorize/rule
+
+  - tag: list
+    header: 常见问题
+    items:
+      - text: 公费师范生转专业相关解答
+        icon: faq
+        path: /guide/change-major/faq
+
+      - text: 师范类专业与公费师范生解释
+        icon: explain
+        path: explain
+
+      - text: 公费师范生常见问题
+        icon: faq
+        path: free-faq
+
+      - text: 优师专项师范生常见问题
+        icon: faq
+        path: great-faq

@@ -1,0 +1,20 @@
+title: 常见就业流程
+icon: flow
+author: Mr.Hope
+time: 2023-09-23T08:04:54.246Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 网上签约流程
+        path: web-sign
+
+      - text: 定向(委培)解约
+        path: terminate
+
+      - text: 《就业协议书》违约
+        path: obey
+
+      - text: 公费师范生相关
+        path: normal

@@ -1,0 +1,62 @@
+title: 净月校区校门
+icon: gate
+author: Mr.Hope
+time: 2023-09-23T12:11:49.032Z
+shareable: true
+content:
+  - tag: text
+    type: note
+    text:
+      # - 报到期间只会开放正门(又叫北门、1 号门)。
+      - 报到期间只会开放 2 号门 (又叫雕塑门) 或 4 号门
+
+  # - tag: title
+  #   text: 净月 1 号门 (正门、东北门)
+
+  # - tag: location
+  #   title: 正门
+  #   points:
+  #     - latitude: 43.82853
+  #       longitude: 125.43107
+  #       detail: 1 号门
+
+  # - tag: img
+  #   src: $img/scenery/jingyue/gate/east.jpg
+  #   watermark: true
+
+  - tag: title
+    text: 净月 2 号门 (雕塑门)
+
+  - tag: location
+    title: 2 号门
+    points:
+      - latitude: 43.829133
+        longitude: 125.427097
+        name: 二号门
+        detail: 净月校区二号门
+        path: jingyue/gate/gate2
+
+  - tag: img
+    src: $img/scenery/jingyue/gate/gate2-1.jpg
+    watermark: true
+
+  - tag: p
+    text:
+      - 此门名称的由来是门口有雕塑。
+      # - 进门后一直往前走(这条路有点长)，经过“大菜花”(其实官方称号叫生命树)后右转直行，走到头就是图书馆前的空地了，迎新摆台就在那里。
+
+  - tag: title
+    text: 净月 4 号门
+
+  - tag: img
+    src: $img/scenery/jingyue/gate/gate4.jpg
+    watermark: true
+
+  - tag: location
+    title: 4 号门
+    points:
+      - latitude: 43.826572
+        longitude: 125.420067
+        name: 四号门
+        detail: 净月校区四号门
+        path: jingyue/gate/gate4

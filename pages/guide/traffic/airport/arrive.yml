@@ -1,0 +1,79 @@
+title: 到达龙嘉机场
+icon: landing
+desc: 相关资料来自长春市龙嘉国际机场官网
+author: Mr.Hope
+time: 2023-09-23T10:52:59.655Z
+shareable: true
+cite: http://www.ccairport.cn/Traveller/arrive
+content:
+  - tag: text
+    text: 国内航班到达长春龙嘉国际机场后停泊在 2 号航站楼。
+
+  - tag: title
+    text: 6 部自动步道
+
+  - tag: text
+    text: 到达二层走廊设有自动步道 6 部，每条长约 50 米，下飞机的旅客出来后可以顺着步道向前走，快速到达一楼行李提取区提取行李。
+
+  - tag: title
+    text: 行李提取
+
+  - tag: text
+    text: 2 号航站楼共有 5 个行李转盘，其中 T 型转盘 4 个、U 型转盘 1 个。
+
+  - tag: ul
+    type: info
+    heading: 在航班保障正常情况下
+    text:
+      - 国内进港航班首件行李在旅客到达行李转盘后 10 分钟内出现。
+      - 国内进港航班末件行李在旅客到达行李转盘后 40 分钟内出现。
+
+  - tag: title
+    text: 出 2 号航站楼
+
+  - tag: text
+    heading: 去往高铁
+    text:
+      - 2 号航站楼至长春龙嘉高铁站地下连廊总距离 600 余米，由 2 号通廊、3 号通廊及部分 1 号通廊组成。乘坐高铁的旅客，需到地下一层，顺着换乘通道按标识指引向前走，步行向西至 3 号通廊和 1 号通廊交界处，向南走便可到达龙嘉高铁站了。
+      - 至高铁站步行只需 10 分钟。
+
+  - tag: list
+    header: false
+    items:
+      - text: 详情
+        icon: railway
+        path: train
+
+  - tag: text
+    heading: 乘机场巴士
+    text:
+      - 售票处在 9 号门旁，票价每张 25 元。
+
+  - tag: list
+    header: false
+    items:
+      - text: 详情
+        icon: bus
+        path: bus
+
+  - tag: text
+    heading: 亲戚朋友来接站
+    text:
+      - 接站的社会车辆可按照标识标牌引导进入停车场，接站后分别沿 1 号航站楼停车场主路、2 号航站楼前主路直行，驶离机场。
+
+  - tag: list
+    header: false
+    items:
+      - text: 收费详情
+        icon: parking
+        path: parking
+
+  - tag: text
+    heading: 乘坐出租车
+
+  - tag: list
+    header: false
+    items:
+      - text: 详情
+        icon: taxi
+        path: taxi

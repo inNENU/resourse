@@ -1,0 +1,54 @@
+title: 二食堂
+icon: dining
+desc: |-
+  概况部分来自东北师范大学后勤保障部官网
+author: Mr.Hope
+time: 2023-09-22T16:59:13.581Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 简介
+    items:
+      - text: 学生二食堂一楼是净月校区最大的生活重心，二三楼主要提供饮食服务。
+
+      - text: 了解更多
+        path: intro
+
+  - tag: list
+    header: 一楼
+    items:
+      - text: 为生活综合中心，包括超市、驿站以及众多店铺。
+
+      - text: 了解更多
+        path: /guide/life/dining2-district
+
+  - tag: list
+    header: 基本餐
+    items:
+      - text: 位于二楼西北侧，包含盒饭以及小份菜。
+
+      - text: 了解更多
+        path: basic
+
+  - tag: list
+    header: 称重自选餐
+    items:
+      - text: 位于二楼东北侧，价格为 18.8/500g
+
+      - text: 了解更多
+        path: select
+
+  - tag: list
+    header: 特色档口
+    items:
+      - text: 主要位于三楼。
+
+      - text: 了解更多
+        path: special/
+
+  - tag: phone
+    header: 服务电话
+    num: 0431-84536056
+    fName: 二食堂服务电话
+    org: 东北师范大学

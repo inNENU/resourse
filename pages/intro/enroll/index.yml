@@ -1,0 +1,75 @@
+title: 招生情况
+icon: enroll
+grey: true
+author: Mr.Hope
+time: 2023-09-23T12:19:59.358Z
+shareable: true
+content:
+  - tag: list
+    header: 本科招生
+    items:
+      # - text: 2023 年本科招生简章
+      #   icon: rule
+      #   path: under/rule/
+
+      # - text: 2023 年招生计划
+      #   icon: rule
+      #   url: enroll-plan
+      #   env:
+      #     - app
+      #     - qq
+      #     - wx
+
+      # - text: 历史分数线
+      #   icon: time
+      #   url: enroll-grade
+      #   env:
+      #     - app
+      #     - qq
+      #     - wx
+
+      - text: 大类招生介绍
+        icon: about
+        path: class/intro
+
+      - text: 本科大类招生专业分流工作指导意见
+        icon: notice
+        path: class/rule
+
+      - text: 招生咨询群
+        icon: qq-group
+        path: under/qq-group
+
+      - text: 更多信息
+        icon: more
+        path: under/
+
+  - tag: list
+    header: 研究生招生
+    items:
+      - text: 2024 年招生专业、人数与联系方式
+        icon: list
+        path: grad/major/2024
+
+      - text: 2024 年硕士研究生招生简章
+        icon: rule
+        path: grad/rule/2024
+
+      - text: 2024 年全国硕士研究生招生工作管理规定
+        icon: rule
+        path: grad/rule/2024-all
+
+      - text: 东师研招公众号
+        icon: wechat
+        url: wechat-detail?path=graduate
+
+      - text: 更多
+        icon: more
+        path: grad/
+
+  - tag: list
+    header: 第二学士学位
+    items:
+      - text: 2023 年第二学士学位招生简章
+        icon: rule
+        path: second-degree/2023

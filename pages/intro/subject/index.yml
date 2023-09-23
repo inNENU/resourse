@@ -1,0 +1,39 @@
+title: 学科建设
+icon: content
+grey: true
+author: Mr.Hope
+time: 2023-09-23T11:16:45.579Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 双一流学科
+        icon: star
+        path: top
+
+      - text: 学科建设
+        icon: content
+        path: subject
+
+      - text: 专业排名
+        icon: rank
+        path: rank
+
+  - tag: title
+    text: 第三方排名
+
+  - tag: action
+    header: QS 世界大学排名
+    content: https://www.topuniversities.com/
+
+  - tag: action
+    header: THE 世界大学排名
+    content: https://www.timeshighereducation.com/
+
+  - tag: action
+    header: US NEWS 世界最佳大学排名
+    content: https://www.usnews.com/education/best-global-universities
+
+  - tag: action
+    header: 软科排名
+    content: https://www.shanghairanking.cn/rankings

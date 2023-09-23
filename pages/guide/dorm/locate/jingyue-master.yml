@@ -1,0 +1,106 @@
+title: 净月研究生寝室安排
+icon: dorm
+desc: 部分图片来自东北师范大学招生办微信公众号
+author: Mr.Hope
+time: 2023-09-23T08:04:54.139Z
+shareable: true
+outdated: true
+content:
+  - tag: title
+    text: 寝室安排
+
+  - tag: text
+    type: note
+    heading: 研究生寝室分布数据
+    path: data
+
+  - tag: location
+    title: 净月研究生寝室
+    points:
+      - latitude: 43.824705
+        longitude: 125.421396
+        name: 春华公寓
+
+      - latitude: 43.824732
+        longitude: 125.425748
+        name: 冬华公寓
+
+      - latitude: 43.826905
+        longitude: 125.422825
+        name: 日华公寓
+
+      - latitude: 43.826839
+        longitude: 125.421734
+        name: 月华公寓
+
+      - latitude: 43.825932
+        longitude: 125.422803
+        name: 星华公寓
+
+  - tag: title
+    text: 人华公寓
+
+  - tag: text
+    text: 居住美术学院和音乐学院研究生。
+
+  - tag: img
+    src: $img/dorm/ren-hua.jpg
+    watermark: true
+
+  - tag: title
+    text: 冬华公寓
+
+  - tag: text
+    text:
+      - 男女混寝，A 栋 4 - 6 楼为女生寝室。
+      - 居住美术学院、音乐学院、信息科学与技术学院、政法学院、环境学院、经济与管理学院、传媒科学学院、外国语学院研究生。
+
+  - tag: img
+    src: $img/dorm/dong-hua.jpg
+    watermark: true
+
+  - tag: title
+    text: 星华公寓
+
+  - tag: text
+    text:
+      - 居住美术学院、音乐学院、信息科学与技术学院、政法学院、环境学院、经济与管理学院、传媒科学学院、外国语学院研究生。
+
+  - tag: img
+    src: $img/dorm/xing-hua.jpg
+    watermark: true
+
+  - tag: title
+    text: 月华公寓
+
+  - tag: text
+    text: 居住美术学院、音乐学院、信息科学与技术学院、政法学院、环境学院、经济与管理学院、传媒科学学院、外国语学院研究生
+
+  - tag: img
+    src: $img/dorm/yue-hua.jpg
+    watermark: true
+
+  - tag: title
+    text: 春华公寓
+
+  - tag: text
+    text: 居住外国语学院研究生
+
+  - tag: img
+    src: $img/dorm/chun-hua.jpg
+    watermark: true
+
+  - tag: title
+    text: 日华公寓
+
+  - tag: text
+    text: 居住物理、政法以及外国语学院研究生
+
+  - tag: img
+    src: $img/dorm/ri-hua.jpg
+    watermark: true
+
+  - tag: text
+    type: tip
+    text:
+      - 由于研究生每届人数变动较大，且床位紧张，故每届的具体分配都会存在变动，故本页内容为大多数人的安排，仅供参考，请最终以研究生院的安排为准。

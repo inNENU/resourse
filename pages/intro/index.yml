@@ -1,0 +1,51 @@
+title: 东师介绍
+icon: about
+grey: true
+content:
+  - tag: grid
+    header: 学校介绍
+    items:
+      - text: 学校概况
+        color: red
+        name: Description
+        icon: about
+        path: about/
+
+      - text: 学科建设
+        color: olive
+        name: Subject
+        icon: content
+        path: subject/
+
+      - text: 学生就业
+        color: cyan
+        name: Job
+        icon: job
+        path: job/
+
+      - text: 资助
+        color: purple
+        name: Subsidize
+        icon: subsidize
+        path: subsidize/
+
+  - tag: grid
+    header: 招生信息
+    items:
+      - text: 本科生招生
+        color: orange
+        name: Under enroll
+        icon: enroll
+        path: enroll/under/
+
+      - text: 研究生招生
+        color: blue
+        name: Grad enroll
+        icon: enroll
+        path: enroll/grad/
+
+      - text: 第二学士学位
+        color: grey
+        name: Double enroll
+        icon: enroll
+        path: enroll/second-degree/

@@ -1,0 +1,37 @@
+title: 环境学院
+author: Mr.Hope
+time: 2020-09-01
+content:
+  - tag: account
+    name: 环境学院
+    logo: $img/media/environment.png
+    detail: NENU 环境学院
+    wxid: dongshihuanjing
+
+    account: environment
+    location:
+      latitude: 43.825102
+      longitude: 125.426706
+    site: https://hjxy.nenu.edu.cn
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: /school/environment/intro
+
+      - text: 专业介绍
+        icon: intro
+        path: /school/environment/enroll
+
+      - text: 科研平台
+        icon: platform
+        path: /school/environment/platform
+
+      - text: 实验教学示范中心
+        icon: degree
+        path: /school/environment/teach
+
+      - text: 实验中心
+        icon: experiment
+        path: /school/environment/experiment

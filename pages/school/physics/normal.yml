@@ -1,0 +1,58 @@
+title: 物理学 (公费师范生)
+desc: |-
+  来源: 2023 年本科招生指南
+time: 2023-06-27T16:49:20.964Z
+cite:
+  - https://book.eol.cn/books/kpeu/mobile/index.html
+shareable: true
+content:
+  - tag: title
+    text: 专业简介
+
+  - tag: p
+    text: 为公费师范方向，旨在立足东北、面向国家基础物理教育改革发展的人才需求，培养具有坚定的政治信念、高尚的师德修养、先进的教育理念、深厚的物理学科素养、宽厚的理学相关学科基础、较强的教育教学实践能力和发展潜力、一定的信息素养和沟通合作能力，具备教育家潜质的优秀中学物理教师。
+
+  - tag: title
+    text: 主干课程
+
+  - tag: ul
+    text:
+      - 高等数学
+      - 力学
+      - 热学
+      - 光学
+      - 电磁学
+      - 原子物理
+      - 基础物理实验
+      - 综合物理实验
+      - 数学物理方法
+      - 理论力学
+      - 量子力学
+      - 电动力学
+      - 热力学与统计物理
+      - 固体物理
+      - 近代物理实验
+      - 电子线路与实验
+      - 教师教育类课程
+
+  - tag: title
+    text: 学费价格
+
+  - tag: text
+    text: 无，国家公费培养
+
+  - tag: title
+    text: 就业方向
+
+  - tag: text
+    text: 按国家师范生公费教育政策，从事基础教育工作。
+
+  - tag: title
+    text: 优秀毕业生建议
+
+  - tag: list
+    header: false
+    items:
+      - text: 顾卓成
+        icon: idea
+        path: /newcomer/advice/physics/gu

@@ -1,0 +1,23 @@
+title: 本科生缓考
+icon: time
+author: Mr.Hope
+time: 2023-09-22T16:59:13.290Z
+shareable: true
+cite: http://my.nenu.edu.cn/hallIndex/showAppDetail?appid=a830e4f1dd744f83b2b65511a42fe2cb
+content:
+  - tag: title
+    text: 执行流程
+
+  - tag: img
+    src: $img/action/aftertake.jpg
+
+  - tag: title
+    text: 相关内容
+
+  - tag: list
+    header: false
+    items:
+      # TODO:
+      - text: 本科缓考申请
+        desc: 制作中
+        path: /guide/system/under/

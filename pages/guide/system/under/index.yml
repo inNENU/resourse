@@ -1,0 +1,38 @@
+title: 本科教学服务系统
+icon: system
+author: Mr.Hope
+time: 2023-09-23T12:20:00.115Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 系统介绍
+        icon: intro
+        path: intro
+
+      - text: 英语免修申请
+        icon: exemption
+        path: exemption/english
+
+      - text: 其他免修申请
+        icon: exemption
+        path: exemption/others
+
+      - text: 补考申请
+        icon: time
+        path: makeup
+
+      - text: 学籍注册
+        icon: rule
+        path: school-roll
+
+      - text: 转专业申请
+        icon: flow
+        path: change-major
+
+  - tag: list
+    items:
+      - text: 常见问题
+        icon: faq
+        path: faq

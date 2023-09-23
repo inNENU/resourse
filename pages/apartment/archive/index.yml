@@ -1,0 +1,34 @@
+title: 档案馆
+icon: archive
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.055Z
+shareable: true
+content:
+  - tag: account
+    name: 档案馆
+    logo: $img/media/official.png
+    detail: 东北师范大学档案馆
+    wxid: gh_6831c1b199d0
+
+    account: archive
+    mail: archives@nenu.edu.cn
+    site: https://dag.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 档案馆介绍
+        icon: intro
+        path: intro
+
+      - text: 联系方式
+        icon: phone
+        path: contact
+
+  - tag: action
+    header: 毕业生档案转递系统
+    content: http://dsdazd.nenu.edu.cn:8090/nutzfwdbsd/management/login
+
+  - tag: action
+    header: 东师档案集成服务平台
+    content: http://dagfwly.nenu.edu.cn/lyfwpt/login.jsp

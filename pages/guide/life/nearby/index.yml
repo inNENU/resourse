@@ -1,0 +1,15 @@
+title: 校园周边
+icon: nearby
+author: Mr.Hope
+time: 2023-09-23T10:52:59.402Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 吃喝玩乐
+    items:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

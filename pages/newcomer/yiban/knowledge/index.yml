@@ -1,0 +1,47 @@
+title: 入学教育课程知识点
+icon: star
+author: Mr.Hope
+time: 2023-09-23T12:11:49.148Z
+grey: true
+shareable: true
+content:
+  - tag: text
+    type: warning
+    text:
+      - 此栏目仅用于帮助新生同学记忆考试要点。
+      - 请勿用于作弊。
+
+  - tag: list
+    header: 知识点
+    items:
+      - text: 学校介绍
+        icon: about
+        path: intro
+
+      - text: 学生资助
+        icon: subsidize
+        path: subsidize
+
+      - text: 新生入学
+        icon: check
+        path: newcomer
+
+      - text: 学习与课程
+        icon: study
+        path: study
+
+      - text: 规章制度
+        icon: rule
+        path: rule
+
+      - text: 安全
+        icon: safe
+        path: safety
+
+      - text: 健康
+        icon: heart
+        path: health
+
+      - text: 学生组织
+        icon: student-org
+        path: organization

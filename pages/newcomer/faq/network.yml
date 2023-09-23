@@ -1,0 +1,28 @@
+title: 校园网相关问答
+icon: network
+author: Mr.Hope
+time: 2023-09-23T12:11:49.070Z
+shareable: true
+content:
+  - tag: title
+    text: 账户与认证
+
+  - tag: text
+    type: info
+    heading: 校园网的账户和密码是什么?
+    text:
+      - 校园网的认证方式通过统一身份认证。
+      - 在认证上网时，请您使用邮箱(或学号)及密码。
+    path: /guide/account/authorize/
+
+  - tag: title
+    text: 充值
+
+  - tag: text
+    type: info
+    heading: 如何充值网费? 价格是多少?
+    text:
+      - 校园网为 20 元包月预付费制，满足开通条件即会自动开通。
+      - 您可以在在校内自助终端机内通过花费校园卡余额缴费，也可以通过微信企业号“东北师范大学”完成缴费。
+      - 具体的充值操作详情，请详见“网费充值”。
+    path: /guide/network/charge/

@@ -1,0 +1,48 @@
+title: 通过媒体介质创建工具重装
+icon: udisk
+author: Mr.Hope
+time: 2023-09-23T12:20:00.185Z
+shareable: true
+content:
+  - tag: title
+    text: 启动盘制作
+
+  - tag: list
+    header: false
+    items:
+      - text: Windows 11 启动盘制作
+        icon: udisk
+        path: ../win11/media
+
+  - tag: title
+    text: 从启动盘启动
+
+  - tag: list
+    header: false
+    items:
+      - text: 从启动盘启动
+        icon: play
+        path: usb-boot
+
+  - tag: title
+    text: 系统安装
+
+  - tag: list
+    header: false
+    items:
+      - text: Windows 11 安装
+        icon: idea
+        path: ../win11/install
+
+  - tag: title
+    text: 用户设置向导
+
+  - tag: text
+    text: 通常情况下，这一步骤您可自行按照指引完成，不过 Mr.Hope 还是截屏了完整步骤以防您需要。
+
+  - tag: list
+    header: false
+    items:
+      - text: Windows 11 用户向导
+        icon: intro
+        path: ../win11/setup

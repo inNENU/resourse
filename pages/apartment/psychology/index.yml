@@ -1,0 +1,29 @@
+title: 学生心理健康教育中心
+icon: psychology
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.327Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 学生心理健康教育中心简介
+        icon: about
+        path: intro
+
+      - text: 心理咨询
+        desc: 何时需要
+        icon: psychology
+        path: consult
+
+      - text: 心理咨询知情同意书
+        icon: rule
+        path: agreement
+
+      - text: 心理咨询服务
+        icon: service
+        path: service
+
+      - text: 常见问题解答
+        icon: faq
+        path: faq

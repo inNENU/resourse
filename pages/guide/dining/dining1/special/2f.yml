@@ -1,0 +1,93 @@
+title: 一食堂二楼特色档口
+icon: dining
+desc: |-
+  特别鸣谢浅浅笙歌提供相关照片
+author: Mr.Hope
+time: 2023-09-22T16:59:13.576Z
+shareable: true
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text: 一食堂二楼共有 10 家档口。
+
+  - tag: ul
+    heading: 基本餐旁 (北侧)
+    text:
+      - 艾可奇汉堡
+      - 私房焖肉饭
+      - 朱家小馆羊杂面
+      - 肉灌饼
+
+  - tag: ul
+    heading: 美食厅 (中央)
+    text:
+      - 板烧厨房
+      - 百合饭包
+      - 麻辣肉酱手排粉
+      - 厚切炒酸奶
+      - 水果捞
+      - 鲜榨果汁
+      - SandWich (他家现在只卖很贵的水果)
+      - 麻辣香锅
+
+  - tag: ul
+    heading: 其他
+    text:
+      - 罗小生小火锅
+
+  - tag: title
+    text: 相关菜品与价格
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail7.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail8.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail9.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail10.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail11.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail12.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/dining1/2f-detail13.jpg
+    watermark: true

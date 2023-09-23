@@ -1,0 +1,42 @@
+title: 校园卡充值
+icon: charge
+author: Mr.Hope
+time: 2023-09-22T16:59:13.438Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    heading: 充值方式
+    text: 校园卡支持多种方式进行充值，包括微信、支付宝以及学校统一办理的银行卡充值。
+
+  - tag: list
+    header: 详细方式
+    items:
+      - text: 微信企业号
+        desc: 推荐
+        icon: wechat
+        path: wechat
+
+      - text: 支付宝
+        icon: alipay
+        path: alipay
+
+      - text: 自助终端机
+        icon: atm
+        path: terminal
+
+  - tag: title
+    text: Mr.Hope の提示
+
+  - tag: ul
+    type: warning
+    text:
+      - 在高峰期转账可能会显示与学校一卡通服务连接超时，请您重试即可。
+      - 夜间学校一卡通服务会进行短暂维护，届时您将无法充值或查询余额。
+      - 转完账后，余额可能不能立即更新，需要您稍等几分钟，所以请您务必提前圈存。
+
+  - tag: text
+    type: danger
+    text:
+      - 校园卡总额务必不要达到 4 位数(即一千元以上)，否则无法刷卡，这是因为普通卡机显示屏没有千位，导致刷卡会报错。
+      - 如果不小心转账超过一千元，请本人持卡到信息化办进行部分退费处理。

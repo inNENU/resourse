@@ -1,0 +1,36 @@
+title: 教务系统
+icon: system
+author: Mr.Hope
+time: 2023-09-23T10:52:59.548Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 本科教学服务系统
+    items:
+      - text: 系统介绍
+        icon: about
+        path: under/intro
+
+      - text: 英语免修申请
+        icon: exemption
+        path: under/exemption/english
+
+      - text: 学籍注册
+        icon: rule
+        path: under/school-roll
+
+      - text: 转专业申请
+        icon: flow
+        path: under/change-major
+
+  - tag: list
+    header: 研究生教学服务系统
+    items:
+      - text: 系统介绍
+        icon: about
+        path: post/intro
+
+      - text: 评教
+        icon: teacher
+        path: post/course-evaluate

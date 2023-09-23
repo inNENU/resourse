@@ -1,0 +1,10 @@
+title: 1 号门
+# TODO: Add image
+photo:
+  - $img/scenery/jingyue/gate/gate1-1.jpg
+content:
+  - tag: title
+    text: 简介
+
+  - tag: text
+    text: 1 号门也是正门，往里走会踏上紫光桥。

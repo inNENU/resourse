@@ -1,0 +1,36 @@
+title: 北苑餐厅
+icon: dining
+grey: true
+author: Mr.Hope
+time: 2023-09-22T16:59:13.548Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 介绍
+        icon: about
+        url: intro
+
+  - tag: list
+    header: 基本餐
+    items:
+      - text: 基本餐价格比较亲民，每天都会制订几款特价菜品，分时间段供应三餐。
+
+      - text: 了解更多
+        path: basic/
+
+  - tag: list
+    header: 特色档口
+    items:
+      - text: 特色档口以特色餐和各式快餐为主。几乎所有档口不分时段供应对应饮食，价格比外面餐馆略低。
+
+      - text: 了解更多
+        path: special/
+
+  - tag: list
+    header: 清真餐厅
+    items:
+      - text: 清真餐厅位于二楼北侧，食物多种多样。
+
+      - text: 了解更多
+        path: muslim

@@ -1,0 +1,139 @@
+@use "@sass-palette/hope-config";
+@use "mixins";
+
+.innenu-list {
+  position: relative;
+
+  overflow: hidden;
+
+  padding: 0;
+  list-style: none;
+  border-radius: 8px;
+
+  background-color: var(--bg-color-block);
+}
+
+.innenu-list-item {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+
+  width: auto;
+  padding: 0 15px;
+  border-radius: 0;
+
+  background-color: var(--bg-color-block);
+  color: var(--text-color);
+
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 1.45;
+
+  &.vp-link {
+    @include mixins.hover;
+
+    position: relative;
+    padding-right: 30px;
+
+    &::after {
+      content: " ";
+
+      position: absolute;
+      top: 50%;
+      right: 17px;
+
+      display: inline-block;
+
+      width: 7px;
+      height: 7px;
+      margin-top: -4px;
+      border-width: 2px 2px 0 0;
+      border-style: solid;
+      border-color: var(--arrow-color);
+
+      transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+    }
+  }
+
+  &:empty {
+    padding: 0;
+  }
+
+  &::before {
+    content: " ";
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 15px;
+
+    height: 1px;
+    border-bottom: 1px solid var(--border-color);
+
+    transform: scaleY(0.4);
+    transform-origin: 0 100%;
+  }
+
+  &:last-child {
+    &::before {
+      display: none;
+    }
+  }
+}
+
+.innenu-list-icon {
+  width: 30px;
+  height: 30px;
+  margin: 10px 10px 10px 0;
+}
+
+.innenu-list-detail {
+  display: flex;
+  align-items: center;
+
+  flex: 1;
+  padding: 10px 0;
+
+  position: relative;
+}
+
+.innenu-list-text {
+  flex-grow: 1;
+
+  color: var(--text-color);
+
+  line-height: 1.5;
+  text-align: left;
+  max-width: 100%;
+  word-break: break-word;
+}
+
+.innenu-list-desc {
+  flex-shrink: 1;
+
+  overflow: hidden;
+
+  max-width: 40%;
+
+  color: #8a8a8e;
+
+  text-align: right;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  #{hope-config.$dark-selector} {
+    color: #98989f;
+  }
+}
+
+.innenu-list-footer {
+  min-height: 16px;
+  margin: 0 15px;
+  padding: 5px 15px 0;
+
+  color: var(--dark-grey);
+
+  font-size: 13px;
+  text-align: left;
+}

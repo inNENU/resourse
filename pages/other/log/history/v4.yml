@@ -1,0 +1,38 @@
+title: V4 更新日志
+content:
+  - tag: list
+    header: v4.0.0
+    items:
+      - text: |-
+          · 重构底层，进一步提升性能
+
+  - tag: list
+    header: v4.1.0
+    items:
+      - text: |-
+          · 重构 Tab 页 UI
+          · 优化分享逻辑
+
+  - tag: list
+    header: v4.2.0
+    items:
+      - text: |-
+          · 新增东师网站
+          · 新增东师媒体号
+          · 新增师大黄页
+          · 增加媒体号引流
+
+  - tag: list
+    header: v4.3.0
+    items:
+      - text: |-
+          · 适配 iPad
+
+  - tag: list
+    header: v4.4.5
+    items:
+      - text: |-
+          · 新增位置组件
+          · 优化账户组件
+          · 新增过时提示
+          · 页脚支持原文链接

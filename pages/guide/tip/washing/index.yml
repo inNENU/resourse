@@ -1,0 +1,27 @@
+title: 洗衣技巧
+author: Mr.Hope
+time: 2023-09-23T10:52:59.621Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 衣物标签介绍
+        icon: tag
+        path: tag
+
+      - text: 常见洗涤剂
+        icon: washing
+        path: detergent
+
+      - text: 洗涤的选择
+        icon: select
+        path: choose
+
+      - text: 手洗技巧
+        icon: idea
+        path: hand
+
+      - text: 机洗技巧
+        icon: washer
+        path: machine

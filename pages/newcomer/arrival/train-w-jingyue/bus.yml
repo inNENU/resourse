@@ -1,0 +1,37 @@
+title: 长春西站-到净月-公交
+icon: bus
+author: Mr.Hope
+time: 2023-09-23T12:11:49.008Z
+shareable: true
+content:
+  - tag: text
+    type: warning
+    text:
+      - 此选项仅为那些携带了无法通过地铁安检物品的人列出!
+
+  - tag: title
+    text: 公交-轻轨
+
+  - tag: text
+    text: 159 路到宽平大桥站，转乘轻轨 3 号线到东北师范大学站。
+
+  - tag: ul
+    heading: 首末车时间
+    text:
+      - 159 路首车 05:40，末车 19:00
+      - 轻轨 3 号线运营时间为 6:00 - 21:00
+
+  - tag: title
+    text: 有轨电车-轻轨
+
+  - tag: ol
+    heading: 路程描述
+    text:
+      - 乘坐 55 路有轨电车到宽平大桥站
+      - 转乘轻轨 3 号线到东北师范大学站。
+
+  - tag: ul
+    heading: 首末车时间
+    text:
+      - 55 路有轨电车首车 6:00，末车 19:10
+      - 轻轨 3 号线运营时为 6:00 — 21:00

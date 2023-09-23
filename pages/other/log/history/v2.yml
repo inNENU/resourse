@@ -1,0 +1,202 @@
+title: v2 更新日志
+grey: true
+content:
+  - tag: text
+    heading: v2.0.0 2019.06.23
+    text: |-
+      重构小程序
+      更新编译基础库为 2.7.2
+      小程序现在拥有更好的性能
+
+  - tag: text
+    heading: v2.0.1 2019.06.25
+    text: |-
+      部分问题修正
+      初步完成小程序 TS 化
+
+  - tag: text
+    heading: v2.0.2 2019.07.10
+    text: |-
+      完成小程序 TS 化
+      初步兼容 QQ 小程序
+
+  - tag: text
+    heading: v2.0.3 2019.07.15
+    text: |-
+      完全兼容 QQ 小程序
+      完善 QQ 小程序的地图提示
+
+  - tag: text
+    heading: v2.0.4 2019.07.20
+    text: 修复分享好友失效的问题
+
+  - tag: text
+    heading: v2.0.5 2019.07.21
+    text: 添加天气模块
+
+  - tag: text
+    heading: v2.0.6 2019.07.22
+    text: 完善 iOS 夜间模式
+
+  - tag: text
+    heading: v2.0.7 2019.07.22
+    text: 引入自定义组件
+
+  - tag: text
+    heading: v2.0.8 2019.07.22
+    text: 恢复安卓主题
+
+  - tag: text
+    heading: v2.0.9 2019.07.23
+    text: 优化样式
+
+  - tag: text
+    heading: v2.0.10 2019.07.23
+    text: 对 QQ 和微信环境进行判断，更好的进行兼容
+
+  - tag: text
+    heading: v2.1.0 2019.7.26
+    text: 初步完成小程序组件化
+
+  - tag: text
+    heading: v2.1.1 2019.7.27
+    text: 减少小程序代码包体积
+
+  - tag: text
+    heading: v2.1.2 2019.7.28
+    text: 添加天气页面
+
+  - tag: text
+    heading: v2.1.3 2019.7.29
+    text: 修复预加载逻辑问题
+
+  - tag: text
+    heading: v2.1.4 2019.7.30
+    text: 修复通知重复弹出的问题
+
+  - tag: text
+    heading: v2.1.5 2019.7.31
+    text: |-
+      修复体测计算器夜间模式
+      修复功能页文字错误
+
+  - tag: text
+    heading: v2.1.6 2019.7.31
+    text: 改进天气模式背景
+
+  - tag: text
+    heading: v2.1.7 2019.7.31
+    text: 添加授权设置页面
+
+  - tag: text
+    heading: v2.1.8 2019.8.1
+    text: 完成段落与图片的组件化
+
+  - tag: text
+    heading: v2.1.9 2019.8.2
+    text: |-
+      初步完成列表的组件化
+      应用 WeUIv2 样式
+
+  - tag: text
+    heading: v2.2.0 2019.8.5
+    text: 修复一些 bug
+
+  - tag: text
+    heading: v2.2.1 2019.8.6
+    text: 初步添加搜索模块
+
+  - tag: text
+    heading: v2.2.2 2019.8.7
+    text: 优化排序算法
+
+  - tag: text
+    heading: v2.2.3 2019.8.8
+    text: 搜索模式适配夜间模式
+
+  - tag: text
+    heading: v2.2.4 2019.8.8
+    text: 自定义导航栏改进
+
+  - tag: text
+    heading: v2.2.5 2019.8.8
+    text: 修复 swiper 故障的问题
+
+  - tag: text
+    heading: v2.2.6 2019.8.9
+    text: |-
+      添加客服/意见反馈入口
+      优化搜索与天气页面 UI
+
+  - tag: text
+    heading: v2.2.7 2019.8.10
+    text: |-
+      修复搜索模式 bug
+      加入影约东师
+
+  - tag: text
+    heading: v2.2.8 2019.8.11
+    text: 地图页面适配夜间模式
+
+  - tag: text
+    heading: v2.2.9 2019.8.11
+    text: 重构我的东师页面
+
+  - tag: text
+    heading: v2.3.0 2019.8.12
+    text: 完善我的东师 UI
+
+  - tag: text
+    heading: v2.3.1 2019.8.13
+    text: 修复显示问题
+
+  - tag: text
+    heading: v2.3.2 2019.8.14
+    text: |-
+      修复授权页面的更新问题
+      修复地图 tab 栏问题
+
+  - tag: text
+    heading: v2.3.3 2019.8.16
+    text: 添加 Weui 主题；
+
+  - tag: text
+    heading: v2.3.4 2019.8.14
+    text: 提升小程序性能；
+
+  - tag: text
+    heading: v2.3.5 2019.8.17
+    text: |-
+      同步 QQ 小程序，兼容 QQ 小程序低版本基础库
+      发起了学习资料共享计划
+
+  - tag: text
+    heading: v2.3.6 2019.8.12
+    text: |-
+      修复图片组件样式失效的问题
+      修复引体向上等几个体测项目在成绩为 0 时还会给出 10 分的 bug
+
+  - tag: text
+    heading: v2.3.7 2019.8.25
+    text: 修复 canvas 使用即将废弃接口的错误，提高 audit 审计分数。
+
+  - tag: text
+    heading: v2.3.8 2019.8.31
+    text: 与 QQ 版本小程序代码分支合并，之后采用同一套代码包。
+
+  - tag: text
+    heading: v2.3.9 2019.9.4
+    text: 优化资源更新逻辑
+
+  - tag: text
+    heading: v2.3.10 2019.9.7
+    text: |-
+      修复 media 组件的问题
+      添加两个新的板块
+
+  - tag: text
+    heading: v2.4.1 2019.11.18
+    text: |-
+      doc 组件新增下载按钮；
+      phone 组件在 QQ 环境的改进增强；
+      修复 NENU 主题的部分显示问题；

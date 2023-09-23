@@ -1,0 +1,120 @@
+title: 图书馆
+icon: library
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.260Z
+shareable: true
+content:
+  - tag: account
+    name: 图书馆
+    logo: $img/media/library.png
+    detail: 东北师范大学图书馆
+    qq: 1665466732
+    wxid: nenu_lib
+
+    account: library
+    site: http://www.library.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 图书馆简介
+        icon: about
+        path: intro
+
+      - text: 图书馆历史
+        icon: history
+        path: history
+
+      - text: 图书馆风貌
+        icon: photo
+        path: scene
+
+  - tag: list
+    items:
+      - text: 馆藏分布
+        icon: books
+        path: distribution
+
+      - text: 书目检索
+        icon: search
+        path: search
+
+      - text: 借书权限
+        icon: permission
+        path: permission
+
+      - text: 图书预约
+        icon: time
+        path: book
+
+      - text: 借阅信息
+        icon: about
+        path: info
+
+      - text: 借阅/还书流程
+        icon: flow
+        path: borrow
+
+      - text: 续借图书
+        icon: reset
+        path: renew
+
+      - text: 图书荐购
+        icon: money
+        path: buy
+
+      - text: 文献传递
+        icon: express
+        path: article
+
+      - text: 馆际互借
+        icon: borrow
+        path: deliver
+
+  - tag: list
+    items:
+      - text: 楼层平面图
+        icon: floor
+        path: floor
+
+      - text: 开馆时间
+        icon: time
+        path: door
+
+      - text: 独立学习区
+        icon: study
+        path: study
+
+      - text: 研学空间
+        icon: cooperate
+        path: space
+
+      - text: 学术厅
+        icon: degree
+        path: hall
+
+      - text: 电子资源
+        icon: books
+        path: evpn
+
+      - text: 电子阅览室
+        icon: pc
+        path: digit-room
+
+      - text: 其他服务
+        icon: contact
+        path: service
+
+  - tag: list
+    items:
+      - text: 图书馆守则
+        icon: rule
+        path: rule
+
+      - text: 联系方式
+        icon: phone
+        path: contact
+
+      - text: 常见问题
+        icon: faq
+        path: faq

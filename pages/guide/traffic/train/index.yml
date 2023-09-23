@@ -1,0 +1,74 @@
+title: 铁路出行
+icon: railway
+author: Mr.Hope
+time: 2023-09-23T10:52:59.694Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 购票相关
+    items:
+      - text: 联系方式预留
+        icon: phone
+        path: contact
+
+      - text: 车票介绍
+        icon: ticket
+        path: ticket
+
+      - text: 购票介绍
+        icon: ticket
+        path: buy
+
+      - text: 候补订单
+        icon: wait
+        path: wait-order
+
+      - text: 改签与变更到站介绍
+        icon: change
+        path: change
+
+      - text: 退票介绍
+        icon: refund
+        path: refund
+
+      - text: 携带品与行李
+        icon: luggage
+        path: luggage
+
+  - tag: list
+    header: 学生票相关
+    items:
+      - text: 学生票介绍
+        icon: intro
+        path: student/intro
+
+      - text: 学生票核验
+        icon: check
+        path: student/check
+
+  - tag: list
+    header: 服务
+    items:
+      - text: 遗失物品寻找
+        icon: lost
+        path: lost
+
+      - text: 电子临时乘车证明
+        icon: card
+        path: ecard
+
+      - text: 临时身份证
+        icon: id
+        path: id-card
+
+  - tag: list
+    header: 相关规章
+    items:
+      - text: 铁路互联网购票须知
+        icon: notice
+        path: web-buy-notice
+
+      - text: 铁路互联网售票暂行办法
+        icon: rule
+        path: web-sell-rule

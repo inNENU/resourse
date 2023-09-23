@@ -1,0 +1,31 @@
+title: 本部思想政治类社团
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2022-09-16
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 乐群学社
+        icon: $img/association/lequn.png
+        path: lequn
+
+  - tag: functional-list
+    header: 欢迎社团入驻本页面
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

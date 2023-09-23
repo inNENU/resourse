@@ -1,0 +1,101 @@
+title: 宿舍神器类
+icon: star
+author: Mr.Hope
+time: 2023-09-23T12:11:49.092Z
+shareable: true
+content:
+  - tag: title
+    text: 床头置物架
+
+  - tag: ul
+    text:
+      - 可用于放抽纸、床头书、手机、电脑、水瓶等
+
+  - tag: text
+    type: warning
+    text:
+      - 强烈推荐线下购买，快递邮过来可能会变形...
+
+  - tag: img
+    src: $img/necessity/dorm-tool1.jpg
+    watermark: true
+
+  - tag: title
+    text: 床上折叠书桌
+
+  - tag: ul
+    text:
+      - 方便床上使用电脑、看书
+
+  - tag: text
+    type: tip
+    text:
+      - 在 Mr.Hope 的调查中，很多人对此物品进行推荐。
+      - 但是 Mr.Hope 并不赞同购买此物品，对勤快人用处不大，反而会助长懒惰之心。(对，Mr.Hope 的意思就是大学生没事儿应该从床上麻溜滚下来学习🧐)
+
+  - tag: img
+    src: $img/necessity/dorm-tool2.jpg
+    desc: 懒人必备，勤快人买了用处不大
+    watermark: true
+
+  - tag: title
+    text: 创意收纳盒
+
+  - tag: ul
+    text:
+      - 收纳小饰品、文具、化妆品等
+      - 建议网购
+
+  - tag: img
+    src: $img/necessity/dorm-tool3.jpg
+    desc: 保持桌面整洁必备，如果觉得平时自己懒得收拾也可不用购买
+    watermark: true
+
+  - tag: title
+    text: 衣物折叠收纳箱
+
+  - tag: ul
+    text:
+      - 充分利用衣柜空间，整理方便
+      - 建议网购
+
+  - tag: img
+    src: $img/necessity/dorm-tool4.jpg
+    desc: 衣服多的女生考虑一下
+    watermark: true
+
+  - tag: title
+    text: 下挂篮 / 收纳架
+
+  - tag: ul
+    text:
+      - 可挂在书桌隔板上或衣柜内
+      - 建议网购
+
+  - tag: img
+    src: $img/necessity/dorm-tool5.jpg
+    desc: 有效利用衣柜下半部分空间
+    watermark: true
+
+  - tag: title
+    text: 墙挂式收纳袋
+
+  - tag: ul
+    text:
+      - 可挂在书桌旁(衣柜外壁上)，放置各类小物品
+      - 建议网购
+
+  - tag: img
+    src: $img/necessity/dorm-tool6.jpg
+    desc: 挂在衣柜侧
+    watermark: true
+
+  - tag: title
+    text: 暖宝宝
+
+  - tag: text
+    text: 冬天女生痛经、暖宫、保暖神器，使用方便。
+
+  - tag: text
+    type: note
+    text: 使用热水袋有破裂、漏水烫伤的风险，而插电的暖手宝属于违章电器。

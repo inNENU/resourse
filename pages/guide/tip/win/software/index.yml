@@ -1,0 +1,33 @@
+title: Windows 软件小贴士
+author: Mr.Hope
+time: 2022-09-06
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 针对小白
+    items:
+      - text: 应用市场
+        icon: shop
+        path: store
+
+  - tag: list
+    header: 软件相关
+    items:
+      - text: 软件安装
+        icon: app
+        path: install
+
+      # - text: 软件管理
+      #   icon: system
+      #   path: manage
+
+      - text: 软件卸载
+        icon: ban
+        path: uninstall
+
+  - tag: list
+    header: 软件激活
+    items:
+      - text: KMS
+        path: kms

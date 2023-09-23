@@ -1,0 +1,23 @@
+title: 中日联谊医院
+icon: hospital
+author: Mr.Hope
+time: 2023-09-23T10:52:59.397Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 医院简介
+        icon: about
+        path: intro
+
+      - text: 就诊流程
+        icon: flow
+        path: flow
+
+      - text: 院内导航
+        icon: locate
+        path: navigate
+
+      - text: 医院联系方式
+        icon: phone
+        path: contact

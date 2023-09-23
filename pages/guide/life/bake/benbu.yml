@@ -1,0 +1,41 @@
+title: 本部烘焙坊
+icon: bake
+author: Mr.Hope
+time: 2023-09-23T10:52:59.347Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
+    text:
+      - |-
+        多巴胺甜品烘焙: 北苑地下一楼西北角
+
+  - tag: location
+    title: 本部烘焙坊
+    points:
+      - latitude: 43.862932
+        longitude: 125.332507
+        name: 多巴胺甜品烘焙
+        detail: 北苑地下一楼西北角
+
+  - tag: img
+    src: $img/life/beiyuan/duobaan.jpg
+    desc: 多巴胺甜品烘焙
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: location
+    title: 校外蛋糕店
+    points:
+      - latitude: 43.860055
+        longitude: 125.341138
+        name: 点典面包房
+        detail: 文昌路东侧
+
+  - tag: text
+    text:
+      - 文昌路上有一家点典面包房。

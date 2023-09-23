@@ -1,0 +1,36 @@
+title: 洗浴充值
+icon: charge
+author: Mr.Hope
+time: 2023-09-22T16:59:13.407Z
+shareable: true
+content:
+  - tag: text
+    type: note
+    text: 您需要先关注微信公众号“台州博诚”。
+
+  - tag: list
+    header: false
+    items:
+      - text: 浴池账户与计费
+        icon: account
+        path: account
+
+  - tag: text
+    text: 点击公众号“台州博诚”内“钱包充值”菜单并选择自己的校区
+
+  - tag: img
+    src: $img/bath/charge-menu.jpg
+    desc: 充值菜单
+    watermark: true
+
+  - tag: text
+    text: 之后输入自己充值的金额 (不能低于￥20) 并支付
+
+  - tag: text
+    type: tip
+    text: 首次点击时请按照要求进行微信登录
+
+  - tag: img
+    src: $img/bath/charge-pay.jpg
+    desc: 充值页面
+    watermark: true

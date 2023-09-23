@@ -1,0 +1,27 @@
+title: 马克思主义学部
+grey: true
+author: Mr.Hope
+time: 2023-09-05T02:41:08.787Z
+shareable: true
+content:
+  - tag: account
+    name: 马克思主义学部
+    logo: $img/media/marx.png
+    detail: 东北师范大学马克思主义学部
+    wxid: gh_32d2742e1204
+
+    account: marx
+    location:
+      latitude: 43.86268
+      longitude: 125.32826
+    site: https://marxism.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 学院简介
+        icon: about
+        path: intro
+
+      - text: 专业介绍
+        icon: intro
+        path: enroll

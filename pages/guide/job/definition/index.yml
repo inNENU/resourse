@@ -1,0 +1,29 @@
+title: 常见名词与相应政策
+icon: explain
+author: Mr.Hope
+time: 2023-09-23T08:04:54.239Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 五险一金
+        path: insurance
+
+      - text: 试用期和见习期
+        path: internship
+
+      - text: 合同
+        path: contract
+
+      - text: 劳动合同
+        path: work-contract
+
+      - text: 灵活就业
+        path: flexible
+
+      - text: 灵活就业
+        path: flexible
+
+      - text: 人事代理制度
+        path: personnel-agency

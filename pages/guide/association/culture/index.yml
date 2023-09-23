@@ -1,0 +1,122 @@
+title: 文化体育类社团
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2023-09-04T02:55:46.844Z
+shareable: true
+content:
+  - tag: title
+    text: 本部校区
+
+  - tag: list
+    header: false
+    items:
+      - text: 卓音网络工作室
+        icon: $img/association/joinin/logo.png
+        path: joinin
+
+      - text: 师说曲艺社
+        icon: $img/association/quyi.png
+        path: quyi
+
+      - text: 青音吉他社
+        icon: $img/association/guitar.jpg
+        path: guitar
+
+      - text: 英语协会
+        icon: $img/association/ea/logo.jpg
+        path: ea
+
+      - text: 中华古诗词吟诵团
+        icon: $img/association/gushici.png
+        path: gushici
+
+      - text: 饮风文学社
+        icon: $img/association/yinfeng/logo.png
+        path: yinfeng
+
+      - text: 天宇协会
+        path: astronomy
+
+      - text: 安仁国风社
+        path: anren
+
+      - text: 爱踏足文旅协会
+        path: travel
+
+      - text: 翩鸿汉服社
+        path: hanfu
+
+      - text: 锅庄舞协会
+        path: zang
+
+      - text: 珣玉书法社
+        path: shufa
+
+      - text: 辩论与演说协会
+        path: debate
+
+      - text: 清雨坊书画协会
+        path: shuhua
+
+      - text: 舞龙舞狮社团
+        path: lion
+
+      - text: 光年合唱团
+        path: guangnian
+
+      - text: 篮球裁判协会
+        desc: 暂无详情
+
+  - tag: title
+    text: 净月校区
+
+  - tag: list
+    header: false
+    items:
+      - text: 师说曲艺社
+        icon: $img/association/quyi.png
+        path: quyi
+
+      - text: Ice Power 街舞社
+        icon: $img/association/ice-power-logo.png
+        path: ice-power
+
+      - text: 逗号文学社
+        path: comma
+
+      - text: 缓冲区音乐社
+        desc: 暂无详情
+
+      - text: 新番日语社
+        desc: 暂无详情
+
+      - text: Nomo 合唱团
+        desc: 暂无详情
+
+      - text: 集英动漫社
+        desc: 暂无详情
+
+      - text: 夏青朗诵社
+        desc: 暂无详情
+
+      - text: 纪录片研究所
+        desc: 暂无详情
+
+  - tag: functional-list
+    header: 欢迎社团入驻本页面
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq

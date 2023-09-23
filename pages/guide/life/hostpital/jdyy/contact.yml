@@ -1,0 +1,43 @@
+title: 吉大一院联系方式
+icon: phone
+time: 2023-09-23T10:52:59.389Z
+shareable: true
+content:
+  - tag: title
+    text: 吉林大学白求恩第一医院联系方式
+
+  - tag: phone
+    header: 总机
+    fName: 吉林大学白求恩第一医院总机
+    num: 0431-88782222
+    org: 吉林大学白求恩第一医院
+    street: 长春市新民大街 71 号
+    postCode: 130033
+    site: https://jdyy.cn/
+
+  - tag: phone
+    header: 门诊一
+    fName: 吉林大学白求恩第一医院门诊 1
+    num: 0431-88782291
+    org: 吉林大学白求恩第一医院
+    street: 长春市新民大街 71 号
+    postCode: 130033
+    site: https://jdyy.cn/
+
+  - tag: phone
+    header: 门诊二
+    fName: 吉林大学白求恩第一医院门诊 2
+    num: 0431-88782292
+    org: 吉林大学白求恩第一医院
+    street: 长春市新民大街 71 号
+    postCode: 130033
+    site: https://jdyy.cn/
+
+  - tag: phone
+    header: 门诊三
+    fName: 吉林大学白求恩第一医院门诊 3
+    num: 0431-88782293
+    org: 吉林大学白求恩第一医院
+    street: 长春市新民大街 71 号
+    postCode: 130033
+    site: https://jdyy.cn/

@@ -1,0 +1,298 @@
+title: 社团
+icon: association
+desc: |-
+  社团名录来自学生社团发展管理中心
+author: Mr.Hope
+time: 2023-09-23T12:19:59.618Z
+shareable: true
+content:
+  - tag: text
+    type: tip
+    text:
+      - 全校社团均由校团委学生社团发展管理中心管理，分为思想政治类、学术科技类、创新创业类、文化体育类、志愿公益类、自律互助类。
+
+  - tag: list
+    header: false
+    items:
+      - text: 学生社团发展管理中心
+        icon: $img/organization/sheguan.png
+        path: /guide/org/association-union
+
+  - tag: title
+    text: 本部校区
+
+  - tag: list
+    header: false
+    items:
+      - text: 创新创业类
+        path: job/benbu
+
+      - text: 文化体育类
+        path: culture/benbu
+
+      - text: 学术科技类
+        path: study/benbu
+
+      - text: 思想政治类
+        path: politic/benbu
+
+      - text: 志愿服务类
+        path: volunteer/benbu
+
+  - tag: title
+    text: 净月校区
+
+  - tag: list
+    header: false
+    items:
+      - text: 创新创业类
+        path: job/jingyue
+
+      - text: 文化体育类
+        path: culture/jingyue
+
+      - text: 思想政治类
+        path: politic/jingyue
+
+      - text: 学术科技类
+        path: study/jingyue
+
+      - text: 志愿服务类
+        path: volunteer/jingyue
+
+  - tag: functional-list
+    header: 欢迎社团入驻本页面
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        env:
+          - wx
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        env:
+          - qq
+
+  # - tag: list
+  #   header: 本部入驻中...
+  #   items:
+  #     # - text: 爱创影视协会
+  #     #   path: update
+
+  #     # - text: 一米阳光支教团
+  #     #   path: update
+
+  #     # - text: 彩云支南公益支教团
+  #     #   path: update
+
+  #     # - text: 明日香公益支教团
+  #     #   path: update
+
+  #     - text: 数学建模协会
+  #       path: update
+
+  #     - text: 绿色动力环保志愿者协会
+  #       path: update
+
+  #     - text: 锅庄舞协会
+  #       path: update
+
+  #     - text: 城乡规划协会
+  #       path: update
+
+  #     - text: 蒙你所爱支教团
+  #       path: update
+
+  #     - text: 棒垒球协会
+  #       path: update
+
+  #     - text: Upset 花式篮球俱乐部
+  #       path: update
+
+  #     - text: 足球裁判协会
+  #       path: update
+
+  #     - text: 翩鸿汉服社
+  #       path: update
+
+  #     - text: 清雨坊书画协会
+  #       path: update
+
+  #     - text: 思鹄女子足球俱乐部
+  #       path: update
+
+  #     - text: 法研教育学习社
+  #       path: update
+
+  #     - text: 塞上未来
+  #       path: update
+
+  #     - text: “原”诗社
+  #       path: update
+
+  #     - text: 公费师范生协会
+  #       path: update
+
+  #     - text: 绿窗文学社
+  #       path: update
+
+  #     - text: 辅仁国学社
+  #       path: update
+
+  #     - text: 花儿梦儿童文学协会
+  #       path: update
+
+  #     - text: 蜀于你支教团
+  #       path: update
+
+  #     - text: 豫见明天公益支教团
+  #       path: update
+
+  #     - text: 红丝带志愿者协会
+  #       path: update
+
+  #     - text: D.N.A 协会
+  #       path: update
+
+  #     - text: 疯狂英语秀俱乐部
+  #       path: update
+
+  #     - text: 英语协会
+  #       path: update
+
+  #     - text: 全英议会辩论俱乐部
+  #       path: update
+
+  #     - text: 物理学术竞赛协会
+  #       path: update
+
+  #     - text: 爱智手工教具社
+  #       path: update
+
+  #     - text: 黔之行工艺支教团
+  #       path: update
+
+  #     - text: 心理协会
+  #       path: update
+
+  #     - text: 风信子心理社会服务社团
+  #       path: update
+
+  #     - text: 乐群学社
+  #       path: update
+
+  #     - text: 心桥手语社
+  #       path: update
+
+  #     - text: 口述历史协会
+  #       path: update
+
+  # - tag: list
+  #   header: 净月入驻中...
+  #   items:
+  #     - text: 马列协会
+  #       path: update
+
+  #     - text: 三农学社
+  #       path: update
+
+  #     - text: 烛光映廉学社
+  #       path: update
+
+  #     - text: 模拟联合国协会
+  #       path: update
+
+  #     - text: 政法学“习”社
+  #       path: update
+
+  #     - text: 法学会
+  #       path: update
+
+  #     - text: 教师教育协会
+  #       path: update
+
+  #     - text: 心桥手语社
+  #       path: update
+
+  #     - text: 常青藤公益环保协会
+  #       path: update
+
+  #     - text: Idea 精英汇
+  #       path: update
+
+  #     - text: 绘梦空间
+  #       path: update
+
+  #     - text: 逗号文学社
+  #       path: update
+
+  #     - text: 远方有你支教团
+  #       path: update
+
+  #     - text: 汉语国际传播协会
+  #       path: update
+
+  #     - text: 集英动漫社
+  #       path: update
+
+  #     - text: 胖猫滑板社
+  #       path: update
+
+  #     - text: 辩论协会
+  #       path: update
+
+  #     - text: 棋类协会
+  #       path: update
+
+  #     - text: 宇泽爱心公益学校
+  #       path: update
+
+  #     - text: 新番日语社
+  #       path: update
+
+  #     - text: 创行协会
+  #       path: update
+
+  #     - text: 天地人环保协会
+  #       path: update
+
+  #     - text: 新派电子商务
+  #       path: update
+
+  #     - text: 疯狂英语秀
+  #       path: update
+
+  #     - text: 东北师范大学英语协会
+  #       path: update
+
+  #     - text: NOMO 合唱团
+  #       path: update
+
+  #     - text: D 易音乐社
+  #       path: update
+
+  #     - text: 天宇协会
+  #       path: update
+
+  #     - text: 翩鸿汉服社
+  #       path: update
+
+  #     - text: 夏青朗诵社
+  #       path: update
+
+  #     - text: 纪录片研究所
+  #       path: update
+
+  #     - text: Idea 爱电影协会
+  #       path: update
+
+  #     - text: Easybroad 留学生服务协会
+  #       path: update
+
+  #     - text: 益行青年志愿社
+  #       path: update

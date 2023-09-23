@@ -1,0 +1,32 @@
+title: 校园网企业号缴费
+icon: wechat
+author: Mr.Hope
+time: 2023-09-23T10:52:59.432Z
+shareable: true
+content:
+  - tag: text
+    heading: 企业号
+    text: 您可以在东北师范大学微信企业号——『校园卡』栏目进行缴费。
+
+  - tag: img
+    src: $img/card/wechat-card-charge.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/network/entrance.jpg
+    desc: 点击右上角“网费充值”
+    watermark: true
+
+  - tag: img
+    src: $img/network/pay.jpg
+    watermark: true
+
+  - tag: text
+    text:
+      - 稍等片刻，输入框会自动填充您的学号以及对应的姓名、网费产品以及网费余额。
+      - 如果未能自动填充，请您自行输入
+
+  - tag: text
+    text:
+      - 在最下方的充值金额中输入相应的充值金额
+      - 点击支付即可使用微信支付完成网费的支付

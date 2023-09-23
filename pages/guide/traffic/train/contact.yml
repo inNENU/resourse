@@ -1,0 +1,43 @@
+title: 联系方式预留
+icon: phone
+author: Mr.Hope
+time: 2023-09-23T10:52:59.689Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    text: 为便于乘车人及时接收到列车运行变更信息，旅客在购买火车票时，需要预留乘车人本人的手机号码并通过系统核验。
+
+  - tag: text
+    type: warning
+    text: 未完成联系方式核验的人员，无法购买车票。
+
+  - tag: title
+    text: 预留与核验途径
+
+  - tag: ul
+    heading: 线上
+    text:
+      - 铁路 12306APP
+      - 铁路 12306 微信公众号
+      - 中国铁路微信公众号
+      - 铁路 12306 支付宝小程序
+
+  - tag: ul
+    heading: 线下
+    text:
+      - 自动售票机
+      - 人工售票窗口
+      - 代售点
+
+  - tag: img
+    src: $img/traffic/train/contact-app.jpg
+
+  - tag: img
+    src: $img/traffic/train/contact-wechat-1.jpg
+
+  - tag: img
+    src: $img/traffic/train/contact-wechat-2.jpg
+
+  - tag: img
+    src: $img/traffic/train/contact-terminal.jpg

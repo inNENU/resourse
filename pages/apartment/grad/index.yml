@@ -1,0 +1,44 @@
+title: 研究生院
+icon: degree
+grey: true
+author: Mr.Hope
+time: 2023-09-22T15:38:33.147Z
+shareable: true
+content:
+  - tag: account
+    name: 研究生院
+    logo: $img/media/official.png
+    detail: 东北师范大学研究生院
+    wxid: gh_1d4eec902259
+
+    account: graduate
+    location:
+      latitude: 43.862163
+      longitude: 125.327024
+    site: https://yjsy.nenu.edu.cn/
+
+  - tag: list
+    items:
+      - text: 研究生院介绍
+        icon: about
+        path: intro
+
+      - text: 研究生院联系方式
+        icon: phone
+        path: contact
+
+      - text: 人员信息
+        icon: people
+        path: person
+
+  - tag: action
+    header: 综合管理系统
+    content: https://math127.nenu.edu.cn/HProg/yjsy/index_pc.php
+
+  - tag: action
+    header: 培养环节系统
+    content: http://py.nenu.edu.cn/
+
+  - tag: action
+    header: 学位证书查询
+    content: http://xwcx.nenu.edu.cn/

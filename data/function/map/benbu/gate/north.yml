@@ -1,0 +1,15 @@
+title: 北门
+author: Mr.Hope
+time: 2020-09-01
+photo:
+  - $img/scenery/benbu/gate/north-west.jpg
+content:
+  - tag: title
+    text: 简介
+
+  - tag: p
+    text: 从这个门进去右手边是师大附属幼儿园。平时鲜有车通行。
+
+  - tag: text
+    type: warning
+    text: 由于学校封闭管理，目前此门常态化关闭。

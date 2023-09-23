@@ -1,0 +1,98 @@
+title: 安卓邮件客户端设置
+icon: android
+author: Mr.Hope
+time: 2023-09-22T16:59:13.249Z
+shareable: true
+content:
+  - tag: text
+    type: tip
+    text:
+      - 以下步骤将指导您在安卓手机邮件客户端上添加学校邮箱。
+      - 本教程以 Gmail 客户端为例
+
+  - tag: ul
+    text: 选择 “添加其他账号”
+
+  - tag: img
+    src: $img/account/mail/gmail-1.jpg
+    watermark: true
+
+  - tag: ul
+    text: 选择 “其他”
+
+  - tag: img
+    src: $img/account/mail/gmail-2.jpg
+    watermark: true
+
+  - tag: ul
+    text:
+      - 输入学校电子邮箱地址
+      - 点击左下角的手动设置
+
+  - tag: img
+    src: $img/account/mail/gmail-3.jpg
+    watermark: true
+
+  - tag: ul
+    text: 选择 “个人(IMAP)”
+
+  - tag: img
+    src: $img/account/mail/gmail-4.jpg
+    watermark: true
+
+  - tag: ul
+    text: 输入密码
+
+  - tag: img
+    src: $img/account/mail/gmail-5.jpg
+    watermark: true
+
+  - tag: ul
+    text: 在接收服务器中输入
+
+  - tag: action
+    content: smtphz.qiye.163.com
+
+  - tag: text
+    type: tip
+    text:
+      - 尽管学校支持 "smtp.nenu.edu.cn"，但是因为证书不符无法在某些客户端添加或会持续发出警告。
+      - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
+
+  - tag: img
+    src: $img/account/mail/gmail-6.jpg
+    watermark: true
+
+  - tag: ul
+    text: 在外发服务器中输入
+
+  - tag: action
+    content: smtphz.qiye.163.com
+
+  - tag: text
+    type: tip
+    text:
+      - 尽管学校支持 "smtp.nenu.edu.cn"，但是因为证书不符无法在某些客户端添加或会持续发出警告。
+      - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
+
+  - tag: img
+    src: $img/account/mail/gmail-7.jpg
+    watermark: true
+
+  - tag: ul
+    text: 自行选择合适的同步频率
+
+  - tag: text
+    type: tip
+    text: 同步频率过高会加大手机耗电量
+
+  - tag: img
+    src: $img/account/mail/gmail-8.jpg
+    watermark: true
+
+  - tag: ul
+    text: 选择合适的账号名称与发件人姓名
+
+  - tag: img
+    src: $img/account/mail/gmail-9.jpg
+    watermark: true

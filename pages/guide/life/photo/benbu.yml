@@ -1,0 +1,37 @@
+title: 本部照相
+icon: photo
+author: Mr.Hope
+time: 2023-09-23T10:52:59.404Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: text
+    type: warning
+    text: 请注意本部校区目前暂无专业的照相馆。
+
+  - tag: ul
+    heading: 承接拍照的店铺
+    text:
+      - 浴池一楼好又快图文
+
+  - tag: text
+    heading: 好又快图文店
+    text: 位于浴池一楼。
+
+  - tag: img
+    src: $img/bath/benbu-right.jpg
+    desc: 浴池好又快图文店
+    watermark: true
+
+  - tag: img
+    src: $img/life/benbu/bath-copy.jpg
+    desc: 好又快图文店内照片
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text: 暂无信息

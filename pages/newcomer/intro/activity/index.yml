@@ -1,0 +1,25 @@
+title: 东师校园活动
+icon: activity
+author: Mr.Hope
+time: 2023-09-23T12:11:49.081Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 校园活动
+    items:
+      - text: 运动会
+        icon: sports
+        path: sport
+
+      - text: 美食节
+        icon: dining
+        path: festival
+
+      - text: 足球赛
+
+      - text: “东师杯”乒乓球赛
+
+      - text: “东师杯”篮球赛
+
+      - text: 教师技能大赛

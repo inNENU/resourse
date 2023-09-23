@@ -1,0 +1,37 @@
+title: 续借图书
+icon: reset
+desc: |-
+  信息来源: 图书馆官网
+cite:
+  - http://www.library.nenu.edu.cn/page/87872/show?leftNavId=3001789&pageId=0&wfwfid=21248&websiteId=0
+shareable: true
+content:
+  - tag: title
+    text: 续借图书
+
+  - tag: p
+    text: 进入我的图书馆卡
+
+  - tag: action
+    header: 登录地址
+    content: https://authserver.nenu.edu.cn/authserver/login?service=https://nenu.primo.exlibrisgroup.com.cn/discovery/account?vid=86NEN_INST:NEN
+
+  - tag: text
+    text: 在“外借”菜单下，选择需要续借的图书，点击“续借”按钮，即完成续借操作。
+
+  - tag: img
+    src: $img/library/renew.jpg
+
+  - tag: text
+    type: info
+    heading: 续借限制
+    text: 同一册书，可多次续借，借阅总时长不超过应借天数+15天。逾期图书不能续借。
+
+  - tag: ol
+    type: tip
+    heading: 若续借失败或提示不可续借，可能是以下原因
+    text:
+      - 要续借的图书超出最大可续借期 (可借阅期+15天) 。
+      - 本人所借的图书中有过期未还图书。
+      - 本人有欠款等违规行为。
+      - 有其他读者预约该书。

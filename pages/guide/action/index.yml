@@ -1,0 +1,71 @@
+title: 服务办理
+icon: contact
+author: Mr.Hope
+time: 2023-09-22T16:59:13.280Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 东师日常
+    items:
+      - text: 障碍报修
+        icon: repair
+        path: repair
+
+      - text: 班车激活
+        icon: bus
+        path: bus
+
+  - tag: list
+    header: 学习相关
+    items:
+      - text: 本科生选课
+        icon: select
+        path: under/select
+
+      - text: 本科生补考、免修
+        icon: exemption
+        path: under/exemption
+
+      - text: 本科生缓考
+        icon: time
+        path: under/aftertake
+
+      - text: 本科生试卷查阅
+        icon: search
+        path: under/paper-recheck
+
+      - text: 本科生转专业
+        icon: degree
+        path: under/change-major
+
+      - text: 本科交流成绩认定
+        icon: change
+        path: under/exchange-score
+
+      - text: 本科入学资格复查
+        icon: plan
+        path: under/inter-check
+
+      - text: 本科生处分
+        icon: punish
+        path: under/sanction
+
+      - text: 本部图书馆学术沙龙座位预约
+        icon: study
+        path: benbu-salon
+
+      - text: 毕业生图书馆离校手续办理
+        icon: leave
+        path: library-leave
+
+      - text: 博士生申请国际学术会议资助
+        icon: apply
+        path: doctor-conference
+
+  - tag: list
+    header: 证件与材料
+    items:
+      - text: 本科学生证补办
+        icon: lost
+        path: under/student-id

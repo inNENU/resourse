@@ -1,0 +1,19 @@
+title: 理发
+icon: haircut
+author: Mr.Hope
+time: 2023-09-23T10:52:59.373Z
+shareable: true
+content:
+  - tag: text
+    type: warning
+    heading: 推销烫染焗
+    text:
+      - 染发、烫发、焗发是理发店主要的利润来源。所以诸如“觉起造型”之类的理发店，可能会在理发途中，像您不遗余力的推销“做个发型”、“焗个头发”的服务。如果您不想，请委婉 Say No，表达“我不感兴趣”、“我没有计划”、“我没有时间”甚至“我没有钱”即可。
+
+  - tag: list
+    items:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

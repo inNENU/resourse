@@ -1,0 +1,67 @@
+title: 数码产品贴士贴士
+icon: digital
+author: Mr.Hope
+time: 2023-09-23T10:52:59.573Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: Windows
+    items:
+      - text: 如何升级 Windows 11
+        icon: upgrade
+        path: win/win11/upgrade
+
+      - text: 使用 IE 内核浏览网页
+        icon: ie
+        path: ie/
+
+      - text: 系统修复
+        icon: repair
+        path: win/repair/os-repair
+
+      - text: 初始化电脑
+        icon: reset
+        path: win/reinstall/os-reset
+
+      - text: 重装系统
+        icon: reset
+        path: win/reinstall/os-reinstall
+
+      - text: 更多 Windows 相关
+        icon: more
+        path: win/
+
+  - tag: list
+    header: Mac
+    items:
+      - text: 使用”启动转换助理“安装 Windows
+        icon: idea
+        path: mac/bootcamp/
+
+      - text: 通过 Parallels 运行 Windows
+        icon: idea
+        path: mac/parallels/
+
+      - text: 更多 Mac 相关
+        icon: more
+        path: mac/
+
+  - tag: list
+    header: 其他
+    items:
+      - text: 笔记本电脑
+        icon: pc
+        path: laptop/
+
+      - text: 手机
+        icon: cellphone
+        desc: 制作中...
+
+      - text: 平板电脑
+        icon: ipad
+        desc: 制作中...
+
+      - text: 相机
+        icon: camera
+        desc: 制作中...

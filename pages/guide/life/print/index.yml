@@ -1,0 +1,13 @@
+title: 打印店
+icon: print
+author: Mr.Hope
+time: 2023-09-23T10:52:59.410Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

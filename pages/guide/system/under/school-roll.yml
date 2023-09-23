@@ -1,0 +1,63 @@
+title: 学籍注册
+icon: archive
+author: Mr.Hope
+time: 2023-09-23T12:20:00.119Z
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 新生入学后，应及时完成学籍注册工作。
+    url: notice-detail?id=55435b05a3d84ca29c885b8b3c219679&title=关于建立2023级全日制普通本科生学籍档案的通知
+
+  - tag: title
+    text: 通过小程序
+
+  - tag: text
+    text:
+      - 使用小程序是最简便的方式。
+
+  - tag: list
+    header: false
+    items:
+      - text: 建立学籍
+        icon: archive
+        url: create-archive
+
+  - tag: title
+    text: 官方系统申请
+
+  - tag: text
+    text: 可以访问本科教学服务系统，在系统内发起申请。
+
+  - tag: text
+    type: info
+    heading: 如何访问本科教学服务系统
+    path: intro
+
+  - tag: text
+    text: 双击『学籍管理』
+
+  - tag: img
+    src: $img/system/school-roll1.png
+    watermark: true
+
+  - tag: ul
+    text:
+      - 点击『注册学籍』，进入学生注册学籍页面
+
+  - tag: img
+    src: $img/system/school-roll4.png
+    watermark: true
+
+  - tag: ul
+    text:
+      - 点击『注册学籍』，核对个人学籍信息，点击“确定注册”，即可完成本学期的学籍注册工作。
+
+  - tag: img
+    src: $img/system/school-roll5.png
+    watermark: true
+
+  - tag: text
+    type: tip
+    text: 如个人学籍信息有误，可通过『学籍修改』进行修改

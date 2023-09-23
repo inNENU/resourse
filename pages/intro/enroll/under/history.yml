@@ -1,0 +1,75 @@
+title: 本科招生历史信息
+icon: time
+grey: true
+author: Mr.Hope
+time: 2023-09-23T11:16:45.459Z
+shareable: true
+content:
+  - tag: list
+    header: 本科招生专业
+    items:
+      - text: 2022 年本科开设专业
+        icon: list
+        path: major/2022
+
+      - text: 2021 年本科开设专业
+        icon: list
+        path: major/2021
+
+      - text: 2020 年本科开设专业
+        icon: list
+        path: major/2020
+
+      - text: 2019 年本科开设专业
+        icon: list
+        path: major/2019
+
+  - tag: list
+    header: 本科招生章程
+    items:
+      - text: 2022 年本科招生章程
+        icon: rule
+        path: rule/2022
+
+      - text: 2021 年本科招生章程
+        icon: rule
+        path: rule/2021
+
+      - text: 2020 年本科招生章程
+        icon: rule
+        path: rule/2020
+
+      - text: 2019 年本科招生章程
+        icon: rule
+        path: rule/2019
+
+  - tag: list
+    header: 其他招生简章
+    items:
+      - text: 2022 年国家高校专项计划招生简章
+        icon: rule
+        path: rule/2022-plan
+
+      - text: 2022 年国家美术类专业招生简章
+        icon: rule
+        path: rule/2022-art
+
+      - text: 2022 年国家舞蹈编导专业招生简章
+        icon: rule
+        path: rule/2022-dance
+
+      - text: 2022 年国家播音与主持艺术专业招生简章
+        icon: rule
+        path: rule/2022-host
+
+      - text: 2022 年国家音乐学专业招生简章
+        icon: rule
+        path: rule/2022-music
+
+      - text: 2022 年国家优师专项计划招生简章
+        icon: rule
+        path: rule/2022-great
+
+      - text: 2021 年国家优师专项计划招生简章
+        icon: rule
+        path: rule/2021-great

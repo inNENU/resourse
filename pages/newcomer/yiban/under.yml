@@ -1,0 +1,54 @@
+title: 入学教育课程
+icon: study
+author: Mr.Hope
+time: 2023-09-23T12:11:49.142Z
+grey: true
+shareable: true
+content:
+  - tag: text
+    type: info
+    text:
+      - 报到前每位本科新生同学必须在 8 月 12 日 - 8 月 26 日间，在易班上完成课程学习，并通过考试、完成作业并参与互评。
+
+  - tag: list
+    items:
+      - text: 新生入学教育课程介绍
+        path: intro
+
+  - tag: list
+    header: 客户端
+    items:
+      - text: 注册账号
+        icon: register
+        path: register/mobile
+
+      - text: 课程添加
+        icon: add
+        path: add/mobile
+
+      - text: 课程学习
+        icon: study
+        path: study/mobile
+
+      # - text: 课程作业与考试
+      #   icon: test
+      #   path: exam
+
+  - tag: list
+    header: PC 网页
+    items:
+      - text: 注册账号
+        icon: register
+        path: register/web
+
+      - text: 课程添加
+        icon: add
+        path: add/web
+
+      - text: 课程学习
+        icon: study
+        path: study/web
+
+      # - text: 课程作业与考试
+      #   icon: test
+      #   path: exam

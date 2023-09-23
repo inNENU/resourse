@@ -1,0 +1,42 @@
+name: Deploy resource to server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-server:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          run_install: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: pnpm
+
+      - name: Config environment
+        run: |
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan mp.innenu.com >> ~/.ssh/known_hosts
+          git config --global user.name 'Mr.Hope'
+          git config --global user.email 'mister-hope@outlook.com'
+
+      - name: Deploy
+        run: |
+          ssh git@mp.innenu.com "git config --global --add safe.directory /www/wwwroot/mp"
+          git push -f git@mp.innenu.com:/www/wwwroot/mp main
+          ssh git@mp.innenu.com "cd /www/wwwroot/mp && git reset --hard HEAD"

@@ -1,0 +1,20 @@
+title: 师范类专业认证
+icon: verify
+author: Mr.Hope
+time: 2023-09-23T10:52:59.448Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 师范类专业认证情况
+        icon: verify
+        path: status
+
+      - text: 师范类专业认证解释
+        icon: idea
+        path: explain
+
+      - text: 普通高等学校师范类专业认证实施办法 (暂行)
+        icon: rule
+        path: rule

@@ -1,0 +1,7 @@
+@mixin hover {
+  &:hover {
+    background-color: var(--bg-color-hover) !important;
+    text-decoration: none !important;
+    opacity: 0.7 !important;
+  }
+}

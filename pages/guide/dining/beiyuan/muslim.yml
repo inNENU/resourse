@@ -1,0 +1,32 @@
+title: 北苑清真餐厅
+icon: dining
+author: Mr.Hope
+time: 2023-09-22T16:59:13.551Z
+shareable: true
+content:
+  - tag: title
+    text: 清真食堂
+
+  - tag: text
+    text: 位于北苑食堂二楼北侧。
+
+  - tag: img
+    src: $img/dining/beiyuan/muslim.jpg
+    watermark: true
+
+  - tag: text
+    heading: 清真套餐
+    text: |-
+      价位: 一荤两素大概平均价位在 7、8 元左右，两荤一素在 9、10 元左右。"
+
+  - tag: text
+    heading: 其他
+    text: 自选麻辣烫，自选水果捞、炒面、炒饭
+
+  - tag: text
+    heading: 提供菜品
+    text: ￥6 起
+
+  - tag: text
+    heading: 注意
+    text: 为了尊重他人的饮食习惯，请不要带非清真类食品、非清真食堂的筷子餐盘等入内。

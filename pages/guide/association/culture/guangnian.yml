@@ -1,0 +1,43 @@
+title: 光年合唱团
+shareable: true
+content:
+  - tag: card
+    cover: $img/media/join.png
+    name: 光年合唱团
+    title: 我们在纳新
+    path: guangnian-in
+
+  - tag: title
+    text: 社团简介
+
+  - tag: p
+    text:
+      - 光年合唱团位于东北师范大学本部校区，为东北师范大学大学生艺术团下设社团，隶属校团委，属校级组织。自创建以来，合唱团始终秉持着为热爱音乐的同学提供舞台，活跃东师校园艺术氛围的宗旨，积极倡导团员们在集体演唱中体会团结的力量和乐趣，不断向着更高的水平建设。
+
+  - tag: title
+    text: 主要承办活动
+
+  - tag: p
+    text: 光年合唱团连续举办三届主题听唱会活动，为我团特色演出活动，也曾连续多年举办室外音乐会活动，同时还承办校园歌手大赛，东北师范大学五四合唱比赛等校级活动，深受同学们的支持与喜爱。
+
+  - tag: title
+    text: 曾获荣誉
+
+  - tag: p
+    text: 我团数名团员曾参与历届校园歌手大赛并冲进决赛取得优异成绩，最佳成绩为全校总决赛冠军，获得了专业老师和评委的一致认可。以光年合唱团中数名团员为代表的团队曾参与如我校地理科学学院本科生毕业晚会、数学与统计学院研究生毕业晚会、音乐学院合唱指挥学术硕士毕业音乐会等大型活动，屡获佳绩，成绩斐然。
+
+  - tag: title
+    text: 日常排练内容
+
+  - tag: p
+    text: 专业的开嗓环节和听音训练，五线谱识谱和基础乐理学习，专业老师不定期的声乐指导，多元化流行音乐大合唱改编，阿卡贝拉无伴奏纯人声合唱，自主选歌组队的团体小合唱以及展现风采和自我的个人独唱。
+
+  - tag: carousel
+    images:
+      - $img/association/guangnian/1.jpg
+      - $img/association/guangnian/2.jpg
+      - $img/association/guangnian/3.jpg
+      - $img/association/guangnian/4.jpg
+      - $img/association/guangnian/5.jpg
+      - $img/association/guangnian/6.jpg
+      - $img/association/guangnian/7.jpg

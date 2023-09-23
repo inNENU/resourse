@@ -1,0 +1,24 @@
+title: 地理科学类介绍
+author: Mr.Hope
+time: 2023-06-27T16:49:20.810Z
+shareable: true
+content:
+  - tag: title
+    text: 专业简介
+
+  - tag: p
+    text:
+      - 2020 年起，地理科学学院进行大类招生，学生可按照意愿和学院安排在地理科学、人文地理与城乡规划、地理信息科学三个专业进行选择，
+      - 地理科学类类学费均为 6320 元/年。
+
+  - tag: list
+    header: false
+    items:
+      - text: 地理科学
+        path: geography
+
+      - text: 人文地理与城乡规划
+        path: culture
+
+      - text: 地理信息科学
+        path: info

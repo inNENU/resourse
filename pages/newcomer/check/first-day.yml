@@ -1,0 +1,56 @@
+title: 大学第一天
+icon: check
+author: Mr.Hope
+time: 2023-09-23T12:11:49.024Z
+shareable: true
+content:
+  - tag: p
+    text: 第一天来到陌生的长春准备开启大学生活是不是既激动又紧张呢? 别着急，我带同学们开始大学生活——
+
+  - tag: title
+    text: 来到学校
+
+  - tag: list
+    header: false
+    items:
+      - text: |-
+          第一步: 认清校区位置
+        path: locate
+
+      - text: |-
+          第二步: 出发并到达校区
+        path: /newcomer/arrival/
+
+  - tag: title
+    text: 办理入学和住宿手续
+
+  - tag: list
+    header: |-
+      第三步: 办理入学和住宿手续
+    items:
+      - text: 本部流程
+        path: benbu-flow
+
+      - text: 净月流程
+        path: jingyue-flow
+
+  - tag: title
+    text: 生活准备
+
+  - tag: list
+    header: false
+    items:
+      - text: |-
+          第四步: 前往校园快递中心取行李
+        path: /guide/express/
+
+      - text: |-
+          第五步: 清理寝室灰尘，整理行李
+
+      - text: |-
+          第六步: 激活校园卡，并完成充值
+        path: /guide/card/prepare
+
+      - text: |-
+          第七步: 校内采购生活用品
+        path: /newcomer/necessity/

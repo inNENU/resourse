@@ -1,0 +1,140 @@
+title: 杰出人才
+icon: star
+desc: |-
+  来源: 东北师范大学官网
+time: 2023-09-23T11:16:45.426Z
+shareable: true
+cite:
+  - https://www.nenu.edu.cn/szdw/jcrc1.htm
+content:
+  - tag: title
+    text: 院士
+
+  - tag: list
+    header: false
+    items:
+      - text: 刘益春院士
+        icon: teacher
+        path: liuyichun
+
+      - text: 白志东院士
+        icon: teacher
+        path: baizhidong
+
+      - text: |-
+          中国工程院院士 (双聘): 李玉
+
+  - tag: title
+    text: 已故院士
+
+  - tag: ul
+    text:
+      - |-
+        中国科学院院士: 郝水
+
+  - tag: title
+    text: 荣誉教授
+
+  - tag: ul
+    text:
+      - 白志东
+      - 田克勤
+      - 史宁中
+      - 张澍军
+      - 黄百渠
+      - 盛连喜
+
+  - tag: title
+    text: 已故荣誉教授
+
+  - tag: ul
+    text:
+      - 郝水
+      - 林志纯
+      - 王逢贤
+      - 朱寰
+      - 陈才
+      - 黄启昌
+      - 王荣顺
+      - 王恩波
+      - 郑德荣
+      - 祝廷成
+
+  - tag: title
+    text: 历任国务院学位委员会学科评议组成员
+
+  - tag: ul
+    text:
+      - 杨钟秀
+      - 杨公骥
+      - 林笑峰
+      - 陈才
+      - 朱寰
+      - 史宁中
+      - 黄百渠
+      - 张澍军
+      - 韩东育 (召集人)
+      - 郭建华 (召集人)
+      - 刘宝
+      - 杨晓慧
+      - 邬志辉
+      - 王德利
+      - 陈秀武
+      - 刘益春
+      - 朱广山
+      - 魏民
+
+  - tag: title
+    text: 国家杰出青年科学基金获得者
+
+  - tag: ul
+    text:
+      - 刘宝
+      - 刘益春
+      - 郭建华
+      - 朱广山
+      - 徐海阳
+      - 冀书关
+      - 汤庆鑫
+
+  - tag: title
+    text: 中国科学院“百人计划”
+
+  - tag: ul
+    text:
+      - 刘益春
+      - 吴东辉
+      - 白娥
+
+  - tag: title
+    text: 国家级教学名师
+
+  - tag: ul
+    text:
+      - 田克勤
+      - 柳海民
+      - 史宁中
+      - 张向葵
+
+  - tag: title
+    text: 国家优秀青年科学基金获得者
+
+  - tag: ul
+    text:
+      - 王新龙
+      - 汤庆鑫
+      - 徐海阳
+      - 郑术蓉
+      - 毕锡和
+      - 周丹丹
+      - 白娥
+      - 江廷磊
+
+  - tag: title
+    text: 其他人才
+
+  - tag: list
+    header: false
+    items:
+      - text: 查看详情
+        path: talent-more

@@ -1,0 +1,56 @@
+title: 中国共产主义青年团标识
+icon: activity
+desc: |-
+  信息来源: 校团委官网
+time: 2023-09-22T15:38:33.383Z
+shareable: true
+content:
+  - tag: title
+    text: 中国共产主义青年团团旗
+
+  - tag: img
+    src: $img/apartment/group-flag.jpg
+
+  - tag: ol
+    heading: 制法说明
+    text:
+      - 团旗为长方形，长与宽之比为 3:2。
+      - 制作方法是:黄團围着的黄色五角星，缀在旗面左上方，制旗时，先将旗面对分为 4 个相等的长方形，将左(它的反面为右)上角长方形上下分为 12 等份，再以左上角长方形中心点为.圆心，3 等份及 4 等份长为半径画两圆周，两圆周之间就是黄色圆圈。再在内圆周上定出 5 个等距离的点，其中一点位于圆周正上方。将此 5 点中各相隔的两点相联成直线，此 5 直线之外轮廓线就是黄色五角星的外缘。
+      - 团旗颜色采用国旗红，可用布、绸、缎等材料按照标准制作。
+      - 旗杆套为白色。
+
+  - tag: title
+    text: 中国共产主义青年团团徽
+
+  - tag: img
+    src: $img/apartment/group-badge.png
+
+  - tag: ol
+    heading: 制法说明
+    text:
+      - 团徽上团旗的旗面和绶带为红色，团旗的五角星和环绕它的圆圈、旗边、旗杆、齿轮、麦穗、初升的太阳及其光芒、“中国共青团”五个字为金色。红为正红，金为大赤金。“中国共青团”字体为毛体。
+      - 团徽徽章的直径为 2 厘米。
+
+  - tag: title
+    text: 中国共产主义青年团团歌
+
+  - tag: img
+    src: $img/apartment/group-song.jpg
+
+  - tag: text
+    heading: 团歌视频
+
+  - tag: video
+    src: https://youth.nenu.edu.cn/__local/8/E9/E1/814F000EDE3259CAC2D9F8F2E60_B997AA3D_937010.mp4?e=.mp4
+
+  - tag: text
+    heading: 团歌合唱
+
+  - tag: audio
+    src: http://www.gqt.org.cn/ccylmaterial/song/200612/W020180622624077722652.mp3
+
+  - tag: text
+    heading: 团歌伴奏
+
+  - tag: audio
+    src: http://www.gqt.org.cn/ccylmaterial/song/200612/W020180622624077217403.mp3

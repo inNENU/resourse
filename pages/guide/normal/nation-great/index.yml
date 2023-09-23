@@ -1,0 +1,16 @@
+title: 国优计划介绍
+icon: plan
+author: Mr.Hope
+time: 2023-09-23T12:20:00.013Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 教育部通知
+        icon: notice
+        path: notice
+
+      - text: 教育部解读
+        icon: explain
+        path: explain

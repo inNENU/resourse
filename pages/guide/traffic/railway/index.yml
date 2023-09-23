@@ -1,0 +1,49 @@
+title: 长春轨道交通介绍
+icon: train
+author: Mr.Hope
+time: 2023-09-23T10:52:59.679Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 介绍
+    items:
+      - text: 运营线路
+        icon: flow
+        path: line
+
+      - text: 运营时间
+        icon: time
+        path: time
+
+  - tag: list
+    header: 支付方式介绍
+    items:
+      - text: 扫码乘车
+        icon: scan
+        path: scan
+
+      - text: 长春市轨道交通“一卡通”
+        desc: 不建议
+        icon: card
+        path: card
+
+      - text: E 出行 App
+        desc: 不建议
+        icon: app
+        path: app
+
+  - tag: list
+    header: 管理
+    items:
+      - text: 长春市轨道交通安全
+        icon: safe
+        path: safety
+
+      - text: 禁止、限制携带物品和禁止行为
+        icon: ban
+        path: ban
+
+      - text: 长春市轨道交通管理条例
+        icon: rule
+        path: rule

@@ -1,0 +1,77 @@
+title: 净月到校路线
+icon: locate
+author: Mr.Hope
+time: 2023-09-23T12:11:48.975Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 报到要求
+    items:
+      - text: 专业所在校区
+        icon: map
+        path: /newcomer/check/locate
+
+  - tag: list
+    items:
+      - text: 从长春站
+        icon: railway
+        path: train-jingyue/
+
+      - text: 从长春西站
+        icon: railway
+        path: train-w-jingyue/
+
+      - text: 从龙嘉机场
+        icon: plane
+        path: plane-jingyue/
+
+  - tag: functional-list
+    header: 到达长春后
+    items:
+      - type: navigator
+        text: 导航到净月
+        # 1 号门
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&endPoint={"latitude":43.828525,"longitude":125.43107,"name":"净月校区"}&mode=transit&themeColor=#2ecc71
+        # 2号门
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&endPoint={"latitude":43.82886,"longitude":125.42689,"name":"净月校区"}&mode=transit&themeColor=#2ecc71
+    env:
+      - wx
+
+  - tag: list
+    header: 注意事项
+    items:
+      - text: 学生票购买与核验
+        icon: check
+        path: /guide/traffic/train/student/check
+
+      - text: 铁路出行
+        icon: train
+        path: /guide/traffic/train/
+
+      - text: 长春出租车
+        icon: taxi
+        path: taxi
+
+      - text: 学校接站
+        icon: pickup
+        path: pickup
+
+  - tag: list
+    header: 长春交通
+    items:
+      - text: 公交介绍
+        icon: bus
+        path: /guide/traffic/bus/
+
+      - text: 长春轨道交通介绍
+        icon: train
+        path: /guide/traffic/railway/
+
+      - text: 火车站介绍
+        icon: railway
+        path: /guide/traffic/station/
+
+      - text: 机场介绍
+        icon: plane
+        path: /guide/traffic/airport/

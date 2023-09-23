@@ -1,0 +1,45 @@
+title: 净月烘焙坊
+icon: bake
+desc: 特别鸣谢小艺学长提供部分照片
+author: Mr.Hope
+time: 2023-09-23T10:52:59.349Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
+    text:
+      - |-
+        宏城烘焙坊: 二食堂一楼
+
+  - tag: location
+    title: 净月烘焙坊
+    points:
+      - latitude: 43.825126
+        longitude: 125.424799
+        name: 宏城烘焙坊
+        detail: 二食堂一楼
+
+  - tag: text
+    heading: 宏城烘焙坊
+    text:
+      - 售卖多种糕点，可以拿来当应急早餐。
+
+  - tag: img
+    src: $img/life/dining2/hongcheng1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/dining2/hongcheng2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/dining2/hongcheng3.jpg
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: text
+    text: 暂无信息
