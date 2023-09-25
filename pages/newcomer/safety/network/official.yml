@@ -1,7 +1,7 @@
 title: 伪装官方
 icon: $img/song/schoolLogo.jpg
 author: Mr.Hope
-time: 2023-09-23T12:11:49.135Z
+time: 2023-09-25T10:16:17.403Z
 shareable: true
 content:
   - tag: text
@@ -75,12 +75,12 @@ content:
   - tag: p
     text:
       - 目前我们学校没有任何一个校内运营的正规表白墙。而且相信 Mr. Hope，正经人也不会跑到上面去《求偶》，所以不建议关注。
-      - 如果你有任何求助方便的需要，Mr.Hope 和 in 东师总会尽最大限度的努力帮助你。
+      - 如果你有任何求助方便的需要，Mr.Hope 和 inNENU 总会尽最大限度的努力帮助你。
 
   - tag: functional-list
     header: 如果你有任何方面的疑问
     items:
-      - text: 添加 in 东师媒体号进行咨询
+      - text: 添加 inNENU 媒体号进行咨询
         icon: qq
         type: button
         openType: addFriend
@@ -89,7 +89,7 @@ content:
           - qq
 
   - tag: text
-    text: QQ 搜索 inNENU 添加 in 东师媒体号进行咨询
+    text: QQ 搜索 inNENU 添加 inNENU 媒体号进行咨询
     env:
       - wx
       - app

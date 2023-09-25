@@ -3,10 +3,10 @@ author: Mr.Hope
 shareable: true
 content:
   - tag: title
-    text: in 东师使用协议
+    text: inNENU 使用协议
 
   - tag: p
-    text: in 东师的全部代码和资源都处于开源状态。但是需要您特别注意，开源仅为开放源代码，不等于免费或随意使用。请您务必遵守项目附带协议。
+    text: inNENU 的全部代码和资源都处于开源状态。但是需要您特别注意，开源仅为开放源代码，不等于免费或随意使用。请您务必遵守项目附带协议。
 
   - tag: text
     type: info
@@ -19,7 +19,7 @@ content:
   - tag: text
     type: info
     heading: 代码部分
-    text: in 东师的全部代码置于 “Mr.Hope 协议 1.0 草案” 下。
+    text: inNENU 的全部代码置于 “Mr.Hope 协议 1.0 草案” 下。
 
   - tag: action
     content: https://github.com/inNENU/inNENU/tree/main/LICENSE
@@ -80,7 +80,7 @@ content:
   - tag: p
     text:
       - Mr.Hope 不享有标注来源的任何文字内容与标注来源图片的版权，关于这些文字、图片的使用，请询问相应版权持有人。
-      - 其他文字和图片，只需要保持“署名”、“不做修改”、“不用于商业用途”、“不得添加任何额外限制” 四个要求，即可在无需通知 Mr.Hope 的情况下，以任意方式使用in 东师内容。
+      - 其他文字和图片，只需要保持“署名”、“不做修改”、“不用于商业用途”、“不得添加任何额外限制” 四个要求，即可在无需通知 Mr.Hope 的情况下，以任意方式使用inNENU 内容。
 
   - tag: ol
     heading: 常见要点

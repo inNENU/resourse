@@ -1,11 +1,11 @@
 title: in 东北师大群
 icon: qq-group
 author: Mr.Hope
-time: 2023-09-23T12:11:49.048Z
+time: 2023-09-25T10:16:17.319Z
 shareable: true
 content:
   - tag: title
-    text: in 东师咨询群
+    text: inNENU 咨询群
 
   - tag: img
     src: $img/about/innenu.jpg
@@ -16,7 +16,7 @@ content:
   - tag: functional-list
     header: false
     items:
-      - text: 加入 in 东师咨询群
+      - text: 加入 inNENU 咨询群
         icon: qq-group
         type: button
         openType: openGroupProfile

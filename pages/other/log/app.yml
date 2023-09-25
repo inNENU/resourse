@@ -1,7 +1,16 @@
-title: in 东师更新日志
+title: inNENU 更新日志
 content:
   - tag: title
     text: 近期更新
+
+  - tag: list
+    header: v6.6.0
+    items:
+      - text: |-
+          · 全新小组件
+          · 重构课程表显示
+          · 重构天气页面
+          · 支持通知和新闻收藏
 
   - tag: list
     header: v6.5.0

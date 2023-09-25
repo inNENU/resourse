@@ -3,7 +3,7 @@ icon: association
 desc: |-
   社团名录来自学生社团发展管理中心
 author: Mr.Hope
-time: 2023-09-23T12:19:59.616Z
+time: 2023-09-25T10:16:17.731Z
 shareable: true
 content:
   - tag: text
@@ -57,7 +57,7 @@ content:
         env:
           - qq
 
-      - text: QQ 搜索 inNENU 联系 in 东师
+      - text: QQ 搜索 inNENU 联系 inNENU
         icon: contact
         type: button
         env:

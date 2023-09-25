@@ -1,10 +1,14 @@
 main-page:
-  unlogin: newcomer
+  unlogin: unlogin
   "2023": at-school
   default: at-school
 
 main-presets:
-  newcomer:
+  unlogin:
+    - tag: text
+      heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
+      path: /other/MrHope/notice
+
     - tag: grid
       header: 2024 年研招
       items:
@@ -35,35 +39,47 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
-        - text: 学生组织
-          color: blue
-          name: Organization
-          icon: student-org
-          path: guide/org/
+        - text: 学校概况
+          color: red
+          name: Description
+          icon: about
+          path: intro/about/
 
-        - text: 社团
-          color: orange
-          name: Association
-          icon: association
-          path: guide/association/
-
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
-
-        - text: 入学活动
-          color: purple
-          name: Activity
-          icon: activity
-          path: newcomer/activity/
-
-        - text: 超市
+        - text: 学科建设
           color: olive
-          name: Shop
-          icon: shop
-          path: guide/shop/
+          name: Subject
+          icon: content
+          path: intro/subject/
+
+        - text: 学生就业
+          color: cyan
+          name: Job
+          icon: job
+          path: intro/job/
+
+        - text: 资助
+          color: purple
+          name: Subsidize
+          icon: subsidize
+          path: intro/subsidize/
+
+        - text: 招生
+          name: Enroll
+          color: red
+          icon: enroll
+          path: intro/enroll/
+
+        - text: 学院介绍
+          name: School
+          color: purple
+          icon: school
+          path: school/
+
+        - text: 学校机构
+          name: School
+          color: red
+          icon: apartment
+          path: apartment/
 
         - text: 寝室
           color: blue
@@ -89,33 +105,99 @@ main-presets:
           icon: life
           path: guide/life/
 
-        - text: 大学介绍
-          color: olive
-          name: Intro
-          icon: about
-          path: newcomer/intro/
-
-        - text: 校园卡
+        - text: 转专业
           color: red
-          name: Card
-          icon: card
-          path: guide/card/
+          name: Change Major
+          icon: change
+          path: guide/change-major/
 
-        - text: 校园邮箱
-          color: red
-          name: Email
-          icon: email
-          path: guide/account/mail/
-
-        - text: 校园网
+        - text: 师范生
           color: purple
-          name: Network
-          icon: network
-          path: guide/network/
+          name: Normal
+          icon: teacher
+          path: guide/normal/
+
+        - text: 课程
+          color: orange
+          name: Course
+          icon: content
+          path: guide/course/
+
+        - text: 学习
+          color: mauve
+          name: Study
+          icon: study
+          path: guide/study/
+
+        - text: 奖学金
+          color: purple
+          name: Scholarship
+          icon: metal
+          path: guide/scholarship/
+
+        - text: 图书馆
+          color: blue
+          name: Library
+          icon: library
+          path: apartment/library/
+
+        - text: 考研/保研
+          color: red
+          name: Postgraduate
+          icon: study
+          path: intro/post/
+
+  newcomer:
+    - tag: text
+      heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
+      path: /other/MrHope/notice
+
+    - tag: grid
+      header: 您可能想关注
+      items:
+        - text: 课程表
+          color: grey
+          name: Course
+          icon: course-table
+          url: course-table
+
+        - text: 学校通知
+          color: red
+          name: Notice
+          icon: notice
+          url: notice-list
+
+        - text: 校园地图
+          color: orange
+          name: Map
+          icon: map
+          url: map
+
+        - text: 学生组织
+          color: blue
+          name: Organization
+          icon: student-org
+          path: guide/org/
+
+        - text: 社团
+          color: orange
+          name: Association
+          icon: association
+          path: guide/association/
+
+        - text: 校园媒体
+          color: grey
+          name: Accounts
+          icon: account
+          url: school-media
 
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
+    - tag: text
+      heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
+      path: /other/MrHope/notice
+
     - tag: grid
       header: 功能
       items:
@@ -124,24 +206,6 @@ main-presets:
           name: Course
           icon: course-table
           url: course-table
-
-        - text: 选课系统
-          color: blue
-          name: Select
-          icon: select
-          url: select
-
-        - text: 学籍注册
-          color: purple
-          name: Study Archive
-          icon: archive
-          url: view-archive
-
-        - text: 专项考试
-          color: red
-          name: SpecialExam
-          icon: test
-          url: special-exam
 
         - text: 成绩查询
           color: orange
@@ -167,29 +231,23 @@ main-presets:
           icon: email
           url: email
 
+        - text: 图书馆
+          color: purple
+          name: Library
+          icon: library
+          url: library
+
         - text: 校历
           color: mauve
           name: Calendar
           icon: calendar
           url: calendar
 
-        - text: 官网通知
-          color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
-
-        - text: 图书馆
-          color: purple
-          name: Library
-          icon: library
-          url: library
+        - text: 校园地图
+          color: orange
+          name: Map
+          icon: map
+          url: map
 
       footer: 更多内容请详见下方其他 Tab 页
 
@@ -202,21 +260,13 @@ intro-page:
       - school
     more:
       - apartment
-  "2023":
-    items:
-      - about
-      - school
-    more:
-      - under-enroll
-      - grad-enroll
-      - apartment
 
   default:
     items:
       - about
-      - school
       - apartment
     more:
+      - school
       - under-enroll
       - grad-enroll
 
@@ -232,6 +282,7 @@ guide-page:
       - service
       - tip
       - graduate
+
   "2023":
     items:
       - life
@@ -243,6 +294,7 @@ guide-page:
       - newcomer
     more:
       - graduate
+
   "2020":
     items:
       - graduate
@@ -254,6 +306,7 @@ guide-page:
       - tip
       - enjoy
       - newcomer
+
   default:
     items:
       - service
@@ -268,73 +321,66 @@ guide-page:
 
 function-page:
   unlogin: unlogin
-  "2023": at-school
   default: at-school
 
 function-presets:
-  at-school:
+  unlogin:
     - tag: grid
-      header: 功能
+      header: 账号激活
       items:
-        - text: 课程表
+        - text: 账号激活
           color: grey
-          name: Course
-          icon: course-table
-          url: course-table
+          name: Activate
+          icon: authorize
+          url: activate
 
-        - text: 成绩查询
+    - tag: grid
+      header: 东师风采
+      items:
+        - text: 校园地图
           color: orange
-          name: Grade
-          icon: grade
-          url: grade
+          name: Map
+          icon: map
+          url: map
 
-        - text: 学校通知
+        - text: 音悦东师
+          color: blue
+          name: Music
+          icon: cd
+          url: music
+
+        - text: 影约东师
+          color: mauve
+          name: Media
+          icon: media
+          url: video?type=video
+
+        - text: 校园媒体
+          color: grey
+          name: Accounts
+          icon: account
+          url: school-media
+
+    - tag: grid
+      header: 信息查询
+      items:
+        - text: 校历
+          color: olive
+          name: Calendar
+          icon: calendar
+          url: calendar
+
+        - text: 官网通知
           color: red
           name: Notice
           icon: notice
-          url: notice-list
+          url: info-list
 
-        - text: 校园邮箱
-          color: purple
-          name: Email
-          icon: email
-          url: email
-
-        - text: 选课系统
-          color: blue
-          name: Select
-          icon: select
-          url: select
-
-        - text: 学校新闻
+        - text: 官网新闻
           color: cyan
           name: News
           icon: news
-          url: notice-list?type=news
-
-        - text: 图书馆
-          color: purple
-          name: Library
-          icon: library
-          url: library
-
-        - text: 考场查询
-          color: grey
-          name: Exam
-          icon: exam
-          url: exam-place
-
-        - text: 转专业计划
-          color: red
-          name: Change major
-          icon: change
-          url: change-major-plan
-
-        - text: 体测计算器
-          color: olive
-          name: PE Calculator
-          icon: calculate
-          url: pe-calculator
+          url: info-list?type=news
 
         - text: 统一身份认证
           color: blue
@@ -372,45 +418,6 @@ function-presets:
           icon: exam
           url: info?path=/other/action/test
 
-    - tag: grid
-      header: 信息查询
-      items:
-        - text: 校历
-          color: olive
-          name: Calendar
-          icon: calendar
-          url: calendar
-
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
-
-        - text: 官网通知
-          color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
-
-        - text: 学籍查看
-          color: purple
-          name: Study Archive
-          icon: archive
-          url: view-archive
-
-        - text: 专项考试
-          color: red
-          name: SpecialExam
-          icon: test
-          url: special-exam
-
         - text: 学术会议
           color: cyan
           name: News
@@ -430,133 +437,7 @@ function-presets:
           url: phone
 
     - tag: grid
-      header: 招生相关
-      items:
-        - text: 2023 年招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        # - text: 2023 年招生计划
-        #   name: Plan
-        #   color: orange
-        #   icon: enroll
-        #   url: enroll-plan
-
-        # - text: 历史分数
-        #   name: History grade
-        #   color: purple
-        #   icon: time
-        #   url: enroll-grade
-
-        - text: 录取查询
-          name: Admission
-          color: cyan
-          icon: letter
-          url: admission?type=search
-
-    - tag: grid
-      header: 东师风采
-      items:
-        - text: 校园地图
-          color: orange
-          name: Map
-          icon: map
-          url: map
-
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
-
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
-
-      footer: " "
-
-  unlogin:
-    - tag: grid
-      header: 账号激活
-      items:
-        - text: 账号激活
-          color: grey
-          name: Activate
-          icon: authorize
-          url: activate
-
-    - tag: grid
-      header: 东师风采
-      items:
-        - text: 校园地图
-          color: orange
-          name: Map
-          icon: map
-          url: map
-
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
-
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
-
-    - tag: grid
-      header: 信息查询
-      items:
-        - text: 校历
-          color: olive
-          name: Calendar
-          icon: calendar
-          url: calendar
-
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
-
-        - text: 官网通知
-          color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
-
-        - text: 学术会议
-          color: cyan
-          name: News
-          icon: study
-          url: info-list?type=academic
-
-        - text: 东师网站
-          color: orange
-          name: Websites
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          color: purple
-          name: Contact
-          icon: phone
-          url: phone
-
-    - tag: grid
-      header: 功能
+      header: 工具
       items:
         - text: 体测计算器
           color: olive
@@ -564,10 +445,256 @@ function-presets:
           icon: calculate
           url: pe-calculator
 
+        - text: 东师天气
+          color: purple
+          name: Weather
+          icon: sun
+          url: weather
+
+    - tag: grid
+      header: 本科招生
+      items:
+        - text: 2023 年招生简章
+          name: Rule
+          color: blue
+          icon: rule
+          path: intro/enroll/under/rule/
+
+        #     - text: 2023 年招生计划
+        #       name: Plan
+        #       color: orange
+        #       icon: enroll
+        #       url: enroll-plan
+
+        #     - text: 历史分数
+        #       name: History grade
+        #       color: purple
+        #       icon: time
+        #       url: enroll-grade
+
+        - text: 录取查询
+          name: Admission
+          color: cyan
+          icon: letter
+          url: admission?type=search
+
     - tag: list
       items:
-        - text: 登录开启更多功能
+        - text: 登录开启海量校园功能
           url: account
+      footer: " "
+
+  at-school:
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/calendar.jpg
+    #   title: 校历
+    #   logo: calendar
+    #   url: calendar
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/map.jpg
+    #   title: 校园地图
+    #   logo: map
+    #   url: map
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/admission.jpg
+    #   title: 录取查询
+    #   logo: letter
+    #   url: admission?type=search
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/headphone.jpg
+    #   title: 音悦东师
+    #   logo: cd
+    #   url: music
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/video.jpg
+    #   title: 影约东师
+    #   logo: media
+    #   url: video?type=video
+
+    - tag: grid
+      header: 融合门户
+      items:
+        - text: 学校通知
+          color: red
+          name: Notice
+          icon: notice
+          url: notice-list
+
+        - text: 学校新闻
+          color: cyan
+          name: News
+          icon: news
+          url: notice-list?type=news
+
+        - text: 图书馆
+          color: purple
+          name: Library
+          icon: library
+          url: library
+
+    - tag: grid
+      header: 教务系统
+      items:
+        - text: 课程表
+          color: grey
+          name: Course
+          icon: course-table
+          url: course-table
+
+        - text: 成绩查询
+          color: orange
+          name: Grade
+          icon: grade
+          url: grade
+
+        - text: 选课系统
+          color: blue
+          name: Select
+          icon: select
+          url: select
+
+        - text: 考场查询
+          color: grey
+          name: Exam
+          icon: exam
+          url: exam-place
+
+        - text: 专项考试成绩
+          color: red
+          name: SpecialExam
+          icon: test
+          url: special-exam
+
+        - text: 学籍注册查看
+          color: purple
+          name: Study Archive
+          icon: archive
+          url: view-archive
+
+        - text: 建立学籍
+          color: purple
+          name: Create Archive
+          icon: archive
+          url: create-archive
+
+        - text: 转专业计划
+          color: red
+          name: Change major
+          icon: change
+          url: change-major-plan
+
+    - tag: grid
+      header: 东师风采
+      items:
+        - text: 校园地图
+          color: orange
+          name: Map
+          icon: map
+          url: map
+
+        - text: 音悦东师
+          color: blue
+          name: Music
+          icon: cd
+          url: music
+
+        - text: 影约东师
+          color: mauve
+          name: Media
+          icon: media
+          url: video?type=video
+
+        - text: 校园媒体
+          color: grey
+          name: Accounts
+          icon: account
+          url: school-media
+
+    - tag: grid
+      header: 信息查询
+      items:
+        - text: 校园邮箱邮件
+          color: purple
+          name: Email
+          icon: email
+          url: email
+
+        - text: 校历
+          color: olive
+          name: Calendar
+          icon: calendar
+          url: calendar
+
+        - text: 官网通知
+          color: red
+          name: Notice
+          icon: notice
+          url: info-list
+
+        - text: 官网新闻
+          color: cyan
+          name: News
+          icon: news
+          url: info-list?type=news
+
+        - text: 学术会议
+          color: cyan
+          name: News
+          icon: study
+          url: info-list?type=academic
+
+        - text: 东师网站
+          color: orange
+          name: Websites
+          icon: network
+          url: website
+
+        - text: 师大黄页
+          color: purple
+          name: Contact
+          icon: phone
+          url: phone
+
+    - tag: grid
+      header: 账号相关
+      items:
+        - text: 账号激活
+          color: grey
+          name: Activate
+          icon: authorize
+          url: activate
+
+        - text: 密码重置
+          color: grey
+          name: Reset
+          icon: reset
+          url: reset
+
+        - text: 邮箱申请
+          color: purple
+          name: Email
+          icon: email
+          url: apply-email
+
+    - tag: grid
+      header: 工具
+      items:
+        - text: 体测计算器
+          color: olive
+          name: PE Calculator
+          icon: calculate
+          url: pe-calculator
+
+        - text: 东师天气
+          color: purple
+          name: Weather
+          icon: sun
+          url: weather
+
       footer: " "
 
 user:
@@ -589,7 +716,7 @@ user:
         icon: about
         url: about
 
-  - tag: p
+  - tag: text
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 in 东北师大咨询群 (1139044856) 进行咨询。
@@ -602,7 +729,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1042900 字，其中东师指南部分 320044 字，新生迎新部分 102090 字，东师介绍部分 319566 字，机构介绍部分 67872 字，学院介绍部分 143999 字，功能大厅部分 42877 字，其他部分 46452 字。
+      - text: 小程序现有字数为 1043651 字，其中东师指南部分 319995 字，新生迎新部分 102066 字，东师介绍部分 319566 字，机构介绍部分 67832 字，学院介绍部分 143999 字，功能大厅部分 42869 字，其他部分 47324 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
@@ -611,7 +738,7 @@ about:
         url: info?path=Oabout/mrhope
 
       - text: |-
-          记: in 东师
+          记: inNENU
         url: info?path=Oabout/history
 
       - text: 开发者访谈
@@ -658,9 +785,13 @@ service:
   notice-list: local
 
 notice:
+  app:
+    title: 更名通知
+    content: Mr.Hope 于 2023 年 9 月 24 日收到东北师范大学委托律师的通知，指出本小程序曾用名 inNENU 涉嫌侵犯东北师范大学的权益，需主动撤销修改、停止侵权行为。Mr.Hope 已于委托律师取得联系并已于 9 月 25 日更名至 inNENU。
+    force: true
   main:
-    title: 欢迎使用 in 东师
-    content: 欢迎使用 in 东师。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
+    title: 欢迎使用 inNENU
+    content: 欢迎使用 inNENU 。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
   activate:
     title: 手机验证码
     content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。

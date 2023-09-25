@@ -1,7 +1,7 @@
 title: QQ 群
 icon: qq-group
 author: Mr.Hope
-time: 2023-09-23T12:11:49.047Z
+time: 2023-09-25T10:16:17.318Z
 grey: true
 shareable: true
 content:
@@ -39,7 +39,7 @@ content:
         icon: qq-group
         path: parent
 
-      - text: in 东师咨询群
+      - text: inNENU 咨询群
         icon: qq-group
         path: innenu
 
