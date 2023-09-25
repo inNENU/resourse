@@ -1,4 +1,4 @@
-# in 东师 小程序页面配置文件
+# inNENU 小程序页面配置文件
 
 [![作者: Mr.Hope](https://img.shields.io/badge/作者-Mr.Hope-blue.svg?style=for-the-badge)](https://mister-hope.com)
 
@@ -8,7 +8,7 @@
 
 ## 项目说明
 
-这里是 **in 东师** 小程序的配置文件。欢迎大家检查并提交错误。
+这里是 **inNENU** 小程序的配置文件。欢迎大家检查并提交错误。
 
 小程序的每个页面都是根据对应的一个 yaml 文件渲染而成。yaml 文件使用记事本或 文本编辑器(如 VSCode) 即可编写。
 
