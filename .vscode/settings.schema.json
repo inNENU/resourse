@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://mp.innenu.com/.vscode/components.schema.json",
+  "$ref": "https://mp.innenu.com/.vscode/components.schema.json",
   "additionalProperties": false,
   "$defs": {
     "service-status": {

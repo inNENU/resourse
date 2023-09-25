@@ -791,7 +791,6 @@ notice:
   app:
     title: 更名通知
     content: Mr.Hope 于 2023 年 9 月 24 日收到东北师范大学委托律师的通知，指出本小程序曾用名 in东师 涉嫌侵犯东北师范大学的权益，需主动撤销修改、停止侵权行为。Mr.Hope 已于委托律师取得联系并已于 9 月 25 日更名至 inNENU。
-    force: true
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU 。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
