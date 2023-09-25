@@ -1,7 +1,7 @@
 title: 退票相关
 icon: refund
 author: Mr.Hope
-time: 2023-09-23T10:52:59.698Z
+time: 2023-09-25T15:35:29.512Z
 shareable: true
 cite:
   - https://kyfw.12306.cn/otn/gonggao/windowRefund.html
@@ -21,7 +21,7 @@ content:
     text:
       - 在 12306 购票的，可以在 12306 线上办理铁路电子客票退票。
       - |-
-        在 12306 App 上通过人脸核验后，可以通过网站办理他人使用电子支付方式为自己购买的电子客票的退票手续.
+        在 12306 App 上通过人脸核验后，可以通过网站办理他人使用电子支付方式为自己购买的电子客票的退票手续。
       - 在 12306 办理时，退票应不晚于开车前。
 
   - tag: ul
