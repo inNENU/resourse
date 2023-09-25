@@ -6,6 +6,7 @@ main-page:
 main-presets:
   unlogin:
     - tag: text
+      type: warning
       heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
       path: /other/MrHope/notice
 
@@ -149,6 +150,7 @@ main-presets:
 
   newcomer:
     - tag: text
+      type: warning
       heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
       path: /other/MrHope/notice
 
@@ -195,6 +197,7 @@ main-presets:
 
   at-school:
     - tag: text
+      type: warning
       heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
       path: /other/MrHope/notice
 
@@ -787,7 +790,7 @@ service:
 notice:
   app:
     title: 更名通知
-    content: Mr.Hope 于 2023 年 9 月 24 日收到东北师范大学委托律师的通知，指出本小程序曾用名 inNENU 涉嫌侵犯东北师范大学的权益，需主动撤销修改、停止侵权行为。Mr.Hope 已于委托律师取得联系并已于 9 月 25 日更名至 inNENU。
+    content: Mr.Hope 于 2023 年 9 月 24 日收到东北师范大学委托律师的通知，指出本小程序曾用名 in东师 涉嫌侵犯东北师范大学的权益，需主动撤销修改、停止侵权行为。Mr.Hope 已于委托律师取得联系并已于 9 月 25 日更名至 inNENU。
     force: true
   main:
     title: 欢迎使用 inNENU
