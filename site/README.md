@@ -192,7 +192,7 @@ highlights:
         link: ./guide/test/
 
       - title: 国家考试
-        icon: https://mp.innenu.com/data/icon/exam.svg
+        icon: https://mp.innenu.com/data/icon/test.svg
         link: ./guide/exam/
 
       - title: 考研/保研
