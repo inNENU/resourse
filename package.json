@@ -59,7 +59,7 @@
     "nodejs-jieba": "0.0.2",
     "prettier": "3.0.3",
     "qrcode": "1.5.3",
-    "sort-package-json": "2.5.1",
+    "sort-package-json": "2.6.0",
     "svgo": "3.0.2",
     "tslib": "2.6.2",
     "tsx": "3.13.0",
