@@ -1,5 +1,5 @@
 ---
-title: in东师 微信小程序用户协议
+title: in东师微信小程序用户协议
 version: 3
 ---
 
