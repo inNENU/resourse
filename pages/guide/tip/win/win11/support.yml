@@ -1,7 +1,7 @@
 title: Windows 11 支持
 icon: support
 author: Mr.Hope
-time: 2023-09-23T12:20:00.208Z
+time: 2023-10-23T04:24:15.832Z
 shareable: true
 content:
   - tag: title
@@ -34,7 +34,7 @@ content:
 
   - tag: text
     text:
-      - 微软推出了“电脑健康状况检查应用”，来检查本电脑是否支持 Windows 11。您可以通过下载并运行此应用来检查自己的电脑是否支持 Windows 11.
+      - 微软推出了“电脑健康状况检查应用”，来检查本电脑是否支持 Windows 11。您可以通过下载并运行此应用来检查自己的电脑是否支持 Windows 11。
 
   - tag: action
     header: 电脑健康状况检查应用

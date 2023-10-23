@@ -1,11 +1,11 @@
 ---
-title: inNENU App 隐私说明
+title: in东师 App 隐私说明
 version: 2
 ---
 
-# inNENU App 隐私说明
+# in东师 App 隐私说明
 
-本说明是inNENU App 开发者 Mr.Hope (以下简称“开发者”) 对在 App 中获取、处理你的相关隐私信息而指定。
+本说明是in东师 App 开发者 Mr.Hope (以下简称“开发者”) 对在 App 中获取、处理你的相关隐私信息而指定。
 
 ## 1. 开发者处理的信息
 

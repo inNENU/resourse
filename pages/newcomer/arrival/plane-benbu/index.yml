@@ -1,7 +1,7 @@
 title: 坐飞机-到本部
 icon: plane
 author: Mr.Hope
-time: 2023-09-25T10:16:17.269Z
+time: 2023-10-23T04:24:14.107Z
 shareable: true
 content:
   - tag: text
@@ -19,9 +19,9 @@ content:
     items:
       - type: navigator
         text: 龙嘉机场导航到本部
-        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=inNENU&startPoint={"latitude":43.997996,"longitude":125.701892,"name":"龙嘉机场 T2 航站楼"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=in东师&startPoint={"latitude":43.997996,"longitude":125.701892,"name":"龙嘉机场 T2 航站楼"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
         # 正门
-        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=inNENU&startPoint={"latitude":43.997996,"longitude":125.701892,"name":"龙嘉机场 T2 航站楼"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=in东师&startPoint={"latitude":43.997996,"longitude":125.701892,"name":"龙嘉机场 T2 航站楼"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
     env:
       - wx
 

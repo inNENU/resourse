@@ -1,6 +1,6 @@
 title: 避免通过 PD Runner 延长试用期
 author: Mr.Hope
-time: 2023-06-26T10:31:31.806Z
+time: 2023-10-23T04:24:15.781Z
 shareable: true
 content:
   - tag: title
@@ -60,7 +60,7 @@ content:
     type: info
     heading: 摘自软件项目主页
     text:
-      - PD Runner 是一个菜单栏 APP，启动后会在菜单栏显示程序图标. 点击菜单栏图标可列出当前 Mac 上安装的所有客户机，然后点击客户机名称即可启动对应的客户机.
+      - PD Runner 是一个菜单栏 APP，启动后会在菜单栏显示程序图标. 点击菜单栏图标可列出当前 Mac 上安装的所有客户机，然后点击客户机名称即可启动对应的客户机。
 
   - tag: text
     text: 在您安装后，请您立即点击任务栏的图标并点击“退出”，并接着卸载。请您不要进行以下行为。

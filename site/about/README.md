@@ -1,4 +1,4 @@
----
+---师
 title: 关于本站
 ---
 
@@ -6,7 +6,7 @@ title: 关于本站
 
 本站由 Mr.Hope 个人维护，旨在为东北师范大学新生提供便利。
 
-![ inNENU小程序二维码](/qrcode.jpg)
+![in东师/inNENU 小程序二维码](/qrcode.jpg)
 
 ::: tip
 
@@ -36,6 +36,6 @@ title: 关于本站
 
 ## 站点内容修订
 
-inNENU 页面内容仓库在 Github 上开源。如您愿意对 inNENU 提供帮助，欢迎您点击下方链接为该仓库做贡献。您可以帮助扩充或编辑 inNENU 的页面文字、图片以及相关文件。
+in东师/inNENU 页面内容仓库在 Github 上开源。如您愿意对 in东师/inNENU 提供帮助，欢迎您点击下方链接为该仓库做贡献。您可以帮助扩充或编辑 in东师/inNENU 的页面文字、图片以及相关文件。
 
 地址: <https://github.com/inNENU/resource>

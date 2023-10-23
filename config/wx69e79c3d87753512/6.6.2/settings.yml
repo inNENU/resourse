@@ -5,11 +5,6 @@ main-page:
 
 main-presets:
   unlogin:
-    - tag: text
-      type: warning
-      heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
-      path: /other/MrHope/notice
-
     - tag: grid
       header: 2024 年研招
       items:
@@ -149,11 +144,6 @@ main-presets:
           path: intro/post/
 
   newcomer:
-    - tag: text
-      type: warning
-      heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
-      path: /other/MrHope/notice
-
     - tag: grid
       header: 您可能想关注
       items:
@@ -196,11 +186,6 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: warning
-      heading: 关于 inNENU 更改曾用名 in东师 至当前名称的通知。
-      path: /other/MrHope/notice
-
     - tag: grid
       header: 功能
       items:
@@ -732,7 +717,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1043651 字，其中东师指南部分 319995 字，新生迎新部分 102066 字，东师介绍部分 319566 字，机构介绍部分 67832 字，学院介绍部分 143999 字，功能大厅部分 42869 字，其他部分 47324 字。
+      - text: 小程序现有字数为 1044158 字，其中东师指南部分 320019 字，新生迎新部分 102077 字，东师介绍部分 319565 字，机构介绍部分 67832 字，学院介绍部分 143999 字，功能大厅部分 42877 字，其他部分 47789 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
@@ -741,7 +726,7 @@ about:
         url: info?path=Oabout/mrhope
 
       - text: |-
-          记: inNENU
+          记: in东师
         url: info?path=Oabout/history
 
       - text: 开发者访谈
@@ -788,12 +773,9 @@ service:
   notice-list: local
 
 notice:
-  app:
-    title: 更名通知
-    content: Mr.Hope 于 2023 年 9 月 24 日收到东北师范大学委托律师的通知，指出本小程序曾用名 in东师 涉嫌侵犯东北师范大学的权益，需主动撤销修改、停止侵权行为。Mr.Hope 已于委托律师取得联系并已于 9 月 25 日更名至 inNENU。
   main:
-    title: 欢迎使用 inNENU
-    content: 欢迎使用 inNENU 。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
+    title: 欢迎使用 in东师
+    content: 欢迎使用 in东师 。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
   activate:
     title: 手机验证码
     content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。

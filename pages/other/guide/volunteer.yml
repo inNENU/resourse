@@ -1,6 +1,6 @@
-title: inNENU 志愿者招募
+title: in东师 志愿者招募
 author: Mr.Hope
-time: 2023-09-25T10:16:18.456Z
+time: 2023-10-23T04:24:16.006Z
 shareable: true
 content:
   - tag: title
@@ -8,18 +8,18 @@ content:
 
   - tag: p
     text:
-      - inNENU 是 Mr.Hope 的个人作品，从未得到学校任何形式的帮助。
-      - 自 2018 年 inNENU 上线的 5 年多来，Mr.Hope 一直个人承担 inNENU 代码和内容全部的编写和维护工作，并已服务 6 届学子。经多年扩充与维护， inNENU 字数现已超过 100 万字。
-      - Mr.Hope 目前在东师就读理论物理硕士生，科研压力较大。Mr.Hope 当前精力已不足以及时更新并维护庞大的 inNENU 内容。Mr.Hope 现面向全体在校生招纳志愿者协助 Mr.Hope 更新并维护 inNENU ，主要工作是完善或修正 inNENU 、摄影、视频制作、资料归纳等。
+      - in东师 是 Mr.Hope 的个人作品，从未得到学校任何形式的帮助。
+      - 自 2018 年 in东师 上线的 5 年多来，Mr.Hope 一直个人承担 in东师 代码和内容全部的编写和维护工作，并已服务 6 届学子。经多年扩充与维护， in东师 字数现已超过 100 万字。
+      - Mr.Hope 目前在东师就读理论物理硕士生，科研压力较大。Mr.Hope 当前精力已不足以及时更新并维护庞大的 in东师 内容。Mr.Hope 现面向全体在校生招纳志愿者协助 Mr.Hope 更新并维护 in东师 ，主要工作是完善或修正 in东师 、摄影、视频制作、资料归纳等。
 
   - tag: text
     type: info
     heading: 特别提示
     text:
-      - 如果您想要协助 Mr.Hope，您需要放弃贡献内容的全部版权并将其不可撤销的转让给 Mr.Hope 与 inNENU，与此同时，Mr.Hope 会要求您保留并同时尊重您贡献内容的署名权。
+      - 如果您想要协助 Mr.Hope，您需要放弃贡献内容的全部版权并将其不可撤销的转让给 Mr.Hope 与 in东师，与此同时，Mr.Hope 会要求您保留并同时尊重您贡献内容的署名权。
 
   - tag: card
-    title: inNENU 计划表
+    title: in东师 计划表
     options:
       appId: wxd45c635d754dbf59
       path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH
@@ -35,7 +35,7 @@ content:
 
   - tag: text
     type: tip
-    text: 如果您有意帮助 Mr.Hope，欢迎通过 inNENU 渠道内联系我。
+    text: 如果您有意帮助 Mr.Hope，欢迎通过 in东师 渠道内联系我。
 
   - tag: functional-list
     header: 联系方式
