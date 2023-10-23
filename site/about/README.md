@@ -6,7 +6,7 @@ title: 关于本站
 
 本站由 Mr.Hope 个人维护，旨在为东北师范大学新生提供便利。
 
-![in东师/inNENU 小程序二维码](/qrcode.jpg)
+![in东师/inNENU 小程序二维码](/qrcode.png)
 
 ::: tip
 
