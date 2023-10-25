@@ -16,7 +16,7 @@ content:
       - 五谷渔粉
       - 味之道营养套餐
       - 麻辣香锅
-      - 烤肉木桶饭
+      - 港味龙叉烧饭(也卖鸡公煲排骨煲)
       - 北京风味
       - 美食妹手拍粉(也卖炸串)
       - 尚品双拼饭
@@ -32,6 +32,7 @@ content:
 
   - tag: img
     src: $img/dining/beiyuan/2f-detail2.jpg
+    desc: 东北小炒
     watermark: true
 
   - tag: img
@@ -69,16 +70,17 @@ content:
 
   - tag: img
     src: $img/dining/beiyuan/2f-detail10.jpg
+    desc: 港味龙叉烧饭(也卖鸡公煲排骨煲)
     watermark: true
 
   - tag: img
     src: $img/dining/beiyuan/2f-detail11.jpg
-    desc: 美食妹手拍粉(也卖炸串)
+    desc: 港味龙叉烧饭(也卖鸡公煲排骨煲)
     watermark: true
 
   - tag: img
     src: $img/dining/beiyuan/2f-detail12.jpg
-    desc: 美食妹手拍粉(也卖炸串)
+    desc: 港味龙叉烧饭(也卖鸡公煲排骨煲)
     watermark: true
 
   - tag: img
@@ -87,6 +89,30 @@ content:
 
   - tag: img
     src: $img/dining/beiyuan/2f-detail14.jpg
+    desc: 美食妹手拍粉(也卖炸串)
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f-detail15.jpg
+    desc: 美食妹手拍粉(也卖炸串)
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f-detail16.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f-detail17.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f-detail18.jpg
+    desc: 旋转火锅
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f-detail19.jpg
+    desc: 旋转火锅
     watermark: true
 
   - tag: title
