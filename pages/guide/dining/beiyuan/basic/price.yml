@@ -7,6 +7,10 @@ content:
   - tag: title
     text: 基本餐价格
 
+  - tag: img
+    src: $img/dining/beiyuan/basic-price.jpg
+    watermark: true
+
   - tag: ul
     text:
       - 米饭 ￥0.25/两；

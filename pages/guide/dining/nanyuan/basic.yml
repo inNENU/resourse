@@ -10,14 +10,19 @@ content:
   - tag: ul
     text:
       - |-
-        早: 6:30 - 8:30
+        早: 6:00 - 8:30
       - |-
-        午: 10:30 - 12:30
+        午: 11:00 - 12:30
       - |-
-        晚: 16:00 - 18:00
+        晚: 16:30 - 18:00
+        （信息来自南苑基本餐入口）
 
   - tag: title
     text: 相关图片
+
+  - tag: img
+    src: $img/dining/nanyuan/basic0.jpg
+    watermark: true
 
   - tag: img
     src: $img/dining/nanyuan/basic1.jpg

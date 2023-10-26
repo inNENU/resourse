@@ -1,7 +1,7 @@
 title: 北苑清真餐厅
 icon: dining
 author: Mr.Hope
-time: 2023-09-22T16:59:13.551Z
+time: 2023-10-25T16:59:23.551Z
 shareable: true
 content:
   - tag: title
@@ -11,7 +11,23 @@ content:
     text: 位于北苑食堂二楼北侧。
 
   - tag: img
-    src: $img/dining/beiyuan/muslim.jpg
+    src: $img/dining/beiyuan/muslim1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/muslim2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/muslim3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/muslim4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/muslim5.jpg
     watermark: true
 
   - tag: text

@@ -1,7 +1,7 @@
 title: 南苑餐厅特色档口
 icon: dining
 author: Mr.Hope
-time: 2023-09-22T16:59:13.604Z
+time: 2023-10-25T16:59:23.604Z
 shareable: true
 content:
   - tag: title
@@ -15,6 +15,7 @@ content:
 
   - tag: ul
     text:
+      - 多味豆浆
       - 味千包子
       - 轻食减脂餐 四川麻辣烫
       - 响半天烤盘菜
@@ -24,11 +25,16 @@ content:
       - 小锅菜翻勺饭 营养套餐炒饭盖饭
       - 沙县小吃
       - 阿旺福砂锅土豆粉
+      - 蜀香缘川菜坊
       - 午前午后经典面庄
       - 麻辣香锅
 
   - tag: title
     text: 相关价格
+
+  - tag: img
+    src: $img/dining/nanyuan/special0.jpg
+    watermark: true
 
   - tag: img
     src: $img/dining/nanyuan/special1.jpg
@@ -72,4 +78,12 @@ content:
 
   - tag: img
     src: $img/dining/nanyuan/special11.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special12.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/dining/nanyuan/special13.jpg
     watermark: true
