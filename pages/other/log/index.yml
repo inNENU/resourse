@@ -12,11 +12,11 @@ content:
     cover: https://mmbiz.qpic.cn/mmbiz_jpg/ic9k8LCTbicc7fibAYDFBn7oAvOaEs00iblrOKaFWoIrqzQzoXXDPmHNjS9bm9ZUVQWB3149EYsjmQNS4jU1HzUW5Q/0?wx_fmt=jpeg
     title: Mr.Hope 需要您的帮助
     logo: $img/inNENU.png
-    name: inNENU
+    name: in东师
     url: info?path=Oguide/volunteer
 
   - tag: card
-    title: inNENU 计划表
+    title: in东师 计划表
     options:
       appId: wxd45c635d754dbf59
       path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH

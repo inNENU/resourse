@@ -3,12 +3,12 @@ home: true
 title: 主页
 heroFullScreen: true
 heroImage: /logo.svg
-heroText: inNENU
+heroText: in东师
 bgImage: https://mp.innenu.com/img/tab/map.jpg
 bgImageStyle:
   opacity: 0.5
   background-position: 50% 60%
-tagline: 在东师，就用 inNENU
+tagline: 在东师，就用 in东师
 actions:
   - type: primary
     text: 东师指南
@@ -452,10 +452,10 @@ copyright: |-
 
 ::: tip
 
-此网站内容从 inNENU 小程序自动生成，用于 PC 端访问以及高级搜素。
+此网站内容从 in东师/inNENU App、小程序自动生成，用于 PC 端访问以及高级搜素。
 
-建议移动端扫码下方图片使用 inNENU 小程序。
+建议移动端扫码下方图片使用 in东师/inNENU 小程序。
 
 :::
 
-![小程序二维码](/qrcode.jpg)
+![小程序二维码](/qrcode.png)

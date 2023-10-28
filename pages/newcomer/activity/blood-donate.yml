@@ -1,7 +1,7 @@
 title: 献血
 icon: heart
 author: Mr.Hope
-time: 2023-09-23T12:11:48.927Z
+time: 2023-10-28T12:08:38.154Z
 shareable: true
 content:
   - tag: title
@@ -17,6 +17,13 @@ content:
 
   - tag: text
     text: 我校会于每年秋季学期中部时段开无偿献血工作，学生自愿献血。
+
+  - tag: list
+    header: false
+    items:
+      - text: 2023 年无偿献血通知
+        icon: notice
+        url: notice-detail?title=关于组织学生参加2023年无偿献血活动的通知&id=31f8113617714fa39ebf29db8bda733f
 
   - tag: text
     type: tip

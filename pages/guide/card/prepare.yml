@@ -1,7 +1,7 @@
 title: 新卡使用前准备
 icon: prepare
 author: Mr.Hope
-time: 2023-09-22T16:59:13.428Z
+time: 2023-10-28T12:08:38.973Z
 shareable: true
 content:
   - tag: text
@@ -69,7 +69,7 @@ content:
   - tag: text
     type: note
     text:
-      - 如忘记密码，请您本人持有效身份证件到信息化办办理重置密码.
+      - 如忘记密码，请您本人持有效身份证件到信息化办办理重置密码。
 
   - tag: title
     text: 激活直饮机

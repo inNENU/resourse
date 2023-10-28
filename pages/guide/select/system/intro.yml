@@ -1,20 +1,20 @@
-title: inNENU 选课系统使用说明
+title: in东师 选课系统使用说明
 icon: idea
 author: Mr.Hope
-time: 2023-09-25T10:16:18.219Z
+time: 2023-10-28T12:08:39.650Z
 shareable: true
 content:
   - tag: text
     type: tip
     text:
-      - 由于官方系统并不支持手机选课，因此 Mr.Hope 在 inNENU 上重新开发了选课系统，以方便大家用手机选课。
+      - 由于官方系统并不支持手机选课，因此 Mr.Hope 在 in东师 上重新开发了选课系统，以方便大家用手机选课。
 
   - tag: title
     text: 选课系统使用说明
 
   - tag: text
     text: |-
-      为充分优化手机布局，inNENU 选课系统分为三个主要模块: 已选课程、课程列表和个人信息。
+      为充分优化手机布局，in东师 选课系统分为三个主要模块: 已选课程、课程列表和个人信息。
 
   - tag: img
     src: $img/select/intro1.jpg

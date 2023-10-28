@@ -1,14 +1,14 @@
 title: 英语课程说明
 icon: english
 author: Mr.Hope
-time: 2023-09-22T16:59:13.485Z
+time: 2023-10-28T12:08:39.023Z
 shareable: true
 content:
   - tag: p
     type: info
     heading: 2020 级及以后
     text:
-      - 本科生在读期间，需根据教学要求修满 8 学分的英语课程，并通过 “东北师范大学英语水平测试”(DET)(普通类、术科类).
+      - 本科生在读期间，需根据教学要求修满 8 学分的英语课程，并通过 “东北师范大学英语水平测试”(DET)(普通类、术科类)。
 
   # - tag: p
   #   type: info
@@ -20,7 +20,7 @@ content:
   - tag: ul
     type: tip
     text:
-      - 外国语学院学生无需修读此课程.
+      - 外国语学院学生无需修读此课程。
       - 高考非英语语种的学生需完成自己所学语种的课程，即修读大学日语、大学德语等。
     path: other
 
