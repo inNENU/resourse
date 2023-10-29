@@ -1,6 +1,6 @@
 ---
 title: 如何编写 YAML
-icon: yaml
+icon: feather
 category: 小程序
 ---
 

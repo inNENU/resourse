@@ -1,6 +1,6 @@
 ---
 title: 小程序页面简易参数表
-icon: list
+icon: table
 category: 小程序
 ---
 

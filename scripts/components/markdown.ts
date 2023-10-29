@@ -14,6 +14,7 @@ import { getTitleMarkdown } from "./title/index.js";
 import { type PageConfig } from "./typings.js";
 import { getVideoMarkdown } from "./video/index.js";
 import { getYAMLValue } from "../utils/index.js";
+import { getIconLink } from "./utils.js";
 
 /**
  * 生成页面 Markdown
@@ -30,7 +31,7 @@ export const getMarkdown = (page: PageConfig, pagePath = ""): string => {
   if (!page.content)
     throw new Error(`${pagePath}.content doesn't contain anything`);
 
-  const { title, author, desc, cite, content: pageContents, time } = page;
+  const { title, icon, author, desc, cite, content: pageContents, time } = page;
 
   let content = "";
 
@@ -38,6 +39,15 @@ export const getMarkdown = (page: PageConfig, pagePath = ""): string => {
 ---
 title: ${getYAMLValue(title)}
 `;
+
+  if (icon) {
+    const iconLink = getIconLink(icon);
+
+    if (iconLink)
+      content += `\
+icon: ${iconLink}
+`;
+  }
 
   if (Array.isArray(author))
     content += `\

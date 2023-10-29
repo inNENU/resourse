@@ -1,7 +1,7 @@
 title: 学校情况
 icon: about
 author: Mr.Hope
-time: 2023-09-23T12:11:49.150Z
+time: 2023-10-29T17:18:50.428Z
 shareable: true
 content:
   - tag: ul
@@ -28,7 +28,6 @@ content:
     type: info
     heading: 学校领导
     text:
-      - 现任书记是『兰恒斌』
       - 现任校长是『徐海阳』
     path: /intro/about/leader
 

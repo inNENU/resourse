@@ -7,6 +7,8 @@ export default hopeTheme(
     hostname: "https://innenu.com",
     repo: "inNENU/resource",
 
+    iconAssets: "fontawesome",
+
     editLink: false,
     footer: "在东师，就用 in东师",
     copyright: `使用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> 协议`,

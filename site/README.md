@@ -1,6 +1,7 @@
 ---
 home: true
 title: 主页
+icon: home
 heroFullScreen: true
 heroImage: /logo.svg
 heroText: in东师

@@ -1,5 +1,6 @@
 ---
 title: 关于本站
+icon: info-circle
 ---
 
 ## 站点概况

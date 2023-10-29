@@ -1,6 +1,6 @@
 ---
 title: in东师/inNENU 快速上手
-icon: creative
+icon: lightbulb
 category: 小程序
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: in东师/inNENU 维护介绍
-icon: info
+icon: info-circle
 category: 小程序
 ---
 
