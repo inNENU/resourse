@@ -1,7 +1,7 @@
 title: 南苑基本餐
 icon: dining
 author: Mr.Hope
-time: 2023-09-22T16:59:13.599Z
+time: 2023-10-29T15:45:39.408Z
 shareable: true
 content:
   - tag: title
@@ -10,14 +10,18 @@ content:
   - tag: ul
     text:
       - |-
-        早: 6:30 - 8:30
+        早: 6:00 - 8:30
       - |-
-        午: 10:30 - 12:30
+        午: 11:00 - 12:30
       - |-
-        晚: 16:00 - 18:00
+        晚: 16:30 - 18:00
 
   - tag: title
     text: 相关图片
+
+  - tag: img
+    src: $img/dining/nanyuan/basic0.jpg
+    watermark: true
 
   - tag: img
     src: $img/dining/nanyuan/basic1.jpg

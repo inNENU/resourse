@@ -1,39 +1,32 @@
 title: 本部浴池
 icon: bath
 author: Mr.Hope
-time: 2023-09-22T16:59:13.404Z
+time: 2023-10-29T15:45:39.197Z
 shareable: true
 outdated: true
 content:
-  - tag: text
-    type: info
-    heading: 浴池迁移
-    text:
-      - 因本部寝室紧张，原有学生浴池计划推倒重建，原场地将用于建设新的寝室楼。
-      - 新浴池将迁移到教育部园长中心大楼，预计2023年第三季度完工。
-
   - tag: title
     text: 简介
 
   - tag: text
     text:
-      - 本部学生浴池在八舍南侧，一楼是男宾、二楼是女宾。
-      - 浴池一楼同时包含奶茶店、水果店、理发店、眼镜店、烘焙店、洗衣店等店铺，同时还包含了休息室、健身器材等设施。
+      - 本部学生新浴池在教育部园长中心大楼，进门后左边是男宾、右边是女宾。
+      - 新浴池附近同时包含眼镜店、水果店、打字社、理发店等店铺。
 
   - tag: location
     title: 本部浴池
     points:
-      - latitude: 43.86249
-        longitude: 125.337057
+      - latitude: 43.862054
+        longitude: 125.336108
 
   - tag: img
-    src: $img/bath/benbu-main.jpg
+    src: $img/bath/benbu-main-1.jpg
     desc: 正门
     watermark: true
 
   - tag: img
     src: $img/bath/benbu-outside.jpg
-    desc: 外景
+    desc: 周边店铺
     watermark: true
 
   - tag: img
@@ -41,43 +34,42 @@ content:
     desc: 大厅
     watermark: true
 
-  - tag: text
-    heading: 一楼
-    text:
-      - 包含健身房与休息室等设施。
-      - 还有一个小小的男宾😑
-
-  - tag: text
-    heading: 二楼
-    text:
-      - 浴池二楼为女宾区。
-
   - tag: title
     text: 洗浴区域
 
   - tag: p
     text:
-      - 洗浴区在入口处提供了吹风机、梳妆镜、体重秤等设置。
-      - 每个洗浴间都有可上锁的门，周围是毛玻璃，门后有放置衣服和鞋子的箱子。
+      - 新浴池洗浴区在入口处提供了梳妆镜和电源插孔等设施。
+      - 新浴池洗浴间使用了门帘及不透光隔板，洗浴间门口的凳子可用来放置衣服。
 
   - tag: img
-    src: $img/bath/benbu-env.jpg
+    src: $img/bath/benbu-env1.jpg
     desc: 洗浴区
     watermark: true
 
   - tag: img
-    src: $img/bath/benbu-cloth-box.jpg
-    desc: 衣物箱
+    src: $img/bath/benbu-env2.jpg
+    desc: 洗浴区
     watermark: true
 
   - tag: img
-    src: $img/bath/benbu-dressing-table.jpg
-    desc: 梳妆台 (有吹风机)
+    src: $img/bath/benbu-env3.jpg
+    desc: 换衣间（男宾）
     watermark: true
 
   - tag: img
-    src: $img/bath/benbu-scale.jpg
-    desc: 体重秤
+    src: $img/bath/benbu-shop1.jpg
+    desc: 周边店铺：水果店
+    watermark: true
+
+  - tag: img
+    src: $img/bath/benbu-shop2.jpg
+    desc: 周边店铺：水果店、眼镜店
+    watermark: true
+
+  - tag: img
+    src: $img/bath/benbu-shop3.jpg
+    desc: 周边店铺：打字社
     watermark: true
 
   - tag: title

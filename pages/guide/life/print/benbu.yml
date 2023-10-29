@@ -1,7 +1,7 @@
 title: 本部打印复印
 icon: print
 author: Mr.Hope
-time: 2023-09-23T10:52:59.409Z
+time: 2023-10-29T15:45:39.745Z
 shareable: true
 content:
   - tag: title
@@ -26,10 +26,10 @@ content:
   - tag: location
     title: 本部打印复印
     points:
-      - latitude: 43.862399
-        longitude: 125.337065
+      - latitude: 43.862054
+        longitude: 125.336108
         name: 好又快图文店
-        detail: 浴池正门右侧
+        detail: 新浴池正门右侧
 
       - latitude: 43.862576
         longitude: 125.332823
@@ -60,7 +60,7 @@ content:
     text: 位于浴池一楼。
 
   - tag: img
-    src: $img/bath/benbu-right.jpg
+    src: $img/bath/benbu-outside.jpg
     desc: 浴池好又快图文店
     watermark: true
 

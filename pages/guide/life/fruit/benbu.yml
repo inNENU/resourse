@@ -2,7 +2,7 @@ title: 本部水果店
 icon: fruit
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2023-09-23T10:52:59.364Z
+time: 2023-10-29T15:45:39.691Z
 shareable: true
 content:
   - tag: title
@@ -46,7 +46,7 @@ content:
     heading: 心随果动
 
   - tag: img
-    src: $img/bath/benbu-left.jpg
+    src: $img/bath/benbu-shop1.jpg
     watermark: true
 
   - tag: title
