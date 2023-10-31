@@ -44,7 +44,7 @@ export default hopeTheme(
 
     plugins: {
       components: {
-        components: ["AudioPlayer", "VideoPlayer"],
+        components: ["VidStack"],
         rootComponents: {
           notice: [
             // {

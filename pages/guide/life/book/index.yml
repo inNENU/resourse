@@ -1,0 +1,13 @@
+title: 书店
+icon: books
+author: Mr.Hope
+time: 2023-10-31T15:53:48.800Z
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 本部
+        path: benbu
+
+      - text: 净月
+        path: jingyue

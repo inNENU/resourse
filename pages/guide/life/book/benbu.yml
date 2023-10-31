@@ -1,0 +1,67 @@
+title: 本部书店
+icon: books
+author: Mr.Hope
+time: 2023-10-31T15:53:48.798Z
+shareable: true
+content:
+  - tag: title
+    text: 校内店铺
+
+  - tag: ul
+    text:
+      - |-
+        樂读书庄: 北苑地下一楼北侧
+
+  - tag: location
+    title: 本部书店
+    points:
+      - latitude: 43.862959
+        longitude: 125.332947
+        name: 樂读书庄
+        detail: 北苑地下一楼北侧
+
+  - tag: text
+    heading: 樂读书庄
+
+  - tag: img
+    src: $img/life/beiyuan/ledu1.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/ledu2.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/ledu3.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/ledu4.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/ledu5.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/ledu6.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/ledu7.jpg
+    watermark: true
+
+  - tag: title
+    text: 校外店铺
+
+  - tag: location
+    title: 校外书店
+    points:
+      - latitude: 43.866902
+        longitude: 125.325731
+        detail: 学人书店
+
+  - tag: ul
+    text:
+      - 最近的是人民大街的学人书店。
+# TODO: Add 照片

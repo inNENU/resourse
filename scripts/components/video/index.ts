@@ -5,7 +5,7 @@ import { aliasResolve } from "../utils.js";
 
 export const resolveVideo = (
   element: VideoComponentOptions,
-  location = "",
+  location = ""
 ): void => {
   // `$` alias resolve and file check
   if (element.src) element.src = aliasResolve(element.src, "File", location);
@@ -24,7 +24,7 @@ export const resolveVideo = (
       danmuBtn: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 
   if (element.danmuList) {
@@ -45,7 +45,7 @@ export const getVideoMarkdown = (component: VideoComponentOptions): string => {
   const { src, poster, title } = component;
 
   return `\
-<VideoPlayer src="${src}"${title ? ` title="${title}"` : ""}${
+<VidStack src="${src}"${title ? ` title="${title}"` : ""}${
     poster ? ` poster="${poster}"` : ""
   } />
 

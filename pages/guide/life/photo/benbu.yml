@@ -1,7 +1,7 @@
 title: 本部照相
 icon: photo
 author: Mr.Hope
-time: 2023-09-23T10:52:59.404Z
+time: 2023-10-31T15:53:48.895Z
 shareable: true
 content:
   - tag: title
@@ -19,11 +19,6 @@ content:
   - tag: text
     heading: 好又快图文店
     text: 位于浴池一楼。
-
-  - tag: img
-    src: $img/bath/benbu-right.jpg
-    desc: 浴池好又快图文店
-    watermark: true
 
   - tag: img
     src: $img/life/benbu/bath-copy.jpg
