@@ -2,6 +2,10 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://mp.innenu.com/.vscode/components.schema.json",
   "$defs": {
+    "service-status": {
+      "description": "服务状态",
+      "oneOf": [{ "const": "local" }, { "const": "online" }]
+    },
     "image-link": {
       "description": "图片地址",
       "type": "string",
