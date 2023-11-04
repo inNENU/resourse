@@ -12,9 +12,9 @@ import { getTableMarkdown } from "./table/index.js";
 import { getTextMarkdown } from "./text/index.js";
 import { getTitleMarkdown } from "./title/index.js";
 import { type PageConfig } from "./typings.js";
+import { getIconLink } from "./utils.js";
 import { getVideoMarkdown } from "./video/index.js";
 import { getYAMLValue } from "../utils/index.js";
-import { getIconLink } from "./utils.js";
 
 /**
  * 生成页面 Markdown

@@ -9,7 +9,7 @@ import { config } from "dotenv";
 config();
 
 const __dirname = path.dirname(
-  path.join(fileURLToPath(import.meta.url), "../")
+  path.join(fileURLToPath(import.meta.url), "../"),
 );
 
 const syncOSS = async (): Promise<void> => {
@@ -68,7 +68,7 @@ const syncOSS = async (): Promise<void> => {
     .filter(
       (item): item is { type: string; add: string } =>
         item !== null &&
-        Boolean(item.add?.startsWith("img/") || item.add?.startsWith("file/"))
+        Boolean(item.add?.startsWith("img/") || item.add?.startsWith("file/")),
     )
     .map((item) => item.add);
   const deletedFiles = assetsFiles
@@ -76,8 +76,8 @@ const syncOSS = async (): Promise<void> => {
       (item): item is { type: string; remove: string } =>
         item !== null &&
         Boolean(
-          item.remove?.startsWith("img/") || item.remove?.startsWith("file/")
-        )
+          item.remove?.startsWith("img/") || item.remove?.startsWith("file/"),
+        ),
     )
     .map((item) => item.remove);
   const client = new OSS({
@@ -101,7 +101,7 @@ const syncOSS = async (): Promise<void> => {
       const result = await client.put(
         filePath,
         path.normalize(path.join(__dirname, filePath)),
-        { headers }
+        { headers },
       );
 
       if (result.res.status !== 200)

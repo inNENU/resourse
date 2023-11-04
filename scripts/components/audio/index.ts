@@ -5,7 +5,7 @@ import { aliasResolve } from "../utils.js";
 
 export const resolveAudio = (
   element: AudioComponentOptions,
-  location = ""
+  location = "",
 ): void => {
   // `$` alias resolve and file check
   if (element.src) element.src = aliasResolve(element.src, "File", location);
@@ -21,7 +21,7 @@ export const resolveAudio = (
       author: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };
 

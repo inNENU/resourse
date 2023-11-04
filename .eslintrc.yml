@@ -121,37 +121,33 @@ overrides:
 
       "@typescript-eslint/naming-convention":
         - warn
+
         - selector: default
           format:
             - camelCase
-          leadingUnderscore: allowSingleOrDouble
-          trailingUnderscore: allow
 
-        - selector:
-            - variable
+        - selector: import
+          format:
+            - camelCase
+            - PascalCase
+
+        - selector: property
           format:
             - camelCase
             - PascalCase
             - UPPER_CASE
-          leadingUnderscore: allowSingleOrDouble
-          trailingUnderscore: allowSingleOrDouble
 
-        - selector:
-            - parameter
+        - selector: variable
           format:
             - camelCase
-            - PascalCase
-          leadingUnderscore: allow
-          trailingUnderscore: allow
-
-        - selector:
-            - property
-          format:
-            - camelCase
-            - PascalCase
             - UPPER_CASE
+          leadingUnderscore: allowSingleOrDouble
+
+        - selector: parameter
+          format:
+            - camelCase
+            - PascalCase
           leadingUnderscore: allow
-          trailingUnderscore: allow
 
         - selector: typeLike
           format:
