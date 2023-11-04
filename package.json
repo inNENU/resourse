@@ -16,6 +16,7 @@
   "type": "module",
   "scripts": {
     "build:site": "vuepress build site",
+    "commit:skip": "git commit --no-verify",
     "dev:site": "vuepress dev site",
     "generate": "tsx ./scripts/gen/index.ts",
     "generate:account": "tsx ./scripts/gen/account.ts",
