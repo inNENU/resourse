@@ -11,12 +11,14 @@
   "properties": {
     "main-page": {
       "type": "object",
+      "description": "主页显示配置",
       "patternProperties": {
         "^(\\d{4}|unlogin|default)": { "type": "string" }
       }
     },
     "main-presets": {
       "type": "object",
+      "description": "主页预设配置",
       "patternProperties": {
         ".*": { "$ref": "#/$defs/components" }
       }
