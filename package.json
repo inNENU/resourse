@@ -1,6 +1,6 @@
 {
-  "name": "innenu-server",
-  "version": "2023.3.29",
+  "name": "innenu-resource",
+  "version": "2023.11.6",
   "private": true,
   "description": "inNENU 小程序资源文件",
   "repository": {
@@ -48,7 +48,7 @@
     "cheerio": "1.0.0-rc.12",
     "del": "7.1.0",
     "dotenv": "16.3.1",
-    "eslint": "8.52.0",
+    "eslint": "8.53.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-plugin-import": "2.29.0",
     "eslint-plugin-prettier": "5.0.1",
@@ -64,7 +64,7 @@
     "tslib": "2.6.2",
     "tsx": "3.14.0",
     "typescript": "5.2.2",
-    "vidstack": "1.5.0",
+    "vidstack": "1.5.1",
     "vue": "3.3.7",
     "vuepress": "2.0.0-beta.67",
     "vuepress-plugin-copyright2": "2.0.0-beta.245",
