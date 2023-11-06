@@ -1,7 +1,7 @@
 title: 选课系统使用说明
 icon: idea
 author: Mr.Hope
-time: 2023-09-23T10:52:59.513Z
+time: 2023-11-06T10:17:51.213Z
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
 
   - tag: action
     header: 研究生
-    content: http://dsyjs.nenu.edu.cn/yjsxk/
+    content: https://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: ul
     text:

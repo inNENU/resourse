@@ -1,7 +1,7 @@
 title: 登录选课系统
 icon: account
 author: Mr.Hope
-time: 2023-09-23T10:52:59.518Z
+time: 2023-11-06T10:17:51.220Z
 shareable: true
 content:
   - tag: text
@@ -24,10 +24,10 @@ content:
 
   - tag: text
     heading: 研究生
-    text: 打开浏览器输入 http://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
+    text: 打开浏览器输入 https://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
 
   - tag: action
-    content: http://dsyjs.nenu.edu.cn/yjsxk/
+    content: https://dsyjs.nenu.edu.cn/yjsxk/
 
   - tag: title
     text: 校外进入选课系统

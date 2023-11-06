@@ -1,7 +1,7 @@
 title: IETab
 icon: ie
 author: Mr.Hope
-time: 2023-09-23T10:52:59.595Z
+time: 2023-11-06T10:17:51.329Z
 shareable: true
 content:
   - tag: title
@@ -75,7 +75,7 @@ content:
 
   - tag: action
     header: 研究生教学服务系统与选课系统
-    content: http://dsyjs.nenu.edu.cn/*
+    content: https://dsyjs.nenu.edu.cn/*
 
   - tag: text
     heading: IE Compatibility Mode
