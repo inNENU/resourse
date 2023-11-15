@@ -1,7 +1,7 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type DocComponentOptions } from "./typings.js";
-import { aliasResolve, getIconLink } from "../utils.js";
+import { aliasResolve, getAssetIconLink } from "../utils.js";
 
 /**
  * 获得文档图标
@@ -16,21 +16,21 @@ const getDocIcon = (url: string): string => {
   return docType === "docx" || docType === "doc"
     ? "doc"
     : docType === "pptx" || docType === "ppt"
-    ? "ppt"
-    : docType === "xlsx" || docType === "xls"
-    ? "xls"
-    : docType === "jpg" || docType === "jpeg" || docType === "jfif"
-    ? "jpg"
-    : docType === "mp4" ||
-      docType === "mov" ||
-      docType === "avi" ||
-      docType === "rmvb"
-    ? "video"
-    : docType === "pdf"
-    ? "pdf"
-    : docType === "png" || docType === "gif"
-    ? docType
-    : "document";
+      ? "ppt"
+      : docType === "xlsx" || docType === "xls"
+        ? "xls"
+        : docType === "jpg" || docType === "jpeg" || docType === "jfif"
+          ? "jpg"
+          : docType === "mp4" ||
+              docType === "mov" ||
+              docType === "avi" ||
+              docType === "rmvb"
+            ? "video"
+            : docType === "pdf"
+              ? "pdf"
+              : docType === "png" || docType === "gif"
+                ? docType
+                : "document";
 };
 
 export const resolveDoc = (
@@ -62,7 +62,7 @@ export const getDocMarkdown = (component: DocComponentOptions): string => {
 
   const { name, url } = component;
 
-  const docIcon = `<img class="innenu-doc-icon" src="${getIconLink(
+  const docIcon = `<img class="innenu-doc-icon" src="${getAssetIconLink(
     getDocIcon(url),
   )}" alt="${name}" />`;
   const docName = `${name}.${url.split(".").pop()!}`;

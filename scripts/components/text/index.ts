@@ -98,8 +98,8 @@ ${
       tag === "ul"
         ? `- ${indent(item, 3)}`
         : tag === "ol"
-        ? `1. ${indent(item, 3)}`
-        : item,
+          ? `1. ${indent(item, 3)}`
+          : item,
     )
     ?.join("\n\n") || ""
 }

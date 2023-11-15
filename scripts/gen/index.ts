@@ -44,19 +44,19 @@ convertYml2Json("./data/function", "./d/function", (data, filePath) =>
   /map\/marker\/benbu/u.exec(filePath)
     ? resolveMarker(data as MarkerOption, "benbu")
     : /map\/marker\/jingyue/u.exec(filePath)
-    ? resolveMarker(data as MarkerOption, "jingyue")
-    : /map\/(benbu|jingyue)\//u.exec(filePath)
-    ? resolveLocationPage(
-        data as PageConfig & { photo?: string[] },
-        `function/${filePath}`,
-      )
-    : /pe-calculator\/(male|female)-(low|high)/u.exec(filePath)
-    ? genPEScore(data as PEConfig)
-    : /account\//u.exec(filePath)
-    ? checkAccount(data as AccountConfig[], filePath)
-    : /music\/index/u.exec(filePath)
-    ? checkMusic(data as MusicInfo[], filePath)
-    : (data as unknown),
+      ? resolveMarker(data as MarkerOption, "jingyue")
+      : /map\/(benbu|jingyue)\//u.exec(filePath)
+        ? resolveLocationPage(
+            data as PageConfig & { photo?: string[] },
+            `function/${filePath}`,
+          )
+        : /pe-calculator\/(male|female)-(low|high)/u.exec(filePath)
+          ? genPEScore(data as PEConfig)
+          : /account\//u.exec(filePath)
+            ? checkAccount(data as AccountConfig[], filePath)
+            : /music\/index/u.exec(filePath)
+              ? checkMusic(data as MusicInfo[], filePath)
+              : (data as unknown),
 );
 
 // 转换搜索

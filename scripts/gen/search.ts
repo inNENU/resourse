@@ -113,8 +113,8 @@ const createSearchMap = (folder: string): SearchMap => {
             icon: element.src.match(/\.jpe?g$/i)
               ? "jpg"
               : element.src.match(/\.png$/i)
-              ? "png"
-              : "document",
+                ? "png"
+                : "document",
           },
         ]);
       else if (element.tag === "list") {

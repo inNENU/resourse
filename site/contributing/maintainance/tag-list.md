@@ -4,7 +4,7 @@ icon: table
 category: 小程序
 ---
 
-![版本: V5](https://img.shields.io/badge/版本-V5-blue.svg?style=for-the-badge)
+![版本: V6](https://img.shields.io/badge/版本-V5-blue.svg?style=for-the-badge)
 
 ## 总体结构
 

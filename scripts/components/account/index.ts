@@ -1,7 +1,7 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type AccountComponentOptions } from "./typings.js";
-import { aliasResolve } from "../utils.js";
+import { aliasResolve, getAssetIconLink } from "../utils.js";
 
 export const resolveAccount = (
   component: AccountComponentOptions,
@@ -45,9 +45,6 @@ export const resolveAccount = (
       `${location}.location`,
     );
 };
-
-const getAssetIconLink = (name: string): string =>
-  `https://mp.innenu.com/assets/icon/${name}.svg`;
 
 export const getAccountMarkdown = (
   component: AccountComponentOptions,

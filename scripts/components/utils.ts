@@ -47,13 +47,16 @@ export const aliasResolve = (link = "", type = "", location = ""): string => {
   return link;
 };
 
+export const getAssetIconLink = (name: string): string =>
+  `/assets/icon/${name}.svg`;
+
 export const getIconLink = (icon = ""): string =>
   icon
     ? icon.match(/^https?:\/\//)
       ? icon
       : icon.startsWith("$")
-      ? aliasResolve(icon)
-      : `${SERVER}/data/icon/${icon}.svg`
+        ? aliasResolve(icon)
+        : `${SERVER}/data/icon/${icon}.svg`
     : "";
 
 export const indent = (content: string, indent = 0): string =>
