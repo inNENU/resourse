@@ -26,6 +26,7 @@
     "lint:fix": "pnpm lint:eslint --fix && pnpm lint:prettier --write",
     "lint:prettier": "prettier --check .",
     "prepare": "husky install",
+    "test": "vitest",
     "push": "tsx ./scripts/push.ts",
     "sync:oss": "tsx ./scripts/oss.ts",
     "upload": "tsx ./scripts/upload.ts"
@@ -65,6 +66,7 @@
     "tsx": "4.1.2",
     "typescript": "5.2.2",
     "vidstack": "1.5.6",
+    "vitest": "0.34.6",
     "vue": "3.3.8",
     "vuepress": "2.0.0-beta.68",
     "vuepress-plugin-copyright2": "2.0.0-beta.251",

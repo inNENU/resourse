@@ -1,19 +1,19 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type AccountComponentOptions } from "./typings.js";
-import { aliasResolve, getAssetIconLink } from "../utils.js";
+import { resolveAlias, getAssetIconLink } from "../utils.js";
 
 export const resolveAccount = (
   component: AccountComponentOptions,
-  location = "",
+  location = ""
 ): void => {
   // `$` alias resolve and file check
   if (component.logo)
-    component.logo = aliasResolve(component.logo, "Image", location);
+    component.logo = resolveAlias(component.logo, "Image", location);
   if (component.qqcode)
-    component.qqcode = aliasResolve(component.qqcode, "Image", location);
+    component.qqcode = resolveAlias(component.qqcode, "Image", location);
   if (component.wxcode)
-    component.wxcode = aliasResolve(component.wxcode, "Image", location);
+    component.wxcode = resolveAlias(component.wxcode, "Image", location);
 
   checkKeys(
     component,
@@ -34,7 +34,7 @@ export const resolveAccount = (
       site: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 
   // check location
@@ -42,17 +42,17 @@ export const resolveAccount = (
     checkKeys(
       component.location,
       { latitude: "number", longitude: "number" },
-      `${location}.location`,
+      `${location}.location`
     );
 };
 
 export const getAccountMarkdown = (
-  component: AccountComponentOptions,
+  component: AccountComponentOptions
 ): string => {
   // `$` alias resolve and file check
-  if (component.logo) component.logo = aliasResolve(component.logo);
-  if (component.qqcode) component.qqcode = aliasResolve(component.qqcode);
-  if (component.wxcode) component.wxcode = aliasResolve(component.wxcode);
+  if (component.logo) component.logo = resolveAlias(component.logo);
+  if (component.qqcode) component.qqcode = resolveAlias(component.qqcode);
+  if (component.wxcode) component.wxcode = resolveAlias(component.wxcode);
 
   const { name, detail, desc, logo, qq, qqcode, wxid, wxcode, site, mail } =
     component;
@@ -86,7 +86,7 @@ ${
       qq ? `aria-label="${qq}" data-balloon-pos="up" data-qq="${qq}" ` : ""
     }${qqcode ? `data-qqcode="${qqcode}"` : ""}>
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "qq",
+        "qq"
       )}" no-view />
     </button>
 `
@@ -99,7 +99,7 @@ ${
       wxid ? `data-wxid="${wxid}" ` : ""
     }${wxcode ? `data-wxcode="${wxcode}" ` : ""}>
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "wechat",
+        "wechat"
       )}" no-view />
     </button>
 `
@@ -110,7 +110,7 @@ ${
     ? `\
     <a class="innenu-account-action" href="${site}" target="_blank">
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "web",
+        "web"
       )}" no-view />
     </a>
 `
@@ -121,7 +121,7 @@ ${
     ? `\
     <a class="innenu-account-action" href="mailto:${mail}">
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "mail",
+        "mail"
       )}" no-view />
     </a>
 `

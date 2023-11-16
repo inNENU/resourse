@@ -3,12 +3,12 @@ import { existsSync } from "node:fs";
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type GridComponentOptions } from "./typings.js";
-import { getIconLink, getPath, resolvePath } from "../utils.js";
+import { getIconLink, getMarkdownPath, resolvePath } from "../utils.js";
 
 export const resolveGrid = (
   element: GridComponentOptions,
   pageId: string,
-  location = "",
+  location = ""
 ): void => {
   element.items?.forEach((gridItem) => {
     // 处理路径
@@ -54,7 +54,7 @@ export const resolveGrid = (
         url: ["string", "undefined"],
         env: ["string[]", "undefined"],
       },
-      `${location}.content`,
+      `${location}.content`
     );
   });
 
@@ -67,7 +67,7 @@ export const resolveGrid = (
       footer: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 };
 
@@ -108,7 +108,7 @@ ${text.replace(/\n/g, "<br />")}
     return `\
 ${
   path
-    ? `<VPLink class="innenu-grid-item" to="${getPath(path)}">
+    ? `<VPLink class="innenu-grid-item" to="${getMarkdownPath(path)}">
 ${gridItemContent}
 </VPLink>`
     : `\

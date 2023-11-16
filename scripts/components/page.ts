@@ -19,7 +19,7 @@ import { resolveTable } from "./table/index.js";
 import { resolveText } from "./text/index.js";
 import { resolveTitle } from "./title/index.js";
 import { type PageConfig, type PageOptions } from "./typings.js";
-import { aliasResolve } from "./utils.js";
+import { resolveAlias } from "./utils.js";
 import { resolveVideo } from "./video/index.js";
 
 /**
@@ -34,7 +34,7 @@ import { resolveVideo } from "./video/index.js";
 export const resolvePage = (
   page: PageConfig,
   pagePath = "",
-  diffResult = "",
+  diffResult = ""
 ): PageOptions => {
   if (!page) throw new Error(`${pagePath} doesn't contain anything`);
 
@@ -95,7 +95,7 @@ export const resolvePage = (
         console.warn(
           `${pagePath} page.content[${index}] 存在非法 tag ${
             tag as unknown as string
-          }`,
+          }`
         );
 
       return element;
@@ -124,9 +124,9 @@ export const resolvePage = (
         `./pages/${pagePath}.yml`,
         readFileSync(`./pages/${pagePath}.yml`, { encoding: "utf-8" }).replace(
           /^time: .+$/m,
-          `time: ${date.toISOString()}`,
+          `time: ${date.toISOString()}`
         ),
-        { encoding: "utf-8" },
+        { encoding: "utf-8" }
       );
       pageData.time = timeText;
     } else {
@@ -153,7 +153,7 @@ export const resolvePage = (
       console.warn(`Icon ${page.icon} not exist in ${pagePath}`);
     }
     // `$` alias resolve and file check
-    else page.icon = aliasResolve(page.icon, "Image", pagePath);
+    else page.icon = resolveAlias(page.icon, "Image", pagePath);
 
   checkKeys(
     pageData,
@@ -175,7 +175,7 @@ export const resolvePage = (
       photo: ["string[]", "undefined"],
       images: ["string[]", "undefined"],
     },
-    `${pagePath} page`,
+    `${pagePath} page`
   );
 
   return pageData;

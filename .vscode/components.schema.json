@@ -9,7 +9,7 @@
     "image-link": {
       "description": "图片地址",
       "type": "string",
-      "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
+      "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)(?:\\?v=\\d+)?$"
     },
     "env": {
       "type": "array",

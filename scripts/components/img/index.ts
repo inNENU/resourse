@@ -3,14 +3,14 @@ import { basename } from "node:path";
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type ImageComponentOptions } from "./typings.js";
-import { aliasResolve } from "../utils.js";
+import { resolveAlias } from "../utils.js";
 
 export const resolveImg = (
   element: ImageComponentOptions,
-  location = "",
+  location = ""
 ): void => {
   // `$` alias resolve and file check
-  if (element.src) element.src = aliasResolve(element.src, "Image", location);
+  if (element.src) element.src = resolveAlias(element.src, "Image", location);
 
   checkKeys(
     element,
@@ -42,13 +42,13 @@ export const resolveImg = (
       },
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 };
 
 export const getImgMarkdown = (element: ImageComponentOptions): string => {
   // `$` alias resolve and file check
-  if (element.src) element.src = aliasResolve(element.src);
+  if (element.src) element.src = resolveAlias(element.src);
 
   const { src, desc } = element;
 

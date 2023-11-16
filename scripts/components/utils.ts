@@ -15,12 +15,35 @@ export const camelCase2kebabCase = (str: string): string => {
     .toLowerCase();
 };
 
+export const indentMarkdownListItem = (content: string, indent = 0): string =>
+  content
+    .split("\n")
+    .map((line, index) =>
+      index === 0 ? line : `${new Array(indent).fill(" ").join("")}${line}`
+    )
+    .join("\n\n");
+
+export const getMarkdownPath = (path: string): string =>
+  `${path.replace(/\/(?:index)?$/, "/README")}.md`;
+
+export const resolveAlias = (link = "", type = "", location = ""): string => {
+  if (typeof link === "string" && link.startsWith("$")) {
+    const localPath = link.replace(/^\$/, "./").split("?")[0];
+
+    if (existsSync(localPath)) return link.replace(/^\$/, `${ASSETS_SERVER}/`);
+
+    console.warn(`${type} ${localPath} not exist in ${location}`);
+  }
+
+  return link;
+};
+
 export const resolvePath = (path: string): string =>
   relative(
     process.cwd(),
     resolve(
-      path.replace(/\/\//u, "/").replace(/^\//u, "").replace(/\/$/u, "/index"),
-    ),
+      path.replace(/\/\//u, "/").replace(/^\//u, "").replace(/\/$/u, "/index")
+    )
   ).replaceAll(sep, "/");
 
 /** 处理样式 */
@@ -35,18 +58,6 @@ export const resolveStyle = (styleObj: Record<string, string>): string => {
   return result;
 };
 
-export const aliasResolve = (link = "", type = "", location = ""): string => {
-  if (typeof link === "string" && link.startsWith("$")) {
-    const localePath = link.replace(/^\$/, "./");
-
-    if (existsSync(localePath)) return link.replace(/^\$/, `${ASSETS_SERVER}/`);
-
-    console.warn(`${type} ${localePath} not exist in ${location}`);
-  }
-
-  return link;
-};
-
 export const getAssetIconLink = (name: string): string =>
   `/assets/icon/${name}.svg`;
 
@@ -55,17 +66,6 @@ export const getIconLink = (icon = ""): string =>
     ? icon.match(/^https?:\/\//)
       ? icon
       : icon.startsWith("$")
-        ? aliasResolve(icon)
+        ? resolveAlias(icon)
         : `${SERVER}/data/icon/${icon}.svg`
     : "";
-
-export const indent = (content: string, indent = 0): string =>
-  content
-    .split("\n")
-    .map((line, index) =>
-      index === 0 ? line : `${new Array(indent).fill("").join("")}${line}`,
-    )
-    .join("\n\n");
-
-export const getPath = (path: string): string =>
-  `${path.replace(/\/(?:index)?$/, "/README")}.md`;

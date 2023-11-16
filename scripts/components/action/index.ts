@@ -1,15 +1,15 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type ActionComponentOptions } from "./typings.js";
-import { aliasResolve } from "../utils.js";
+import { resolveAlias } from "../utils.js";
 
 export const resolveAction = (
   element: ActionComponentOptions,
-  location = "",
+  location = ""
 ): void => {
   // `$` alias resolve and file check
   if (element.content)
-    element.content = aliasResolve(element.content, "File", location);
+    element.content = resolveAlias(element.content, "File", location);
 
   checkKeys(
     element,
@@ -19,18 +19,18 @@ export const resolveAction = (
       content: "string",
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 };
 
 export const getActionMarkdown = (
-  component: ActionComponentOptions,
+  component: ActionComponentOptions
 ): string => {
   const { content, header } = component;
   const isLink =
     content.match(/^https?:\/\//) ||
     content.match(
-      /^(?:(?:25[0-5]|2[0-4]\d|1?\d?\d)\.){3}(?:25[0-5]|2[0-4]\d|1?\d?\d)(?::\d{1,5})?$/,
+      /^(?:(?:25[0-5]|2[0-4]\d|1?\d?\d)\.){3}(?:25[0-5]|2[0-4]\d|1?\d?\d)(?::\d{1,5})?$/
     );
 
   return `\

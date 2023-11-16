@@ -1,4 +1,4 @@
-import { aliasResolve } from "../components/utils.js";
+import { resolveAlias } from "../components/utils.js";
 
 export interface MusicInfo {
   src: string;
@@ -10,12 +10,12 @@ export interface MusicInfo {
 
 export const checkMusic = (
   data: MusicInfo[],
-  location: string,
+  location: string
 ): MusicInfo[] => {
   data.forEach((item) => {
     // `$` alias resolve and file check
-    if (item.cover) item.cover = aliasResolve(item.cover, "Image", location);
-    if (item.src) item.src = aliasResolve(item.src, "File", location);
+    if (item.cover) item.cover = resolveAlias(item.cover, "Image", location);
+    if (item.src) item.src = resolveAlias(item.src, "File", location);
   });
 
   return data;

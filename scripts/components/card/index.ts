@@ -3,12 +3,12 @@ import { existsSync } from "node:fs";
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type CardComponentOptions } from "./typings.js";
-import { aliasResolve, getPath, resolvePath } from "../utils.js";
+import { resolveAlias, getMarkdownPath, resolvePath } from "../utils.js";
 
 export const resolveCard = (
   component: CardComponentOptions,
   pageId: string,
-  location = "",
+  location = ""
 ): void => {
   if (component.logo) {
     // check icons
@@ -18,11 +18,11 @@ export const resolveCard = (
       !existsSync(`./data/icon/${component.logo}.svg`)
     ) {
       console.warn(`Icon ${component.logo} not exist in ${location}`);
-    } else component.logo = aliasResolve(component.logo, "Image", location);
+    } else component.logo = resolveAlias(component.logo, "Image", location);
   }
 
   if (component.cover)
-    component.cover = aliasResolve(component.cover, "Image", location);
+    component.cover = resolveAlias(component.cover, "Image", location);
 
   if ("path" in component) {
     if (component.path.startsWith("/")) {
@@ -60,7 +60,7 @@ export const resolveCard = (
       options: ["object", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 
   // check options
@@ -77,7 +77,7 @@ export const resolveCard = (
         path: ["string", "undefined"],
         shortLink: ["string", "undefined"],
       },
-      `${location}.options`,
+      `${location}.options`
     );
 };
 
@@ -85,9 +85,9 @@ export const getCardMarkdown = (component: CardComponentOptions): string => {
   const logo = component.logo
     ? component.logo.match(/^https?:\/\//)
       ? component.logo
-      : aliasResolve(component.logo)
+      : resolveAlias(component.logo)
     : null;
-  const cover = component.cover ? aliasResolve(component.cover) : null;
+  const cover = component.cover ? resolveAlias(component.cover) : null;
 
   if ("options" in component) return "";
 
@@ -138,7 +138,7 @@ ${cardChildren}
 
   if ("path" in component) {
     return `\
-<VPLink class="innenu-card" to="${getPath(component.path)}">
+<VPLink class="innenu-card" to="${getMarkdownPath(component.path)}">
 ${cardChildren}
 </VPLink>
     

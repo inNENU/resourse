@@ -1,14 +1,14 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type AudioComponentOptions } from "./typings.js";
-import { aliasResolve } from "../utils.js";
+import { resolveAlias } from "../utils.js";
 
 export const resolveAudio = (
   element: AudioComponentOptions,
-  location = "",
+  location = ""
 ): void => {
   // `$` alias resolve and file check
-  if (element.src) element.src = aliasResolve(element.src, "File", location);
+  if (element.src) element.src = resolveAlias(element.src, "File", location);
 
   checkKeys(
     element,
@@ -21,13 +21,13 @@ export const resolveAudio = (
       author: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 };
 
 export const getAudioMarkdown = (component: AudioComponentOptions): string => {
   // `$` alias resolve and file check
-  component.src = aliasResolve(component.src);
+  component.src = resolveAlias(component.src);
 
   const { src, name, author } = component;
 

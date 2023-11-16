@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 
 import axios from "axios";
 
-import { aliasResolve } from "../components/utils.js";
+import { resolveAlias } from "../components/utils.js";
 import { getFileList } from "../utils/index.js";
 
 interface WechatAccountInfo {
@@ -30,15 +30,15 @@ const decodeText = (text: string): string =>
 
 export const checkAccount = (
   data: AccountConfig[],
-  location: string,
+  location: string
 ): AccountConfig[] => {
   data.forEach((item) => {
     item.account.forEach((config) => {
       // `$` alias resolve and file check
       if (config.logo)
-        config.logo = aliasResolve(config.logo, "Image", location);
+        config.logo = resolveAlias(config.logo, "Image", location);
       if (config.qrcode)
-        config.qrcode = aliasResolve(config.qrcode, "Image", location);
+        config.qrcode = resolveAlias(config.qrcode, "Image", location);
     });
   });
 
@@ -57,11 +57,11 @@ export interface AccountDetail {
 
 export const checkAccountDetail = (
   data: AccountDetail,
-  location: string,
+  location: string
 ): AccountDetail => {
   // `$` alias resolve and file check
-  if (data.logo) data.logo = aliasResolve(data.logo, "Image", location);
-  if (data.qrcode) data.qrcode = aliasResolve(data.qrcode, "Image", location);
+  if (data.logo) data.logo = resolveAlias(data.logo, "Image", location);
+  if (data.qrcode) data.qrcode = resolveAlias(data.qrcode, "Image", location);
 
   return data;
 };
@@ -91,10 +91,10 @@ export const genAccount = (filePath: string): Promise<void> => {
           `- url: ${item}`,
           `- cover: ${cover}\n    title: ${decodeText(title)}\n${
             desc ? `    desc: ${decodeText(desc)}\n` : ""
-          }    url: ${item}`,
+          }    url: ${item}`
         );
-      }),
-    ),
+      })
+    )
   ).then(() => {
     writeFileSync(`./data/account/${filePath}`, content, {
       encoding: "utf-8",

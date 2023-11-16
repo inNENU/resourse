@@ -3,12 +3,17 @@ import { existsSync } from "node:fs";
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type TextComponentOptions } from "./typings.js";
-import { getPath, indent, resolvePath, resolveStyle } from "../utils.js";
+import {
+  getMarkdownPath,
+  indentMarkdownListItem,
+  resolvePath,
+  resolveStyle,
+} from "../utils.js";
 
 export const resolveText = (
   element: TextComponentOptions,
   pageId: string,
-  location = "",
+  location = ""
 ): void => {
   // 处理样式
   if (typeof element.style === "object")
@@ -61,7 +66,7 @@ export const resolveText = (
       url: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location,
+    location
   );
 };
 
@@ -96,15 +101,15 @@ ${
   text
     .map((item) =>
       tag === "ul"
-        ? `- ${indent(item, 3)}`
+        ? `- ${indentMarkdownListItem(item, 3)}`
         : tag === "ol"
-          ? `1. ${indent(item, 3)}`
-          : item,
+          ? `1. ${indentMarkdownListItem(item, 3)}`
+          : item
     )
     ?.join("\n\n") || ""
 }
 
-${path ? `- [查看详情](${getPath(path)})\n\n` : ""}\
+${path ? `- [查看详情](${getMarkdownPath(path)})\n\n` : ""}\
 ${type ? ":::\n\n" : ""}\
 ${align ? `::::\n\n` : ""}\
 `;
