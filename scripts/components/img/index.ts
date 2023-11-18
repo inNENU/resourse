@@ -7,7 +7,7 @@ import { resolveAlias } from "../utils.js";
 
 export const resolveImg = (
   element: ImageComponentOptions,
-  location = ""
+  location = "",
 ): void => {
   // `$` alias resolve and file check
   if (element.src) element.src = resolveAlias(element.src, "Image", location);
@@ -42,7 +42,7 @@ export const resolveImg = (
       },
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };
 

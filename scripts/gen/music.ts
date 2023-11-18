@@ -10,7 +10,7 @@ export interface MusicInfo {
 
 export const checkMusic = (
   data: MusicInfo[],
-  location: string
+  location: string,
 ): MusicInfo[] => {
   data.forEach((item) => {
     // `$` alias resolve and file check

@@ -7,16 +7,16 @@ import {
   type ListComponentOptions,
 } from "./typings.js";
 import {
-  resolveAlias,
   getIconLink,
   getMarkdownPath,
+  resolveAlias,
   resolvePath,
 } from "../utils.js";
 
 export const resolveList = (
   element: ListComponentOptions | FunctionalListComponentOptions,
   pageId: string,
-  location = ""
+  location = "",
 ): void => {
   element.items?.forEach((listItem, index) => {
     if (listItem.icon)
@@ -64,7 +64,7 @@ export const resolveList = (
             url: ["string", "undefined"],
             env: ["string[]", "undefined"],
           },
-          `${location}.content[${index}]`
+          `${location}.content[${index}]`,
         );
       } else if (listItem.type === "switch")
         checkKeys(
@@ -83,7 +83,7 @@ export const resolveList = (
             color: ["string", "undefined"],
             env: ["string[]", "undefined"],
           },
-          `${location}.content[${index}]`
+          `${location}.content[${index}]`,
         );
       else if (listItem.type === "slider")
         checkKeys(
@@ -104,7 +104,7 @@ export const resolveList = (
             step: ["number", "undefined"],
             env: ["string[]", "undefined"],
           },
-          `${location}.content[${index}]`
+          `${location}.content[${index}]`,
         );
       else if (listItem.type === "picker")
         checkKeys(
@@ -125,7 +125,7 @@ export const resolveList = (
             inlay: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
-          `${location}.content[${index}]`
+          `${location}.content[${index}]`,
         );
       else if (listItem.type === "button")
         checkKeys(
@@ -166,12 +166,12 @@ export const resolveList = (
             disabled: ["boolean", "undefined"],
             env: ["string[]", "undefined"],
           },
-          `${location}.content[${index}]`
+          `${location}.content[${index}]`,
         );
       else
         console.error(
           `${location}.content[${index}] 存在未知 item 配置:`,
-          listItem
+          listItem,
         );
     }
     // 处理路径
@@ -207,7 +207,7 @@ export const resolveList = (
           url: ["string", "undefined"],
           env: ["string[]", "undefined"],
         },
-        `${location}.content[${index}]`
+        `${location}.content[${index}]`,
       );
     } else
       checkKeys(
@@ -220,7 +220,7 @@ export const resolveList = (
           url: ["string", "undefined"],
           env: ["string[]", "undefined"],
         },
-        `${location}.content[${index}]`
+        `${location}.content[${index}]`,
       );
   });
 
@@ -233,12 +233,12 @@ export const resolveList = (
       footer: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };
 
 export const getListMarkdown = (
-  component: ListComponentOptions | FunctionalListComponentOptions
+  component: ListComponentOptions | FunctionalListComponentOptions,
 ): string => {
   const { header, footer, items = [] } = component;
 

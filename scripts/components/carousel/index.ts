@@ -5,14 +5,14 @@ import { resolveAlias, resolveStyle } from "../utils.js";
 
 export const resolveCarousel = (
   element: CarouselComponentOptions,
-  location = ""
+  location = "",
 ): void => {
   element.images?.forEach((link, index) => {
     // `$` alias resolve and file check
     element.images[index] = resolveAlias(
       link,
       "Image",
-      `${location}[${index}]`
+      `${location}[${index}]`,
     );
   });
 
@@ -62,6 +62,6 @@ export const resolveCarousel = (
       },
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };

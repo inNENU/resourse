@@ -1,7 +1,7 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type DocComponentOptions } from "./typings.js";
-import { resolveAlias, getAssetIconLink } from "../utils.js";
+import { getAssetIconLink, resolveAlias } from "../utils.js";
 
 /**
  * 获得文档图标
@@ -35,7 +35,7 @@ const getDocIcon = (url: string): string => {
 
 export const resolveDoc = (
   element: DocComponentOptions,
-  location = ""
+  location = "",
 ): void => {
   element.icon = getDocIcon(element.url);
 
@@ -52,7 +52,7 @@ export const resolveDoc = (
       downloadable: { type: ["undefined"], additional: [true] },
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };
 
@@ -63,7 +63,7 @@ export const getDocMarkdown = (component: DocComponentOptions): string => {
   const { name, url } = component;
 
   const docIcon = `<img class="innenu-doc-icon" src="${getAssetIconLink(
-    getDocIcon(url)
+    getDocIcon(url),
   )}" alt="${name}" />`;
   const docName = `${name}.${url.split(".").pop()!}`;
 

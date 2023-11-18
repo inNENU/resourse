@@ -8,7 +8,7 @@ import { getIconLink, getMarkdownPath, resolvePath } from "../utils.js";
 export const resolveGrid = (
   element: GridComponentOptions,
   pageId: string,
-  location = ""
+  location = "",
 ): void => {
   element.items?.forEach((gridItem) => {
     // 处理路径
@@ -54,7 +54,7 @@ export const resolveGrid = (
         url: ["string", "undefined"],
         env: ["string[]", "undefined"],
       },
-      `${location}.content`
+      `${location}.content`,
     );
   });
 
@@ -67,7 +67,7 @@ export const resolveGrid = (
       footer: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };
 

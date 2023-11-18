@@ -30,7 +30,7 @@ const decodeText = (text: string): string =>
 
 export const checkAccount = (
   data: AccountConfig[],
-  location: string
+  location: string,
 ): AccountConfig[] => {
   data.forEach((item) => {
     item.account.forEach((config) => {
@@ -57,7 +57,7 @@ export interface AccountDetail {
 
 export const checkAccountDetail = (
   data: AccountDetail,
-  location: string
+  location: string,
 ): AccountDetail => {
   // `$` alias resolve and file check
   if (data.logo) data.logo = resolveAlias(data.logo, "Image", location);
@@ -91,10 +91,10 @@ export const genAccount = (filePath: string): Promise<void> => {
           `- url: ${item}`,
           `- cover: ${cover}\n    title: ${decodeText(title)}\n${
             desc ? `    desc: ${decodeText(desc)}\n` : ""
-          }    url: ${item}`
+          }    url: ${item}`,
         );
-      })
-    )
+      }),
+    ),
   ).then(() => {
     writeFileSync(`./data/account/${filePath}`, content, {
       encoding: "utf-8",

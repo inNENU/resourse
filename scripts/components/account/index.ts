@@ -1,11 +1,11 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
 import { type AccountComponentOptions } from "./typings.js";
-import { resolveAlias, getAssetIconLink } from "../utils.js";
+import { getAssetIconLink, resolveAlias } from "../utils.js";
 
 export const resolveAccount = (
   component: AccountComponentOptions,
-  location = ""
+  location = "",
 ): void => {
   // `$` alias resolve and file check
   if (component.logo)
@@ -34,7 +34,7 @@ export const resolveAccount = (
       site: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 
   // check location
@@ -42,12 +42,12 @@ export const resolveAccount = (
     checkKeys(
       component.location,
       { latitude: "number", longitude: "number" },
-      `${location}.location`
+      `${location}.location`,
     );
 };
 
 export const getAccountMarkdown = (
-  component: AccountComponentOptions
+  component: AccountComponentOptions,
 ): string => {
   // `$` alias resolve and file check
   if (component.logo) component.logo = resolveAlias(component.logo);
@@ -86,7 +86,7 @@ ${
       qq ? `aria-label="${qq}" data-balloon-pos="up" data-qq="${qq}" ` : ""
     }${qqcode ? `data-qqcode="${qqcode}"` : ""}>
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "qq"
+        "qq",
       )}" no-view />
     </button>
 `
@@ -99,7 +99,7 @@ ${
       wxid ? `data-wxid="${wxid}" ` : ""
     }${wxcode ? `data-wxcode="${wxcode}" ` : ""}>
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "wechat"
+        "wechat",
       )}" no-view />
     </button>
 `
@@ -110,7 +110,7 @@ ${
     ? `\
     <a class="innenu-account-action" href="${site}" target="_blank">
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "web"
+        "web",
       )}" no-view />
     </a>
 `
@@ -121,7 +121,7 @@ ${
     ? `\
     <a class="innenu-account-action" href="mailto:${mail}">
       <img class="innenu-account-icon" src="${getAssetIconLink(
-        "mail"
+        "mail",
       )}" no-view />
     </a>
 `

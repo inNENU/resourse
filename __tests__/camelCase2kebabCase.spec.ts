@@ -1,5 +1,6 @@
-import { camelCase2kebabCase } from "../scripts/components/utils.js";
 import { expect, it } from "vitest";
+
+import { camelCase2kebabCase } from "../scripts/components/utils.js";
 
 it("camelCase2kebabCase", () => {
   const tests = [

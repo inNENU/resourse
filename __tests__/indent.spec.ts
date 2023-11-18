@@ -1,5 +1,6 @@
-import { indentMarkdownListItem } from "../scripts/components/utils.js";
 import { describe, expect, it } from "vitest";
+
+import { indentMarkdownListItem } from "../scripts/components/utils.js";
 
 describe("indent", () => {
   it("split lines", () => {
