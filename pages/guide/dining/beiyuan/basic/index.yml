@@ -1,7 +1,7 @@
 title: 北苑基本餐
 icon: dining
 author: Mr.Hope
-time: 2023-09-22T16:59:13.553Z
+time: 2023-11-18T09:23:54.232Z
 shareable: true
 content:
   - tag: text
@@ -16,32 +16,73 @@ content:
       - |-
         供应时间为: 6:30 - 8:30
       - 供应面条、粥、豆浆、包子、炒菜等
-      - 受菜品数量限制早餐可能提前结束
+      - 受菜品数量限制，早餐可能提前结束
 
   - tag: img
-    src: $img/dining/beiyuan/basic2.jpg
+    src: $img/dining/beiyuan/basic-breakfast1.jpg?v=0000
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic3.jpg
+    src: $img/dining/beiyuan/basic-breakfast2.jpg?v=0000
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic4.jpg
+    src: $img/dining/beiyuan/basic-breakfast3.jpg?v=0000
+    watermark: true
+
+  - tag: text
+    heading: 午餐
+    text:
+      - |-
+        供应时间为: 11:00 - 12:30
+      - 受菜品数量限制，午餐可能提前结束
+
+  - tag: text
+    heading: 晚餐
+    text:
+      - |-
+        供应时间为: 16:00 - 18:00(根据经验通常 16:30 菜才比较全)
+      - 受菜品数量限制，晚餐可能提前结束
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner1.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner2.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner3.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner4.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner5.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner6.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/basic-dinner7.jpg?v=202311
     watermark: true
 
   - tag: ul
     text:
-      - "午餐供应时间为: 11:00 - 12:30"
-      - "晚餐供应时间为: 16:00 - 18:00(根据经验通常 16:30 菜才比较全)"
+      - "相关照片"
 
   - tag: img
-    src: $img/dining/beiyuan/basic1.jpg
+    src: $img/dining/beiyuan/basic0.jpg?v=0000
     desc: 餐盘餐具
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic5.jpg
+    src: $img/dining/beiyuan/basic.jpg?v=0000
     desc: 荤菜区
     watermark: true
 
@@ -64,7 +105,21 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/env4.jpg
+    src: $img/dining/beiyuan/env1.jpg?v=0000
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/env2.jpg?v=202311
+    desc: 北苑一楼基本餐区
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/env3.jpg?v=202311
+    desc: 北苑一楼基本餐区概览
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/env4.jpg?v=0000
     desc: 北苑一楼北侧
     watermark: true
 

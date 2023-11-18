@@ -1,8 +1,8 @@
 title: 北苑二楼特色档口
 icon: dining
-desc: 特别鸣谢晴子提供相关照片
+desc: 售卖菜品与价格持续更新中，具体请以实际为准
 author: Mr.Hope
-time: 2023-10-29T15:45:39.360Z
+time: 2023-11-18T09:23:54.250Z
 shareable: true
 content:
   - tag: title
@@ -27,91 +27,101 @@ content:
     text: 档口售卖菜品与价格
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail1.jpg
+    src: $img/dining/beiyuan/2f-detail1.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail2.jpg
+    src: $img/dining/beiyuan/2f-detail2.jpg?v=202311
     desc: 东北小炒
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail3.jpg
+    src: $img/dining/beiyuan/2f-detail3.jpg?v=202310
     desc: 韩国明洞料理
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail4.jpg
+    src: $img/dining/beiyuan/2f-detail4.jpg?v=202310
     desc: 韩国明洞料理
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail5.jpg
+    src: $img/dining/beiyuan/2f-detail5.jpg?v=202310
     desc: 四川风味
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail6.jpg
+    src: $img/dining/beiyuan/2f-detail6.jpg?v=202310
     desc: 四川风味
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail7.jpg
+    src: $img/dining/beiyuan/2f-detail7.jpg?v=202310
     desc: 五谷渔粉
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail8.jpg
+    src: $img/dining/beiyuan/2f-detail8.jpg?v=202310
+    desc: 五谷渔粉
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail9.jpg
+    src: $img/dining/beiyuan/2f-detail9.jpg?v=202311
+    desc: 味之道营养快餐
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail10.jpg
+    src: $img/dining/beiyuan/2f-detail10.jpg?v=202311
+    desc: 麻辣香锅
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f-detail11.jpg?v=202310
     desc: 港味龙叉烧饭(也卖鸡公煲排骨煲)
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail11.jpg
+    src: $img/dining/beiyuan/2f-detail12.jpg?v=202310
     desc: 港味龙叉烧饭(也卖鸡公煲排骨煲)
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail12.jpg
+    src: $img/dining/beiyuan/2f-detail13.jpg?v=202310
     desc: 港味龙叉烧饭(也卖鸡公煲排骨煲)
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail13.jpg
+    src: $img/dining/beiyuan/2f-detail14.jpg?v=202311
+    desc: 北京风味
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail14.jpg
+    src: $img/dining/beiyuan/2f-detail15.jpg?v=202311
     desc: 美食妹手拍粉(也卖炸串)
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail15.jpg
+    src: $img/dining/beiyuan/2f-detail16.jpg?v=202310
     desc: 美食妹手拍粉(也卖炸串)
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail16.jpg
+    src: $img/dining/beiyuan/2f-detail17.jpg?v=202310
+    desc: 尚品双拼
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail17.jpg
+    src: $img/dining/beiyuan/2f-detail18.jpg?v=202310
+    desc: 奇和祥 (麻辣爆肚)
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail18.jpg
+    src: $img/dining/beiyuan/2f-detail19.jpg?v=202310
     desc: 旋转火锅
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail19.jpg
+    src: $img/dining/beiyuan/2f-detail20.jpg?v=202310
     desc: 旋转火锅
     watermark: true
 
@@ -119,13 +129,17 @@ content:
     text: 二楼特色档口区域概览
 
   - tag: img
-    src: $img/dining/beiyuan/2f1.jpg
+    src: $img/dining/beiyuan/2f1.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f2.jpg
+    src: $img/dining/beiyuan/2f2.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/xiaochao.jpg
+    src: $img/dining/beiyuan/xiaochao.jpg?v=202311
+    watermark: true
+
+  - tag: img
+    src: $img/dining/beiyuan/2f3.jpg?v=202311
     watermark: true

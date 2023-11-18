@@ -308,8 +308,8 @@ facility:
       detail: 东北师范大学社区医院
       path: hospital
 
-    - latitude: 43.86249
-      longitude: 125.337057
+    - latitude: 43.862016
+      longitude: 125.33606
       name: 浴池
       detail: 自由校区学生浴池
       path: bath

@@ -1,8 +1,8 @@
 title: 北苑一楼特色档口
 icon: dining
-desc: 特别鸣谢晴子提供相关照片
+desc: 售卖菜品与价格持续更新中，具体请以实际为准
 author: Mr.Hope
-time: 2023-09-22T16:59:13.557Z
+time: 2023-11-18T09:23:54.241Z
 shareable: true
 content:
   - tag: title
@@ -24,52 +24,52 @@ content:
     text: 档口售卖菜品与价格
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail1.jpg
+    src: $img/dining/beiyuan/1f-detail1.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail2.jpg
+    src: $img/dining/beiyuan/1f-detail2.jpg?v=202310
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail3.jpg
+    src: $img/dining/beiyuan/1f-detail3.jpg?v=202310
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail4.jpg
+    src: $img/dining/beiyuan/1f-detail4.jpg?v=202310
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail5.jpg
+    src: $img/dining/beiyuan/1f-detail5.jpg?v=202310
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail6.jpg
+    src: $img/dining/beiyuan/1f-detail6.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail7.jpg
+    src: $img/dining/beiyuan/1f-detail7.jpg?v=202310
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail8.jpg
+    src: $img/dining/beiyuan/1f-detail8.jpg?v=202310
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f-detail9.jpg
+    src: $img/dining/beiyuan/1f-detail9.jpg?v=202311
     watermark: true
 
   - tag: title
     text: 一楼特色档口区域概览
 
   - tag: img
-    src: $img/dining/beiyuan/1f1.jpg
+    src: $img/dining/beiyuan/1f1.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/1f1.jpg
+    src: $img/dining/beiyuan/1f2.jpg?v=202311
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/baozi.jpg
+    src: $img/dining/beiyuan/baozi.jpg?v=202311
     watermark: true

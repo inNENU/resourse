@@ -1,7 +1,7 @@
 title: 本部打印复印
 icon: print
 author: Mr.Hope
-time: 2023-10-29T15:45:39.745Z
+time: 2023-11-18T09:23:55.041Z
 shareable: true
 content:
   - tag: title
@@ -26,8 +26,8 @@ content:
   - tag: location
     title: 本部打印复印
     points:
-      - latitude: 43.862054
-        longitude: 125.336108
+      - latitude: 43.862016
+        longitude: 125.33606
         name: 好又快图文店
         detail: 新浴池正门右侧
 

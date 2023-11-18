@@ -1,18 +1,15 @@
 title: 北苑餐厅
 author: Mr.Hope
-time: 2020-09-01
+time: 2023-09-01
 photo:
+  - $img/dining/beiyuan/main.jpg
   - $img/dining/beiyuan/1f1.jpg
   - $img/dining/beiyuan/1f2.jpg
   - $img/dining/beiyuan/baozi.jpg
   - $img/dining/beiyuan/2f1.jpg
   - $img/dining/beiyuan/2f2.jpg
   - $img/dining/beiyuan/xiaochao.jpg
-  - $img/dining/beiyuan/env1.jpg
-  - $img/dining/beiyuan/env2.jpg
-  - $img/dining/beiyuan/env3.jpg
-  - $img/dining/beiyuan/env4.jpg
-  - $img/dining/beiyuan/main.jpg
+  - $img/dining/beiyuan/2f3.jpg
   - $img/dining/beiyuan/main2.jpg
 
 content:
