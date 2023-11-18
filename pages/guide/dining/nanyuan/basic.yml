@@ -1,7 +1,7 @@
 title: 南苑基本餐
 icon: dining
 author: Mr.Hope
-time: 2023-11-18T09:23:54.344Z
+time: 2023-11-18T09:43:55.537Z
 shareable: true
 content:
   - tag: title
@@ -62,22 +62,22 @@ content:
       - "相关照片"
 
   - tag: img
-    src: $img/dining/beiyuan/basic1.jpg?v=202311
+    src: $img/dining/nanyuan/basic1.jpg?v=202311
     desc: 二楼基本餐区西侧入口
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic2.jpg?v=202311
+    src: $img/dining/nanyuan/basic2.jpg?v=202311
     desc: 西侧餐具
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic3.jpg?v=202311
+    src: $img/dining/nanyuan/basic3.jpg?v=202311
     desc: 免费汤
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic4.jpg?v=202311
+    src: $img/dining/nanyuan/basic4.jpg?v=202311
     desc: 眼镜布（冬季）
     watermark: true
 
