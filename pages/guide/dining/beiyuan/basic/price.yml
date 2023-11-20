@@ -8,7 +8,7 @@ content:
     text: 基本餐价格
 
   - tag: img
-    src: $img/dining/beiyuan/basic-price.jpg
+    src: $img/dining/beiyuan/basic-price.jpg?v=202310
     watermark: true
 
   - tag: ul

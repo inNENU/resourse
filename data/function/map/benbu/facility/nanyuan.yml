@@ -4,13 +4,7 @@ time: 2023-09-01
 photo:
   - $img/dining/nanyuan/nanyuan-1.jpg
   - $img/dining/nanyuan/nanyuan-2.jpg
-  - $img/dining/nanyuan/basic1.jpg
-  - $img/dining/nanyuan/basic2.jpg
-  - $img/dining/nanyuan/basic3.jpg
-  - $img/dining/nanyuan/basic4.jpg
-  - $img/dining/nanyuan/basic5.jpg
-  - $img/dining/nanyuan/basic6.jpg
-  - $img/dining/nanyuan/basic7.jpg
+  - $img/dining/nanyuan/env.jpg
   - $img/dining/nanyuan/special0.jpg
   - $img/dining/nanyuan/special1.jpg
   - $img/dining/nanyuan/special2.jpg
@@ -24,6 +18,7 @@ photo:
   - $img/dining/nanyuan/special10.jpg
   - $img/dining/nanyuan/special11.jpg
   - $img/dining/nanyuan/special12.jpg
+  - $img/dining/nanyuan/special13.jpg
 
 content:
   - tag: p
