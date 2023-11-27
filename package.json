@@ -65,7 +65,7 @@
     "tslib": "2.6.2",
     "tsx": "4.1.4",
     "typescript": "5.2.2",
-    "vidstack": "1.5.6",
+    "vidstack": "1.6.2",
     "vitest": "0.34.6",
     "vue": "3.3.8",
     "vuepress": "2.0.0-rc.0",
