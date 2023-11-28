@@ -13,7 +13,7 @@ import {
 export const resolveText = (
   element: TextComponentOptions,
   pageId: string,
-  location = ""
+  location = "",
 ): void => {
   // 处理样式
   if (typeof element.style === "object")
@@ -66,7 +66,7 @@ export const resolveText = (
       url: ["string", "undefined"],
       env: ["string[]", "undefined"],
     },
-    location
+    location,
   );
 };
 
@@ -103,8 +103,8 @@ ${
       tag === "ul"
         ? `- ${indentMarkdownListItem(item, 3)}`
         : tag === "ol"
-        ? `1. ${indentMarkdownListItem(item, 3)}`
-        : item
+          ? `1. ${indentMarkdownListItem(item, 3)}`
+          : item,
     )
     ?.join("\n\n") || ""
 }
