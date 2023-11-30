@@ -1,8 +1,321 @@
-name: 东师微教学
-detail: 东师教务助理中心
+name: 东北师范大学本科教学
+detail: 东师本科生教务助理中心
 id: nenuwjx
 logo: $img/media/course.png
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29H32FTKkEEQA17mqH75Fj3K0aea1WTnTR8ljraDh8ptv2IuiafichibGwQ/0?wx_fmt=jpeg
+    title: 新闻 | 我校3名教师荣获2023年宝钢教育奖
+    desc: ❁11月18日，宝钢教育基金会2023年度宝钢教育奖颁奖仪式在上海举行。我校物理学院教授衣学喜、生命科学学院
+    url: https://mp.weixin.qq.com/s/7zO4PCQSzdeiPu1td_l3nA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29Z9OTzrlic0tK6e8V9Tfb5jmB2LXxrKOtoUHPMsNrzica5OH1cibRpFDKw/0?wx_fmt=jpeg
+    title: 躬耕教坛  强国有我——2023年度宝钢优秀教师奖
+    desc: 由宝钢教育基金会设立的支持中国高等教育的一项公益事业主要表彰教学效果好 爱岗敬业师德高尚 治学严谨教书育人并
+    url: https://mp.weixin.qq.com/s/kHDAHQTK8fYDwF3aOr-5iA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29FrqOYYHZzGCulsVfRmkxYKmZVqibF70dWtk8N6jSPLUNtuaGkSXuVjg/0?wx_fmt=jpeg
+    title: 新闻 | 东北师范大学2023届本科毕业生教育质量调查结果大揭秘！
+    desc: END文稿 | 郭梦琪 指导教师 | 刘海波 王 希审核 | 赵长明
+    url: https://mp.weixin.qq.com/s/jeF3JcQXffi-am_dhzH-Og
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29srZDPJXt8136oibNlBpibqaKlMSktsD4ZdgkpDklaaotTtA8Leiaae2sA/0?wx_fmt=jpeg
+    title: 新闻 | 我校赴哈尔滨市第六中学、黑龙江省实验中学开展招生宣传及实验区建设活动
+    desc: NENU2023东师招生宣传行NENU携同育英才，共谱新篇章。为深入推进学校招生宣传及实验区建设工作，促进本
+    url: https://mp.weixin.qq.com/s/CQ7sqq4lQTVpKIa1-FMGVA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29YP0uGL4lROGlBxSDgsibWrkic8IsmLjBqtHwfFHYyyTGtHzYuyq3KGaA/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年11月13日-11月19日）
+    desc: 东北师范大学本科教学工作周报（2023年11月13日-11月19日）2023年秋季学期第十二周教学周，教务处
+    url: https://mp.weixin.qq.com/s/K3Vmhv--taTAhWsMiuGNMg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29Kvw0bqegf9USsyjS1kMV9KnVWJRq7SDKyic0iaKOh0IM3KibN5MrUc6gw/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（11月23日-11月29日）
+    url: https://mp.weixin.qq.com/s/iGC3KVn1vURFZutLJeoYNA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29LqAWliaPLxOxib6VlqmrQpudA2Y8GPY6uibqJ6esKCVXjhL4vt7f8qAsA/0?wx_fmt=jpeg
+    title: 通知 | 关于组织开展2020-2021年度教育部、吉林省、东北师范大学课程思政项目中期检查、结项验收工作的有关通知
+    desc: 关于组织开展2020-2021年度教育部、吉林省、东北师范大学课程思政项目中期检查、结项验收工作的有关通知
+    url: https://mp.weixin.qq.com/s/9S1hCxQA-K-FpsdvvirVLw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0CPnrPnsic5kYR03Cd24R29KsIpvn0iaIGRnS1bzCwSR3ahw12sXyqBiaqOUv3udtoYqqOx3icqCGw0Q/0?wx_fmt=jpeg
+    title: 通知 | 关于2023年秋季学期普通话水平测试工作安排的通知
+    desc: 关于2023年秋季学期普通话水平测试工作安排的通知
+    url: https://mp.weixin.qq.com/s/GH6jJc0y7LjdPUcQ0tFe1g
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3L6T1z7v5X240gLOlgGTV2w2afsXXzMUOfib5hCYxwTnphLN7rKvrpe5HUgqhkyfFbO9IPSd42X6Q/0?wx_fmt=jpeg
+    title: 新闻 | 东北师范大学教务处党支部赴吉林杨靖宇干部学院开展红色教育培训活动
+    desc: 红色教育培养活动在11月10日至12日期间，东北师范大学教务处党支部前往吉林杨靖宇干部学院，组织开展“传承红
+    url: https://mp.weixin.qq.com/s/pHH1zirnrgS6GmdVwZwOVg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3L6T1z7v5X240gLOlgGTV2bRlficWqoQW0xBG9jNX5dUiak24zTK7edecia0HDJJeZo9zYPOzpLHR5g/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年11月6日-11月12日）
+    desc: 东北师范大学本科教学工作周报（2023年11月6日-11月12日）2023年秋季学期第十一周教学周，教务处将
+    url: https://mp.weixin.qq.com/s/oLptPG8OJACJ12XcnNzhXQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3L6T1z7v5X240gLOlgGTV2h2szzrAsGkxR2Uy2FhKibMkUwSEE3wmHcXU8ibkEibicefiaOtibJuURTiaAQ/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（11月16日-11月22日）
+    url: https://mp.weixin.qq.com/s/wEpb6UE5BwyeqrL_-NOvtA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2wqOxxw8rVibCF3mlB7dAXq1M1lzIJLCgE5L7yMsJFSjUmj8p5bgb37SGtDhu9D7O1tiazTkFDFBTw/0?wx_fmt=jpeg
+    title: 新闻 | 我校牵头举办教学管理暨协同提质教育教学工作交流会
+    desc: 工作交流会11月3日至6日，我校牵头举办了了第一期教学管理暨协同提质教育教学工作交流会。此次会议以“新时代一
+    url: https://mp.weixin.qq.com/s/iF0FPkVcYBolWfXZWgLy9g
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2wqOxxw8rVibCF3mlB7dAXq8ibIhjksVdFHXhiajNI9p492icqruHDkYf6FS5ylZ593xc1jsjs8OhgFg/0?wx_fmt=jpeg
+    title: 东北师范大学学生在第十八届“挑战杯”大赛中获佳绩
+    desc: 近日，第十八届“挑战杯”全国大学生课外学术科技作品竞赛在贵州大学举行。本届竞赛全国共2000余所高校、40余
+    url: https://mp.weixin.qq.com/s/Hix5HKQ6mGVfMUCthOyHMQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2wqOxxw8rVibCF3mlB7dAXq9U7ZnP6eZVdYEs0mjbMplKQ8T3u5DhtTYsJhV3ictbazEdFZeSn1ibOQ/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年10月30日-11月5日）
+    desc: 东北师范大学本科教学工作周报（2023年10月30日-11月5日）2023年秋季学期第十教学周，教务处将秉承
+    url: https://mp.weixin.qq.com/s/G6ugCiInierOxoFax8wMVQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2wqOxxw8rVibCF3mlB7dAXqF60u8I75gX9fohjibQO3Gx8b8zpYjtB4iaLjuwGSyIgJMibkQ0VBVurxA/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（11月9日-11月15日）
+    url: https://mp.weixin.qq.com/s/uBGIhwtp0B51OOxiNm1cAw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2wqOxxw8rVibCF3mlB7dAXqkkfZsxZPGzzKicKg16VI0yOBZriauZyDu8ibDnYWKlELQdjapmA62twYg/0?wx_fmt=jpeg
+    title: 通知 | 关于开展2023年秋季学期期中本科教学检查工作的通知
+    desc: 关于开展2023年秋季学期期中本科教学检查工作的通知
+    url: https://mp.weixin.qq.com/s/plHe2q_dvNrBfaNtxdDU0A
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2wqOxxw8rVibCF3mlB7dAXq7p3uPBWnFu4VUBATia0hsEEribokALv6ZJ7QoXicsEZdT3wkiaBxoNKOGQ/0?wx_fmt=jpeg
+    title: 通知 | 2023年下半年中小学教师资格考试面试工作的通知
+    desc: 2023年下半年中小学教师资格考试面试工作的通知
+    url: https://mp.weixin.qq.com/s/A2RIRil82KakodllP10pQg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2swgVcEXt2baPPOPGwWmz9z7Z2tH3jiam2rI4IAqT2l4wagqrvKksgh4w/0?wx_fmt=jpeg
+    title: 新闻 | 我校举办2023年东北师范大学教师教育创新实验区校长论坛
+    desc: ★10月27日，2023年东北师范大学教师教育创新实验区校长论坛在我校附属中学成功举办。我校副校长邬志辉，附
+    url: https://mp.weixin.qq.com/s/fBH85S4YIW7DpZj1Y2WeIQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2swgVcEXt2baPPOPGwWmz9z7Z2tH3jiam2rI4IAqT2l4wagqrvKksgh4w/0?wx_fmt=jpeg
+    title: 新闻 | 我校举办U-G-S教师教育创新实验区2023年同课异构研讨会暨化学学科幼小初高大一体化课程思政实践活动
+    desc: 10月28-29日，由我校主办、附属中学承办的U-G-S教师教育创新实验区2023年同课异构研讨会暨化学学科
+    url: https://mp.weixin.qq.com/s/s7uR2m9U2FL-rjNcuV0z8Q
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2skiat85lE9lRic22iaObzXW8zVakiaVibbLNbUt8ATR2QiaIAHDVJgHvnJwYA/0?wx_fmt=jpeg
+    title: 东师本科教学大百科|考证指南来啦~
+    desc: 大学期间考证指南考证指南——理性对待，客观选择，明确目标
+    url: https://mp.weixin.qq.com/s/5qQQgCt8Hziz1T1uD7GojQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2sDaYxAvorqiajqwibGzvJt3jibImwLqkGXiaxPWKOQnW7edbX1pzNwiaXzmQ/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（11月2日-11月8日）
+    desc: 教务贴士 | 本科教学通知汇总及提醒（11月2日-11月8日）
+    url: https://mp.weixin.qq.com/s/7WhnAwX2m7yb_iNC82j11A
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2s0Jfqq3icofFaDxjGtGY3oXwichn5xRkrft5tjicpjn8KME2TObnHZ48XQ/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年10月23日-10月29日）
+    desc: 东北师范大学本科教学工作周报（2023年10月23日-10月29日）2023年秋季学期第九教学周，教务处将秉
+    url: https://mp.weixin.qq.com/s/w8c4CHQ-vNnpdYotfMZoXg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2sociaNKFNvzoSwsiakABk8e6fVrjsiab60kPXDvcickN9Wv93sTvs1AEXTw/0?wx_fmt=jpeg
+    title: 《“齿轮传动”打造立体式帮扶新样态》东北师范大学组团
+    desc: 《“齿轮传动”打造立体式帮扶新样态》东北师范大学组团
+    url: https://mp.weixin.qq.com/s/DxbOyhv-jWOxZ0LBBS8_jw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2smqT76fUv3F2TcNDMbYNrn4hL0fHHgiay5ibNbHkVRm90ajgZG27GJKHg/0?wx_fmt=jpeg
+    title: 《探索东北师大组团特色的帮扶范式》东北师范大学校长徐海阳
+    desc: 《探索东北师大组团特色的帮扶范式》东北师范大学校长徐海阳
+    url: https://mp.weixin.qq.com/s/NdlAQpzB-WuZ-ha8dkZJcA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2sLO9Y5NLbQn0sw1T8NRtGsrt9x1oUJlNhdlog4ut3Seicr5dEn6GRwiag/0?wx_fmt=jpeg
+    title: 《“内外循环”赋能白师跨越发展》白城师范学院党委书记迟海波
+    desc: 《“内外循环”赋能白师跨越发展》白城师范学院党委书记迟海波
+    url: https://mp.weixin.qq.com/s/3as9ATJjLOfH9fP_BItPyA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2sWRVAicic8McPPmogMky2ueA0gB3NugxIJPa1wgkxuLiaNGgg5xL33qib6g/0?wx_fmt=jpeg
+    title: 《书写新时代强师计划的“牡师答卷”》牡丹江师范学院院长李春江
+    desc: 《书写新时代强师计划的“牡师答卷”》牡丹江师范学院院长李春江
+    url: https://mp.weixin.qq.com/s/mdDhBSTkSkKHE1IWTld1uw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2GCLI1KanV23cChpsxdk2smZbw8DtT93ibiavibU4dUUmoYHD8ibyZAic8N3nAucUicS97ezm3MSOX1r9A/0?wx_fmt=jpeg
+    title: 《传承“胡杨精神”再出发》伊犁师范大学党委书记蒋海军
+    desc: 《传承“胡杨精神”再出发》伊犁师范大学党委书记蒋海军
+    url: https://mp.weixin.qq.com/s/4jGeton6DQdAMfmK7K69FQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3KWcUkqF6m8GHhysE2O8EaPyjZjXJQ3svD0tiabKewUJtD1H16LUgAAeA/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（10月25日-11月1日）
+    desc: 快瞅瞅下面的通知！
+    url: https://mp.weixin.qq.com/s/ZrtKPZZpav2iA1c26UOsyQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3KWickTt1dHQN9M6ycgSL1Au5tgYINdOQPqX1Uny1Q9cv4bQ55n9iaDeRA/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年10月16日-10月22日）
+    desc: 东北师范大学本科教学工作周报（2023年10月16日-10月22日）2023年秋季学期第八教学周，教务处将秉
+    url: https://mp.weixin.qq.com/s/8Am4piZ3UG9UlqxUXM_UJg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3KePib2L4E3ZnRKtzYmXsZia1gOfCX32QibQYiaLdu12eWJbQtY1CKCs57Ug/0?wx_fmt=jpeg
+    title: 通知 | 关于开展2023年春季学期本科学生成绩学业预警的通知
+    desc: 关于开展2023年春季学期本科学生成绩学业预警的通知
+    url: https://mp.weixin.qq.com/s/1nz652tIf18WlSG0Fiee_w
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3KfsMmS7hibczfdRSpEwsFKiaiapd7qUTwm1K7RrKp7sHYGwHotZr10QYHQ/0?wx_fmt=jpeg
+    title: 通知 | 关于开展第一批新时代教育部马工程重点教材申报工作的通知
+    desc: 关于开展第一批新时代教育部马工程重点教材申报工作的通知
+    url: https://mp.weixin.qq.com/s/wfSc76bXoXFxx8rSKZXH6A
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3K8TDy2TcfEK0LW3FEicjsIZ1nbAUMNVp2gGzcuuskMAKvu85MAibg1icvA/0?wx_fmt=jpeg
+    title: 通知 | 关于做好2023级全日制普通本科生登录学信网完成学籍自查工作的通知
+    desc: 关于做好2023级全日制普通本科生登录学信网完成学籍自查工作的通知
+    url: https://mp.weixin.qq.com/s/tBu6HK909kCGS-8H-JIiqg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3K8TDy2TcfEK0LW3FEicjsIZ1nbAUMNVp2gGzcuuskMAKvu85MAibg1icvA/0?wx_fmt=jpeg
+    title: 通知 | 关于2023-2024学年优秀教师奖和炜然奖教金评选工作的通知
+    desc: 关于2023-2024学年优秀教师奖和炜然奖教金评选工作的通知
+    url: https://mp.weixin.qq.com/s/KalDdwxA28eHW1dzrzq1_w
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3K8TDy2TcfEK0LW3FEicjsIZ1nbAUMNVp2gGzcuuskMAKvu85MAibg1icvA/0?wx_fmt=jpeg
+    title: 通知 | 关于开展2024年吉林省产学合作协同育人项目申报工作的通知
+    desc: 关于开展2024年吉林省产学合作协同育人项目申报工作的通知
+    url: https://mp.weixin.qq.com/s/lxzZaGy_3Z-MEfaswMbBUw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0GlwYRYMlaW3Sp0hbSibB3K8TDy2TcfEK0LW3FEicjsIZ1nbAUMNVp2gGzcuuskMAKvu85MAibg1icvA/0?wx_fmt=jpeg
+    title: 通知 | 关于2023年秋季学期本科教材选用结果的公示
+    desc: 关于2023年秋季学期本科教材选用结果的公示
+    url: https://mp.weixin.qq.com/s/EXfZOFgHei6_FrbNvmDVdw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1TLYJj2T1cj2rewsp2icCmkj8947N7wjowv3uHYxTia7sPwS6ZMdBjvRSXZ18KcpOgN7SMhH9iaL6MA/0?wx_fmt=jpeg
+    title: 通知 | 关于2023年下半年全国大学外语四、六级考试报名工作的通知
+    desc: 关于2023年下半年全国大学外语四、六级考试报名工作的通知
+    url: https://mp.weixin.qq.com/s/VstMRGj3eq_IFFyaGotSLA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy39SE78OaJDeJNqvs9Mp6BwBmLy17sJ0cNbbEVic8KfOtiaW6bkU0M9ib8yn3sgEg4OYho983hvx443g/0?wx_fmt=jpeg
+    title: 2023年春季学期本科生课程评估结果
+    desc: 2023年春季学期本科生课程评估结果
+    url: https://mp.weixin.qq.com/s/3DPGy99uQ-A5ypsCpM3bNw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0EibianoYnC6Nz6T1XZxKQhzKTK6WsqoiadJoS9NJh3b0tz6Tj7Ft3GLhcibxJcaTesWtvX7Kn8ib5pyQ/0?wx_fmt=jpeg
+    title: 官宣！我们微信公众号更名啦！
+    desc: 改名字啦“东师微教学”微信公众号已经陪大家走过了7个春秋相信细心的你们已发现今天的公众号与往常不太一样没错！
+    url: https://mp.weixin.qq.com/s/L0pADChOV5KK2BNiV7UHbw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3ibNk38LG4ycKR8qu1pDYrAUXj3sImUVgiceYHC1K8HlJS1egtSYgXSyjNELOdRo54aIyX0r6njpAg/0?wx_fmt=jpeg
+    title: 新闻 | 学校顺利开展U-G-S赤峰实验区考察调研
+    desc: 考察调研10月8-9日，教务处副处长赵长明及教务处相关工作人员赴U-G-S赤峰实验区考察调研，亲切看望并慰问
+    url: https://mp.weixin.qq.com/s/x5pnMrA9hfvfM9vXm6kNaA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0EibianoYnC6Nz6T1XZxKQhzc2FJonaapOE1Bm3G3AxgbSa6aDXqTHkSXmE7tXfgZXa8ibwYuKbKDbA/0?wx_fmt=jpeg
+    title: 新闻 | 学校顺利开展U-G-S昆明实验区考察调研
+    desc: 考察调研10月9日，教务处副处长（主持工作）王向东、生命科学学院副书记刘德赢及教务处相关工作人员赴昆明五华、
+    url: https://mp.weixin.qq.com/s/ShfFK16QKnEaxpoxbsN16Q
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0EibianoYnC6Nz6T1XZxKQhzc2FJonaapOE1Bm3G3AxgbSa6aDXqTHkSXmE7tXfgZXa8ibwYuKbKDbA/0?wx_fmt=jpeg
+    title: 新闻 | 学校顺利开展U-G-S双阳实验区考察调研
+    desc: ★考察调研★10月17日，教务处副处长赵长明、地理科学学院副院长刘艳军及教务处相关工作人员赴U-G-S双阳实
+    url: https://mp.weixin.qq.com/s/z2jiuoiXZR1VXoBchmhM0w
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpnEXiafu8t2GrhdLINuQ5zceXGZCFWG6Y823wBtXfxYkqqFSCVhpQ9GQ/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（10月18日-10月24日）
+    url: https://mp.weixin.qq.com/s/bAuKXWRMfOzjPqSTloZYGg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0EibianoYnC6Nz6T1XZxKQhzsKC4AC8ZtQGnsyLPRvvOfa0icPpTmEoKaicSVicicDkZKaibSth6ak0oiaIA/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年10月9日-10月15日）
+    desc: 东北师范大学本科教学工作周报（2023年10月9日-10月15日）2023年秋季学期第七周教学周，教务处将秉
+    url: https://mp.weixin.qq.com/s/fYGM6vOoxs-tJ2YFgLQjJQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0EibianoYnC6Nz6T1XZxKQhzgSfGAuJyEBvwpD63jJsfmk4YsfXWDCMO5HoicfhEj7iaZpvl98VgaaIQ/0?wx_fmt=jpeg
+    title: 通知 | 关于开展2023年秋季学期本科课程定时答疑工作的通知
+    url: https://mp.weixin.qq.com/s/CMZLU5EOOg2BHf0E_51H4A
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2smAFJCroZAr9061AqYJ8ZLmQZZtkicrdicC3s6K17DBTHSnCib7zp6N4psbazupp4u8nnwJAnEsoug/0?wx_fmt=jpeg
+    title: 祝贺！东北师范大学陆家羲数学物理拔尖学生培养基地首批毕业生获得欧盟“玛丽·斯克沃多夫斯卡-居里行动”计划资助
+    desc: 近日，东北师范大学陆家羲数学物理拔尖学生培养基地（以下简称陆班）首批毕业生徐卓同学获得欧盟“玛丽·斯克沃多夫
+    url: https://mp.weixin.qq.com/s/3PC6xM-Urgskgqn-ERsIDg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpnEXiafu8t2GrhdLINuQ5zceXGZCFWG6Y823wBtXfxYkqqFSCVhpQ9GQ/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（10月11日-10月17日）
+    url: https://mp.weixin.qq.com/s/Ov4Jp6mRah6YLoNlct-0qw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2smAFJCroZAr9061AqYJ8ZTIQC9DOOUCRicGG6o89Pau96ubZNuQe7ruBwwEKblVoIGxibToGapia3g/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年9月25日-10月8日）
+    desc: 东北师范大学本科教学工作周报（2023年9月25日-10月8日）2023年秋季学期第五周-第六周教学周，教务
+    url: https://mp.weixin.qq.com/s/VpM0YMtywAlcXor1tlBlKw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
+    title: 通知 |关于公布高等教育（本科）教学成果培育项目评审结果的通知
+    desc: 各学院（部）、各单位：　　根据《关于开展高等教育（本科）教学成果培育工作的通知》，学校开展了高等教育（本科）
+    url: https://mp.weixin.qq.com/s/NvXLHFSvjkQVPo7LjEhIQQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
+    title: 通知| 关于开展2023年秋季学期全日制本科生赴境内外大学交流学习的课程成绩认定工作的通知
+    desc: 各学院（部）：　　根据《东北师范大学本科生赴境内外大学交流学习的课程认定暂行办法》（附件1），现对全日制本科
+    url: https://mp.weixin.qq.com/s/7eWwc1ANgttv00fHaxYB9w
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
+    title: 通知|关于开展吉林省职业教育“十四五”规划教材遴选推荐工作的通知
+    desc: 各学院（部）、各单位：　　为推进高水平教材体系建设，根据吉林省教育厅《关于开展吉林省职业教育“十四五”规划教
+    url: https://mp.weixin.qq.com/s/bgdg2y_k0IDrocNes9A2pg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
+    title: 通知|关于划拨2023年秋季学期本科课程交叉课时费的通知
+    desc: 各学院（部）及相关开课单位：　　现将2023年秋季学期本科课程交叉课时费补贴予以公示（具体发放情况见附件），
+    url: https://mp.weixin.qq.com/s/z6pGxXwX2LFYSbnOQgH84w
+  
+  - cover: 
+    title: 
+    url: https://mp.weixin.qq.com/s/F5UBE4rU0QwM76Lhp2GMOA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpTTHkksxtkYpw3f2ZcGqIEee9ks07C6713Wwhz6TfbDRjZic7Q0rvxFA/0?wx_fmt=jpeg
+    title: 第九届（2022年）炜然优秀教师奖①
+    desc: 旨在表彰对本科教学工作投入大既关注学生知识掌握又关注学生成长同时在本科教学或教学改革与建设中取得显著成效的副
+    url: https://mp.weixin.qq.com/s/dgsqQ7Bl7IdZ4FrOGURD-A
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy05rViaRBNy0xvme286OEYBuWEghmfkERL7ALhpvKrm5zVTCon65LhiaqvDjIVL1FmGr2OiciaicF3mAPA/0?wx_fmt=jpeg
+    title: 第九届（2022年）炜然优秀教师奖②
+    url: https://mp.weixin.qq.com/s/zBM0zFl9FCkyYvJLYrc6ZQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy05rViaRBNy0xvme286OEYBu5YKWUpbylZfRkC7gT4xQ7Ys19C8MpgfwELoMD7NicbibQaNkQOGficU6w/0?wx_fmt=jpeg
+    title: 学校顺利开展U-G-S深圳实验区考察调研
+    desc: 考察调研NEWPART/19月18日-19日，教务处副处长、本科生招生办公室主任马骥、历史文化学院党委书记杨
+    url: https://mp.weixin.qq.com/s/K_XV2ni_pjf0UN9S6VeWDA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2XwpIRpicgUZgjyslaqdEYdIU5K7e54COjojKGYf565c6lgHO2ypWjicR7lB0nVPRoHJic26j3MZ8sA/0?wx_fmt=jpeg
+    title: 学校顺利开展U-G-S苏州实验区考察调研
+    desc: 考察调研★9月20日，教务处副处长、本科生招生办公室主任马骥、历史文化学院书记杨善玲及教务处相关工作人员赴U
+    url: https://mp.weixin.qq.com/s/4rjnqMHITMxtHeNFGCsWzg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpgLZpk0A9TAtUWdug5pP94lFxcHaCLT7onBDH6tnsRf6DUzIgeb7k4A/0?wx_fmt=jpeg
+    title: 我校赴牡丹江师范学院开展师范教育协同提质计划项目实施情况调研座谈
+    desc: 调研座谈9月24日，我校副校长邬志辉一行赴牡丹江师范学院开展关于师范教育协同提质计划项目实施情况调研座谈。牡
+    url: https://mp.weixin.qq.com/s/s_8ClqjA8Vm6I4k_QocLRw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpgLZpk0A9TAtUWdug5pP94lFxcHaCLT7onBDH6tnsRf6DUzIgeb7k4A/0?wx_fmt=jpeg
+    title: 学校顺利开展U-G-S哈尔滨实验区考察调研
+    desc: ◀▶9月25日，我校副校长邬志辉、教务处副处长王向东、学生就业指导服务中心副处长沈雯、教育部幼儿园园长培训中
+    url: https://mp.weixin.qq.com/s/cfsOrN67lGl8TilgCATYFA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUppNMaLRJeA9zWbvsz19um3pABrYh2s4FT0jkAHsJuug6LRfgicrmC5wg/0?wx_fmt=jpeg
+    title: 周报 | 东北师范大学本科教学工作周报 （2023年9月18日-9月24日）
+    desc: 东北师范大学本科教学工作周报（2023年9月18日-9月24日）2023年秋季学期第四教学周，教务处将秉承“
+    url: https://mp.weixin.qq.com/s/uLYLsM8ob1IR2AksJnggEg
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpnEXiafu8t2GrhdLINuQ5zceXGZCFWG6Y823wBtXfxYkqqFSCVhpQ9GQ/0?wx_fmt=jpeg
+    title: 教务贴士 | 本科教学通知汇总及提醒（9月27日-10月4日）
+    url: https://mp.weixin.qq.com/s/se3BOmCV-8cy-X0LlwZfCA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
+    title: 通知 |关于公布东北师范大学教材建设与研究基地遴选结果的通知
+    url: https://mp.weixin.qq.com/s/ksytULJYuuYoSPciZ3C9qQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
+    title: 通知 | 关于2023年秋季学期普通话水平测试网上报名工作的通知
+    url: https://mp.weixin.qq.com/s/wwy9hXz-MRezpQ1S0d61MA
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
+    title: 通知 | 关于2024届全日制普通本科毕业生推荐免试攻读硕士学位研究生普通类选拔结果的公示
+    desc: 各学院（部）：　　经学生本人申报、学院（部）推荐、学校审核，我校2024届全日制普通本科毕业生推荐免试攻读硕
+    url: https://mp.weixin.qq.com/s/8nzfSXla-t4GzSYmeXdzWQ
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
+    title: 通知 | 关于递补推荐2024届历史文化学院本科生王泽宇免试攻读硕士研究生的公示
+    url: https://mp.weixin.qq.com/s/86Qpev_u2TookT01Z7nKFw
+  
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
+    title: 通知 | 关于推荐东北师范大学教材审核专家的通知
+    desc: 各学院（部）、各单位：　　为深入贯彻落实《普通高等学校教材管理办法》，提升教材管理科学化水平，充分发挥教材育
+    url: https://mp.weixin.qq.com/s/pk3wKDucRsCFdQIQhs5wyg
+  
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0y8pNdSdfPJicxjpSdT94tIibiaoO1vjkL2KSzLibibEYcp9LZTVWWOnQ9uJvCvGRNkLSUibO1B0IZTIdA/0?wx_fmt=jpeg
     title: 东北师范大学 | 第七届（2022年）教学卓越成就奖
     url: https://mp.weixin.qq.com/s/BAV9yQ1FSodsxjnAWYLLdg

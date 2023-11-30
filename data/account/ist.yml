@@ -4,6 +4,38 @@ desc: 欢迎关注东北师范大学信息科学与技术学院
 id: dsxk2017
 logo: $img/media/ist.png
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKN5dfr7RMiccTicwOp6QLUAotBWg0XDq9euq2fpG4JkGpYmrz5Js8mYp3FFrIlqOpbhL024tPAPkjqw/0?wx_fmt=jpeg
+    title: 朋辈课堂|LaTeX排版工具小课堂
+    url: https://mp.weixin.qq.com/s/zXIhk9oJ_e9YomD4_waFwA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKMbfrWbecC4YTq4yxZbWlg7vdlhof6iaaCCp6rBRB0ONHoQd9ciaPWqnq3a96gLBZYVUicsZGQr7Wltw/0?wx_fmt=jpeg
+    title: 我为同学做实事|“罩”唤健康
+    url: https://mp.weixin.qq.com/s/iSTiTGnAS-WxyAWd-NC77g
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKNicOC9QzyHrias2sBBP5Ho8yrjXbKugZlG9klbwuDub1ns2moLS8YHpBa4Lfkl52SRupQBfgoQZAdQ/0?wx_fmt=jpeg
+    title: 朋辈课堂|国家奖学金获得者分享会
+    url: https://mp.weixin.qq.com/s/qtWx_ZRdP7ActqLEjbIbbg
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKMraSkqrc9rBZIc7Ks0Wl3ya3Qd0ZJibHib9s91ZMwCobibhh0d3RSzSZOJm6giaMN5iczIFvGDCfhnnew/0?wx_fmt=jpeg
+    title: 我院举办2023年秋季学期班长联席会
+    url: https://mp.weixin.qq.com/s/_waKUaS3erT9yuWX744OnA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKP0N9G2cp2uUZY1e1VWuicmcJsnfv4cVsGfNh6icaWwVLpKNGoQ2bVZqqicWhOxsbLMVhsbHMhj6Azjw/0?wx_fmt=jpeg
+    title: 我院举办“第四届吉林省大学生人工智能创新大赛”
+    url: https://mp.weixin.qq.com/s/4j_9jTn5iVRlD0p56DN2BA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKOgkgrKeQnM0gD1Ju9B5ibhFf4I2YeKV6W16d6rtbhxfyDwxIOBiavicVPhNuG2mMibic49DSevHQicf9RQ/0?wx_fmt=jpeg
+    title: 我院召开第七次学生代表大会暨研究生代表大会
+    url: https://mp.weixin.qq.com/s/SV4a8ab_GEUi4AYsnm_-JA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKM7ZRU8QWhIbNliba3EicTENicR65tLGtvBd60mnOTsrLsFOtfmoYibn3A9KoVdicqm1KtGXeBdnJnTUDg/0?wx_fmt=jpeg
+    title: 我院举办学生科技创新嘉年华活动
+    url: https://mp.weixin.qq.com/s/tKhZXLm4varRyutMR-uvtA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKMG4o1jLJU39zMJUucYJu63JhSKjLghNXUn7v1ph60G01acTjROxBkWtGESJA2eNaf5sThN1ibcBuA/0?wx_fmt=jpeg
+    title: 军训进行时|我院开展2023级军训慰问活动
+    url: https://mp.weixin.qq.com/s/jasm2mbmGBBHcquPeoDHlA
+  
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKPTIMyB7IEU69k5jpjRFARms3zDWAl0wicdAjWKVYYZN93q5yGXT10cbK6jal342GeTg6omAtwZL8A/0?wx_fmt=jpeg
     title: 活动预告|“初见东师”摄影大赛
     url: https://mp.weixin.qq.com/s/iuwcjx9skgjUa3MuOX3Yvg

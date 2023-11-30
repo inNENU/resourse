@@ -4,6 +4,72 @@ desc: 愿地科君常伴地科人
 id: dongshidike
 logo: $img/media/geography.jpg
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8afdQhFbkDN8gdSs3L4bRZ3SLAU1gbwFFDhMmTQwEzHOPbHZjgxoictoWwBArSq35zpVXcmWaunLWHg/0?wx_fmt=jpeg
+    title: 学院举办本科生优秀集体展示会
+    desc: 11月28日中午，地理科学学院本科生优秀集体展示会于地理科学学院四楼报告厅顺利举行。
+    url: https://mp.weixin.qq.com/s/fqz6fJtHj4ZmXC8TtnE57g
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8ac6EMEibqNbK0ArWxIjyXYV1qE5JjAAB63FzjHF2icooHQKBlGIAU3G2tIDjolNPV11QfoG9viaCibadQ/0?wx_fmt=jpeg
+    title: 寝室文化节来啦！
+    desc: 为丰富校园文化生活，推动寝室文化建设，营造良好的寝室文化氛围，展示多彩寝室文化，增强寝室内部凝聚力，地理科学
+    url: https://mp.weixin.qq.com/s/vknxR6OjV1SIcju95CsKLA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8acpGy9R9WiaApURwQseln4xlBHiaT6LJ7g6vG79joIKKrVNb13xgtQaaWwhJOIiaxBLj9uUb24MxDibng/0?wx_fmt=jpeg
+    title: 2023年度地理科学学院科研终期结项评审会成功举办
+    url: https://mp.weixin.qq.com/s/2eXw6KlVpHGRqJsrxT0bug
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8aeT6S8rTwbDtnYNOYSWz5iaEHkZ0lnpKHMTrfiaSMhibjDq2oDVJGd2EickEiadCXLoRNgiaPXzz0gud9Hg/0?wx_fmt=jpeg
+    title: 地理科学学院勇夺“东师杯”羽毛球赛升级组季军
+    desc: 地理科学学院羽毛球队勇夺升级组季军，再次展现出学院体育实力的耀眼光芒！
+    url: https://mp.weixin.qq.com/s/5z78opPxFo4xqY934CT6cA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8afh7CmA0p4AIUllhg3uH2I6w7u9jKvQDqppGeTkKYxjlGHbzc2Az9A3r4XpIiaj3qzcgia263Hq8Kfw/0?wx_fmt=jpeg
+    title: 冲超！地理科学学院获 “东师杯”排球赛升级组亚军
+    url: https://mp.weixin.qq.com/s/jrJzjMrLkbDo8pGW7L8N_Q
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8afh7CmA0p4AIUllhg3uH2I61I67NdoiareJQfQ2nhlCf5IicKiazIU4SokjTU3ajFODHERLN3iblnhViaw/0?wx_fmt=jpeg
+    title: 对“脆皮”说no，请开启运动健康模式
+    url: https://mp.weixin.qq.com/s/RTwbnLhDe5QjIkofetEquw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8adibrib2BpS3U9cd2lJ6JkWPrqySDOD9j7So08HG6LxVSr2L200t8lgTTbMAL2fRRKzDGhRiaczUqNFw/0?wx_fmt=jpeg
+    title: 对迷茫说no，请擦亮发现自我的眼睛
+    url: https://mp.weixin.qq.com/s/FAtecLIyR7zW-Xm_y68zVQ
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8afzezB1rbibQheicX0ugx4ZyWIhHOtyrodMjIPdib0I6AafpmqwHNj8WIeJXZZCwVmkAfEOwPSD46iaOw/0?wx_fmt=jpeg
+    title: 地理科学学院“师生杯”足球赛圆满结束
+    url: https://mp.weixin.qq.com/s/d3-3rQmIz-XMlOAaFKETxw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8afuvXy2xhR7eNxpqDAibywHGDdNc0nSJJXiavn9micHk6d4FKsIOqtH4GFN6iclg92nIXq3UMKcWccrFw/0?wx_fmt=jpeg
+    title: 快讯 | 2023年十月“团支书之家”活动圆满结束
+    url: https://mp.weixin.qq.com/s/WkDxC9YL4pK4Yu1XhCgK6Q
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8acDWfGaaVj1tJEpalsOoBjA33Mx8HVia2Tm35fuO3z2Cfymn5ic3qPOO0ibDVibRts8qzTeLWskPhhXIQ/0?wx_fmt=jpeg
+    title: 地理科学学院在第一届“东师杯”健身街舞比赛中荣获佳绩
+    url: https://mp.weixin.qq.com/s/8Cb6ASNIuoAFiT3EFofmvw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8aeLVWDK70FDD1ZL5wun8cKbOlfldsDTtkxyK72ILk59ibLM6jGD9qqLnLAJ5JxhoAflGB7e20QQaGQ/0?wx_fmt=jpeg
+    title: 2022-2023年度优秀寝室评选活动顺利开展
+    desc: 10月12日，2022-2023年度优秀寝室评选活动在地理科学学院地大教室顺利举行。
+    url: https://mp.weixin.qq.com/s/OfCbm95eFEHamtOI24F9DA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8ac57jSNrDnhgxtU3Q1qGNws0ld7LuFIQhPokHkeun2Gia5hC87tL0fpB5XTL1mv9gSJ44whBZJU3Yg/0?wx_fmt=jpeg
+    title: 快讯 | 地理科学学院“迎新杯”篮球赛圆满结束
+    desc: 2023年10月11日星期三12:00，“迎新杯”比赛在北苑篮球馆正式开始。第一节比赛中，经过激烈的角逐和对
+    url: https://mp.weixin.qq.com/s/WS616NN9BCQPFRTify_Qsg
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8ac57jSNrDnhgxtU3Q1qGNws9RbEptb33nuEFVsibeW9ytFfLQuPcVpZDaoQtaEHX7PudjbgaccDPMA/0?wx_fmt=jpeg
+    title: 快讯 | 地理科学学院“师生杯”篮球赛圆满结束
+    url: https://mp.weixin.qq.com/s/FC3cl_V4JUYN2WkyjlwTUw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8adZJicIwlxKSsnIk3cDibZAlAic1mL0FOJ8XmdSBDPDg8TI8HYUD1OdZ31JVZEZPkFzemXcBshVaxD4Q/0?wx_fmt=jpeg
+    title: 2022-2023年度优秀班集体评选活动顺利开展
+    desc: 10月7日，2022-2023年度优秀班集体评选活动在地理科学学院报告厅顺利举行。
+    url: https://mp.weixin.qq.com/s/DAweE5ZIEFP7X1bw4J6IGw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8afMATeNaQEUQkEIX5KHGqON0eicmEXYEglHQfOQ585tM4raQCpia1nPGyPGEiadVxT0ia6LEnw6VWBPsQ/0?wx_fmt=jpeg
+    title: 军训特辑 | 青春当燃立壮志 意气风发显锋芒
+    url: https://mp.weixin.qq.com/s/SOHaFpjWDnRtG4mb_ZLikA
+  
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/MiaPTgnwE8aeSticTbhUvX22K8KReibu2YYusgIgCUAa04GymNsE6K1UszKDUFJYZ9AA7dBU5DTvcGguUS2hQ1cVw/0?wx_fmt=jpeg
     title: 丰富安全知识储备，提高风险防范意识   ——2023级研究生安全教育年级会
     desc: 为让同学们丰富安全知识储备，提高风险防范意识，辅导员王晨霏老师邀请到了校医院感染科郭巍巍主任，保卫处聂庆国老师，学生宿舍综合管理办公室刘竞雄老师来进行安全知识讲解。

@@ -6,6 +6,51 @@ logo: $img/organization/voice.png
 
 authorized: true
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/4ibXUPiaLwibrTibdpOqbvIYia0fejdTic3PuKpVbgBV4mVAq6m6kLF4dagBS2poy42diaUDARWRY2RKk8Zq8bwjcnxHA/0?wx_fmt=jpeg
+    title: 走进电影 | 简·爱
+    desc: 走进电影 |《简·爱》
+    url: https://mp.weixin.qq.com/s/CKLTM2bHMUzJryT1hf39sw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrT8VqoQxmOfVom5H5gBvSeia97ic8qcBQkUwbnsTsXTfOma968rfQBdVkmkcSjOZaRYlonmEkrHGRPw/0?wx_fmt=jpeg
+    title: 预告|“ 东师之声 ”校园广播站（净月）本周歌单
+    desc: 第13周歌单预告1《For Good》来自于著名的百老汇音乐剧《魔法坏女巫》，至我失去的三年友谊，致青春2《
+    url: https://mp.weixin.qq.com/s/kEON_ifRpTd0hUfw-SSB6g
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrRxQiab5puoySDTcfXC444iabULeLRv1Wnm2uiajcJSibiahcTtSzmBZrRXgfiat0VZb2BFndAuvB4FzWzQ/0?wx_fmt=jpeg
+    title: 预告|“ 东师之声 ”校园广播站（净月）本周歌单
+    desc: 第十二周  阳光明媚的午后慢慢将这些文字揉匀倾入高温的水用情绪泡制一杯茗茶袅袅的烟雾中有文字在渐渐升腾那上下
+    url: https://mp.weixin.qq.com/s/s1WENjRJakjyOBkArMJX4g
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrTLPuEWyh8lBHHJdDoYdgs6QBQNJQdyzu2zcfRkXSLkoPwy22uMDvwfibiap0TVlBu1XosDI4CtsQhg/0?wx_fmt=jpeg
+    title: 点歌 | “东师之声”校园广播站（净月）邀请大家来点歌啦
+    desc: 第11周    音乐，是重压下的浮木;    音乐，是脆弱下的倔强。    它，给予我们坚定和勇气;
+    url: https://mp.weixin.qq.com/s/rUbiEmmkCHzJ9OunlR80oQ
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrQRCZF9MsPoWibgFJLhkwd4WD8K76zzB0B8U9ZVJBtY9gp5zOtDluhUYQKCcibdibFFX9XD5Giaiblia8DA/0?wx_fmt=jpeg
+    title: 预告|“ 东师之声 ”校园广播站（净月）本周歌单
+    desc: 第十周悦耳的旋律是精神的抚慰尘世的繁杂 市井的喧嚣云消雾散似一缕清辉给予心境一片明媚似一丝飘逸给予心田一份灵
+    url: https://mp.weixin.qq.com/s/JmR47mHaZXtQGRRzA1DNUg
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrSywXQJZJPXI75GUriagUHXFegFZPN8f2M5PkkoFnmOhmu2LfdMqanAHjIMia9ly2cgJxCWxIfb69hQ/0?wx_fmt=jpeg
+    title: 绽放之始！----破冰大会来临！
+    desc: 人生一世，你我遇见便是最好的幸运。十月下旬秋意渐浓，却敌不过广播站新老部员内心的热情。我们于此相遇，并在之后
+    url: https://mp.weixin.qq.com/s/iBEuwosAmXynf7RNl0fK8A
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrSOS0Yt72SOYGBPP5bJWaRSGKrwD2RDTLXbmLjdZAgXdjPAnPUeo80VgZbuRlFvczcUIeHYP7EIfg/0?wx_fmt=jpeg
+    title: 预告|“ 东师之声 ”校园广播站（净月）本周歌单
+    desc: 第九周在这个喧嚣的城市里我们总是被各种嘈杂的声音所包围当我们静下心来仔细聆听就会发现那些微小的声音也许才是最
+    url: https://mp.weixin.qq.com/s/zxbVDFX6kSnQN1-R4f2LPg
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrSdjqSewqowkdJVIrztGEcnLibnCBBkicQLpLcCLic5ess0kVTTb6bGWUnTZtbB2X6VqQd9VHkQzxyNQ/0?wx_fmt=jpeg
+    title: 预告| “东师之声”校园广播站（净月）本周歌单
+    desc: 东师小声秋风起兮白云飞金秋已至秋天是一个收获的季节在这个季节我们将付出努力并收获成功相信每个人都有着自己对未
+    url: https://mp.weixin.qq.com/s/0KAj5WVuADbmAsGoeyOuqw
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrRHlCF6KTYCtoedWEIhhKrQPfoeWRr4zAvat18SaonzR66cHNhWMHPzd1DnLMggV47HqubibjXeGhg/0?wx_fmt=jpeg
+    title: 点歌 | “东师之声”校园广播站（净月）邀请大家来点歌啦
+    desc: 被秋光唤起，孤舟独出 以声会面
+    url: https://mp.weixin.qq.com/s/UoADhp4_Om6NFng9NlTyBA
+  
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrT4952p816g96ibdGXCq3GXSRz15UYkndzEoacQpkUTqx5c17ZJogn3cshCIfdfuRtib8lsV62cxdrg/0?wx_fmt=jpeg
     title: 东北师范大学第二十四届“东师之声”校园广播站学生骨干选聘结果公示
     desc: 东北师范大学第二十四届“东师之声”校园广播站学生骨干选聘结果公示
