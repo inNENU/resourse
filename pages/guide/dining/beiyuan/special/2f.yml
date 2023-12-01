@@ -56,12 +56,12 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail7.jpg?v=202310
+    src: $img/dining/beiyuan/2f-detail7.jpg?v=202311
     desc: 五谷渔粉
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail8.jpg?v=202310
+    src: $img/dining/beiyuan/2f-detail8.jpg?v=202311
     desc: 五谷渔粉
     watermark: true
 
@@ -71,7 +71,7 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/2f-detail10.jpg?v=202311
+    src: $img/dining/beiyuan/2f-detail10.jpg?v=202312
     desc: 麻辣香锅
     watermark: true
 
