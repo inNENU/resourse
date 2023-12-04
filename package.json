@@ -39,7 +39,7 @@
     "@types/markdown-it": "13.0.7",
     "@types/node": "20.10.0",
     "@types/qrcode": "1.5.5",
-    "@typescript-eslint/eslint-plugin": "6.13.0",
+    "@typescript-eslint/eslint-plugin": "6.13.1",
     "@typescript-eslint/parser": "6.13.0",
     "@vuepress/client": "2.0.0-rc.0",
     "@vuepress/utils": "2.0.0-rc.0",
