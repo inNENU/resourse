@@ -10,13 +10,13 @@
       logo: $img/media/official.png
       path: enroll
 
-    - name: 东北师范大学研究生院
+    - name: 东北师范大学研究生招生办
       desc: 招生报名、信息推送等服务
       logo: $img/media/official.png
       path: graduate
 
-    - name: 东北师范大学教务助理中心
-      desc: 东师教务助理中心
+    - name: 东北师范大学本科教学
+      desc: 东师本科生教务助理中心
       logo: $img/media/course.png
       path: course
 
@@ -78,12 +78,12 @@
       path: education
 
     - name: 东师心理
-      desc: 东北师范大学心理学院微信平台
+      desc: 东北师范大学心理学院官方微信平台
       logo: $img/media/psychology.png
       path: psychology
 
     - name: 红砖微语
-      desc: 东北师范大学政法学院微信平台
+      desc: 东北师范大学政法学院官方微信平台
       logo: $img/media/politics.png
       path: politics
 
@@ -98,22 +98,22 @@
       path: chinese
 
     - name: 大史苑
-      desc: 东北师范大学历史文化学院微信平台
+      desc: 东北师范大学历史文化学院官方微信平台
       logo: $img/media/history.jpg
       path: history
 
     - name: NENU 外国语
-      desc: 东北师范大学外国语学院微信平台
+      desc: 东北师范大学外国语学院官方微信平台
       logo: $img/media/foreign.jpg
       path: foreign
 
     - name: 音舞东师
-      desc: 东北师范大学音乐学院微信平台
+      desc: 东北师范大学音乐学院官方微信平台
       logo: $img/media/music.png
       path: music
 
     - name: 东师美术 NENUART
-      desc: 东北师范大学美术学院微信平台
+      desc: 东北师范大学美术学院官方微信平台
       logo: $img/media/art.png
       path: art
 
@@ -128,12 +128,12 @@
       path: math
 
     - name: 东师信科
-      desc: 东北师范大学信息科学与技术学院微信平台
+      desc: 东北师范大学信息科学与技术学院官方微信平台
       logo: $img/media/ist.png
       path: ist
 
     - name: 东师生科
-      desc: 东北师范大学生命科学学院微信平台
+      desc: 东北师范大学生命科学学院官方微信平台
       logo: $img/media/biology.png
       path: biology
 
@@ -263,8 +263,8 @@
 
 - name: 其他
   account:
-    - name: 苏东吴东北师大物业服务驿站
-      desc: 主动、热情、优质、高效，我们是东吴物业。
+    - name: 苏东吴NENU物管家
+      desc: 苏东吴东北师大物业服务驿站：主动、热情、优质、高效，我们是东吴物业。
       logo: $img/media/sudonghao.png
       path: donghao
 

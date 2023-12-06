@@ -4,9 +4,44 @@ desc: 东师小蜗牛们的温暖家园
 id: Nenuxiaowo
 logo: $img/organization/xiaowo/logo.png
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTaWib0eUJUic1hibPguoiaiaRGyM3cpiayCDoKtRdFqEXqz3j94QpTNZibaowciaUqo7icvtcH4deDf7bkgjgA/0?wx_fmt=jpeg
+    title: 东师学子打卡长春消防科普教育基地为安全“加油”
+    url: https://mp.weixin.qq.com/s/I3sGRrHq6hDH24loMGfA-A
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTZr6XYDr7Mg40fDUgPOjydiaZttZyKA4yLLYaaSjmniaQZDh8zLLF2z4wJzAxq7VHSWZs9Ws3B1lyqw/0?wx_fmt=jpeg
+    title: 小窝嗑普|宿舍消防安全手册，赶紧get起来！
+    desc: 让我们为一个安全的校园生活共同努力！
+    url: https://mp.weixin.qq.com/s/UtkudbwEpfnW26DX0sBLKA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTbeNecNFTNaKhZGM4Lz2ckNXbZWtUXmSEMJIYIRpc1AnHCUVRXASmO7cxzMibqMGarYRbID2DKHUVQ/0?wx_fmt=jpeg
+    title: “21天好习惯养成计划”阶段成果（三）
+    url: https://mp.weixin.qq.com/s/qD-f5WEus9AWQHhTvN8JyQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_png/jj175bf7cTa4I5juCfxcQzky1dnmyNSbg7zp5TYeB5KrvzAUM7RhsiczSSHGjdiay4cfvQDY9y3csCtdwdqTibulA/0?wx_fmt=png
+    title: “21天好习惯养成计划”阶段成果（二）
+    desc: 良好习惯乃是人在神经系统中存入的道德资本，这个资本不断在增值，而人在其整个一生中就享受着它的利息。——乌申斯基
+    url: https://mp.weixin.qq.com/s/N23YyftoU6Yz9axUABINqA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTYqrfzqVcVFlF7m5vsZbCD20TCU4EeUqWlCKfM0qWKU3Hjzric546skrHHvRnlqSxxia4AMSpWtwiaPQ/0?wx_fmt=jpeg
+    title: “生命无彩排，防患于未然” ——第十届宿舍安全疏散引导员培训顺利开展
+    url: https://mp.weixin.qq.com/s/55NDFMeNYU1GHrE87qOHWA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTYx4WlnyrLRicP6GkZCNbBtFTkMWDWUUBNiaoU1GDMwzcwD2HmULDFV5NaXRelHnaj1ShjHicovKs92g/0?wx_fmt=jpeg
+    title: “21天好习惯养成计划”阶段成果（一）
+    url: https://mp.weixin.qq.com/s/RSsxCmVm3O_XRexRcAcw1w
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_png/jj175bf7cTbia5OIVCXZsVQSWWPS6Bw9nd26HC8jNxdyB2gElIrmhFoib6mZ4IGwEdP8R7oUZUPmJJG0fDMBEakw/0?wx_fmt=png
+    title: 小窝嗑普|小心充电“爆”！
+    desc: 小心充电“爆”！ 如今充电宝已经成为了同学们日常学习和生活的必备品，有个充电宝才会让人安全感满满。需要注意的
+    url: https://mp.weixin.qq.com/s/dFxmVg8k2QztTUWQg-iHUA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTb3iakgwKvCoeE42usZWNUADeq8gxF3Kj3cVHOf0h68ceREzJhlyWssZgXwOicaJFtT2vtVC52tBNug/0?wx_fmt=jpeg
+    title: “21天好习惯养成计划”活动开始啦！！！
+    url: https://mp.weixin.qq.com/s/9U8fwQ_mlWFdlA-xHI22yA
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTbZzb87ViaXqAAFkFAx19Ym49Nt9r3Up2b4XZJQ5spibPPE0yiajgkhMrhiayibQge2vicLtia4dgxQ05jJg/0?wx_fmt=jpeg
     title: 你好，新伙伴！
-    desc: 新学期 新气象 新开始\x0d\x0a多彩的校园生活已拉开帷幕\x0d\x0a青春东师 小窝终于等到你！
+    desc: 新学期 新气象 新开始 多彩的校园生活已拉开帷幕 青春东师 小窝终于等到你！
     url: https://mp.weixin.qq.com/s/uHN6RR4gNZVKkNXJkreNFw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/jj175bf7cTZZqSYmb2Rw9lGAAh3DkvTJZfTiaMVxQhGF2R9eSKCiaIgqAolHDG4cJG1vESPbRrIqb0670YkVOArg/0?wx_fmt=jpeg

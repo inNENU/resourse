@@ -1,8 +1,17 @@
-name: 苏东吴东北师大物业服务驿站
+name: 苏东吴NENU物管家
 desc: 主动、热情、优质、高效，我们是东吴物业。
 id: gh_0e448c3e8eff
 logo: $img/media/sudonghao.png
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/OLQbibldxL4W7dLAfQPvBWg8nwBaUOuvz1HYZB7coia622nLiaEicf0ggAkicA9w1fctgsb8m3qxSkdUC5hRajHQwMw/0?wx_fmt=jpeg
+    title: 平凡显真情，细节促品质|苏东吴东北师大项目部九月工作纪实
+    url: https://mp.weixin.qq.com/s/IxavUw3sR2OZv7rTNc6s8g
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/OLQbibldxL4Whx8MlqJ20Zdtz5z8P0SvM6GicdPTvMTCunNXqotUuthHnKEqPyLFRicBPOM1L1DJAzp7rxrV30zWw/0?wx_fmt=jpeg
+    title: 月圆中秋，情满校园|苏东吴东北师大项目部与学生共度佳节！
+    desc: 苏东吴东北师大项目部祝大家节日快乐！
+    url: https://mp.weixin.qq.com/s/Bn51owNLXyCEqy7w_uCtfQ
+
   - cover: https://mmbiz.qpic.cn/mmbiz_png/OLQbibldxL4VTuo77FCsl6HIdDptwkEwumpzSxJD1odVlWmgcAIbxEyhNXfUsrNhrZgZYBhxNiaBKjnUkbZFddsg/0?wx_fmt=png
     title: 献礼教师节|苏东吴东北师大项目部祝老师们节日快乐！
     url: https://mp.weixin.qq.com/s/7BVE5Vn2xFty4hH9cUJfSw

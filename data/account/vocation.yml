@@ -3,6 +3,31 @@ desc: 发布学院信息
 id: nenuyc
 logo: $img/media/vocation.png
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/HIgMKoC4BOUDDDZzPuibEbLTLHsvkp9nkDwY2681uztL06eFgxBHdsVKhXP5vflMf35hasFia8TKQjyfLMGnqSfA/0?wx_fmt=jpeg
+    title: 培训动态丨学院举办济宁市名师高级研修班
+    desc: 11月13日上午，2023年济宁市名师高级研修班在我院顺利开班。济宁市杏坛名师、齐鲁名师名校长、领航工作室主持人等50余人来到我院学习研修。
+    url: https://mp.weixin.qq.com/s/cgAVHudvbgN4MWtMONA0sQ
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/HIgMKoC4BOXTqpw2ZwHGsO1QXzepWY5mMF6WIG9MthMic1fr2pzQTHiawADUN7Yg1aV1Gsctm2OACiaTnQ7btZI7Q/0?wx_fmt=jpeg
+    title: 培训动态丨文山学院辅导员高级研修班顺利开班
+    desc: 11月13日上午，文山学院辅导员高级研修班在我院顺利开班。文山学院党委副书记冯林虎、学生处处长邓选梅、东北师范大学职业与继续教育学院院长李全、教育部高校辅导员研修和培训基地（东北师范大学）办公室副主任柏路和全体学员参加了开班仪式。
+    url: https://mp.weixin.qq.com/s/Kkbs73lqy68OdHDgE80VXQ
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/HIgMKoC4BOUeMjlPfFUDa3d0QFOrd8xNiakGJiaJz43DHJ0FN7QFP8pnWPQoR3EXAuFpmrDmVwMoIa6kwVlDporQ/0?wx_fmt=jpeg
+    title: 关于2024年1月份毕业生统考免考补办的通知
+    desc: 各学习中心老师、网络教育学生：\x0a由于各种原因有个别2024年1月份毕业的网络教育学生没有如期办理统考免考，导致相关统考课程未通过，为了不影响学生2024年1月份正常毕业，经我校研究决定将针对此次毕业学生进行统考免考补办。
+    url: https://mp.weixin.qq.com/s/AebLiPyTcZMp75hgDMCj4Q
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/HIgMKoC4BOWiawibic2dm2fuYm8LmomNfXibe8HFEb2s5QmhgsYT2lRnFAt7yiaUqG4zxtn5iaoO8YzUWJEMw43o7dibg/0?wx_fmt=jpeg
+    title: 东北师范大学职业与继续教育学院培训中心欢迎您
+    desc: 东北师范大学职业与继续教育学院培训中心是东北师范大学开展非学历教育培训的重要窗口，中心依托学校雄厚的学科专业实力和丰富的教育教学资源，努力构建以“前沿性、针对性、人文性”为特色的课程体系，致力于打造具有“东师特色”的非学历培训品牌。
+    url: https://mp.weixin.qq.com/s/Xj3Qqae2EMsf7TJjcfVAKA
+  
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/HIgMKoC4BOUoBkkDeicXv1lpy1iaibGOoYC1Fpnt6QMictVBqu9HQA89nNG1R4wECtHaiaPYLX2wUDRzl27slnyya0Q/0?wx_fmt=jpeg
+    title: 东北师范大学网络教育2308批次本科学位论文答辩通知
+    desc: 学习中心负责人及2308批次本科学位论文写作学生：为了保证学生毕业论文质量，按照教学计划安排，决定对2308批次学位论文写作学生实行抽查答辩，相关事宜通知如下。
+    url: https://mp.weixin.qq.com/s/yXRIU2DMpC-okEDk_p1-9A
+  
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/HIgMKoC4BOVdvJNeKCUKnwcvz12hQRqnA33Ah8lhbFU5G39iaXPD6EVYYI30aicLdVeSpI1TpnfB5dsNlcPXHBVw/0?wx_fmt=jpeg
     title: 东北师范大学2023年10月网络教育部分公共基础课统一考试的通知
     desc: 各授权学习中心、网络教育学生：\x0a根据教育部现代远程教育试点高校网络教育部分公共基础课全国统一考试（即统考），不再由全国高校网络教育考试委员会举行，改由高校自行组织的相关要求，现将我校2023年10月网络教育统考工作安排如下：

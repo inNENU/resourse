@@ -4,6 +4,176 @@ desc: 这里是东北师范大学化学学院。给你呈现不一样的化院�
 id: dongshihuayuan
 logo: $img/media/chemistry.jpg
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloPswuLA0b6Pzrva9Q98VYlbOlZX4gaXMiaYS3sCGlEfbFskV9LOVaZ7arKvp69BymFZuKXnEffh1g/0?wx_fmt=jpeg
+    title: 化·学风 | Chem学霸帮学系列活动——“学霸答疑室·学霸小课堂”
+    desc: 学霸系列活动，大家快来参加
+    url: https://mp.weixin.qq.com/s/q8Pl03u2n5thdd_7OF8BQA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlrL1rluw9CTNibicPUVtD1HJ55JDFb75HzahLLDaOlHyjjicyQAU4b5OoZ3b6tiaVmWN5B1iakpaA5QIPg/0?wx_fmt=jpeg
+    title: 化·小齿轮||姜敏学姐带你总结结构化学1-2章知识点
+    desc: 姜敏学姐带你总结结构化学1-2章知识点
+    url: https://mp.weixin.qq.com/s/WdX6ink4NuoOxC_gsofxdw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlpTKn6iaJH1OOVfIg78cJZO5eLsTb6ksgcVq2zUq4lmt3RSsXwOLC5NtHDON70ChJ6JdQEIzOibNPbA/0?wx_fmt=jpeg
+    title: 化·青马｜“化学青年说”第八期《延续前辈精神，创造时代辉煌》
+    desc: “化学青年说”第七期来喽！
+    url: https://mp.weixin.qq.com/s/0HcovESwGtr8NKQBNWqXDQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlomOnXKbVOQYEEDUqZ2cp0oiaKHcMwCZzribibias50Qkz4uUPQLqOGDgIXX9zMM2Zl1vSVMMf0NNXzeg/0?wx_fmt=jpeg
+    title: 化·实验||科普实验进幼儿园
+    desc: 科普实验进幼儿园
+    url: https://mp.weixin.qq.com/s/FwAGzwHackoNzJA2liE1Ig
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlohqNFeVYVjcy6ZjsrT9dos8efeQQsxrbHueBJHDzytjQPSvuLq5c2bCH9LUthf1pRxO8sv9YfYlQ/0?wx_fmt=jpeg
+    title: 化·实验||科普进幼儿园
+    desc: 科普进幼儿园
+    url: https://mp.weixin.qq.com/s/3Qt0mDoM8em1Y3sfWTn73Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlohqNFeVYVjcy6ZjsrT9dos1CgWQGwOHicgjIfcNdwmMctCdFzGq2JOasxeMbvksiaA40CGVKSDonUw/0?wx_fmt=jpeg
+    title: 化·小齿轮||杨馨玥学姐带你总结分析化学1-3章知识点
+    desc: 杨馨玥学姐带你总结分析化学1-3章知识点
+    url: https://mp.weixin.qq.com/s/j8XdC-rBB26YTquTn2071g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloeuSrS1t7eITJ9Dq8KnGEvvEqfIv0xTfcWPxLtdItWh9rpKV64B3IebJKM87KtUr7ukW4jowiavibQ/0?wx_fmt=jpeg
+    title: 教师节“追光”访谈｜仇永清：不负韶华追梦行 笃行致远担使命
+    desc: 老师是希望的那道光，把我们的人生照亮...
+    url: https://mp.weixin.qq.com/s/wyr4Z30XbgBHUucyrYKdqQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlouJQHMScjNmsACaCXiawibglDwE4cSEt6bM4yWV3P7IBQan8kMt6x2qMUkPY49yhhSk93q5ibLbEboA/0?wx_fmt=jpeg
+    title: 教师节“追光”访谈 | 邢双喜：言传身教成楷模，润物无声谱华章
+    desc: 物理化学专业——邢双喜老师专访。
+    url: https://mp.weixin.qq.com/s/QuodAdwBysz4VG7EDLNK9w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlria6uhtpbXoGEGyI9dV2ZtQabKSWrFCNecGP7iafrCOqlctvzpbqfVdBhGSY8vnAshDL3O3D3LQqRg/0?wx_fmt=jpeg
+    title: 化·小齿轮||潘雨欣学姐带你总结化学平衡知识点
+    desc: 潘雨欣学姐带你总结化学平衡知识点
+    url: https://mp.weixin.qq.com/s/E4bXAS1ARl_KyMn88w03jQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlpnL21Nb0s4lcf5l8NEBHC4t9NnibJpsFWQHyIs4CDarria0zTkDeH4liaxZ3ERhoxucF9wZ5G0OnlNw/0?wx_fmt=jpeg
+    title: 化·讲座||乔世璋：电催化炼制产生燃料和化学品
+    desc: 欢迎大家来参加化学报告
+    url: https://mp.weixin.qq.com/s/Vrqp7hUr-hAdP2QJ-PrWeQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlqDoS1juWoNvHvRrbS8Quu8pUlxyicqehyqdbJrgR1Ko5dx1lmjOicPniaZBicNby2QzwIhOuu9oibgRicg/0?wx_fmt=jpeg
+    title: 文蕴东师·大师·赵成大||带您走进我国著名结构化学家赵成大的故事
+    desc: 一根粉笔写宇宙，两袖白尘拂乾坤。三尺讲坛传真理，四季无间育新人。
+    url: https://mp.weixin.qq.com/s/r2UamQQg3iN6Zp1eGgSwYg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlria6uhtpbXoGEGyI9dV2ZtQhPoJKT7pQPSFClwnTU6KCcpXXz2OyVFEENFRj6LDFAOzAZ7QtCIcxg/0?wx_fmt=jpeg
+    title: 化·喜报‖热烈祝贺我院荣获“东师杯”排球赛超级组第二名
+    desc: 热烈祝贺我院荣获“东师杯”排球赛超级组第二名
+    url: https://mp.weixin.qq.com/s/dqXDOk8d5oGHEKaD5SK_fQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlq1yq5pWD8Z6x11hibibuhicrCYRL1qpBRZUbyGua57LpeZYz3TaibHM43e7BU6uC5JugRTjhhjJLuNkQ/0?wx_fmt=jpeg
+    title: 化·青马｜“化学青年说”第七期《初心如磐，奋楫笃行》
+    desc: 化学青年说第七期：初心如磐，奋楫笃行
+    url: https://mp.weixin.qq.com/s/G0_kK8k3CwPc8yo1B5OvHg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloBZkYBtwhU7XyJ8FkxxJe2dwnRPlJdTNmOjMlOvIgL2wbicldwtGKiakUbUmKZsHiafia4RlD4l9HjDg/0?wx_fmt=jpeg
+    title: 化·小齿轮||高研学姐带你总结醛与酮的知识点
+    desc: 高研学姐带你总结醛酮的知识点
+    url: https://mp.weixin.qq.com/s/ZFX2My8edFVUnYzMqjx1TQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlq1yq5pWD8Z6x11hibibuhicrCaOVYQuev9AVhgWOMNa2qqm2eibQYL4H2tYmK8cS9lgx883Nw0wOWgqg/0?wx_fmt=jpeg
+    title: 化·培训 ||“艺术+”新媒体中心系列培训
+    desc: 欢迎大家来参加新媒体中心培训
+    url: https://mp.weixin.qq.com/s/j_3j2PiCf-5uGuWuddwc9A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlpXqRxH8XrHWDOnmRGHS5j7PWMNfcwBE6rAxicBJr80IniaNCdlG9oicjwRVoFsglv8VPcL7Z4oVBrnw/0?wx_fmt=jpeg
+    title: 化·讲座||肖蓬教授系列讲座
+    desc: 学术汇报来啦，大家一起来看看吧！
+    url: https://mp.weixin.qq.com/s/aZrCnexg0sTFbV6mFTpv8g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlr7laDrOpiaUuAC3TsrmYcyT0uHyNGJgTDRkAOmrhibCGonjfrj5ibosbwzUdZgP1Yrq8kM6DJRqHZkA/0?wx_fmt=jpeg
+    title: 化·权益||“双十一”网络诈骗防范指南
+    desc: 防范网络诈骗，从你我做起
+    url: https://mp.weixin.qq.com/s/Uf2FEdLcJkV4mZAdddxDcQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloTUib8LH2g5aGaSX1k9hSq0vpVIxutIU4yB1o8WoC2Aqtib2SqnFMozIF24RmvoOeC39gic8eicPnwcQ/0?wx_fmt=jpeg
+    title: 倘若东师生活是一部电影
+    desc: 倘若东师生活是一部电影
+    url: https://mp.weixin.qq.com/s/oW2xUdblXk7yWozLd7VGWw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlouJQHMScjNmsACaCXiawibgl8n03qhCDafaSELbbdwMJ7yZxpVGWTqrkoNicJXhkw1vziaKJibRo8LLrg/0?wx_fmt=jpeg
+    title: 化·小齿轮||彭书瑶学姐带你总结物理化学8-9章的知识点
+    desc: 彭书瑶学姐带你总结物理化学8-9章的知识点
+    url: https://mp.weixin.qq.com/s/Q67a95B80Z2hsM6l4oq6ag
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlonJLaSZoE6IUmkMoZEwYbNCzK8zdDia7ic6gOU4HkWheHrBuEdibWhJM7WQ2vaZZciaNx6SiaKicTQCGaQ/0?wx_fmt=jpeg
+    title: 化·青马||“化学青年说”第六期《最终回到实践中》
+    desc: 化学青年说第六期：最终回到实践中
+    url: https://mp.weixin.qq.com/s/pWeJZAHQz4giLHJOKhV_Iw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlpTKn6iaJH1OOVfIg78cJZO5UFlFtITglzw77rEAc0uGIK6zkQFFl3ibDyLClmMj3t6mLa42QQKp81w/0?wx_fmt=jpeg
+    title: 化•活动‖化学学院“宝利杯”科研素养提升赛之知识赛成功举办
+    desc: 化学学院“宝利杯”科学素养提升赛之知识赛成功举办！
+    url: https://mp.weixin.qq.com/s/D_bPMoWwZE8st-guOk0qDA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlqKfsSccgUKIm0ibChoFaADNR4CWPHW4l0G9U1sBzt13sT1FMjTQaMmERXIibnp9cibp0lHTWXS9M67g/0?wx_fmt=jpeg
+    title: 化·讲座||“青椒”Talk No.3
+    desc: 开发和应用各种功能微纳米材料用于亚单位疫苗的递送\x0d\x0a主讲人：潘勇
+    url: https://mp.weixin.qq.com/s/5UgNeUXgXoU0JzNvwUPkwA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloVD8IToaN4ySrltgmNFBZlCyyLmXFAZ3Ul8YelE8LLh8X4zWd5rJzpiaicrbwaIONzgtv6vMhc0oicA/0?wx_fmt=jpeg
+    title: 教师节“追光”访谈｜郑长龙：做好人民教师的引路人
+    desc: 郑长龙老师教师节访谈
+    url: https://mp.weixin.qq.com/s/UYAQ-EdURjeh_pLCa-vdhA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlrDtGJa2HplAAA3LYS5ibXufa3ibHib1NqrExpsickhBgGKL2icQxGibM1VgNdP9AtXoxJWTOULTMlmm7ug/0?wx_fmt=jpeg
+    title: 化·青马||“化学青年说”第五期《巾帼英杰》
+    desc: 巾帼英杰——纪念东北抗日联军中的几位女英烈
+    url: https://mp.weixin.qq.com/s/ROY0vi-qKqa-3ckWrlIKaQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloWxQH6F42BEF7a1cLQkibqseoENywH2AibmtTBSr4ibxXFmRoZoCzNSVvaQdRDDyMIAKugbYr4tad9w/0?wx_fmt=jpeg
+    title: 化·小齿轮||李其遥学姐带你总结高分子科学1-2章知识点
+    desc: 化·小齿轮||李其遥学姐带你总结高分子科学1-2章知识点
+    url: https://mp.weixin.qq.com/s/f5q-YLAsfEjOJPeeA-TkzA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloPUj2ItYbA0IcgfYPuMk97hW2d1FnniaI7fHAJ0KJ9tr4qzYWjIEjgFjdjIwoic2gFUPK6ria0a5mFQ/0?wx_fmt=jpeg
+    title: 教师节“追光”访谈｜孙海珠：开题明思赋能致远 研途逐梦浸润教学
+    desc: 老师是希望的那道光，把我们的人生照亮…
+    url: https://mp.weixin.qq.com/s/KT0wo2TOPP14l603Hx8M0w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlrK23PuLOdJnTppnF3AialsO258BNWzjyXhNOXMhlEoicrtcNwR3fjApLq0VajuUlGZXUkRQuMAcdvw/0?wx_fmt=jpeg
+    title: 化·军训 | 报告！化学九连全身充满力量
+    desc: 沙场秋点兵，青春正飞扬~
+    url: https://mp.weixin.qq.com/s/jigG_032ShWlfr72xGDkDA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloPUj2ItYbA0IcgfYPuMk97AfSUGiawRFAU1YicE2p6eVkIDytOrKej1iaKS5Fia5gd1rjOGPAybE8FJg/0?wx_fmt=jpeg
+    title: 化·青马||“化学青年说”第四期《青年孕育无限希望，青年创造美好明天》
+    desc: 化学青年说习近平新时代中国特色社会主义思想主题教育系列活动青年孕育无限希望，青年创造美好明天时代把历史重任赋
+    url: https://mp.weixin.qq.com/s/M_mc1BdYp_12Flo-RXW8Yw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloPUj2ItYbA0IcgfYPuMk97e1Qicp4Zqzx5bOtxVcNZFCHtEyiaCic2AUlhke2Srhnn6hnBmx3t33Z7g/0?wx_fmt=jpeg
+    title: 化·防火||化小益带你学习“消防安全常识”
+    desc: 化小益温馨提醒：中秋、国庆“双节”将至，这些消防安全知识务必要记牢~
+    url: https://mp.weixin.qq.com/s/-oGgIXCn1lVvAyqd68W_iQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jloPUj2ItYbA0IcgfYPuMk97c9YYwJErPEZNC9rX8hMRsjx7fu84J5j7NrGibsiaHb8M188Bnwia1JaEw/0?wx_fmt=jpeg
+    title: 化·查寝||研究生宿舍安全检查来啦~
+    desc: 研究生会联合各年级负责人进行研究生宿舍安全防火联合大检查~
+    url: https://mp.weixin.qq.com/s/2TB3LbMkIwjt-yxmCFyMAw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlpYpASic8KtzUSAZUyOzXQETyRia0C37EvRD6N9Ipg6ATgYfIasyFNFty7nSOcnlbO1KvXVvXQsHQ1Q/0?wx_fmt=jpeg
+    title: 化·活动||“心系化学 画说心理”心理健康教育主题活动
+    desc: “心系化学 画说心理”化学学院心理健康教育主题活动
+    url: https://mp.weixin.qq.com/s/2iEUteCOoKB69zbr2Xgwcg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlrIzIqOmLtYbs6mz1Dm5zicGPGlg6pHJdzdFOpEdOcmzDoeIAibmkk0ibKPU9dm0ZNJ2GKmD3uhAlNwg/0?wx_fmt=jpeg
+    title: 教师节“追光”访谈｜张前：乐与有机作伴，巧育学子莘莘
+    desc: 张前老师教师节专访。
+    url: https://mp.weixin.qq.com/s/nv6KKILXav4hhTvpDXN6Uw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlrIzIqOmLtYbs6mz1Dm5zicGT9LcibHGR5ogNZ7WibB4teYJMfQMqBhMED1SUSJstsWEDHtnibQ76SSrQ/0?wx_fmt=jpeg
+    title: 化·查寝||化学学院寝室安全检查
+    desc: 化学学院寝室安全检查
+    url: https://mp.weixin.qq.com/s/ZwH6DpfBQekPR21yPgadyw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlqgToKKec1Xfic4UvQyloI698xGyIEoxzBKELC3Hn7a1HfiaLcmYia3jDnqCf8hL9tX7hPiceGYWXQwRA/0?wx_fmt=jpeg
+    title: 化·军训 | 2023级新生军训风采
+    desc: 九月长风骤，秋露初晞暑热未退，即便如此我们2023级CHEMer军训的身姿，依旧挺拔！
+    url: https://mp.weixin.qq.com/s/dnJFZGaBqc7HXipnlg2y_A
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/act0VYG1jlrEA3ibpYjp1SRG21nelH1CFOicj8CZ1142y5xbt0ZGrv2KT0LsS8DcicjmWlk6StgLUxydRcCRYMFZA/0?wx_fmt=jpeg
     title: 教师节“追光”访谈｜朱广山：科研教学相辅相成，博学多闻笃行不怠
     desc: 老师是希望的那道光，把我们的人生照亮…
