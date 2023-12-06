@@ -2,62 +2,61 @@ name: 东北师范大学团委
 desc: 共青团东北师范大学委员会官方公众号
 id: nenu-tuanwei
 logo: $img/media/tuanwei.png
-
 article:
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvpGxsibRQibKicqCoSus1YJywd0hbYdmlicfd36RUzZn7WGQOp4hMwhW6cEAmnSVIz0tyoGB64YRpAZZA/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力社团”展示——青音吉他社
-    desc: \x5c | /★ 东北师范大学青音吉他社 音乐之旅，启程青春社团简介      东北师范大学青音吉他社成立于 2
+    desc: /★ 东北师范大学青音吉他社 音乐之旅，启程青春社团简介
     url: https://mp.weixin.qq.com/s/o4Rc1gabfN7Mxag5zYDskA
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvrg5K5GBImJ4xG9IFd6lNgkevqQsLrBpIdZyraOORWJFNzVZ73hZ1VLF51VehiaSBnHfP0fIibhIhNA/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力社团”展示 ——马列协会
     url: https://mp.weixin.qq.com/s/3eGUBhGkp9YI7CK8Y2Xf8Q
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvp0duiasjMbjVeIsL6ad8fCyJ5pibvyPldhDm78VjBn2FHHDeViaDg2A00AHZfzwtzuSV9ezJUWZwmicQ/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力社团”展示——“辩论与演说”协会
     url: https://mp.weixin.qq.com/s/zSuDswYC11IShRjZR-Veog
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvojyTJgG3pct2C1nAkCTts51leVicjKeS6fmrmFZQFTdsuCGVEYVg5plWvBWnIh7TKgf2v32uTSBNw/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力社团”展示——心理协会
     url: https://mp.weixin.qq.com/s/P9wIz1JSeXmlhAZnsP1mAw
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvrg5K5GBImJ4xG9IFd6lNgkGfqxXq1wbVgrfzkZ8vRopg1rVBlSxia7svpnuibeOc2uRdOrW7Yg3wiaw/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力团支部”风采展示——化学学院2021级2班团支部
     url: https://mp.weixin.qq.com/s/oRnrNhfAba6vKiQr3dtiyw
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvrg5K5GBImJ4xG9IFd6lNgkcM4XjzeScq0EC3prLdicgBLUZf2ZfQrDWicn1iao1646qlicjMficzahvCg/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力团支部”风采展示——文学院2021级汉语言文学优师班团支部
     url: https://mp.weixin.qq.com/s/lWDjvmLT_KI5y4SEDw0wEg
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvojyTJgG3pct2C1nAkCTts5icia9E9hOHk1B5RzeM0hLX2FcdcjYNby9SeAxoBqRNJSnSibic0Jr2YJAg/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力团支部”风采展示——经济与管理学院2022级人力资源管理班团支部
     url: https://mp.weixin.qq.com/s/EZy7O5rtdgd92-CXL7P1_Q
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvojyTJgG3pct2C1nAkCTts56M0TV5RtGNMJx5bLZwfFryf06yPwSfdK7eqNae8jtKe3xbtj6sdAnw/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力团支部”风采展示——传媒科学学院（新闻学院）学生会团支部
     url: https://mp.weixin.qq.com/s/0sbnC4vp1IiZ2Ci1xMOysg
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvojyTJgG3pct2C1nAkCTts5ico8xcL1U3l23gsNqMaibj84E97InfEibaztbHSk8iaMUBflNicjGBXiaoDw/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力团支部”风采展示——地理科学学院2021级1班团支部
     url: https://mp.weixin.qq.com/s/CZ-A3HqRMSAlLCCZvNtrnA
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvojyTJgG3pct2C1nAkCTts5uCUUeDVn8UdicSKcDibHZQZ0ys0lib55dvUNWJVlPWIibT1rgAYnRGAsyw/0?wx_fmt=jpeg
     title: 2023年度东北师范大学“活力团支部”风采展示——美术学院2021级美术教育团支部
     url: https://mp.weixin.qq.com/s/u7cXLiE-7Wekr0isf68Vmg
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvp0duiasjMbjVeIsL6ad8fCyn5GsXcVGjPhtFnEH9GibRq5DdN0RhjRQu8v7GIUdMiaibKKzQs1bqP50A/0?wx_fmt=jpeg
     title: 有风自南，翼彼新苗——新苗支教团
     desc: ”高远的梦想让他们的眼神充满渴望，从此，我的青春理想便有了归宿。助力实现你的梦想，就是我的诗和远方。有风自南
     url: https://mp.weixin.qq.com/s/UvhWUdhZLjI_xD6T0TQ39A
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvp0duiasjMbjVeIsL6ad8fCyH2CYAE32noxkGMFR6DeDQKE5Q6xdByAKbEoVfSnGGIic1G495pMqN8A/0?wx_fmt=jpeg
     title: 红丝带志愿者协会 防艾宣传活动
     url: https://mp.weixin.qq.com/s/HHRsAnBKmxLNmRdwix-gmg
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvp0duiasjMbjVeIsL6ad8fCyJ5pibvyPldhDm78VjBn2FHHDeViaDg2A00AHZfzwtzuSV9ezJUWZwmicQ/0?wx_fmt=jpeg
     title: 东北师范大学 “辩论与演说”协会
     url: https://mp.weixin.qq.com/s/W-2aACQ32oCK6feNCIeJcQ
-  
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/LclpMx3GOvrzP1ygscdL8crK6WljqwhntL5xCUqwafjOblnoyUsA16UERFW427LKPgl0AUIlLZzPRFRwX2wASQ/0?wx_fmt=jpeg
     title: 东北师范大学学生会、研究生会团支部开展理论学习会
     url: https://mp.weixin.qq.com/s/5l234JuC5v5Rar9eutzptQ

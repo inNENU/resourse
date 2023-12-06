@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-pnpm generate && git add config/ data/ pages/ d/ && pnpm sync:oss
+pnpm generate && git add config/ data/ pages/ d/ && pnpm nano-staged && pnpm sync:oss

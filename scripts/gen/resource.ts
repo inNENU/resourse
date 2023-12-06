@@ -10,7 +10,7 @@ export const zipFile = (folderLocation: string, folderName: string): void => {
   deleteSync(`./temp/${folderName}.zip`);
 
   // 压缩文件
-  if (type() === "Linux")
+  if (type() === "Linux" || type() === "Darwin")
     execSync(
       `zip -r ${folderLocation}/${folderName}.zip ${folderLocation}/${folderName}}`,
     );
@@ -18,7 +18,7 @@ export const zipFile = (folderLocation: string, folderName: string): void => {
     execSync(
       `cd ./${folderLocation} && "../assets/lib/7za" a -r ${folderName}.zip ${`"${folderName}/"`} && cd ..`,
     );
-  } else throw new Error("Mac OS is not supported");
+  }
 };
 
 export const resourceList = [

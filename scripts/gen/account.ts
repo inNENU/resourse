@@ -20,13 +20,30 @@ export interface AccountConfig {
   account: WechatAccountInfo[];
 }
 
-const decodeText = (text: string): string =>
-  text
-    .replace("&quot;", '"')
-    .replace("&amp;", "&")
-    .replace("&lt;", "<")
-    .replace("&gt;", ">")
-    .replace("&nbsp;", " ");
+const decodeText = (text: string): string => {
+  const encodedText = text
+    .replace(/\\x0d/g, " ")
+    .replace(/\\x0a/g, " ")
+    .replace(/\\x26/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&nbsp;/g, " ")
+    .replace(/ +/g, " ");
+  const shouldWrapWithSingleQuote =
+    !encodedText.includes("'") && encodedText.includes('"');
+  const shouldWrapWithDoubleQuote =
+    !shouldWrapWithSingleQuote &&
+    (['"', ": "].some(encodedText.includes) || encodedText.startsWith("@"));
+
+  return shouldWrapWithSingleQuote
+    ? `'${encodedText}'`
+    : shouldWrapWithDoubleQuote
+      ? `"${encodedText.replace(/"/g, '\\"')}"`
+      : encodedText;
+};
 
 export const checkAccount = (
   data: AccountConfig[],
