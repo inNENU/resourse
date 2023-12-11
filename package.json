@@ -72,7 +72,7 @@
     "vuepress-plugin-copyright2": "2.0.0-rc.2",
     "vuepress-plugin-search-pro": "2.0.0-rc.2",
     "vuepress-shared": "2.0.0-rc.2",
-    "vuepress-theme-hope": "2.0.0-rc.2"
+    "vuepress-theme-hope": "2.0.0-rc.3"
   },
   "packageManager": "pnpm@8.11.0",
   "nano-staged": {
