@@ -1,6 +1,16 @@
+- title: 2024 年暑假
+  icon: ./icon/vacation.svg
+  text: 2024 年 7 月 1 日 - 2023 年 8 月 26 日(共 8 周)
+
+- title: 2024 年春季学期
+  icon: ./icon/study.svg
+  text: |-
+    2024 年 2 月 26 日 - 2024 年 6 月 30 日(共 18 周)
+    2022 级学生因军训延后两周 7 月 31 日放假
+
 - title: 2024 年寒假
   icon: ./icon/vacation.svg
-  text: 2024 年 1 月 20 日 - 2024 年 3 月 3 日(共 6 周)
+  text: 2024 年 1 月 20 日 - 2024 年 2 月 25 日(共 5 周)
 
 - title: 2023 年秋季学期
   icon: ./icon/study.svg
