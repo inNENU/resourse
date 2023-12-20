@@ -194,11 +194,23 @@ main-presets:
     - tag: grid
       header: 功能
       items:
+        - text: 选课系统
+          color: blue
+          name: Select
+          icon: select
+          url: select
+
         - text: 课程表
           color: grey
           name: Course
           icon: course-table
           url: course-table
+
+        - text: 校历
+          color: mauve
+          name: Calendar
+          icon: calendar
+          url: calendar
 
         - text: 成绩查询
           color: orange
@@ -229,18 +241,6 @@ main-presets:
           name: Library
           icon: library
           url: library
-
-        - text: 校历
-          color: mauve
-          name: Calendar
-          icon: calendar
-          url: calendar
-
-        - text: 校园地图
-          color: orange
-          name: Map
-          icon: map
-          url: map
 
       footer: 更多内容请详见下方其他 Tab 页
 
