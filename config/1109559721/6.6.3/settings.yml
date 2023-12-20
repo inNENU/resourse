@@ -764,7 +764,9 @@ about:
       - text: 协议详情
         url: info?path=Oabout/copyright
 
-service: {}
+service:
+  info-detail: online
+
 notice:
   main:
     title: 欢迎使用 inNENU

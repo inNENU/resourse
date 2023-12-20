@@ -751,12 +751,7 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  course-grade: local
-  course-table: local
-  info-detail: local
-  info-list: local
-  notice-detail: local
-  notice-list: local
+  info-detail: online
 
 notice:
   main:
