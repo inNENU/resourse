@@ -10,7 +10,7 @@ export default hopeTheme(
     iconAssets: "fontawesome",
 
     editLink: false,
-    footer: "在东师，就用 in东师",
+    footer: "在东师，就用 inNENU",
     copyright: `使用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> 协议`,
     displayFooter: true,
 
@@ -77,5 +77,5 @@ export default hopeTheme(
       sitemap: true,
     },
   },
-  { custom: true },
+  { custom: true }
 );

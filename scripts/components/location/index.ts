@@ -63,7 +63,7 @@ ${
     )
     .join(
       "|",
-    )}&key=YNUBZ-AN3HF-P62JK-J2GND-XQTQQ-TTBOB&referer=in东师" frameborder="0" width="100%" height="320px" />
+    )}&key=YNUBZ-AN3HF-P62JK-J2GND-XQTQQ-TTBOB&referer=inNENU" frameborder="0" width="100%" height="320px" />
 
 `;
 };

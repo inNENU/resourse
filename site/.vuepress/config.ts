@@ -16,8 +16,8 @@ const words = fs
 words.forEach(insertWord);
 
 export default defineUserConfig({
-  title: "in东师",
-  description: "在东师，就用 in东师",
+  title: "inNENU",
+  description: "在东师，就用 inNENU",
 
   lang: "zh-CN",
 
@@ -80,11 +80,11 @@ export default defineUserConfig({
   alias: {
     "@theme-hope/components/NormalPage": path.resolve(
       __dirname,
-      "components/NormalPage.vue",
+      "components/NormalPage.vue"
     ),
     "@theme-hope/modules/info/components/PageMeta": path.resolve(
       __dirname,
-      "components/PageMeta.ts",
+      "components/PageMeta.ts"
     ),
   },
 

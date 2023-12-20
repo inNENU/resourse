@@ -1,7 +1,7 @@
 title: 录取相关问答
 icon: enroll
 author: Mr.Hope
-time: 2023-10-23T04:24:14.204Z
+time: 2023-12-20T06:56:42.608Z
 shareable: true
 content:
   - tag: title
@@ -97,9 +97,9 @@ content:
 
   - tag: text
     type: info
-    heading: 为什么我在省招办可以查询到录取，但是在 in东师 内查不到?
+    heading: 为什么我在省招办可以查询到录取，但是在 inNENU 内查不到?
     text:
-      - in东师 是招生办提供的查询方式，用于明确录取专业并提供录取通知书单号查询，而非即时的录取查询。
+      - inNENU 是招生办提供的查询方式，用于明确录取专业并提供录取通知书单号查询，而非即时的录取查询。
       - 招生办录入消息会有严重滞后，只要您在省招办查询到录取，即为录取。
 
   # - tag: text

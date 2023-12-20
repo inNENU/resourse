@@ -575,7 +575,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1044260 字，其中东师指南部分 319915 字，新生迎新部分 102103 字，东师介绍部分 319565 字，机构介绍部分 67832 字，学院介绍部分 144064 字，功能大厅部分 42942 字，其他部分 47839 字。
+      - text: 小程序现有字数为 1043811 字，其中东师指南部分 319887 字，新生迎新部分 102085 字，东师介绍部分 319565 字，机构介绍部分 67832 字，学院介绍部分 144064 字，功能大厅部分 42934 字，其他部分 47444 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
@@ -584,7 +584,7 @@ about:
         url: info?path=Oabout/mrhope
 
       - text: |-
-          记: in东师
+          记: inNENU
         url: info?path=Oabout/history
 
       - text: 开发者访谈
@@ -612,7 +612,7 @@ about:
       - 小程序页面内容仓库在 GitHub 上开源。如您愿意对小程序提供帮助，欢迎您点击下方链接为该仓库做贡献。您可以帮助扩充或编辑小程序的页面文字、图片以及相关文件。
 
   - tag: action
-    content: https://github.com/in东师/resource
+    content: https://github.com/inNENU/resource
 
   - tag: list
     header: 内容版权及使用
@@ -632,8 +632,8 @@ service:
 
 notice:
   main:
-    title: 欢迎使用 in东师
-    content: 欢迎使用 in 东师。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
+    title: 欢迎使用 inNENU
+    content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
   activate:
     title: 手机验证码
     content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。

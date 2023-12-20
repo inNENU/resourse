@@ -1,12 +1,12 @@
 ---
-title: in东师/inNENU 维护介绍
+title: inNENU 维护介绍
 icon: info-circle
 category: 小程序
 ---
 
 ## 简介
 
-in东师/inNENU 小程序、App 的大部分页面都均由 YAML 文件生成。开发者只需要使用编辑器编辑 YAML，即可增添或修改小程序页面。
+inNENU 小程序、App 的大部分页面都均由 YAML 文件生成。开发者只需要使用编辑器编辑 YAML，即可增添或修改小程序页面。
 
 ::: info YAML
 
@@ -71,7 +71,7 @@ YAML 是专门用来写配置文件的语言，非常简洁和强大，其设计
 - **img** 组件的 `src`
 - **doc** 组件的 `url`
 
-in东师/inNENU 服务器文件结构如下:
+inNENU 服务器文件结构如下:
 
 - 文件存放在 `https://mp.innenu.com/file/` 下
 - 图片存放在 `https://mp.innenu.com/img/` 下

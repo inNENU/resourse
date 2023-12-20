@@ -1,7 +1,7 @@
 title: 直播安排
 icon: stream
 author: Mr.Hope
-time: 2023-09-23T12:11:48.936Z
+time: 2023-12-20T06:56:42.492Z
 shareable: true
 content:
   - tag: p
@@ -19,7 +19,7 @@ content:
     text: 直播地址
 
   - tag: action
-    header: B站 in东师
+    header: B站 inNENU
     content: http://live.bilibili.com/25489132
 
   - tag: action
@@ -42,7 +42,7 @@ content:
       - Mr.Hope 2022 年制作了 15 期东北师范大学新生攻略系列视频，可以在知乎和 B 站上查看。
 
   - tag: action
-    header: B站 in东师
+    header: B站 inNENU
     content: https://space.bilibili.com/34022713
 
   - tag: action

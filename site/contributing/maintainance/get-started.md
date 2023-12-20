@@ -1,5 +1,5 @@
 ---
-title: in东师/inNENU 快速上手
+title: inNENU 快速上手
 icon: lightbulb
 category: 小程序
 ---
@@ -237,7 +237,7 @@ content:
 
 由于 YAML 是纯文本文件，所有的图片、文件等需单独列出，并在对应的配置项处填入对应的网址。
 
-in东师/inNENU 服务器文件结构如下:
+inNENU 服务器文件结构如下:
 
 - 文件: 存放在 `https://mp.innenu.com/file/`，可以用 `$file` 索引
 - 图片: 存放在 `https://mp.innenu.com/img/`，可以用 `$img` 索引
