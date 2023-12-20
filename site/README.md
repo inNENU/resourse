@@ -459,4 +459,4 @@ copyright: |-
 
 :::
 
-![小程序二维码](/qrcode.png)
+![小程序二维码](/qrcode.jpg)

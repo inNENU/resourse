@@ -7,7 +7,7 @@ icon: info-circle
 
 本站由 Mr.Hope 个人维护，旨在为东北师范大学新生提供便利。
 
-![inNENU 小程序二维码](/qrcode.png)
+![inNENU 小程序二维码](/qrcode.jpg)
 
 ::: tip
 
