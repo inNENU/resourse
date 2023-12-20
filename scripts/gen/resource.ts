@@ -12,7 +12,7 @@ export const zipFile = (folderLocation: string, folderName: string): void => {
   // 压缩文件
   if (type() === "Linux" || type() === "Darwin")
     execSync(
-      `zip -r ${folderLocation}/${folderName}.zip ${folderLocation}/${folderName}}`,
+      `zip -r ${folderLocation}/${folderName}.zip ${folderLocation}/${folderName}`,
     );
   else if (type() === "Windows_NT") {
     execSync(
