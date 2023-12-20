@@ -1,7 +1,7 @@
 title: 选课系统使用说明
 icon: idea
 author: Mr.Hope
-time: 2023-11-06T10:17:51.213Z
+time: 2023-12-20T06:07:06.627Z
 shareable: true
 content:
   - tag: title
@@ -83,39 +83,11 @@ content:
 
   - tag: img
     src: $img/select/select1.jpg
-    desc: 在区域 3(课程显示区)点击一门课程，可以看到当前学期开课的该课程所有开课通知单信息。
-
-  - tag: img
-    src: $img/select/select2.jpg
-    desc: 在区域 5(操作区)点击『选课』填写自己的志愿
-
-  - tag: img
-    src: $img/select/select3.jpg
-    desc: 在区域 5(操作区)点击『选课』填写自己的志愿
-
-  - tag: img
-    src: $img/select/select4.jpg
-    desc: 第二志愿选择后，课表显示如下图
-
-  - tag: img
-    src: $img/select/select5.jpg
-    desc: 第二志愿选择后，课表显示见图
+    desc: 在区域 3(课程显示区)点击一门课程，可以看到当前学期开课的该课程所有开课通知单信息。点击选课后确认即可选课。
 
   - tag: p
     heading: 退选
 
   - tag: img
     src: $img/select/refund1.jpg
-    desc: 在区域 6(个人课表区)选择要『退选』的课程信息，在区域 5(操作区)会显示相应的课程
-
-  - tag: img
-    src: $img/select/refund2.jpg
-    desc: 在区域 5(操作区)点击对应课程前的『退选』按钮
-
-  - tag: img
-    src: $img/select/refund3.jpg
-    desc: 在弹出的对话框中选择『退选』，点击『确定』即可
-
-  - tag: img
-    src: $img/select/refund4.jpg
-    desc: 退选后课表显示如图
+    desc: 在区域 6(个人课表区)选择要『退选』的课程信息，在区域 5(操作区)会显示相应的课程，在弹出的对话框中选择『退选』，点击『确定』即可
