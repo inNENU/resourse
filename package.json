@@ -52,7 +52,7 @@
     "eslint": "8.56.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-import": "2.29.1",
-    "eslint-plugin-prettier": "5.1.0",
+    "eslint-plugin-prettier": "5.1.2",
     "ftp-hope": "0.1.1",
     "husky": "8.0.3",
     "js-yaml": "4.1.0",
@@ -65,14 +65,14 @@
     "tslib": "2.6.2",
     "tsx": "4.7.0",
     "typescript": "5.3.3",
-    "vidstack": "1.9.4",
+    "vidstack": "1.9.8",
     "vitest": "1.1.0",
     "vue": "3.3.13",
     "vuepress": "2.0.0-rc.0",
-    "vuepress-plugin-copyright2": "2.0.0-rc.5",
-    "vuepress-plugin-search-pro": "2.0.0-rc.5",
-    "vuepress-shared": "2.0.0-rc.5",
-    "vuepress-theme-hope": "2.0.0-rc.5"
+    "vuepress-plugin-copyright2": "2.0.0-rc.6",
+    "vuepress-plugin-search-pro": "2.0.0-rc.6",
+    "vuepress-shared": "2.0.0-rc.6",
+    "vuepress-theme-hope": "2.0.0-rc.6"
   },
   "packageManager": "pnpm@8.12.1",
   "nano-staged": {
