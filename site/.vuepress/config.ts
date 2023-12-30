@@ -1,19 +1,9 @@
-import { cut, insertWord } from "nodejs-jieba";
-import { fs, getDirname, path } from "@vuepress/utils";
+import { getDirname, path } from "@vuepress/utils";
 import { defineUserConfig } from "vuepress";
-import { copyrightPlugin } from "vuepress-plugin-copyright2";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 import theme from "./theme.js";
 
 const __dirname = getDirname(import.meta.url);
-
-const words = fs
-  .readFileSync(path.resolve(__dirname, "words"), "utf-8")
-  .split("\n")
-  .filter((line) => line.trim() && !line.startsWith("#"));
-
-words.forEach(insertWord);
 
 export default defineUserConfig({
   title: "inNENU",
@@ -59,23 +49,6 @@ export default defineUserConfig({
   ],
 
   theme,
-
-  plugins: [
-    copyrightPlugin({
-      disableCopy: true,
-      disableSelection: true,
-      global: true,
-      author: "Mr.Hope",
-      license: "CC BY-NC-ND 4.0",
-    }),
-    searchProPlugin({
-      indexContent: true,
-      indexOptions: {
-        tokenize: (text, fieldName) =>
-          fieldName === "id" ? [text] : cut(text, true),
-      },
-    }),
-  ],
 
   alias: {
     "@theme-hope/components/NormalPage": path.resolve(

@@ -1,4 +1,13 @@
+import { fs, path } from "@vuepress/utils";
+import { insertWord } from "nodejs-jieba";
 import { hopeTheme } from "vuepress-theme-hope";
+
+const words = fs
+  .readFileSync(path.resolve(__dirname, "words"), "utf-8")
+  .split("\n")
+  .filter((line) => line.trim() && !line.startsWith("#"));
+
+words.forEach(insertWord);
 
 export default hopeTheme(
   {
@@ -24,9 +33,6 @@ export default hopeTheme(
       "/contributing/",
     ],
 
-    pageInfo: ["Author", "Original", "Date", "PageView", "ReadingTime", "Word"],
-
-    pure: true,
     sidebar: {
       "/": false,
       "/contributing/": "structure",
@@ -38,34 +44,40 @@ export default hopeTheme(
       "/school/": "structure",
     },
 
+    pageInfo: ["Author", "Original", "Date", "PageView", "ReadingTime", "Word"],
+
+    pure: true,
+
     metaLocales: {
       date: "更新日期",
     },
 
     plugins: {
+      copyright: {
+        disableCopy: true,
+        disableSelection: true,
+        global: true,
+        author: "Mr.Hope",
+        license: "CC BY-NC-ND 4.0",
+      },
+
       components: {
         components: ["VidStack"],
         rootComponents: {
-          notice: [
-            // {
-            //   path: "/",
-            //   title: "本科招生章程",
-            //   content: "东师 2023 年本科招生章程已经发布",
-            //   actions: [
-            //     {
-            //       text: "查看详情",
-            //       link: "/intro/enroll/under/rule/",
-            //     },
-            //   ],
-            // },
-          ],
+          // notice: [
+          //   {
+          //     path: "/",
+          //     title: "本科招生章程",
+          //     content: "东师 2023 年本科招生章程已经发布",
+          //     actions: [
+          //       {
+          //         text: "查看详情",
+          //         link: "/intro/enroll/under/rule/",
+          //       },
+          //     ],
+          //   },
+          // ],
         },
-      },
-
-      feed: {
-        atom: true,
-        json: true,
-        rss: true,
       },
 
       mdEnhance: {
@@ -74,7 +86,7 @@ export default hopeTheme(
         figure: true,
       },
 
-      sitemap: true,
+      searchPro: true,
     },
   },
   { custom: true }
