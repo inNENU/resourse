@@ -1,4 +1,4 @@
-# https://www.nenu.edu.cn/cyfw1/sdhy/jxjg1.htm
+# https://www.nenu.edu.cn/dshy.htm
 
 - name: 教学机构
   list:
@@ -20,7 +20,7 @@
       site: https://zf.nenu.edu.cn/
 
     - name: 经济与管理学院
-      num: 0431-84536212
+      num: 0431-84536036
       locate: jingyue
       site: https://bs.nenu.edu.cn/
 
@@ -36,20 +36,20 @@
       mail: sohac@nenu.edu.cn
       site: https://sohac.nenu.edu.cn/
 
-    - name: 外国语学院
+    - name: 外国语学院 (本部)
       num: 0431-85099679
       locate: benbu
       mail: wy@nenu.edu.cn
       site: https://wy.nenu.edu.cn/
 
-    - name: 外国语学院净月
+    - name: 外国语学院 (净月)
       num: 0431-85096254
       locate: jingyue
       mail: wy@nenu.edu.cn
       site: https://wy.nenu.edu.cn/
 
     - name: 音乐学院
-      num: 0431-85099901
+      num: 0431-84536270
       locate: jingyue
       mail: yyxy@nenu.edu.cn
       site: https://music.nenu.edu.cn/
@@ -115,15 +115,15 @@
       mail: chuanmei@nenu.edu.cn
       site: https://chuanmei.nenu.edu.cn/
 
-    - name: 远程与继续教育学院
-      num: 0431-85099508
-
     - name: 国际汉学院(海外教育学院)
       num: 0431-85098276
 
     - name: 东北师范大学罗格斯大学•纽瓦克学院
       num: 0431-84537012
       locate: jingyue
+
+    - name: 远程与继续教育学院
+      num: 0431-85099508
 
 - name: 管理机构
   list:
@@ -139,6 +139,9 @@
 
     - name: 纪委办公室、监察处
       num: 0431-85098259
+
+    - name: 党委巡查办公室
+      num: 0431-85099487
 
     - name: 党委组织部
       num: 0431-85099307
@@ -174,7 +177,7 @@
       num: 0431-85099603
 
     - name: 科学技术处
-      num: 0431-85099887
+      num: 0431-85099400
 
     - name: 研究生院
       num: 0431-85099660
@@ -183,13 +186,13 @@
       num: 0431-85099202
 
     - name: 国际合作与交流处
-      num: 0431-85099324
+      num: 0431-85098569
 
     - name: 学生就业指导服务中心
       num: 0431-85098826
 
     - name: 财务处
-      num: 0431-85099359
+      num: 0431-85099804
 
     - name: 审计处
       num: 0431-85099404
@@ -197,10 +200,10 @@
     - name: 离退休工作处
       num: 0431-89665209
 
-    - name: 附校工作办公室
+    - name: 教育合作与管理处
       num: 0431-85098309
 
-    - name: 资产管理处
+    - name: 资产与实验室管理处
       num: 0431-85099081
 
     - name: 基建处
@@ -221,16 +224,6 @@
 
 - name: 直附属其它机构
   list:
-    - name: 综合体育馆管理中心
-      num: 0431-85098693
-      locate: benbu
-
-    - name: 校医院
-      num: 0431-85099646
-
-    - name: 自然博物馆
-      num: 0431-84536078
-
     - name: 信息化管理与规划办公室
       num: 0431-85099005
       locate: benbu
@@ -252,10 +245,20 @@
       num: 0431-84536093
 
     - name: 档案馆
-      num: 0431-85099339
+      num: 0431-85098670
 
     - name: 教师教育研究院
-      num: 0431-85098021
+      num: 0431-85098183
+
+    - name: 综合体育馆管理中心
+      num: 0431-85098693
+      locate: benbu
+
+    - name: 校医院
+      num: 0431-85099646
+
+    - name: 自然博物馆
+      num: 0431-84536078
 
     - name: 东北民族民俗博物馆
       num: 0431-89165507
@@ -266,26 +269,26 @@
     - name: 继续教育学院
       num: 0431-85099508
 
-    - name: 留日预校
-      num: 0431-84536156
+    - name: 中国赴日本国留学生预备学校
+      num: 0431-84536917
 
     - name: 教育部高校辅导员培训和研修基地
-      num: 0431-85098702
+      num: 0431-85099705
 
     - name: 教育部幼儿园园长培训中心
       num: 0431-85098685
 
     - name: 附属幼儿园
-      num: 0431-85099199
+      num: 0431-85098685
 
-    - name: 信诚后勤集团
-      num: 0431-85098071
+    - name: 前沿交叉研究院
+      num: 0431-85098468
 
     - name: 附属中学
       num: 0431-85608927
 
     - name: 附属小学
-      num: 0431-85616988
+      num: 0431-85616992
 
     - name: 资产经营有限公司
       num: 0431-85099337
@@ -294,7 +297,7 @@
       num: 0431-85098819
 
     - name: 长春东北师范大学出版社有限责任公司
-      num: 0431-84568099
+      num: 0431-84568018
 
-    - name: 长春东北师大教育发展有限责任公司
-      num: 0431-85099627
+    - name: 深圳研究院
+      num: 13504462130
