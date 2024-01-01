@@ -32,7 +32,7 @@
     "upload": "tsx ./scripts/upload.ts"
   },
   "dependencies": {
-    "@mdit-vue/plugin-frontmatter": "1.0.0",
+    "@mdit-vue/plugin-frontmatter": "2.0.0",
     "@mr-hope/assert-type": "3.0.0",
     "@types/ali-oss": "6.16.11",
     "@types/js-yaml": "4.0.9",
