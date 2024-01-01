@@ -89,5 +89,5 @@ export default hopeTheme(
       searchPro: true,
     },
   },
-  { custom: true }
+  { custom: true },
 );
