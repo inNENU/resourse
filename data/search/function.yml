@@ -151,11 +151,13 @@
   icon: news
   url: info-list?type=news
 
-- text: 学术会议
+- text: 学术预告
   color: cyan
   name: News
   icon: study
   url: info-list?type=academic
+  tags:
+    - 学术会议
 
 # 杂项
 - text: 账号激活
