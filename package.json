@@ -75,10 +75,7 @@
   },
   "packageManager": "pnpm@8.13.1",
   "nano-staged": {
-    "*.{json,yml,md}": "prettier --write",
-    "*.{js,ts}": [
-      "prettier --write",
-      "eslint --fix"
-    ]
+    "**/*": "prettier --write --ignore-unknown",
+    "*.{js,ts}": "eslint --fix"
   }
 }
