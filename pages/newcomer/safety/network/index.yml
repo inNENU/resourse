@@ -1,7 +1,7 @@
 title: 常见网上诈骗
 icon: network
 author: Mr.Hope
-time: 2023-09-23T12:11:49.133Z
+time: 2024-01-02T08:54:06.384Z
 grey: true
 shareable: true
 content:
@@ -17,7 +17,7 @@ content:
         path: elder
 
       - text: 伪装官方
-        icon: $img/song/schoolLogo.jpg
+        icon: $img/media/official.png
         path: official
 
       - text: 盗号
