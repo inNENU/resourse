@@ -358,7 +358,7 @@ function-presets:
         - text: 人文社科
           color: cyan
           name: Social
-          icon: social
+          icon: marx
           url: info-list?type=social
 
         - text: 自然科学
@@ -566,7 +566,7 @@ function-presets:
         - text: 人文社科
           color: cyan
           name: Social
-          icon: social
+          icon: marx
           url: info-list?type=social
 
         - text: 自然科学

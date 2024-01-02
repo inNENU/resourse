@@ -334,44 +334,44 @@ function-presets:
           icon: account
           url: school-media
 
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: announcement-list
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: announcement-list
 
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: info-list?type=news
 
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: info-list?type=media
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: info-list?type=media
 
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: social
-          url: info-list?type=social
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: info-list?type=social
 
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: info-list?type=science
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: info-list?type=science
 
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: academic-list
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: academic-list
 
     - tag: grid
       header: 信息查询
@@ -596,7 +596,7 @@ function-presets:
         - text: 人文社科
           color: cyan
           name: Social
-          icon: social
+          icon: marx
           url: info-list?type=social
 
         - text: 自然科学
