@@ -6,33 +6,6 @@ main-page:
 main-presets:
   unlogin:
     - tag: grid
-      header: 2024 年研招
-      items:
-        - text: 招生简章
-          color: red
-          name: Rule
-          icon: rule
-          path: intro/enroll/grad/rule/2024
-
-        - text: 招生计划
-          color: purple
-          name: Plan
-          icon: enroll
-          path: intro/enroll/grad/major/2024
-
-        - text: 东师研招
-          color: grey
-          name: Wechat
-          icon: wechat
-          url: wechat-detail?path=graduate
-
-        - text: 更多
-          name: More
-          color: red
-          icon: more
-          path: intro/enroll/grad/
-
-    - tag: grid
       header: 您可能想关注
       items:
         - text: 学校概况
@@ -153,17 +126,29 @@ main-presets:
           icon: course-table
           url: course-table
 
-        - text: 学校通知
+        - text: 选课系统
+          color: blue
+          name: Select
+          icon: select
+          url: select
+
+        - text: 专项考试成绩
           color: red
-          name: Notice
-          icon: notice
-          url: notice-list
+          name: SpecialExam
+          icon: test
+          url: special-exam
 
         - text: 校园地图
           color: orange
           name: Map
           icon: map
           url: map
+
+        - text: 学校通知
+          color: red
+          name: Notice
+          icon: notice
+          url: notice-list
 
         - text: 学生组织
           color: blue
@@ -186,31 +171,14 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: info
-      heading: 2024 年秋季学期选课时间
-      path: /guide/select/time
-
     - tag: grid
       header: 功能
       items:
-        - text: 选课系统
-          color: blue
-          name: Select
-          icon: select
-          url: select
-
         - text: 课程表
           color: grey
           name: Course
           icon: course-table
           url: course-table
-
-        - text: 校历
-          color: mauve
-          name: Calendar
-          icon: calendar
-          url: calendar
 
         - text: 成绩查询
           color: orange
@@ -242,24 +210,36 @@ main-presets:
           icon: library
           url: library
 
+        - text: 校历
+          color: mauve
+          name: Calendar
+          icon: calendar
+          url: calendar
+
+        - text: 转专业计划
+          color: red
+          name: Change major
+          icon: change
+          url: change-major-plan
+
       footer: 更多内容请详见下方其他 Tab 页
 
 intro-page:
   unlogin:
     items:
-      - under-enroll
-      - grad-enroll
+      # - under-enroll
+      # - grad-enroll
       - about
-      - school
+      # - school
     more:
       - apartment
 
   default:
     items:
       - about
+      # - school
       - apartment
     more:
-      - school
       - under-enroll
       - grad-enroll
 
@@ -272,7 +252,7 @@ guide-page:
       - newcomer
     more:
       - account
-      - service
+      # - service
       - tip
       - graduate
 
@@ -281,7 +261,7 @@ guide-page:
       - life
       - account
       - enjoy
-      - service
+      # - service
       - study
       - tip
       - newcomer
@@ -302,7 +282,7 @@ guide-page:
 
   default:
     items:
-      - service
+      # - service
       - study
       - life
     more:
@@ -336,23 +316,62 @@ function-presets:
           icon: map
           url: map
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+        # - text: 音悦东师
+        #   color: blue
+        #   name: Music
+        #   icon: cd
+        #   url: music
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+        # - text: 影约东师
+        #   color: mauve
+        #   name: Media
+        #   icon: media
+        #   url: video?type=video
 
         - text: 校园媒体
           color: grey
           name: Accounts
           icon: account
           url: school-media
+
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: announcement-list
+
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: info-list?type=news
+
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: info-list?type=media
+
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: info-list?type=social
+
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: info-list?type=science
+
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: academic-list
 
     - tag: grid
       header: 信息查询
@@ -362,24 +381,6 @@ function-presets:
           name: Calendar
           icon: calendar
           url: calendar
-
-        - text: 官网通知
-          color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
-
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: info-list?type=academic
 
         - text: 东师网站
           color: orange
@@ -429,11 +430,11 @@ function-presets:
         #       icon: time
         #       url: enroll-grade
 
-        - text: 录取查询
-          name: Admission
-          color: cyan
-          icon: letter
-          url: admission?type=search
+        # - text: 录取查询
+        #   name: Admission
+        #   color: cyan
+        #   icon: letter
+        #   url: admission?type=search
 
     - tag: list
       items:
@@ -553,23 +554,62 @@ function-presets:
           icon: map
           url: map
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+        # - text: 音悦东师
+        #   color: blue
+        #   name: Music
+        #   icon: cd
+        #   url: music
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+        # - text: 影约东师
+        #   color: mauve
+        #   name: Media
+        #   icon: media
+        #   url: video?type=video
 
         - text: 校园媒体
           color: grey
           name: Accounts
           icon: account
           url: school-media
+
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: announcement-list
+
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: info-list?type=news
+
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: info-list?type=media
+
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: info-list?type=social
+
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: info-list?type=science
+
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: academic-list
 
     - tag: grid
       header: 信息查询
@@ -585,24 +625,6 @@ function-presets:
           name: Calendar
           icon: calendar
           url: calendar
-
-        - text: 官网通知
-          color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
-
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: info-list?type=academic
 
         - text: 东师网站
           color: orange
@@ -624,12 +646,6 @@ function-presets:
           name: Activate
           icon: authorize
           url: activate
-
-        - text: 密码重置
-          color: grey
-          name: Reset
-          icon: reset
-          url: reset
 
         - text: 邮箱申请
           color: purple
@@ -673,11 +689,11 @@ user:
         icon: about
         url: about
 
-  - tag: text
+  - tag: p
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 in 东北师大咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 104 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 104 万字。
     style: "color: #888; font-size: 14px"
 
   - tag: functional-list
@@ -724,16 +740,6 @@ about:
       - text: 致谢名单
         url: info?path=Oabout/thanks
 
-  - tag: functional-list
-    header: 支持小程序
-    items:
-      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
-
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-
   - tag: text
     heading: 小程序内容
     text:
@@ -751,18 +757,17 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  info-detail: online
+  course-grade: local
+  course-table: local
+  info-detail: local
+  info-list: local
+  notice-detail: local
+  notice-list: local
 
 notice:
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
-  activate:
-    title: 手机验证码
-    content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
-  select:
-    title: 用户过多
-    content: 因用户过多，学校服务器相应时间变长，部分操作可能因超时失败。
 
 update:
   force: false
