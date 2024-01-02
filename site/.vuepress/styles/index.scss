@@ -1,2 +1,11 @@
 @use "components";
 @use "homepage";
+
+.vp-catalog-wrapper {
+  .icon {
+    width: 1.25em;
+    vertical-align: middle;
+    height: 1.25em;
+    margin-right: 0.25em;
+  }
+}
