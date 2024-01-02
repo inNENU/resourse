@@ -1,37 +1,10 @@
 main-page:
   unlogin: unlogin
-  "2023": at-school
+  "2023": newcomer
   default: at-school
 
 main-presets:
   unlogin:
-    - tag: grid
-      header: 2024 年研招
-      items:
-        - text: 招生简章
-          color: red
-          name: Rule
-          icon: rule
-          path: intro/enroll/grad/rule/2024
-
-        - text: 招生计划
-          color: purple
-          name: Plan
-          icon: enroll
-          path: intro/enroll/grad/major/2024
-
-        - text: 东师研招
-          color: grey
-          name: Wechat
-          icon: wechat
-          url: wechat-detail?path=graduate
-
-        - text: 更多
-          name: More
-          color: red
-          icon: more
-          path: intro/enroll/grad/
-
     - tag: grid
       header: 您可能想关注
       items:
@@ -153,17 +126,29 @@ main-presets:
           icon: course-table
           url: course-table
 
-        - text: 学校通知
+        - text: 选课系统
+          color: blue
+          name: Select
+          icon: select
+          url: select
+
+        - text: 专项考试成绩
           color: red
-          name: Notice
-          icon: notice
-          url: notice-list
+          name: SpecialExam
+          icon: test
+          url: special-exam
 
         - text: 校园地图
           color: orange
           name: Map
           icon: map
           url: map
+
+        - text: 学校通知
+          color: red
+          name: Notice
+          icon: notice
+          url: notice-list
 
         - text: 学生组织
           color: blue
@@ -186,31 +171,14 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: info
-      heading: 2024 年秋季学期选课时间
-      path: /guide/select/time
-
     - tag: grid
       header: 功能
       items:
-        - text: 选课系统
-          color: blue
-          name: Select
-          icon: select
-          url: select
-
         - text: 课程表
           color: grey
           name: Course
           icon: course-table
           url: course-table
-
-        - text: 校历
-          color: mauve
-          name: Calendar
-          icon: calendar
-          url: calendar
 
         - text: 成绩查询
           color: orange
@@ -241,6 +209,18 @@ main-presets:
           name: Library
           icon: library
           url: library
+
+        - text: 校历
+          color: mauve
+          name: Calendar
+          icon: calendar
+          url: calendar
+
+        - text: 转专业计划
+          color: red
+          name: Change major
+          icon: change
+          url: change-major-plan
 
       footer: 更多内容请详见下方其他 Tab 页
 
@@ -355,6 +335,45 @@ function-presets:
           url: school-media
 
     - tag: grid
+      header: 学校动态
+      items:
+        - text: 通知公告
+          color: red
+          name: Notice
+          icon: notice
+          url: announcement-list
+
+        - text: 要闻速递
+          color: cyan
+          name: News
+          icon: news
+          url: info-list?type=news
+
+        - text: 媒体师大
+          color: cyan
+          name: Media
+          icon: media
+          url: info-list?type=media
+
+        - text: 人文社科
+          color: cyan
+          name: Social
+          icon: marx
+          url: info-list?type=social
+
+        - text: 自然科学
+          color: cyan
+          name: Science
+          icon: chemistry
+          url: info-list?type=science
+
+        - text: 学术预告
+          color: cyan
+          name: News
+          icon: study
+          url: academic-list
+
+    - tag: grid
       header: 信息查询
       items:
         - text: 校历
@@ -362,18 +381,6 @@ function-presets:
           name: Calendar
           icon: calendar
           url: calendar
-
-        - text: 官网通知
-          color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
 
         - text: 统一身份认证
           color: blue
@@ -410,12 +417,6 @@ function-presets:
           name: Exam
           icon: exam
           url: info?path=/other/action/test
-
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: info-list?type=academic
 
         - text: 东师网站
           color: orange
@@ -478,36 +479,6 @@ function-presets:
       footer: " "
 
   at-school:
-    # - tag: card
-    #   cover: https://assets.innenu.com/img/tab/calendar.jpg
-    #   title: 校历
-    #   logo: calendar
-    #   url: calendar
-
-    # - tag: card
-    #   cover: https://assets.innenu.com/img/tab/map.jpg
-    #   title: 校园地图
-    #   logo: map
-    #   url: map
-
-    # - tag: card
-    #   cover: https://assets.innenu.com/img/tab/admission.jpg
-    #   title: 录取查询
-    #   logo: letter
-    #   url: admission?type=search
-
-    # - tag: card
-    #   cover: https://assets.innenu.com/img/tab/headphone.jpg
-    #   title: 音悦东师
-    #   logo: cd
-    #   url: music
-
-    # - tag: card
-    #   cover: https://assets.innenu.com/img/tab/video.jpg
-    #   title: 影约东师
-    #   logo: media
-    #   url: video?type=video
-
     - tag: grid
       header: 融合门户
       items:
@@ -608,6 +579,45 @@ function-presets:
           url: school-media
 
     - tag: grid
+      header: 学校动态
+      items:
+        - text: 通知公告
+          color: red
+          name: Notice
+          icon: notice
+          url: announcement-list
+
+        - text: 要闻速递
+          color: cyan
+          name: News
+          icon: news
+          url: info-list?type=news
+
+        - text: 媒体师大
+          color: cyan
+          name: Media
+          icon: media
+          url: info-list?type=media
+
+        - text: 人文社科
+          color: cyan
+          name: Social
+          icon: marx
+          url: info-list?type=social
+
+        - text: 自然科学
+          color: cyan
+          name: Science
+          icon: chemistry
+          url: info-list?type=science
+
+        - text: 学术预告
+          color: cyan
+          name: News
+          icon: study
+          url: academic-list
+
+    - tag: grid
       header: 信息查询
       items:
         - text: 校园邮箱邮件
@@ -621,24 +631,35 @@ function-presets:
           name: Calendar
           icon: calendar
           url: calendar
+        - text: 统一身份认证
+          color: blue
+          name: Authorize
+          icon: account
+          url: web?url=https://authserver.nenu.edu.cn/authserver/login
 
-        - text: 官网通知
+        - text: 网上服务大厅
+          color: cyan
+          name: MyNenu
+          icon: network
+          url: web?url=http://my.nenu.edu.cn/
+
+        - text: 故障报修
+          color: purple
+          name: Repair
+          icon: repair
+          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
+
+        - text: 宿舍系统
+          color: grey
+          name: Dorm
+          icon: system
+          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
+
+        - text: 校外服务
           color: red
-          name: Notice
-          icon: notice
-          url: info-list
-
-        - text: 官网新闻
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
-
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: info-list?type=academic
+          name: Service
+          icon: contact
+          url: info?path=/other/action/out
 
         - text: 东师网站
           color: orange
@@ -769,13 +790,7 @@ about:
       - text: 协议详情
         url: info?path=Oabout/copyright
 
-service:
-  course-grade: local
-  course-table: local
-  info-detail: local
-  info-list: local
-  notice-detail: local
-  notice-list: local
+service: {}
 
 notice:
   main:
