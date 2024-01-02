@@ -1,6 +1,6 @@
 import { useClipboard } from "@vueuse/core";
 import { usePageData } from "@vuepress/client";
-import { onMounted, watch } from "vue";
+import { nextTick, onMounted, watch } from "vue";
 import { Message } from "vuepress-shared/client";
 
 import "vuepress-shared/client/styles/message.scss";
@@ -41,7 +41,9 @@ export const setupAccount = () => {
 
     watch(
       () => page.value.path,
-      () => registerAccount(),
+      () => {
+        nextTick(registerAccount);
+      },
       { immediate: true },
     );
   });
