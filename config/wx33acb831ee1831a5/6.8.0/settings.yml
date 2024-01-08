@@ -742,7 +742,8 @@ about:
       - text: 协议详情
         url: info?path=Oabout/copyright
 
-service: {}
+service:
+  post-login: online
 
 notice:
   main:

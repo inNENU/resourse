@@ -82,12 +82,28 @@
     "service": {
       "type": "object",
       "properties": {
+        "academic-detail": {
+          "description": "学术预告详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "academic-list": {
+          "description": "学术预告列表",
+          "$ref": "#/$defs/service-status"
+        },
         "activate": {
           "description": "账号激活",
           "$ref": "#/$defs/service-status"
         },
         "apply-email": {
           "description": "邮箱申请",
+          "$ref": "#/$defs/service-status"
+        },
+        "announcement-detail": {
+          "description": "通知公告详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "announcement-list": {
+          "description": "通知公列表",
           "$ref": "#/$defs/service-status"
         },
         "borrow-books": {
@@ -130,7 +146,6 @@
           "description": "官网通知列表",
           "$ref": "#/$defs/service-status"
         },
-
         "info-detail": {
           "description": "官网通知详情",
           "$ref": "#/$defs/service-status"
@@ -141,6 +156,22 @@
         },
         "notice-list": {
           "description": "通知列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "post-login": {
+          "description": "研究生教务系统登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-login": {
+          "description": "本科生教务系统登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "create-archive": {
+          "description": "创建学籍",
+          "$ref": "#/$defs/service-status"
+        },
+        "view-archive": {
+          "description": "查看学籍",
           "$ref": "#/$defs/service-status"
         },
         "notice-detail": {
