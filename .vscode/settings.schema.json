@@ -166,6 +166,10 @@
           "description": "本科生教务系统登录",
           "$ref": "#/$defs/service-status"
         },
+        "under-grade-list": {
+          "description": "本科生成绩系统登录",
+          "$ref": "#/$defs/service-status"
+        },
         "create-archive": {
           "description": "创建学籍",
           "$ref": "#/$defs/service-status"

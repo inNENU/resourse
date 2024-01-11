@@ -763,6 +763,8 @@ service:
   info-list: local
   notice-detail: local
   notice-list: local
+  under-grade-list: online
+  post-login: online
 
 notice:
   main:
