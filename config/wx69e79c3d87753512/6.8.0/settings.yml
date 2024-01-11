@@ -382,30 +382,6 @@ function-presets:
           icon: calendar
           url: calendar
 
-        - text: 统一身份认证
-          color: blue
-          name: Authorize
-          icon: account
-          url: web?url=https://authserver.nenu.edu.cn/authserver/login
-
-        - text: 网上服务大厅
-          color: cyan
-          name: MyNenu
-          icon: network
-          url: web?url=http://my.nenu.edu.cn/
-
-        - text: 故障报修
-          color: purple
-          name: Repair
-          icon: repair
-          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
-
-        - text: 宿舍系统
-          color: grey
-          name: Dorm
-          icon: system
-          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
-
         - text: 校外服务
           color: red
           name: Service
@@ -429,6 +405,33 @@ function-presets:
           name: Contact
           icon: phone
           url: phone
+
+    - tag: grid
+      header: 管理系统
+      items:
+        - text: 统一身份认证
+          color: blue
+          name: Authorize
+          icon: account
+          url: web?url=https://authserver.nenu.edu.cn/authserver/login
+
+        - text: 网上服务大厅
+          color: cyan
+          name: MyNenu
+          icon: network
+          url: web?url=http://my.nenu.edu.cn/
+
+        - text: 故障报修
+          color: purple
+          name: Repair
+          icon: repair
+          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
+
+        - text: 宿舍系统
+          color: grey
+          name: Dorm
+          icon: system
+          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
 
     - tag: grid
       header: 工具
@@ -533,17 +536,11 @@ function-presets:
           icon: test
           url: special-exam
 
-        - text: 学籍注册查看
+        - text: 学籍
           color: purple
           name: Study Archive
           icon: archive
           url: view-archive
-
-        - text: 建立学籍
-          color: purple
-          name: Create Archive
-          icon: archive
-          url: create-archive
 
         - text: 转专业计划
           color: red
@@ -631,29 +628,6 @@ function-presets:
           name: Calendar
           icon: calendar
           url: calendar
-        - text: 统一身份认证
-          color: blue
-          name: Authorize
-          icon: account
-          url: web?url=https://authserver.nenu.edu.cn/authserver/login
-
-        - text: 网上服务大厅
-          color: cyan
-          name: MyNenu
-          icon: network
-          url: web?url=http://my.nenu.edu.cn/
-
-        - text: 故障报修
-          color: purple
-          name: Repair
-          icon: repair
-          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
-
-        - text: 宿舍系统
-          color: grey
-          name: Dorm
-          icon: system
-          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
 
         - text: 校外服务
           color: red
@@ -693,6 +667,33 @@ function-presets:
           name: Email
           icon: email
           url: apply-email
+
+    - tag: grid
+      header: 管理系统
+      items:
+        - text: 统一身份认证
+          color: blue
+          name: Authorize
+          icon: account
+          url: web?url=https://authserver.nenu.edu.cn/authserver/login
+
+        - text: 网上服务大厅
+          color: cyan
+          name: MyNenu
+          icon: network
+          url: web?url=http://my.nenu.edu.cn/
+
+        - text: 故障报修
+          color: purple
+          name: Repair
+          icon: repair
+          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
+
+        - text: 宿舍系统
+          color: grey
+          name: Dorm
+          icon: system
+          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
 
     - tag: grid
       header: 工具
