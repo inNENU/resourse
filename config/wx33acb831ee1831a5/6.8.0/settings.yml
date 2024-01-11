@@ -743,6 +743,7 @@ about:
         url: info?path=Oabout/copyright
 
 service:
+  under-grade-list: online
   post-login: online
 
 notice:
