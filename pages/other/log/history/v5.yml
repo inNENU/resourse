@@ -1,0 +1,75 @@
+title: V5 更新日志
+content:
+  - tag: list
+    header: v5.8.0
+    items:
+      - text: |-
+          · 增加校园卡余额
+          · 增加图书借阅
+          · 增加学校新闻
+          · 增加学校通知
+          · 增加学术会议
+          · 增加内网公告
+          · 增加内网新闻
+          · 增加图书馆人数
+
+  - tag: list
+    header: v5.7.0
+    items:
+      - text: |-
+          · 增加成绩列表
+
+  - tag: list
+    header: v5.6.0
+    items:
+      - text: |-
+          · 增加招生计划
+          · 增加历史分数
+
+  - tag: list
+    header: v5.5.0
+    items:
+      - text: |-
+          · 增加课程表
+
+  - tag: list
+    header: v5.4.0
+    items:
+      - text: |-
+          · 增加选课系统
+
+  - tag: list
+    header: v5.3.0
+    items:
+      - text: |-
+          · 更新小程序页面路径
+          · 修复段落缩进问题
+
+  - tag: list
+    header: v5.2.0
+    items:
+      - text: |-
+          · 微信新增拉起地图 App 导航
+          · 修复 iOS QQ 客户端单点闪退
+          · 对 iOS QQ 客户端提供夜间模式支持
+
+  - tag: list
+    header: v5.1.0
+    items:
+      - text: |-
+          · 新增录取查询
+          · 合并代码包
+
+  - tag: list
+    header: v5.0.5
+    items:
+      - text: |-
+          · 重构搜索功能
+          · 微信小程序支持卫星图
+          · 增加动作组件
+          · 重构媒体组件
+          · 重构提示框并支持跳转
+          · 支持跳转到视频号主页
+          · 微信支持保存文件到微信收藏
+          · 地图组件支持地点边距
+          · PC 支持分栏模式
