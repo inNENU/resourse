@@ -791,7 +791,9 @@ about:
       - text: 协议详情
         url: info?path=Oabout/copyright
 
-service: {}
+service:
+  under-grade-list: online
+  post-login: online
 
 notice:
   main:
