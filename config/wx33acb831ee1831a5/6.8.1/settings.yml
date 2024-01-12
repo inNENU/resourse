@@ -753,6 +753,13 @@ notice:
   activate:
     title: 手机验证码
     content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
+  app:
+    title: 请关注公众号
+    content: 建议关注微信公众号 inNENU 获取小程序、App 发布说明、更新信息与运行情况说明。
+  grade:
+    title: 更新说明
+    content: 本科生成绩查询已从旧系统切换至系统，并有重大更改。建议关注 inNENU 公众号并查看最新推文。
+    force: true
 
 update:
   force: false
