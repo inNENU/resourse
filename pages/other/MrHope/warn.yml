@@ -1,0 +1,46 @@
+title: 近期重要通知
+author: Mr.Hope
+content:
+  - tag: text
+    type: tip
+    heading: 关注公众号
+    text:
+      - 强烈建议关注微信公众号 inNENU 以第一时间获取小程序相关通知。
+
+  - tag: title
+    text: 重要声明
+
+  - tag: card
+    cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/ic9k8LCTbicc72rsGgYT15GclTFoAoFLccQdnKGfl03DF5ic3T2SLRgRBmM2hSsfIjjGWo0yYdry0yUKmdQgSBRhA/0?wx_fmt=jpeg
+    title: 本科生新版成绩查询部分功能变弱或错误的相关说明
+    url: https://mp.weixin.qq.com/s/oz3P220XEEMF5rWv-kFwug
+
+  - tag: card
+    cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/ic9k8LCTbicc72rsGgYT15GclTFoAoFLccQdnKGfl03DF5ic3T2SLRgRBmM2hSsfIjjGWo0yYdry0yUKmdQgSBRhA/0?wx_fmt=jpeg
+    title: inNENU v6.7.0 被腾讯手机管家误报毒的说明
+    url: https://mp.weixin.qq.com/s/P3ZBlPFh9CRJRhR6n3DYLg
+
+  - tag: card
+    cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/ic9k8LCTbicc77XNw0iautOegQRS7m8VSZC7lwbWuTvwcSYq3ZprmnCGJXibYzRCHG0W8S4DJhibUyc9ZNr8Rmtia6AA/0?wx_fmt=jpeg
+    title: inNENU 暂不适配新研究生系统的通知
+    url: https://mp.weixin.qq.com/s/lq7QL_XTBCwvTJZYYJQMTg
+
+  - tag: title
+    text: 近期更新
+
+  - tag: text
+    type: tip
+    text:
+      - 如遇使用异常，建议重新登陆账户。若问题仍不能解决，请联系开发者。
+
+  - tag: card
+    cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/ic9k8LCTbicc4NksE8LpObX1XbNXWoeoHPAYv7nicTHKib94GM7Rs0LMfLEpAAJDNk6ptLdrPoKicqHSkZOnGhJ3nsQ/0?wx_fmt=jpeg
+    title: v6.8.0 | 全操作本地化
+    url: https://mp.weixin.qq.com/s/AGiO-EPb5C1XdYElqluwbg
+
+  - tag: functional-list
+    items:
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
