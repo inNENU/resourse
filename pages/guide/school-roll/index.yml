@@ -1,0 +1,44 @@
+title: 学籍管理
+icon: archive
+grey: true
+author: Mr.Hope
+time: 2024-01-13T05:40:07.502Z
+shareable: true
+content:
+  - tag: list
+    header: 学籍异动
+    items:
+      - text: 保留学籍
+        icon: check
+        path: preserve
+
+      - text: 休学
+        icon: bed
+        path: rest
+
+      - text: 退学
+        icon: change
+        path: change
+
+      - text: 退学
+        icon: ban
+        path: quit
+
+  - tag: list
+    header: 学籍信息
+    items:
+      - text: 入学资格复查
+        icon: check
+        path: check
+
+      - text: 学期学年注册
+        icon: add
+        path: register
+
+      - text: 图像采集
+        icon: photo
+        path: photo
+
+      - text: 学籍信息变更
+        icon: test
+        path: edit

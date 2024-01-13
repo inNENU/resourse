@@ -1,0 +1,20 @@
+title: 退学
+icon: ban
+author: Mr.Hope
+time: 2024-01-13T05:40:07.509Z
+shareable: true
+cite:
+  - https://jwc.nenu.edu.cn/ggmb/content3.jsp?urltype=tree.TreeTempUrl&wbtreeid=1948
+content:
+  - tag: p
+    text: 有下列情形之一的，可予退学处理：
+
+  - tag: ol
+    text:
+      - 长学期选课未达到 10 学分或者在学校规定的学习年限内未完成学业的；
+      - 休学、保留学籍期满，在学校规定期限内未提出复学申请或者申请复学经复查不合格的；
+      - 根据学校指定医院诊断，患有疾病或者意外伤残不能继续在校学习的；
+      - 未经批准连续两周未参加学校规定的教学活动的；
+      - 超过学校规定期限未注册而又未履行暂缓注册手续的；
+      - 学生本人申请退学的；
+      - 应予退学的其他情形。

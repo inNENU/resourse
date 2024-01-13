@@ -1,14 +1,24 @@
 title: 学籍注册
 icon: archive
 author: Mr.Hope
-time: 2023-09-23T12:20:00.119Z
+time: 2024-01-13T05:40:07.653Z
 shareable: true
+cite:
+  - https://jwc.nenu.edu.cn/ggmb/content3.jsp?urltype=tree.TreeTempUrl&wbtreeid=1927
 content:
   - tag: text
     type: info
+    heading: 新生建立学籍
     text:
       - 新生入学后，应及时完成学籍注册工作。
     url: notice-detail?id=55435b05a3d84ca29c885b8b3c219679&title=关于建立2023级全日制普通本科生学籍档案的通知
+
+  - tag: text
+    type: info
+    heading: 在校生注册学籍
+    text:
+      - 根据教育部《普通高等学校学生管理规定》《东北师范大学本科学生学籍管理条例》，对新生和在校生进行学籍电子注册工作，保证学生信息规范、准确、完整。
+      - 每学期开学时，学生应当按学校规定日期办理注册手续。不能如期注册的，应当履行暂缓注册手续。家庭经济困难的学生可以申请助学贷款或者其他形式资助，办理有关手续后注册。未按学校规定缴纳学费或者其他不符合注册条件的，不予注册。学生未请假或请假逾期两周（含）以上不注册的，视为放弃学籍，按自动退学处理。
 
   - tag: title
     text: 通过小程序
@@ -20,9 +30,13 @@ content:
   - tag: list
     header: false
     items:
-      - text: 建立学籍
+      - text: 新生建立学籍
         icon: archive
         url: create-archive
+
+      - text: 在校生学年注册学籍
+        icon: archive
+        url: view-archive
 
   - tag: title
     text: 官方系统申请
@@ -52,7 +66,8 @@ content:
 
   - tag: ul
     text:
-      - 点击『注册学籍』，核对个人学籍信息，点击“确定注册”，即可完成本学期的学籍注册工作。
+      - 在校生点击『注册学籍』，核对个人学籍信息，点击“确定注册”，即可完成本学期的学籍注册工作。
+      - 新生点击 『建立学籍』，填写个人学籍信息并提交，导员审核后即可完成学籍建立工作。
 
   - tag: img
     src: $img/system/school-roll5.png

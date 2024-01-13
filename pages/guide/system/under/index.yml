@@ -1,7 +1,7 @@
 title: 本科教学服务系统
 icon: system
 author: Mr.Hope
-time: 2023-09-23T12:20:00.115Z
+time: 2024-01-13T05:40:07.644Z
 grey: true
 shareable: true
 content:
@@ -23,7 +23,7 @@ content:
         icon: time
         path: makeup
 
-      - text: 学籍注册
+      - text: 学籍注册与建立
         icon: rule
         path: school-roll
 
