@@ -1,7 +1,7 @@
 title: 预选
 icon: select
 author: Mr.Hope
-time: 2023-12-20T06:07:06.614Z
+time: 2024-01-13T04:17:34.682Z
 shareable: true
 content:
   - tag: title
@@ -110,7 +110,7 @@ content:
   - tag: p
     heading: 东师有幸运值系统么
     text:
-      - 东师的教务系统是老版的强智系统，预选程序中不含任何幸运值代码（保底逻辑）。也就是如果您运气不好，全被踢了是有这个可能的。
+      - 东师的教务系统是老版的强智系统，预选程序中不含任何幸运值代码 (保底逻辑) 。也就是如果您运气不好，全被踢了是有这个可能的。
 
   - tag: text
     type: note

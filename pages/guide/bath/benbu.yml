@@ -1,7 +1,7 @@
 title: 本部浴池
 icon: bath
 author: Mr.Hope
-time: 2023-11-18T09:23:53.943Z
+time: 2024-01-13T04:17:33.386Z
 shareable: true
 outdated: true
 content:
@@ -40,7 +40,7 @@ content:
   - tag: p
     text:
       - 新浴池洗浴区在入口处提供了梳妆镜和电源插孔等设施。
-      - 新浴池洗浴间使用了门帘及不透光隔板，换衣区的柜子（可自行准备小锁头或到前台购买）和洗浴间门口的凳子可用来放置衣服和洗浴用品。
+      - 新浴池洗浴间使用了门帘及不透光隔板，换衣区的柜子 (可自行准备小锁头或到前台购买) 和洗浴间门口的凳子可用来放置衣服和洗浴用品。
 
   - tag: img
     src: $img/bath/benbu-env1.jpg
@@ -54,7 +54,7 @@ content:
 
   - tag: img
     src: $img/bath/benbu-env3.jpg
-    desc: 换衣区（男宾）
+    desc: 换衣区 (男宾)
     watermark: true
 
   - tag: img

@@ -1,7 +1,7 @@
 title: 南苑基本餐
 icon: dining
 author: Mr.Hope
-time: 2023-11-18T09:43:55.537Z
+time: 2024-01-13T04:17:33.748Z
 shareable: true
 content:
   - tag: title
@@ -78,7 +78,7 @@ content:
 
   - tag: img
     src: $img/dining/nanyuan/basic4.jpg?v=202311
-    desc: 眼镜布（冬季）
+    desc: 眼镜布 (冬季)
     watermark: true
 
   - tag: img

@@ -2,7 +2,7 @@ title: 教务处
 icon: jwc
 grey: true
 author: Mr.Hope
-time: 2023-09-22T15:38:33.075Z
+time: 2024-01-13T04:17:30.859Z
 shareable: true
 content:
   - tag: account
@@ -28,6 +28,17 @@ content:
       - text: 各学院教务秘书电话
         icon: jwc
         path: contact
+
+  - tag: list
+    header: 教务处规范
+    items:
+      - text: 管理规范
+        icon: rule
+        path: manage
+
+      - text: 主动服务规范
+        icon: rule
+        path: rule
 
   - tag: list
     header: 人员信息
