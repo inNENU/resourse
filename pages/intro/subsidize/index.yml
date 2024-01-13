@@ -2,7 +2,7 @@ title: 资助
 icon: subsidize
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.588Z
+time: 2024-01-13T05:44:03.554Z
 shareable: true
 content:
   - tag: p
@@ -26,7 +26,7 @@ content:
 
       - text: 资助工作机构
         icon: office
-        path: agency
+        path: /apartment/subsidize/
 
   - tag: list
     header: 助学贷款

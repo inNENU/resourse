@@ -1,15 +1,14 @@
 title: 学生资助机构
 icon: office
 author: Mr.Hope
-time: 2023-09-23T11:16:45.584Z
+time: 2024-01-13T05:44:02.777Z
 shareable: true
 content:
   - tag: account
     name: 学生资助管理中心
     logo: $img/media/subsidize.jpg
-    wxid: skyxxxczx2015
-
-    account: dongshizizhu
+    wxid: dongshizizhu
+    account: subsidize
     mail: zzzx@nenu.edu.cn
     site: https://clzc.nenu.edu.cn/
 

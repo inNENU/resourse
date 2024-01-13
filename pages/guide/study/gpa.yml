@@ -1,7 +1,7 @@
 title: 绩点
 icon: star
 author: Mr.Hope
-time: 2023-09-23T10:52:59.539Z
+time: 2024-01-13T05:44:04.430Z
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
     text: 课程绩点算法
 
   - tag: p
-    heading: 课程绩点 ＝ 学分 × (考核成绩 - 60) ÷ 10 + 1) × 难度系数
+    heading: 课程绩点 ＝ 学分 × ((考核成绩 - 60) ÷ 10 + 1) × 难度系数
     text: 其中难度系数依据课程编码，课程编码 200 - 399 为较易的课程，难度系数为 1；400 - 599 为较难的课程，难度系数为 1.2。
 
   - tag: ul
