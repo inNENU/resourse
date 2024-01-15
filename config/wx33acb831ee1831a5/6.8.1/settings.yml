@@ -758,6 +758,7 @@ about:
         url: info?path=Oabout/copyright
 
 service:
+  special-exam: online
   under-grade-detail: online
   under-grade-list: online
   post-login: online

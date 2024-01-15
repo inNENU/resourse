@@ -766,6 +766,7 @@ service:
   under-grade-detail: online
   under-grade-list: online
   post-login: online
+  special-exam: online
 
 notice:
   main:
