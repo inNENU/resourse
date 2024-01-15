@@ -265,7 +265,7 @@ ${items
     const listItemContent = `
 ${
   resolvedIcon
-    ? `<img class="innenu-list-icon" src="${resolvedIcon}" no-view />`
+    ? `<img class="innenu-list-icon" src="${resolvedIcon}" alt="" no-view />`
     : ""
 }
 <div class="innenu-list-detail">

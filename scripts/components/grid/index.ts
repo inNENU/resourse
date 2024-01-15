@@ -97,7 +97,7 @@ ${items
     const gridItemContent = `
 ${
   resolvedIcon
-    ? `<img class="innenu-grid-icon" src="${resolvedIcon}" no-view />`
+    ? `<img class="innenu-grid-icon" src="${resolvedIcon}" alt="" no-view />`
     : ""
 }
 <div class="innenu-grid-text">

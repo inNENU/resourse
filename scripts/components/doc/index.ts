@@ -64,7 +64,7 @@ export const getDocMarkdown = (component: DocComponentOptions): string => {
 
   const docIcon = `<img class="innenu-doc-icon" src="${getAssetIconLink(
     getDocIcon(url),
-  )}" alt="${name}" />`;
+  )}" alt="" />`;
   const docName = `${name}.${url.split(".").pop()!}`;
 
   return `

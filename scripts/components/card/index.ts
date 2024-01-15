@@ -97,7 +97,7 @@ export const getCardMarkdown = (component: CardComponentOptions): string => {
 ${
   cover
     ? `\
-<img class="innenu-card-cover" src="${cover}" alt="${title}" no-view referrerpolicy="no-referer" />
+<img class="innenu-card-cover" src="${cover}" alt="" no-view referrerpolicy="no-referer" />
 `
     : ""
 }
@@ -106,7 +106,7 @@ ${
 ${
   logo
     ? `\
-    <img class="innenu-card-logo" src="${logo}" alt="${title}" no-view />
+    <img class="innenu-card-logo" src="${logo}" alt="" no-view />
 `
     : ""
 }\

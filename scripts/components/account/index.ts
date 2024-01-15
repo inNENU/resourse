@@ -87,7 +87,7 @@ ${
     }${qqcode ? `data-qqcode="${qqcode}"` : ""}>
       <img class="innenu-account-icon" src="${getAssetIconLink(
         "qq",
-      )}" no-view />
+      )}" alt="" no-view />
     </button>
 `
     : ""
@@ -100,7 +100,7 @@ ${
     }${wxcode ? `data-wxcode="${wxcode}" ` : ""}>
       <img class="innenu-account-icon" src="${getAssetIconLink(
         "wechat",
-      )}" no-view />
+      )}" alt="" no-view />
     </button>
 `
     : ""
@@ -111,7 +111,7 @@ ${
     <a class="innenu-account-action" href="${site}" target="_blank">
       <img class="innenu-account-icon" src="${getAssetIconLink(
         "web",
-      )}" no-view />
+      )}" alt="" no-view />
     </a>
 `
     : ""
@@ -122,7 +122,7 @@ ${
     <a class="innenu-account-action" href="mailto:${mail}">
       <img class="innenu-account-icon" src="${getAssetIconLink(
         "mail",
-      )}" no-view />
+      )}" alt="" no-view />
     </a>
 `
     : ""
