@@ -10,33 +10,33 @@
     "scope": "yaml",
     "prefix": ["time"],
     "body": [
-      "${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}Z"
+      "${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}Z",
     ],
-    "description": "inset title"
+    "description": "inset title",
   },
   "title component": {
     "scope": "yaml",
     "prefix": ["title", "t"],
     "body": ["  - tag: title", "    text: $0"],
-    "description": "inset title"
+    "description": "inset title",
   },
   "text component": {
     "scope": "yaml",
     "prefix": ["text"],
     "body": ["  - tag: text", "    text: $0"],
-    "description": "inset text"
+    "description": "inset text",
   },
   "paragraph component": {
     "scope": "yaml",
     "prefix": "p",
     "body": ["  - tag: p", "    text: $0"],
-    "description": "inset paragraph"
+    "description": "inset paragraph",
   },
   "texts component": {
     "scope": "yaml",
     "prefix": ["ts", "texts"],
     "body": ["  - tag: text", "    text:", "      - $0"],
-    "description": "inset texts"
+    "description": "inset texts",
   },
   "text component with title": {
     "scope": "yaml",
@@ -45,33 +45,33 @@
       "  - tag: text",
       "${1:    heading: $2}",
       "    text:",
-      "      - $0"
+      "      - $0",
     ],
-    "description": "inset texts with title"
+    "description": "inset texts with title",
   },
   "unordered list component": {
     "scope": "yaml",
     "prefix": "ul",
     "body": ["  - tag: ul", "    text:", "      - $0"],
-    "description": "inset ul"
+    "description": "inset ul",
   },
   "unordered list component with title": {
     "scope": "yaml",
     "prefix": "ul",
     "body": ["  - tag: ul", "${1:    heading: $2}", "    text:", "      - $0"],
-    "description": "inset ul"
+    "description": "inset ul",
   },
   "ordered list component": {
     "scope": "yaml",
     "prefix": "ol",
     "body": ["  - tag: ol", "${1:    heading: $2}", "    text:", "      - $0"],
-    "description": "inset ol"
+    "description": "inset ol",
   },
   "ordered list component with title": {
     "scope": "yaml",
     "prefix": "olh",
     "body": ["  - tag: ol", "    text:", "      - $0"],
-    "description": "inset ol"
+    "description": "inset ol",
   },
   "hint box component": {
     "scope": "yaml",
@@ -81,21 +81,21 @@
       "    type: ${2|tip,info,warning,danger,note|}",
       "${3:    heading: $4}",
       "    text:",
-      "      - $0"
+      "      - $0",
     ],
-    "description": "inset hint"
+    "description": "inset hint",
   },
   "image component": {
     "scope": "yaml",
     "prefix": "img",
     "body": ["  - tag: img", "    src: \\$img/$0", "${1:    desc: $2}"],
-    "description": "inset img"
+    "description": "inset img",
   },
   "action component": {
     "scope": "yaml",
     "prefix": "act",
     "body": ["  - tag: action", "    header: $1", "    content: $0"],
-    "description": "inset action"
+    "description": "inset action",
   },
   "doc component": {
     "scope": "yaml",
@@ -104,27 +104,27 @@
       "  - tag: doc",
       "${1:    heading: $2}",
       "    name: $3",
-      "    url: \\$file/$0"
+      "    url: \\$file/$0",
     ],
-    "description": "inset doc"
+    "description": "inset doc",
   },
   "audio component": {
     "scope": "yaml",
     "prefix": "audio",
     "body": ["  - tag: audio", "    src: $0"],
-    "description": "inset audio"
+    "description": "inset audio",
   },
   "list component": {
     "scope": "yaml",
     "prefix": ["ls", "list"],
     "body": ["  - tag: list", "${1:    header: $2}", "    items:", "$0"],
-    "description": "inset list"
+    "description": "inset list",
   },
   "list item": {
     "scope": "yaml",
     "prefix": ["li"],
     "body": ["      - text: $1", "        icon: $2", "        path: $0"],
-    "description": "inset list item"
+    "description": "inset list item",
   },
   "phone": {
     "scope": "yaml",
@@ -133,15 +133,15 @@
       "  - tag: phone",
       "${1:    header: $2}",
       "    fName: $3",
-      "    num: $0"
+      "    num: $0",
     ],
-    "description": "inset phone"
+    "description": "inset phone",
   },
   "location": {
     "scope": "yaml",
     "prefix": ["loc"],
     "body": ["  - tag: location", "    title: $1", "    points:", "$0"],
-    "description": "inset location"
+    "description": "inset location",
   },
   "location item": {
     "scope": "yaml",
@@ -149,20 +149,20 @@
     "body": [
       "      - latitude: $1",
       "        longitude: $2",
-      "${3:        detail: $4}"
+      "${3:        detail: $4}",
     ],
-    "description": "inset location"
+    "description": "inset location",
   },
   "table": {
     "scope": "yaml",
     "prefix": ["table"],
     "body": ["  - tag: table", "    header:", "      - $0", "    body:"],
-    "description": "inset table"
+    "description": "inset table",
   },
   "video component": {
     "scope": "yaml",
     "prefix": "video",
     "body": ["  - tag: video", "    src: $0"],
-    "description": "inset video"
-  }
+    "description": "inset video",
+  },
 }
