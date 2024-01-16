@@ -25,7 +25,7 @@ actions:
 
   - type: secondary
     text: 安卓 App 下载
-    link: https://assets.innenu.com/innenu-v6.8.1.apk
+    link: https://assets.innenu.com/innenu-v6.8.2.apk
 
 highlights:
   - header: 新生你好

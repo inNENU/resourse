@@ -141,8 +141,8 @@ ${cardChildren}
 <VPLink class="innenu-card" to="${getMarkdownPath(component.path)}">
 ${cardChildren}
 </VPLink>
-    
-    `;
+
+`;
   }
 
   return "";
