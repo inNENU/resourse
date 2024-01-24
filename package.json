@@ -44,7 +44,7 @@
     "@vuepress/client": "2.0.0-rc.0",
     "@vuepress/utils": "2.0.0-rc.0",
     "@vueuse/core": "10.7.2",
-    "ali-oss": "6.19.0",
+    "ali-oss": "6.20.0",
     "axios": "1.6.5",
     "cheerio": "1.0.0-rc.12",
     "del": "7.1.0",
