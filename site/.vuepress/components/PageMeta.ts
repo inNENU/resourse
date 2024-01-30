@@ -1,4 +1,4 @@
-import { ClientOnly, usePageData } from "@vuepress/client";
+import { ClientOnly, usePageData } from "vuepress/client";
 import { type VNode, defineComponent, h, computed } from "vue";
 
 import AutoLink from "@theme-hope/components/AutoLink";

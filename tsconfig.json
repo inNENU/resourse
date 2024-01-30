@@ -16,7 +16,6 @@
     "inlineSourceMap": false,
     "inlineSources": false,
     "listEmittedFiles": true,
-    "moduleResolution": "NodeNext",
     "noEmitHelpers": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
@@ -30,14 +29,19 @@
     "strict": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
+    "baseUrl": "./",
     "target": "ES2021",
     "lib": ["ESNext"],
-    "module": "NodeNext"
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "paths": {
+      "@theme-hope/*": ["vuepress-theme-hope/*.js"],
+    },
   },
   "include": [
     "./__tests__/**/*.ts",
     "./scripts/**/*.ts",
-    "./site/**/*.ts",
-    "./typings/**/*.ts"
-  ]
+    "./site/.vuepress/**/*.ts",
+    "./typings/**/*.ts",
+  ],
 }

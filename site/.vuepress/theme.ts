@@ -1,5 +1,5 @@
-import { fs, path } from "@vuepress/utils";
 import { insertWord } from "nodejs-jieba";
+import { fs, path } from "vuepress/utils";
 import { hopeTheme } from "vuepress-theme-hope";
 
 const words = fs

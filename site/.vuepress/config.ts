@@ -1,11 +1,12 @@
-import { getDirname, path } from "@vuepress/utils";
-import { defineUserConfig } from "vuepress";
+import { viteBundler } from "@vuepress/bundler-vite";
+import { type UserConfig, defineUserConfig } from "vuepress";
+import { getDirname, path } from "vuepress/utils";
 
 import theme from "./theme.js";
 
 const __dirname = getDirname(import.meta.url);
 
-export default defineUserConfig({
+export default <UserConfig>defineUserConfig({
   title: "inNENU",
   description: "在东师，就用 inNENU",
 
@@ -47,6 +48,8 @@ export default defineUserConfig({
       },
     ],
   ],
+
+  bundler: viteBundler(),
 
   theme,
 

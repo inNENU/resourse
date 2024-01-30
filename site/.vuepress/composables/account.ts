@@ -1,6 +1,6 @@
 import { useClipboard } from "@vueuse/core";
-import { usePageData } from "@vuepress/client";
 import { nextTick, onMounted, watch } from "vue";
+import { usePageData } from "vuepress/client";
 import { Message } from "vuepress-shared/client";
 
 import "vuepress-shared/client/styles/message.scss";
