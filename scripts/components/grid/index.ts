@@ -108,9 +108,9 @@ ${text.replace(/\n/g, "<br />")}
     return `\
 ${
   path
-    ? `<VPLink class="innenu-grid-item" to="${getMarkdownPath(path)}">
+    ? `<RouteLink class="innenu-grid-item" to="${getMarkdownPath(path)}">
 ${gridItemContent}
-</VPLink>`
+</RouteLink>`
     : `\
 <div class="innenu-grid-item">
 ${gridItemContent}

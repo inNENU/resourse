@@ -287,9 +287,9 @@ ${desc}
     return `\
 ${
   path
-    ? `<VPLink class="innenu-list-item" to="${getMarkdownPath(path)}">
+    ? `<RouteLink class="innenu-list-item" to="${getMarkdownPath(path)}">
 ${listItemContent}
-</VPLink>`
+</RouteLink>`
     : `\
 <div class="innenu-list-item">
 ${listItemContent}

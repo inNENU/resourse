@@ -35,13 +35,13 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "paths": {
-      "@theme-hope/*": ["vuepress-theme-hope/*.js"],
-    },
+      "@theme-hope/*": ["vuepress-theme-hope/*.js"]
+    }
   },
   "include": [
     "./__tests__/**/*.ts",
     "./scripts/**/*.ts",
     "./site/.vuepress/**/*.ts",
-    "./typings/**/*.ts",
-  ],
+    "./typings/**/*.ts"
+  ]
 }

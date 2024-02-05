@@ -138,9 +138,9 @@ ${cardChildren}
 
   if ("path" in component) {
     return `\
-<VPLink class="innenu-card" to="${getMarkdownPath(component.path)}">
+<RouteLink class="innenu-card" to="${getMarkdownPath(component.path)}">
 ${cardChildren}
-</VPLink>
+</RouteLink>
 
 `;
   }

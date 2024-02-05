@@ -30,7 +30,7 @@
   font-size: 17px;
   line-height: 1.45;
 
-  &.vp-link {
+  &.route-link {
     @include mixins.hover;
 
     position: relative;
