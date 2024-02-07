@@ -430,10 +430,6 @@ highlights:
 head:
   - - meta
     - name: baidu-site-verification
-      content: codeva-vWUwPsPNMh
-
-  - - meta
-    - name: baidu-site-verification
       content: codeva-iZVMV2BVix
 
 footer: |-
