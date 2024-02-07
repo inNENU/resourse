@@ -34,11 +34,11 @@ ${
 `
     : ""
 }\
-${header.map((item) => item.replace(/|/g, "\\|")).join(" | ")}
-${header.map(() => ":-:").join(" | ")}
-${body
-  .map((item) => item.map((item) => item.replace(/|/g, "\\|")).join(" | "))
-  .join("\n")}
+| ${header.map((item) => item.replace(/\|/g, "\\|")).join(" | ")} |
+| ${header.map(() => ":-:").join(" | ")} |
+| ${body
+    .map((item) => item.map((item) => item.replace(/\|/g, "\\|")).join(" | "))
+    .join(" |\n| ")} |
 
 `;
 };
