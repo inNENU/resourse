@@ -4,6 +4,12 @@ content:
     text: 近期更新
 
   - tag: list
+    header: v6.8.4
+    items:
+      - text: |-
+          · 优化课程表课程解析
+
+  - tag: list
     header: v6.8.2
     items:
       - text: |-
