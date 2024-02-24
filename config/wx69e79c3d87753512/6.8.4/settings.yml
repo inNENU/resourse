@@ -5,11 +5,6 @@ main-page:
 
 main-presets:
   unlogin:
-    - tag: text
-      type: danger
-      heading: 小程序异常的说明
-      path: /other/MrHope/broken
-
     - tag: grid
       header: 您可能想关注
       items:
@@ -122,11 +117,6 @@ main-presets:
           path: intro/post/
 
   newcomer:
-    - tag: text
-      type: danger
-      heading: 小程序异常的说明
-      path: /other/MrHope/broken
-
     - tag: grid
       header: 您可能想关注
       items:
@@ -181,11 +171,6 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: danger
-      heading: 小程序异常的说明
-      path: /other/MrHope/broken
-
     - tag: grid
       header: 功能
       items:
@@ -677,11 +662,11 @@ function-presets:
           icon: reset
           url: reset
 
-        - text: 邮箱申请
-          color: purple
-          name: Email
-          icon: email
-          url: apply-email
+        # - text: 邮箱申请
+        #   color: purple
+        #   name: Email
+        #   icon: email
+        #   url: apply-email
 
     - tag: grid
       header: 管理系统
