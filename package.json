@@ -40,7 +40,7 @@
     "@types/node": "20.11.20",
     "@types/qrcode": "1.5.5",
     "@typescript-eslint/eslint-plugin": "7.0.2",
-    "@typescript-eslint/parser": "7.0.2",
+    "@typescript-eslint/parser": "7.1.0",
     "@vuepress/bundler-vite": "2.0.0-rc.8",
     "@vuepress/plugin-feed": "2.0.0-rc.17",
     "@vueuse/core": "10.8.0",
