@@ -1,4 +1,5 @@
-import { type AnyNode, load } from "cheerio";
+import type { AnyNode } from "cheerio";
+import { load } from "cheerio";
 
 const $ = load("");
 

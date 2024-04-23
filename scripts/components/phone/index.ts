@@ -1,6 +1,6 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
-import { PhoneComponentOptions } from "./typings.js";
+import type { PhoneComponentOptions } from "./typings.js";
 
 export const resolvePhone = (
   element: PhoneComponentOptions,
@@ -8,7 +8,7 @@ export const resolvePhone = (
 ): void => {
   for (const key in element)
     if (typeof element[key as keyof PhoneComponentOptions] === "number")
-      // @ts-ignore
+      // @ts-expect-error: Type does not fit
       // eslint-disable-next-line
       element[key] = element[key].toString();
 

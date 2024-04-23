@@ -96,7 +96,7 @@ export const promiseQueue = (
 
       if (task) {
         running += 1;
-        task().then(() => {
+        void task().then(() => {
           running -= 1;
           next();
         });

@@ -68,7 +68,7 @@ const syncOSS = async (): Promise<void> => {
     .filter(
       (item): item is { type: string; add: string } =>
         item !== null &&
-        Boolean(item.add?.startsWith("img/") || item.add?.startsWith("file/")),
+        Boolean(item.add?.startsWith("img/") ?? item.add?.startsWith("file/")),
     )
     .map((item) => item.add);
   const deletedFiles = assetsFiles
@@ -76,7 +76,7 @@ const syncOSS = async (): Promise<void> => {
       (item): item is { type: string; remove: string } =>
         item !== null &&
         Boolean(
-          item.remove?.startsWith("img/") || item.remove?.startsWith("file/"),
+          item.remove?.startsWith("img/") ?? item.remove?.startsWith("file/"),
         ),
     )
     .map((item) => item.remove);

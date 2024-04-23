@@ -36,7 +36,8 @@ const decodeText = (text: string): string => {
     !encodedText.includes("'") && encodedText.includes('"');
   const shouldWrapWithDoubleQuote =
     !shouldWrapWithSingleQuote &&
-    (['"', ": "].some(encodedText.includes) || encodedText.startsWith("@"));
+    (['"', ": "].some((item) => encodedText.includes(item)) ||
+      encodedText.startsWith("@"));
 
   return shouldWrapWithSingleQuote
     ? `'${encodedText}'`
@@ -90,18 +91,18 @@ export const genAccount = (filePath: string): Promise<void> => {
 
   const results = content
     .split("\n")
-    .map((item) => (/- url: (.*)$/.exec(item) || [])[1] || "")
+    .map((item) => /- url: (.*)$/.exec(item)?.[1] ?? "")
     .filter((item) => item.length);
 
   return Promise.all(
     results.map((item) =>
       axios.get<string>(item).then(({ data }) => {
         const [, cover = ""] =
-          /<meta property="og:image" content="(.*?)" \/>/.exec(data) || [];
+          /<meta property="og:image" content="(.*?)" \/>/.exec(data) ?? [];
         const [, title = ""] =
-          /<meta property="og:title" content="(.*?)" \/>/.exec(data) || [];
+          /<meta property="og:title" content="(.*?)" \/>/.exec(data) ?? [];
         const [, desc = ""] =
-          /<meta property="og:description" content="(.*?)" \/>/.exec(data) ||
+          /<meta property="og:description" content="(.*?)" \/>/.exec(data) ??
           [];
 
         content = content.replace(
@@ -121,6 +122,4 @@ export const genAccount = (filePath: string): Promise<void> => {
 
 const fileList = getFileList("./data/account", "yml");
 
-fileList.forEach((item) => {
-  genAccount(item);
-});
+await Promise.all(fileList.map((item) => genAccount(item)));

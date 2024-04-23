@@ -11,7 +11,7 @@ client.connect({
 });
 
 client.on("ready", () => {
-  putFolder("./service/info").then(() => {
+  void putFolder("./service/info").then(() => {
     console.log("upload success");
     client.end();
   });

@@ -1,4 +1,4 @@
-import { type BaseComponentOptions } from "../common.js";
+import type { BaseComponentOptions } from "../common.js";
 
 export interface BaseListComponentItemOptions extends BaseComponentOptions {
   /** 列表单元的显示文字 */

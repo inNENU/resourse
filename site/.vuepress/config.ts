@@ -1,12 +1,12 @@
 import { viteBundler } from "@vuepress/bundler-vite";
-import { type UserConfig, defineUserConfig } from "vuepress";
+import { defineUserConfig } from "vuepress";
 import { getDirname, path } from "vuepress/utils";
 
 import theme from "./theme.js";
 
 const __dirname = getDirname(import.meta.url);
 
-export default <UserConfig>defineUserConfig({
+export default defineUserConfig({
   title: "inNENU",
   description: "在东师，就用 inNENU",
 
@@ -54,10 +54,12 @@ export default <UserConfig>defineUserConfig({
   theme,
 
   alias: {
+    // eslint-disable-next-line @typescript-eslint/naming-convention
     "@theme-hope/components/NormalPage": path.resolve(
       __dirname,
       "components/NormalPage.vue",
     ),
+    // eslint-disable-next-line @typescript-eslint/naming-convention
     "@theme-hope/modules/info/components/PageMeta": path.resolve(
       __dirname,
       "components/PageMeta.ts",

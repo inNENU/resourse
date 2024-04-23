@@ -1,23 +1,23 @@
-import { type AccountComponentOptions } from "./account/typings.js";
-import { type ActionComponentOptions } from "./action/typings.js";
-import { type AudioComponentOptions } from "./audio/typings.js";
-import { type CardComponentOptions } from "./card/typings.js";
-import { type CarouselComponentOptions } from "./carousel/typings.js";
-import { type DocComponentOptions } from "./doc/typings.js";
-import { type FooterComponentOptions } from "./footer/typings.js";
-import { type GridComponentOptions } from "./grid/typings.js";
-import { type ImageComponentOptions } from "./img/typings.js";
-import {
-  type FunctionalListComponentOptions,
-  type ListComponentOptions,
+import type { AccountComponentOptions } from "./account/typings.js";
+import type { ActionComponentOptions } from "./action/typings.js";
+import type { AudioComponentOptions } from "./audio/typings.js";
+import type { CardComponentOptions } from "./card/typings.js";
+import type { CarouselComponentOptions } from "./carousel/typings.js";
+import type { DocComponentOptions } from "./doc/typings.js";
+import type { FooterComponentOptions } from "./footer/typings.js";
+import type { GridComponentOptions } from "./grid/typings.js";
+import type { ImageComponentOptions } from "./img/typings.js";
+import type {
+  FunctionalListComponentOptions,
+  ListComponentOptions,
 } from "./list/typings.js";
-import { type LoadingComponentOptions } from "./loading/typings.js";
-import { type LocationComponentOptions } from "./location/typings.js";
-import { type PhoneComponentOptions } from "./phone/typings.js";
-import { type TableComponentOptions } from "./table/typings.js";
-import { type TextComponentOptions } from "./text/typings.js";
-import { type TitleComponentOptions } from "./title/typings.js";
-import { type VideoComponentOptions } from "./video/typings.js";
+import type { LoadingComponentOptions } from "./loading/typings.js";
+import type { LocationComponentOptions } from "./location/typings.js";
+import type { PhoneComponentOptions } from "./phone/typings.js";
+import type { TableComponentOptions } from "./table/typings.js";
+import type { TextComponentOptions } from "./text/typings.js";
+import type { TitleComponentOptions } from "./title/typings.js";
+import type { VideoComponentOptions } from "./video/typings.js";
 
 export * from "./account/typings.js";
 export * from "./action/typings.js";

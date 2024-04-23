@@ -5,7 +5,7 @@ import { deleteSync } from "del";
 import { load } from "js-yaml";
 
 import { getMarkdown } from "../components/markdown.js";
-import { PageConfig } from "../components/typings.js";
+import type { PageConfig } from "../components/typings.js";
 import { getFileList } from "../utils/index.js";
 
 // 删除旧的文件

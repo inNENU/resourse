@@ -2,7 +2,7 @@ import { existsSync } from "node:fs";
 
 import { checkKeys } from "@mr-hope/assert-type";
 
-import { LocationComponentOptions } from "./typings.js";
+import type { LocationComponentOptions } from "./typings.js";
 import { resolvePath } from "../utils.js";
 
 export const resolveLocation = (

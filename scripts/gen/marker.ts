@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs";
 
-import { type Marker, type MarkerConfig, type MarkerData } from "./typings.js";
+import type { Marker, MarkerConfig, MarkerData } from "./typings.js";
 
 /**
  * 处理 marker
@@ -32,13 +32,14 @@ const genMarker = (
   return markerData;
 };
 
-export interface MarkerOption {
-  [props: string]: {
+export type MarkerOption = Record<
+  string,
+  {
     /** 分类名称 */
     name: string;
     content: Marker[];
-  };
-}
+  }
+>;
 
 /**
  * 设置Marker
@@ -61,7 +62,7 @@ export const resolveMarker = (
   ];
 
   let id = 0;
-  const markers = <Record<string, MarkerData[]>>{ all: [] };
+  const markers = { all: [] } as Record<string, MarkerData[]>;
 
   categories.forEach((category) => {
     markers[category] = data[category].content.map((marker) =>

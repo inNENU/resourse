@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { usePageData } from "vuepress/client";
 import { computed } from "vue";
+import { usePageData } from "vuepress/client";
 import HopeNormalPage from "vuepress-theme-hope/components/NormalPage.js";
 
 const page = usePageData();
@@ -12,6 +12,7 @@ const isEnabled = computed(() =>
 );
 const id = computed(() => page.value.path.replace(/\.html$/, ""));
 </script>
+
 <template>
   <HopeNormalPage>
     <template #contentBefore>

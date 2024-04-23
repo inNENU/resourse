@@ -1,4 +1,4 @@
-import { type BaseComponentOptions } from "../common.js";
+import type { BaseComponentOptions } from "../common.js";
 
 export interface GridComponentItemOptions extends BaseComponentOptions {
   /** 网格文字 */

@@ -1,6 +1,6 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
-import { type ActionComponentOptions } from "./typings.js";
+import type { ActionComponentOptions } from "./typings.js";
 import { resolveAlias } from "../utils.js";
 
 export const resolveAction = (
@@ -28,9 +28,9 @@ export const getActionMarkdown = (
 ): string => {
   const { content, header } = component;
   const isLink =
-    content.match(/^https?:\/\//) ||
-    content.match(
-      /^(?:(?:25[0-5]|2[0-4]\d|1?\d?\d)\.){3}(?:25[0-5]|2[0-4]\d|1?\d?\d)(?::\d{1,5})?$/,
+    /^https?:\/\// ??
+    /^(?:(?:25[0-5]|2[0-4]\d|1?\d?\d)\.){3}(?:25[0-5]|2[0-4]\d|1?\d?\d)(?::\d{1,5})?$/.test(
+      content,
     );
 
   return `\
@@ -45,7 +45,7 @@ ${
 ${
   isLink
     ? `\
-[${header || content}](${content})
+[${header ?? content}](${content})
 `
     : `\
 \`\`\`text

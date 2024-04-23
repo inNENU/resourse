@@ -1,7 +1,7 @@
 import { basename } from "node:path";
 
 import { resolvePage } from "../components/page.js";
-import { type PageConfig, type PageOptions } from "../components/typings.js";
+import type { PageConfig, PageOptions } from "../components/typings.js";
 
 export interface Donate {
   all: number;

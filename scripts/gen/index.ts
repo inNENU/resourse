@@ -2,27 +2,27 @@ import { execSync } from "node:child_process";
 
 import { deleteSync } from "del";
 
-import {
-  type AccountConfig,
-  type AccountDetail,
-  checkAccount,
-  checkAccountDetail,
-} from "./account.js";
+import type { AccountConfig, AccountDetail } from "./account.js";
+import { checkAccount, checkAccountDetail } from "./account.js";
 import { count } from "./count.js";
-import { type Donate, genDonate } from "./donate.js";
+import type { Donate } from "./donate.js";
+import { genDonate } from "./donate.js";
 import { genEnrollPlan } from "./enroll-plan.js";
 import { genHistoryResult } from "./history-grade.js";
 import { genIcon } from "./icon.js";
 import { generateLicense } from "./license.js";
 import { genLyric } from "./lyric.js";
 import { resolveLocationPage } from "./map.js";
-import { type MarkerOption, resolveMarker } from "./marker.js";
-import { type MusicInfo, checkMusic } from "./music.js";
-import { type PEConfig, genPEScore } from "./peScore.js";
+import type { MarkerOption } from "./marker.js";
+import { resolveMarker } from "./marker.js";
+import type { MusicInfo } from "./music.js";
+import { checkMusic } from "./music.js";
+import type { PEConfig } from "./peScore.js";
+import { genPEScore } from "./peScore.js";
 import { generateResource } from "./resource.js";
 // import { genSearchMap } from "./search.js";
 import { resolvePage } from "../components/page.js";
-import { type PageConfig } from "../components/typings.js";
+import type { PageConfig } from "../components/typings.js";
 import { convertYml2Json } from "../utils/index.js";
 
 // 删除旧的文件

@@ -11,7 +11,7 @@ import { getPhoneMarkdown } from "./phone/index.js";
 import { getTableMarkdown } from "./table/index.js";
 import { getTextMarkdown } from "./text/index.js";
 import { getTitleMarkdown } from "./title/index.js";
-import { type PageConfig } from "./typings.js";
+import type { PageConfig } from "./typings.js";
 import { getIconLink } from "./utils.js";
 import { getVideoMarkdown } from "./video/index.js";
 import { getYAMLValue } from "../utils/index.js";
@@ -111,13 +111,13 @@ isOriginal: true
     }
   });
 
-  if (desc || cite)
+  if (desc ?? cite)
     content += `\
 ${
   desc
     ?.split("\n")
     .map((line) => `> ${line}`)
-    .join("\n>\n") || ""
+    .join("\n>\n") ?? ""
 }\
 
 ${

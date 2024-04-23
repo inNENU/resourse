@@ -3,7 +3,7 @@ import { resolve } from "node:path";
 
 import { load } from "js-yaml";
 
-import { type PageOptions } from "../components/typings.js";
+import type { PageOptions } from "../components/typings.js";
 import { getFileList } from "../utils/index.js";
 
 const enum SearchItemType {
@@ -78,7 +78,7 @@ const createSearchMap = (folder: string): SearchMap => {
     const content = readFileSync(resolve(folder, filePath), {
       encoding: "utf-8",
     });
-    const page = <PageOptions>JSON.parse(content);
+    const page = JSON.parse(content) as PageOptions;
     const id = `${folder}/${filePath}`.replace(/\.\/d\/(.*)\.json/u, "$1");
 
     // 生成对应页面的索引对象
@@ -132,7 +132,7 @@ const createSearchMap = (folder: string): SearchMap => {
           SearchIndexType.Card,
           {
             title: element.title,
-            desc: element.desc || "",
+            desc: element.desc ?? "",
           },
         ]);
       else if (element.tag === "doc")
@@ -166,7 +166,7 @@ const createSearchMap = (folder: string): SearchMap => {
           pageIndex[2].push([SearchIndexType.Heading, element.header]);
         pageIndex[2].push([
           SearchIndexType.Text,
-          `${element.lName || ""}${element.fName}: ${element.num}`,
+          `${element.lName ?? ""}${element.fName}: ${element.num}`,
         ]);
       }
     });
@@ -176,14 +176,14 @@ const createSearchMap = (folder: string): SearchMap => {
 };
 
 const generateFunctionSearchMap = (): SearchMap => {
-  const functionSearchData = <
-    {
-      text: string;
-      icon: string;
-      url: string;
-      tags?: string[];
-    }[]
-  >load(readFileSync("./data/search/function.yml", { encoding: "utf-8" }));
+  const functionSearchData = load(
+    readFileSync("./data/search/function.yml", { encoding: "utf-8" }),
+  ) as {
+    text: string;
+    icon: string;
+    url: string;
+    tags?: string[];
+  }[];
 
   const functionSearchMap: SearchMap = {};
 

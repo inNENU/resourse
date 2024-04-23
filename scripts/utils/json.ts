@@ -37,6 +37,6 @@ export const checkJSON = (path: string): Promise<void> =>
           checkProcess.push(testJSON(`${path}/${file.name}`));
       });
 
-      Promise.all(checkProcess).then(() => resolve());
+      void Promise.all(checkProcess).then(() => resolve());
     });
   });

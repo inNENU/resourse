@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unsafe-enum-comparison */
-import { type AnyNode } from "cheerio";
+import type { AnyNode } from "cheerio";
 
 import { parseHTML } from "./parser.js";
 
@@ -130,9 +130,7 @@ const handleNode = async (
       ).filter((item): item is RichTextNode => item !== null);
 
       // add node name to class
-      attrs["class"] = attrs["class"]
-        ? `${attrs["class"]} ${node.name}`
-        : node.name;
+      attrs.class = attrs.class ? `${attrs.class} ${node.name}` : node.name;
 
       // append link for anchor tag
       if (node.name === "a" && node.attribs.href) {
@@ -145,8 +143,8 @@ const handleNode = async (
       }
 
       // resolve img source for img tag
-      if (node.name === "img" && attrs["src"] && options.getImageSrc) {
-        const result = await options.getImageSrc?.(attrs["src"]);
+      if (node.name === "img" && attrs.src && options.getImageSrc) {
+        const result = await options.getImageSrc?.(attrs.src);
 
         if (result === null) return null;
 
@@ -154,11 +152,11 @@ const handleNode = async (
       }
 
       if (options.getClass) {
-        const className = options.getClass(node.name, attrs["class"] || "");
+        const className = options.getClass(node.name, attrs.class || "");
 
-        if (className === null) delete attrs["class"];
-        else if (Array.isArray(className)) attrs["class"] = className.join(" ");
-        else attrs["class"] = className;
+        if (className === null) delete attrs.class;
+        else if (Array.isArray(className)) attrs.class = className.join(" ");
+        else attrs.class = className;
       }
 
       return {

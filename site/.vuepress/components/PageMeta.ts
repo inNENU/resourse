@@ -1,13 +1,13 @@
+import type { VNode } from "vue";
+import { computed, defineComponent, h } from "vue";
 import { ClientOnly, usePageData } from "vuepress/client";
-import { type VNode, defineComponent, h, computed } from "vue";
-
-import AutoLink from "@theme-hope/components/AutoLink";
-import { EditIcon } from "@theme-hope/components/icons/index";
-import { useThemeLocaleData } from "@theme-hope/composables/index";
+import AutoLink from "vuepress-theme-hope/components/AutoLink.js";
+import { EditIcon } from "vuepress-theme-hope/components/icons/index.js";
+import { useThemeLocaleData } from "vuepress-theme-hope/composables/index.js";
 import {
   useContributors,
   useUpdateTime,
-} from "@theme-hope/modules/info/composables/index";
+} from "vuepress-theme-hope/modules/info/composables/index.js";
 
 import "vuepress-theme-hope/info/styles/page-meta.scss";
 
@@ -48,11 +48,11 @@ export default defineComponent({
             ? h("div", { class: "update-time" }, [
                 h("span", { class: "label" }, `${metaLocales.lastUpdated}: `),
                 h(ClientOnly, () =>
-                  h("span", { class: "info" }, <string>updateTime.value),
+                  h("span", { class: "info" }, updateTime.value!),
                 ),
               ])
             : null,
-          contributors.value && contributors.value.length
+          contributors.value?.length
             ? h("div", { class: "contributors" }, [
                 h("span", { class: "label" }, `${metaLocales.contributors}: `),
                 contributors.value.map(({ email, name }, index) => [

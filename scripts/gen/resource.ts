@@ -38,9 +38,10 @@ export const generateResource = (): void => {
 
   /** 版本信息 */
   const versionInfo = existsSync("./d/version.json")
-    ? <{ version: Record<string, number>; size: Record<string, number> }>(
-        JSON.parse(readFileSync("./d/version.json", { encoding: "utf-8" }))
-      )
+    ? (JSON.parse(readFileSync("./d/version.json", { encoding: "utf-8" })) as {
+        version: Record<string, number>;
+        size: Record<string, number>;
+      })
     : {
         version: {
           apartment: 0,

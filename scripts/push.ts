@@ -47,4 +47,4 @@ export const pushPages = (): Promise<void> => {
   });
 };
 
-pushPages();
+await pushPages();

@@ -1,6 +1,6 @@
 import { checkKeys } from "@mr-hope/assert-type";
 
-import { type DocComponentOptions } from "./typings.js";
+import type { DocComponentOptions } from "./typings.js";
 import { getAssetIconLink, resolveAlias } from "../utils.js";
 
 /**

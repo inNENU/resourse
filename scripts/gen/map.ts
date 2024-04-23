@@ -1,5 +1,5 @@
 import { resolvePage } from "../components/page.js";
-import { type PageConfig, type PageOptions } from "../components/typings.js";
+import type { PageConfig, PageOptions } from "../components/typings.js";
 import { resolveAlias } from "../components/utils.js";
 
 export const resolveLocationPage = (

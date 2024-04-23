@@ -2,9 +2,9 @@ import { existsSync } from "node:fs";
 
 import { checkKeys } from "@mr-hope/assert-type";
 
-import {
-  type FunctionalListComponentOptions,
-  type ListComponentOptions,
+import type {
+  FunctionalListComponentOptions,
+  ListComponentOptions,
 } from "./typings.js";
 import {
   getIconLink,

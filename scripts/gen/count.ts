@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
-import { type PageOptions } from "../components/typings.js";
+import type { PageOptions } from "../components/typings.js";
 import { getFileList, getWordNumber } from "../utils/index.js";
 
 export const getJSONValue = (content: unknown): string => {
@@ -26,11 +26,11 @@ export const getWords = (path: string): number => {
   let words = 0;
 
   getFileList(path, ".json").forEach((filePath) => {
-    const pageContent = <PageOptions>JSON.parse(
+    const pageContent = JSON.parse(
       readFileSync(resolve(path, filePath), {
         encoding: "utf-8",
       }),
-    );
+    ) as PageOptions;
 
     const content = getJSONValue(pageContent);
 

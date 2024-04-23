@@ -2,7 +2,7 @@ import { basename } from "node:path";
 
 import { checkKeys } from "@mr-hope/assert-type";
 
-import { type ImageComponentOptions } from "./typings.js";
+import type { ImageComponentOptions } from "./typings.js";
 import { resolveAlias } from "../utils.js";
 
 export const resolveImg = (
@@ -54,7 +54,7 @@ export const getImgMarkdown = (element: ImageComponentOptions): string => {
 
   return `\
 <figure>
-  <img src="${src}" alt="${desc || basename(src).replace(/\..+$/, "")}" />
+  <img src="${src}" alt="${desc ?? basename(src).replace(/\..+$/, "")}" />
   ${desc ? `<figcaption>${desc}</figcaption>` : ""}
 </figure>
 

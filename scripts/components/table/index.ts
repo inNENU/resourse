@@ -1,6 +1,6 @@
 import { assertType, checkKeys } from "@mr-hope/assert-type";
 
-import { type TableComponentOptions } from "./typings.js";
+import type { TableComponentOptions } from "./typings.js";
 
 export const resolveTable = (
   element: TableComponentOptions,

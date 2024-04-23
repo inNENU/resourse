@@ -18,7 +18,7 @@ import { resolvePhone } from "./phone/index.js";
 import { resolveTable } from "./table/index.js";
 import { resolveText } from "./text/index.js";
 import { resolveTitle } from "./title/index.js";
-import { type PageConfig, type PageOptions } from "./typings.js";
+import type { PageConfig, PageOptions } from "./typings.js";
 import { resolveAlias } from "./utils.js";
 import { resolveVideo } from "./video/index.js";
 
@@ -49,7 +49,7 @@ export const resolvePage = (
     ...(author
       ? { author: Array.isArray(author) ? author.join("、") : author }
       : {}),
-    cite: typeof cite === "string" ? [cite] : cite || [],
+    cite: typeof cite === "string" ? [cite] : cite ?? [],
     content: content.map((element, index) => {
       const { tag } = element;
       /** 当前位置 */

@@ -2,7 +2,7 @@ import { existsSync } from "node:fs";
 
 import { checkKeys } from "@mr-hope/assert-type";
 
-import { type TextComponentOptions } from "./typings.js";
+import type { TextComponentOptions } from "./typings.js";
 import {
   getMarkdownPath,
   indentMarkdownListItem,
@@ -89,7 +89,7 @@ ${
     : ""
 }\
 ${
-  type || heading
+  type ?? heading
     ? `${type ? `::: ${type === "danger" ? "caution" : type} ` : ""}${
         typeof heading === "string" ? `${type ? "" : "### "}${heading}` : ""
       }

@@ -1,4 +1,4 @@
-import { type BaseComponentOptions } from "../common.js";
+import type { BaseComponentOptions } from "../common.js";
 
 export interface TextComponentOptions extends BaseComponentOptions {
   /** 文字标签 */
