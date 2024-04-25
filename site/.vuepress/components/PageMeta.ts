@@ -20,45 +20,50 @@ export default defineComponent({
     const updateTime = useUpdateTime();
     const contributors = useContributors();
 
-    const editLink = computed(
-      () =>
-        `https://github.com/inNENU/resource/edit/main/pages${page.value.path
-          .replace(/\/$/, "/index.yml")
-          .replace(/\.html$/, ".yml")}`,
-    );
+    const editLink = computed(() => ({
+      text: "编辑此页",
+      link: `https://github.com/inNENU/resource/edit/main/pages${page.value.path
+        .replace(/\/$/, "/index.yml")
+        .replace(/\.html$/, ".yml")}`,
+    }));
 
     return (): VNode => {
       const { metaLocales } = themeLocale.value;
 
-      return h("footer", { class: "page-meta" }, [
+      return h("footer", { class: "vp-page-meta" }, [
         h(
           "div",
-          { class: "meta-item edit-link" },
+          { class: "vp-meta-item edit-link" },
           h(
             AutoLink,
-            {
-              class: "label",
-              config: { text: "编辑此页", link: editLink.value },
-            },
+            { class: "vp-meta-label", config: editLink.value },
             { before: () => h(EditIcon) },
           ),
         ),
-        h("div", { class: "meta-item git-info" }, [
+        h("div", { class: "vp-meta-item git-info" }, [
           updateTime.value
             ? h("div", { class: "update-time" }, [
-                h("span", { class: "label" }, `${metaLocales.lastUpdated}: `),
+                h(
+                  "span",
+                  { class: "vp-meta-label" },
+                  `${metaLocales.lastUpdated}: `,
+                ),
                 h(ClientOnly, () =>
-                  h("span", { class: "info" }, updateTime.value!),
+                  h("span", { class: "vp-meta-info" }, updateTime.value!),
                 ),
               ])
             : null,
           contributors.value?.length
             ? h("div", { class: "contributors" }, [
-                h("span", { class: "label" }, `${metaLocales.contributors}: `),
+                h(
+                  "span",
+                  { class: "vp-meta-label" },
+                  `${metaLocales.contributors}: `,
+                ),
                 contributors.value.map(({ email, name }, index) => [
                   h(
                     "span",
-                    { class: "contributor", title: `email: ${email}` },
+                    { class: "vp-meta-info", title: `email: ${email}` },
                     name,
                   ),
                   index !== contributors.value!.length - 1 ? "," : "",

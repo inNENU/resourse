@@ -1,4 +1,4 @@
-import { cut, cutForSearch, insertWord } from "nodejs-jieba";
+import { cut, insertWord } from "nodejs-jieba";
 import { fs, path } from "vuepress/utils";
 import { hopeTheme } from "vuepress-theme-hope";
 
@@ -89,17 +89,8 @@ export default hopeTheme(
       searchPro: {
         indexLocaleOptions: {
           "/": {
-            tokenize: (text, fieldName) => {
-              fs.writeFileSync(
-                "content",
-                JSON.stringify(cutForSearch(text, true), null, 2),
-                {
-                  flag: "a",
-                },
-              );
-
-              return fieldName === "id" ? [text] : cut(text, true);
-            },
+            tokenize: (text, fieldName) =>
+              fieldName === "id" ? [text] : cut(text, true),
           },
         },
       },
