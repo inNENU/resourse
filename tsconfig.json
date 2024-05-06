@@ -40,6 +40,7 @@
     "./scripts/**/*.ts",
     "./site/.vuepress/**/*.ts",
     "./site/.vuepress/**/*.vue",
-    "./typings/**/*.ts"
+    "./typings/**/*.ts",
+    "eslint.config.js"
   ]
 }
