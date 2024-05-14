@@ -1,4 +1,4 @@
-import { cut, insertWord } from "nodejs-jieba";
+import { insertWord } from "nodejs-jieba";
 import { fs, path } from "vuepress/utils";
 import { hopeTheme } from "vuepress-theme-hope";
 
@@ -63,21 +63,6 @@ export default hopeTheme(
 
       components: {
         components: ["VidStack"],
-        rootComponents: {
-          // notice: [
-          //   {
-          //     path: "/",
-          //     title: "本科招生章程",
-          //     content: "东师 2023 年本科招生章程已经发布",
-          //     actions: [
-          //       {
-          //         text: "查看详情",
-          //         link: "/intro/enroll/under/rule/",
-          //       },
-          //     ],
-          //   },
-          // ],
-        },
       },
 
       mdEnhance: {
@@ -86,14 +71,7 @@ export default hopeTheme(
         figure: true,
       },
 
-      searchPro: {
-        indexLocaleOptions: {
-          "/": {
-            tokenize: (text, fieldName) =>
-              fieldName === "id" ? [text] : cut(text, true),
-          },
-        },
-      },
+      searchPro: true,
     },
   },
   { custom: true },
