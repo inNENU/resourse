@@ -2,7 +2,7 @@ title: 学籍管理
 icon: archive
 grey: true
 author: Mr.Hope
-time: 2024-01-13T05:40:07.502Z
+time: 2024-05-22T10:29:46.694Z
 shareable: true
 content:
   - tag: list
@@ -16,7 +16,7 @@ content:
         icon: bed
         path: rest
 
-      - text: 退学
+      - text: 转学
         icon: change
         path: change
 
