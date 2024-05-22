@@ -1,14 +1,18 @@
 title: 普通话水平测试
 icon: putong
 author: Mr.Hope
-time: 2023-09-23T08:04:54.186Z
+time: 2024-05-22T11:27:02.814Z
 shareable: true
 content:
   - tag: list
     items:
-      - text: 2023 年公告
+      - text: 2024 年春季学期报名
         icon: notice
-        url: info-detail?title=普通话水平测试报名通知&url=/info/1056/15521.htm
+        url: notice-detail?id=010a911e4eb64db09b5c70fbfa940f90&title=关于2024年春季学期普通话水平测试网上报名工作的通知
+
+      - text: 2024 年春季学期工作安排
+        icon: notice
+        url: notice-detail?id=0dd6f24614b54c0797b4bfd526708d8b&title=关于2024年春季学期普通话水平测试工作安排的通知
 
   - tag: text
     type: info

@@ -1,7 +1,7 @@
 title: 本科生奖学金介绍
 icon: metal
 author: Mr.Hope
-time: 2023-09-23T11:16:45.577Z
+time: 2024-05-22T11:27:01.749Z
 shareable: true
 content:
   - tag: title
@@ -24,12 +24,13 @@ content:
       - 学年奖学金(包括校长奖学金、一等奖学金、二等奖学金、三等奖学金)
       - 单项奖学金
       - 国家励志奖学金
-      - 叶圣陶奖学金
 
   - tag: text
     heading: 次年 3 月
     text: 明德奖学金
 
   - tag: text
-    heading: 次年 6 月
-    text: 学年奖学金(针对毕业生)
+    heading: 次年 5月末或 6月初
+    text:
+      - 田家炳优秀师范生(针对师范专业应届毕业生)
+      - 学年奖学金(针对毕业生)

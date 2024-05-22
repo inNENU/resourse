@@ -1,16 +1,22 @@
 title: 英语免修评定
 icon: exemption
 author: Mr.Hope
-time: 2023-09-22T16:59:13.481Z
+time: 2024-05-22T11:27:02.404Z
 shareable: true
 content:
   - tag: list
     items:
-      - text: 2023 年通知
+      - text: 2024 年春季学期通知
         icon: notice
-        url: notice-detail?id=9c91e1354c4348fca64d2922f2b28640&title=关于开展2023年秋季学期大学英语免修工作的通知
+        url: notice-detail?id=fecf751a81464518a43be6cc98c79dad&title=关于开展2024年春季学期大学英语免修工作的通知
 
   # TODO: Update at 2024-09
+  - tag: text
+    type: info
+    heading: 2024 年春季学期时间安排
+    text:
+      - 3 月 13 日 10:00 至 3 月 15 日 16:00
+
   - tag: text
     type: info
     heading: 2023 年秋季学期时间安排
@@ -33,7 +39,7 @@ content:
       - |-
         满足下列条件之一的全日制本科生可免修 4 学分的大学英语语言基础课程，课程成绩按折算成百分数后 × 1.1 计算。
         (1) 大学英语四级成绩 533 分以上，且单项分数不低于 70%。
-        (2) 大学英语六级成绩 425 分以上，且单项分数不低于 60%。"
+        (2) 大学英语六级成绩 425 分以上，且单项分数不低于 60%。
       - “东北师范大学英语水平测试” 80 分以上的全日制本科生可免修剩余大学英语语言基础课程，课程成绩按折算成百分数后 × 1.1 计算。
 
   - tag: text

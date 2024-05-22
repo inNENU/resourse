@@ -2,9 +2,15 @@ title: 档案相关
 icon: archive
 grey: true
 author: Mr.Hope
-time: 2023-09-22T16:59:13.310Z
+time: 2024-05-22T11:27:02.118Z
 shareable: true
 content:
+  - tag: list
+    items:
+      - text: 2024届毕业生档案转递通知
+        icon: notice
+        url: notice-detail?id=b8d83a2dc43a432da8b944dacc8af1ff&title=关于做好2024届毕业生档案转递工作的通知
+
   - tag: list
     items:
       - text: 档案介绍

@@ -1,6 +1,14 @@
+- title: 2025 年寒假
+  icon: ./icon/vacation.svg
+  text: 2025 年 1 月 11 日 - 2024 年 2 月 16 日(共 5 周)
+
+- title: 2024 年秋季学期
+  icon: ./icon/study.svg
+  text: 2024 年 8 月 26 日 - 2025 年 1 月 10 日(共 20 周)
+
 - title: 2024 年暑假
   icon: ./icon/vacation.svg
-  text: 2024 年 7 月 1 日 - 2023 年 8 月 26 日(共 8 周)
+  text: 2024 年 7 月 1 日 - 2023 年 8 月 25 日(共 8 周)
 
 - title: 2024 年春季学期
   icon: ./icon/study.svg

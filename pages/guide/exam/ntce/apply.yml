@@ -1,9 +1,15 @@
 title: 中小学教师资格证申请
 icon: apply
 author: Mr.Hope
-time: 2023-09-23T08:04:54.170Z
+time: 2024-05-22T11:27:02.787Z
 shareable: true
 content:
+  - tag: list
+    items:
+      - text: 2024年应届本科毕业生申请教师资格证认定
+        icon: notice
+        url: notice-detail?id=75e35210b2e84993bffc84a1e9d2da12&title=关于2024年应届本科毕业生申请教师资格证认定工作的通知
+
   - tag: title
     text: 考试成绩合格科目有效期
 

@@ -1,14 +1,14 @@
-title: 关于 2023 年全日制本科生转专业工作的通知
+title: 关于 2024 年全日制本科生转专业工作的通知
 icon: notice
 shareable: true
 cite:
-  - https://m.nenu.edu.cn/page/viewNews?ID=39ee79086e0a41efb2332b91d53a16d2
+  - https://m.nenu.edu.cn/page/viewNews?ID=c7cb8fb01ab2452bb2ef32162f2f963b
 content:
   - tag: list
     items:
       - text: 通知详情
         icon: notice
-        url: notice-detail?id=39ee79086e0a41efb2332b91d53a16d2&title=关于2023年全日制本科生转专业工作的通知
+        url: notice-detail?id=c7cb8fb01ab2452bb2ef32162f2f963b&title=关于2024年全日制本科生转专业工作的通知
 
   - tag: title
     text: 相关信息
@@ -17,10 +17,6 @@ content:
     header: 转专业咨询
     fName: 转专业咨询
     num: 0431-85098320
-
-  - tag: action
-    header: 咨询邮箱
-    content: linmy100@nenu.edu.cn
 
   - tag: list
     header: false
