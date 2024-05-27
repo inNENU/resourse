@@ -1,7 +1,5 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
-import axios from "axios";
-
 import { resolveAlias } from "../components/utils.js";
 import { getFileList } from "../utils/index.js";
 
@@ -85,7 +83,7 @@ export const checkAccountDetail = (
 };
 
 export const genAccount = (filePath: string): Promise<void> => {
-  let content = readFileSync(`./data/account/${filePath}`, {
+  const content = readFileSync(`./data/account/${filePath}`, {
     encoding: "utf-8",
   });
 
@@ -96,22 +94,25 @@ export const genAccount = (filePath: string): Promise<void> => {
 
   return Promise.all(
     results.map((item) =>
-      axios.get<string>(item).then(({ data }) => {
-        const [, cover = ""] =
-          /<meta property="og:image" content="(.*?)" \/>/.exec(data) ?? [];
-        const [, title = ""] =
-          /<meta property="og:title" content="(.*?)" \/>/.exec(data) ?? [];
-        const [, desc = ""] =
-          /<meta property="og:description" content="(.*?)" \/>/.exec(data) ??
-          [];
+      fetch(item)
+        .then((res) => res.text())
+        .then((content) => {
+          const [, cover = ""] =
+            /<meta property="og:image" content="(.*?)" \/>/.exec(content) ?? [];
+          const [, title = ""] =
+            /<meta property="og:title" content="(.*?)" \/>/.exec(content) ?? [];
+          const [, desc = ""] =
+            /<meta property="og:description" content="(.*?)" \/>/.exec(
+              content,
+            ) ?? [];
 
-        content = content.replace(
-          `- url: ${item}`,
-          `- cover: ${cover}\n    title: ${decodeText(title)}\n${
-            desc ? `    desc: ${decodeText(desc)}\n` : ""
-          }    url: ${item}`,
-        );
-      }),
+          content = content.replace(
+            `- url: ${item}`,
+            `- cover: ${cover}\n    title: ${decodeText(title)}\n${
+              desc ? `    desc: ${decodeText(desc)}\n` : ""
+            }    url: ${item}`,
+          );
+        }),
     ),
   ).then(() => {
     writeFileSync(`./data/account/${filePath}`, content, {

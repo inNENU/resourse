@@ -1,5 +1,3 @@
-import axios from "axios";
-
 import { appIDInfo } from "./info.js";
 import { getFileList } from "./utils/index.js";
 
@@ -24,19 +22,19 @@ export const pushPages = (): Promise<void> => {
 
   const promises = appidList.map((appid) =>
     Number.isNaN(Number(appid))
-      ? axios
-          // eslint-disable-next-line @typescript-eslint/naming-convention
-          .get<{ access_token: string }>(
-            `https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=${appid}&secret=${appIDInfo[appid]}`,
-          )
-          .then(({ data }) =>
-            axios.post(
+      ? fetch(
+          `https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=${appid}&secret=${appIDInfo[appid]}`,
+        )
+          .then((res) => res.json() as Promise<{ access_token: string }>)
+          .then((data) =>
+            fetch(
               // eslint-disable-next-line @typescript-eslint/naming-convention
               `https://api.weixin.qq.com/wxa/search/wxaapi_submitpages?access_token=${data.access_token}`,
-              { pages: pageLists },
+              { method: "post", body: JSON.stringify({ pages: pageLists }) },
             ),
           )
-          .then(({ data }) => {
+          .then((res) => res.json())
+          .then((data) => {
             console.log(data);
           })
       : Promise.resolve(),

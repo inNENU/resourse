@@ -34,11 +34,10 @@
   "dependencies": {
     "@mdit-vue/plugin-frontmatter": "2.1.3",
     "@mr-hope/assert-type": "3.0.0",
-    "@vuepress/bundler-vite": "2.0.0-rc.9",
-    "@vuepress/plugin-feed": "2.0.0-rc.28",
+    "@vuepress/bundler-vite": "2.0.0-rc.12",
+    "@vuepress/plugin-feed": "2.0.0-rc.31",
     "@vueuse/core": "10.9.0",
     "ali-oss": "6.20.0",
-    "axios": "1.6.8",
     "cheerio": "1.0.0-rc.12",
     "del": "7.1.0",
     "dotenv": "16.4.5",
@@ -49,10 +48,10 @@
     "qrcode": "1.5.3",
     "vidstack": "1.11.21",
     "vue": "3.4.27",
-    "vuepress": "2.0.0-rc.9",
-    "vuepress-plugin-search-pro": "2.0.0-rc.43",
-    "vuepress-shared": "2.0.0-rc.43",
-    "vuepress-theme-hope": "2.0.0-rc.43"
+    "vuepress": "2.0.0-rc.12",
+    "vuepress-plugin-search-pro": "2.0.0-rc.44",
+    "vuepress-shared": "2.0.0-rc.44",
+    "vuepress-theme-hope": "2.0.0-rc.44"
   },
   "devDependencies": {
     "@types/ali-oss": "6.16.11",
@@ -66,11 +65,11 @@
     "husky": "9.0.11",
     "nano-staged": "0.8.0",
     "prettier": "3.2.5",
-    "tsx": "4.10.2",
+    "tsx": "4.11.0",
     "typescript": "5.4.5",
     "vitest": "1.6.0"
   },
-  "packageManager": "pnpm@9.1.1",
+  "packageManager": "pnpm@9.1.2",
   "nano-staged": {
     "**/*": "prettier --write --ignore-unknown",
     "*.{js,ts}": "eslint --fix"
