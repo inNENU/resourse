@@ -129,7 +129,7 @@ main-presets:
           color: purple
           name: Scholarship
           icon: metal
-          path: guide/scholarship/
+          path: intro/scholarship/
 
         - text: 图书馆
           color: blue

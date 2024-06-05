@@ -176,10 +176,6 @@ highlights:
         icon: https://mp.innenu.com/data/icon/study.svg
         link: ./guide/study/
 
-      - title: 奖学金
-        icon: https://mp.innenu.com/data/icon/metal.svg
-        link: ./guide/scholarship/
-
       - title: 选课
         icon: https://mp.innenu.com/data/icon/select.svg
         link: ./guide/select/
@@ -244,6 +240,10 @@ highlights:
       - title: 学校概况
         icon: https://mp.innenu.com/data/icon/about.svg
         link: ./intro/about/
+
+      - title: 奖学金
+        icon: https://mp.innenu.com/data/icon/metal.svg
+        link: ./intro/scholarship/
 
       - title: 学科建设
         icon: https://mp.innenu.com/data/icon/content.svg
