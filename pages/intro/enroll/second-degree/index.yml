@@ -2,19 +2,23 @@ title: 第二学士招生简章
 icon: rule
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.455Z
+time: 2024-06-06T13:09:35.387Z
 shareable: true
 content:
   - tag: list
-    header: 2023 年
+    header: 2025 年
+    items:
+      - text: 2025 年第二学士学位招生简章
+        icon: rule
+        path: "2024"
+
+  - tag: list
+    header: 历史信息
     items:
       - text: 2023 年第二学士学位招生简章
         icon: rule
         path: "2023"
 
-  - tag: list
-    header: 历史信息
-    items:
       - text: 2022 年第二学士学位招生简章
         icon: rule
         path: "2022"

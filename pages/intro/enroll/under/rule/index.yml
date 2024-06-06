@@ -2,9 +2,21 @@ title: 本科招生简章
 icon: rule
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.496Z
+time: 2024-06-06T13:09:35.469Z
 shareable: true
 content:
+  - tag: list
+    header: 2024 年
+    items:
+      - text: 2024 年本科招生章程
+        path: "2024"
+
+      - text: 2024 年本科招生体检要求
+        path: 2024-requirement
+
+      - text: 2024 年高校专项计划招生简章
+        path: 2024-plan
+
   - tag: list
     header: 2023 年
     items:
