@@ -19,7 +19,7 @@
       env:
         - web
 
-    - text: 历史分数线
+    - text: 历史分数线线
       icon: time
       name: Grade
       url: under-history-grade
@@ -28,7 +28,7 @@
         - qq
         - wx
 
-    - text: 历史分数线
+    - text: 历史分数线线
       icon: time
       name: Grade
       url: web?url=http://bkzsw.nenu.edu.cn/col_000018_000170.html

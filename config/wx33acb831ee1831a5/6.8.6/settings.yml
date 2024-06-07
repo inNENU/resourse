@@ -424,7 +424,7 @@ function-presets:
         #       icon: enroll
         #       url: under-enroll-plan
 
-        #     - text: 历史分数
+        #     - text: 历史分数线
         #       name: History grade
         #       color: purple
         #       icon: time
@@ -719,7 +719,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1048891 字，其中东师指南部分 322229 字，新生迎新部分 102089 字，东师介绍部分 325666 字，机构介绍部分 70756 字，学院介绍部分 144199 字，功能大厅部分 36087 字，其他部分 47865 字。
+      - text: 小程序现有字数为 1048895 字，其中东师指南部分 322229 字，新生迎新部分 102089 字，东师介绍部分 325667 字，机构介绍部分 70756 字，学院介绍部分 144199 字，功能大厅部分 36090 字，其他部分 47865 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about

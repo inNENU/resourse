@@ -317,7 +317,7 @@ under-enroll:
       icon: enroll
       url: under-enroll-plan
 
-    - text: 历史分数
+    - text: 历史分数线
       name: History grade
       color: purple
       icon: time

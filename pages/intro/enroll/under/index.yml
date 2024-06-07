@@ -2,7 +2,7 @@ title: 本科招生
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-07T12:23:32.991Z
+time: 2024-06-07T12:42:22.855Z
 shareable: true
 content:
   - tag: list
@@ -23,7 +23,7 @@ content:
           - qq
           - wx
 
-      - text: 历史分数线
+      - text: 历史分数线线
         icon: time
         url: under-history-grade
         env:
@@ -42,7 +42,7 @@ content:
   #     - web
 
   # - tag: action
-  #   header: 历史分数线
+  #   header: 历史分数线线
   #   content: http://bkzsw.nenu.edu.cn/col_000018_000170.html
   #   env:
   #     - web
