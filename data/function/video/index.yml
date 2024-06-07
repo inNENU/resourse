@@ -10,15 +10,15 @@
 
     - name: 遇见东师
       author: 传媒科学学院
-      src: https://www.nenu.edu.cn/_upload/article/videos/86/ef/5c54a73e4aabbfa9908d70d407f9/6b17fee5-f6c5-471d-a984-b86059d65327_B.mp4
+      src: https://iso.nenu.edu.cn/__local/4/5F/DD/DEE0A444E611FDB8D9BDEF70C7B_430900EA_2EB4EDB5.mp4?e=.mp4
+
+    - name: 东师介绍
+      author: 传媒科学学院
+      src: https://iso.nenu.edu.cn/__local/F/FA/51/1AAC61DE58C83FA431442ADAB23_150031EA_1637EC6E.mp4?e=.mp4
 
     - name: New Experience New Us
       author: 东北师范大学党委宣传部
-      src: https://www.nenu.edu.cn/_upload/article/videos/32/b8/e76e9c994b4cbbbd39e8a15e5b3a/a20a8299-b782-4b10-9543-e816c6e2e336.mp4
-
-    - name: 东师校歌 MV
-      author: 东北师范大学
-      src: https://www.nenu.edu.cn/xgmv.mp4
+      src: https://www.nenu.edu.cn/__local/3/2C/19/A8BD44CA62044B29F2647973D86_11048612_3BE1054.mp4?e=.mp4
 
 - title: 院长说专业
   list:
@@ -157,21 +157,25 @@
   list:
     - name: 东北师范大学校歌
       author: "作词: 公木   作曲: 吕远"
-      src: https://www.nenu.edu.cn/xgmv.mp4
+      src: https://www.nenu.edu.cn/__local/4/80/FF/5686A4F7574E94775CF301CCD1B_A00DE74A_1C1680ED.mp4?e=.mp4
 
 - title: 东师人物
   list:
-    - name: 纪念郑德荣
+    - name: 郑德荣
       author: 东北师范大学党委宣传部
-      src: https://www.nenu.edu.cn/_upload/article/videos/65/1c/95a61dfa4c78b1845cda528c021d/55c6d9f1-5ad1-48e1-b61e-05a92420eca4_B.mp4
+      src: https://www.nenu.edu.cn/__local/A/D1/E1/C434EF6FAC62CFB5DC48D8A9D80_6A97A355_7357717.mp4?e=.mp4
 
     - name: 成仿吾 1
       author: 东北师范大学党委宣传部
-      src: https://www.nenu.edu.cn/_upload/article/videos/eb/90/de8f1846463ba2a203fbdcd25cc6/89da0620-5953-4d57-b332-a24cc2ae8073.mp4
+      src: https://dsxxjy.nenu.edu.cn/__local/9/9F/DE/84F4861A15D67D688C9DDBA0257_93E97784_AF87130.mp4?e=.mp4
 
     - name: 成仿吾 2
       author: 东北师范大学党委宣传部
-      src: https://www.nenu.edu.cn/_upload/article/videos/61/d6/9b1561304809a197038aeb6e9e55/f5207709-d950-4876-a566-7bcb1416c125_B.mp4
+      src: https://dsxxjy.nenu.edu.cn/__local/8/F2/DA/24592A07E2E26DFDCFD8FD33770_2E4E8866_1F433C50.mp4?e=.mp4
+
+    - name: 成仿吾 3
+      author: 东北师范大学党委宣传部
+      src: https://dsxxjy.nenu.edu.cn/__local/3/74/10/55CA96E1E032442F12173A3F943_810B1E16_2B2A917C.mp4?e=.mp4
 
 - title: 远方有你
   list:
@@ -197,8 +201,12 @@
 
     - name: 远方有你 2019 版
       author: 东北师范大学党委学生工作部
-      src: https://www.nenu.edu.cn/_upload/article/videos/82/f4/8e8390c8414db5c4341b20f5809f/e28aa22b-1f92-4232-9a47-e5fdfc4043c9.mp4
+      src: https://www.nenu.edu.cn/__local/C/B1/B7/BB910ADF2A9110D53D94009C83A_854D06D4_471B31C.mp4?e=.mp4
 
     - name: 远方有你 2018 版
       author: 东北师范大学党委学生工作部
-      src: https://www.nenu.edu.cn/_upload/article/videos/ff/9a/daa2444c4b169d11c30408b8415f/088f791a-fbaa-4af4-a092-4734c584d3ae_B.mp4
+      src: https://www.nenu.edu.cn/__local/1/0F/03/2A5A358E3BE25CF107BF99032B1_AF71CDFF_A21F4C9.mp4?e=.mp4
+
+    - name: 远方有你 2017 版
+      author: 东北师范大学党委学生工作部
+      src: https://www.nenu.edu.cn/__local/3/56/7E/53A53793BD8CADFED12ADBFECBD_BACF2509_8DA9FC3.mp4?e=.mp4
