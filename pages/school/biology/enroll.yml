@@ -1,7 +1,7 @@
 title: 生命科学学院招生
 icon: enroll
 author: Mr.Hope
-time: 2023-10-29T17:18:49.955Z
+time: 2024-06-07T07:49:34.797Z
 shareable: true
 content:
   - tag: title
@@ -37,9 +37,12 @@ content:
   - tag: title
     text: 硕士研究生招生概况
 
-  - tag: action
-    header: 查询地址
-    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+  - tag: list
+    header: false
+    items:
+      - text: 查询地址
+        icon: search
+        url: post-enroll-plan?school=生命科学学院
 
   - tag: phone
     header: 招生负责人

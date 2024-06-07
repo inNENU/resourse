@@ -1,7 +1,7 @@
 title: 国际汉学院招生
 icon: enroll
 author: Mr.Hope
-time: 2023-10-29T17:18:50.080Z
+time: 2024-06-07T07:49:35.036Z
 shareable: true
 cite:
   - https://scs.nenu.edu.cn/info/1030/1054.htm
@@ -27,9 +27,12 @@ content:
   - tag: title
     text: 硕士研究生招生概况
 
-  - tag: action
-    header: 查询地址
-    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+  - tag: list
+    header: false
+    items:
+      - text: 查询地址
+        icon: search
+        url: post-enroll-plan?school=国际汉学院（海外教育学院）
 
   - tag: phone
     header: 硕士研究生招生咨询电话

@@ -1,7 +1,7 @@
 title: 历史文化学院招生
 icon: enroll
 author: Mr.Hope
-time: 2023-10-29T17:18:50.068Z
+time: 2024-06-07T07:49:35.014Z
 shareable: true
 content:
   - tag: title
@@ -63,9 +63,12 @@ content:
   - tag: img
     src: $img/enroll/history-master-all.png
 
-  - tag: action
-    header: 查询地址
-    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+  - tag: list
+    header: false
+    items:
+      - text: 查询地址
+        icon: search
+        url: post-enroll-plan?school=历史文化学院
 
   - tag: phone
     header: 硕士研究生招生咨询电话

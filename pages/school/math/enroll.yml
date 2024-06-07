@@ -2,7 +2,7 @@ title: 数学与统计学院招生
 icon: enroll
 desc: |-
   来源: 2023 年本科招生指南
-time: 2023-10-29T17:18:50.112Z
+time: 2024-06-07T07:49:35.091Z
 cite:
   - https://book.eol.cn/books/kpeu/mobile/index.html
 shareable: true
@@ -74,9 +74,12 @@ content:
   - tag: title
     text: 硕士研究生招生概况
 
-  - tag: action
-    header: 查询地址
-    content: https://yzb.nenu.edu.cn/tmp/2023ssml.htm
+  - tag: list
+    header: false
+    items:
+      - text: 查询地址
+        icon: search
+        url: post-enroll-plan?school=数学与统计学院
 
   - tag: phone
     header: 硕士研究生招生咨询电话
