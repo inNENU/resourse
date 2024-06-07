@@ -2,7 +2,7 @@ title: 招生情况
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2023-09-23T12:19:59.358Z
+time: 2024-06-07T11:17:24.871Z
 shareable: true
 content:
   - tag: list
@@ -14,7 +14,7 @@ content:
 
       # - text: 2023 年招生计划
       #   icon: rule
-      #   url: enroll-plan
+      #   url: under-enroll-plan
       #   env:
       #     - app
       #     - qq

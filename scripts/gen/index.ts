@@ -7,8 +7,6 @@ import { checkAccount, checkAccountDetail } from "./account.js";
 import { count } from "./count.js";
 import type { Donate } from "./donate.js";
 import { genDonate } from "./donate.js";
-import { genEnrollPlan } from "./enroll-plan.js";
-import { genHistoryResult } from "./history-grade.js";
 import { genIcon } from "./icon.js";
 import { generateLicense } from "./license.js";
 import { genLyric } from "./lyric.js";
@@ -85,10 +83,6 @@ genIcon();
 
 // 生成歌词
 genLyric();
-
-// 生成招生相关资源
-genEnrollPlan();
-genHistoryResult();
 
 // 生成捐赠
 convertYml2Json("./config/donate", "./d/other/donate", (data, filePath) =>

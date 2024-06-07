@@ -2,7 +2,7 @@ title: 本科招生
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-06T13:09:35.406Z
+time: 2024-06-07T11:17:24.952Z
 shareable: true
 content:
   - tag: list
@@ -17,7 +17,7 @@ content:
     items:
       - text: 招生计划
         icon: rule
-        url: enroll-plan
+        url: under-enroll-plan
         env:
           - app
           - qq

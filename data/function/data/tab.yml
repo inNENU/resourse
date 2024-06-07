@@ -315,7 +315,7 @@ under-enroll:
       name: Plan
       color: orange
       icon: enroll
-      url: enroll-plan
+      url: under-enroll-plan
 
     - text: 历史分数
       name: History grade

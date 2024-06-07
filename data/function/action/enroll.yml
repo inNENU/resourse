@@ -6,7 +6,7 @@
     - text: 2023 年本科招生计划
       icon: rule
       name: Enroll
-      url: enroll-plan
+      url: under-enroll-plan
       env:
         - app
         - qq
