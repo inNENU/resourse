@@ -227,19 +227,19 @@ main-presets:
 intro-page:
   unlogin:
     items:
-      - under-enroll
-      - grad-enroll
+      # - under-enroll
+      # - grad-enroll
       - about
-      - school
+      # - school
     more:
       - apartment
 
   default:
     items:
       - about
+      # - school
       - apartment
     more:
-      - school
       - under-enroll
       - grad-enroll
 
@@ -252,7 +252,7 @@ guide-page:
       - newcomer
     more:
       - account
-      - service
+      # - service
       - tip
       - graduate
 
@@ -261,7 +261,7 @@ guide-page:
       - life
       - account
       - enjoy
-      - service
+      # - service
       - study
       - tip
       - newcomer
@@ -282,7 +282,7 @@ guide-page:
 
   default:
     items:
-      - service
+      # - service
       - study
       - life
     more:
@@ -316,17 +316,17 @@ function-presets:
           icon: map
           url: map
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+        # - text: 音悦东师
+        #   color: blue
+        #   name: Music
+        #   icon: cd
+        #   url: music
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+        # - text: 影约东师
+        #   color: mauve
+        #   name: Media
+        #   icon: media
+        #   url: video?type=video
 
         - text: 校园媒体
           color: grey
@@ -334,44 +334,44 @@ function-presets:
           icon: account
           url: school-media
 
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: announcement-list
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: announcement-list
 
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: info-list?type=news
 
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: info-list?type=media
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: info-list?type=media
 
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: marx
-          url: info-list?type=social
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: info-list?type=social
 
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: info-list?type=science
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: info-list?type=science
 
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: academic-list
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: academic-list
 
     - tag: grid
       header: 信息查询
@@ -430,11 +430,11 @@ function-presets:
         #       icon: time
         #       url: under-history-grade
 
-        - text: 录取查询
-          name: Admission
-          color: cyan
-          icon: letter
-          url: admission?type=search
+        # - text: 录取查询
+        #   name: Admission
+        #   color: cyan
+        #   icon: letter
+        #   url: admission?type=search
 
     - tag: list
       items:
@@ -443,6 +443,36 @@ function-presets:
       footer: " "
 
   at-school:
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/calendar.jpg
+    #   title: 校历
+    #   logo: calendar
+    #   url: calendar
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/map.jpg
+    #   title: 校园地图
+    #   logo: map
+    #   url: map
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/admission.jpg
+    #   title: 录取查询
+    #   logo: letter
+    #   url: admission?type=search
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/headphone.jpg
+    #   title: 音悦东师
+    #   logo: cd
+    #   url: music
+
+    # - tag: card
+    #   cover: https://assets.innenu.com/img/tab/video.jpg
+    #   title: 影约东师
+    #   logo: media
+    #   url: video?type=video
+
     - tag: grid
       header: 融合门户
       items:
@@ -524,17 +554,17 @@ function-presets:
           icon: map
           url: map
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+        # - text: 音悦东师
+        #   color: blue
+        #   name: Music
+        #   icon: cd
+        #   url: music
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+        # - text: 影约东师
+        #   color: mauve
+        #   name: Media
+        #   icon: media
+        #   url: video?type=video
 
         - text: 校园媒体
           color: grey
@@ -542,44 +572,44 @@ function-presets:
           icon: account
           url: school-media
 
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: announcement-list
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: announcement-list
 
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: info-list?type=news
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: info-list?type=news
 
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: info-list?type=media
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: info-list?type=media
 
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: marx
-          url: info-list?type=social
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: info-list?type=social
 
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: info-list?type=science
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: info-list?type=science
 
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: academic-list
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: academic-list
 
     - tag: grid
       header: 信息查询
@@ -617,17 +647,11 @@ function-presets:
           icon: authorize
           url: activate
 
-        - text: 密码重置
-          color: grey
-          name: Reset
-          icon: reset
-          url: reset
-
-        # - text: 邮箱申请
-        #   color: purple
-        #   name: Email
-        #   icon: email
-        #   url: apply-email
+        - text: 邮箱申请
+          color: purple
+          name: Email
+          icon: email
+          url: apply-email
 
     - tag: grid
       header: 工具
@@ -665,11 +689,11 @@ user:
         icon: about
         url: about
 
-  - tag: text
+  - tag: p
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 104 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 104 万字。
     style: "color: #888; font-size: 14px"
 
   - tag: functional-list
@@ -716,16 +740,6 @@ about:
       - text: 致谢名单
         url: info?path=Oabout/thanks
 
-  - tag: functional-list
-    header: 支持小程序
-    items:
-      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
-
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-
   - tag: text
     heading: 小程序内容
     text:
@@ -743,25 +757,21 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  special-exam: online
+  course-grade: local
+  course-table: local
+  info-detail: local
+  info-list: local
+  notice-detail: local
+  notice-list: local
   under-grade-detail: online
   under-grade-list: online
   post-login: online
+  special-exam: online
 
 notice:
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
-  activate:
-    title: 手机验证码
-    content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
-  app:
-    title: 请关注公众号
-    content: 建议关注微信公众号 inNENU 获取小程序、App 发布说明、更新信息与运行情况说明。
-  grade:
-    title: 更新说明
-    content: 本科生成绩查询已从旧系统切换至系统，并有重大更改。建议关注 inNENU 公众号并查看最新推文。
-    force: true
 
 update:
   force: false
