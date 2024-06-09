@@ -744,8 +744,8 @@ about:
 
 service:
   forceOnline: true
-  under-grade-detail: online
   under-grade-list: online
+  under-grade-detail: online
   post-login: online
   special-exam: online
 

@@ -82,6 +82,10 @@
     "service": {
       "type": "object",
       "properties": {
+        "forceOnline": {
+          "description": "强制转用线上",
+          "type": "boolean"
+        },
         "academic-detail": {
           "description": "学术预告详情",
           "$ref": "#/$defs/service-status"
@@ -167,7 +171,11 @@
           "$ref": "#/$defs/service-status"
         },
         "under-grade-list": {
-          "description": "本科生成绩系统登录",
+          "description": "本科生成绩",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-grade-detail": {
+          "description": "本科生成绩详情",
           "$ref": "#/$defs/service-status"
         },
         "create-archive": {
