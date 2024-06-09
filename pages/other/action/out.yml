@@ -19,7 +19,7 @@ content:
         color: cyan
         name: MyNenu
         icon: network
-        url: web?url=https://my.webvpn.nenu.edu.cn/
+        url: web?url=https://my-443.webvpn.nenu.edu.cn/
 
       - text: 校园邮箱
         color: olive

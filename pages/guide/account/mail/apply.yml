@@ -1,7 +1,7 @@
 title: 校园邮箱申请
 icon: apply
 author: Mr.Hope
-time: 2023-09-22T16:59:13.251Z
+time: 2024-06-09T11:20:25.670Z
 shareable: true
 content:
   - tag: text
@@ -33,7 +33,7 @@ content:
 
   - tag: action
     header: 校外访问
-    content: https://my.webvpn.nenu.edu.cn/
+    content: https://my-443.webvpn.nenu.edu.cn/
 
   - tag: text
     text:

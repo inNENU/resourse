@@ -27,7 +27,7 @@ content:
 
   - tag: action
     header: 网上服务大厅 （关注能够正确获取到自己的身份，无错误弹窗提示）
-    content: https://my.webvpn.nenu.edu.cn/
+    content: https://my-443.webvpn.nenu.edu.cn/
 
   - tag: text
     type: warning
