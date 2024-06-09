@@ -743,7 +743,7 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  forceOnline: true
+  # forceOnline: true
   under-grade-list: online
   under-grade-detail: online
   post-login: online
