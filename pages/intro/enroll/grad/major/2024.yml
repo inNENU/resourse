@@ -2,7 +2,7 @@ title: 东北师范大学 2024 年研究生全国推免与统考招生专业目�
 icon: list
 desc: |-
   来源: 研究生院官网
-time: 2024-06-07T07:49:36.025Z
+time: 2024-06-09T21:53:23.944Z
 shareable: true
 content:
   - tag: text
@@ -14,11 +14,11 @@ content:
     items:
       - text: 2024 年研究生推免计划
         icon: content
-        url: enroll-post-plan?recommend=true
+        url: post-enroll-plan?recommend=true
 
       - text: 2024 年研究生招生计划
         icon: content
-        url: enroll-post-plan
+        url: post-enroll-plan
 
   # - tag: action
   #   header: 查询地址
