@@ -1,10 +1,10 @@
 main-page:
-  unlogin: unlogin
+  guest: guest
   "2023": newcomer
   default: at-school
 
 main-presets:
-  unlogin:
+  guest:
     - tag: grid
       header: 您可能想关注
       items:
@@ -225,7 +225,7 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
 intro-page:
-  unlogin:
+  guest:
     items:
       # - under-enroll
       # - grad-enroll
@@ -244,7 +244,7 @@ intro-page:
       - grad-enroll
 
 guide-page:
-  unlogin:
+  guest:
     items:
       - life
       - study
@@ -293,11 +293,11 @@ guide-page:
       - graduate
 
 function-page:
-  unlogin: unlogin
+  guest: guest
   default: at-school
 
 function-presets:
-  unlogin:
+  guest:
     - tag: grid
       header: 账号激活
       items:

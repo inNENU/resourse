@@ -13,7 +13,7 @@
       "type": "object",
       "description": "主页显示配置",
       "patternProperties": {
-        "^(\\d{4}|unlogin|default)": { "type": "string" }
+        "^(\\d{4}|guest|default)": { "type": "string" }
       }
     },
     "main-presets": {
@@ -26,7 +26,7 @@
     "function-page": {
       "type": "object",
       "patternProperties": {
-        "^(\\d{4}|unlogin|default)": { "type": "string" }
+        "^(\\d{4}|guest|default)": { "type": "string" }
       }
     },
     "function-presets": {
@@ -40,7 +40,7 @@
     "intro-page": {
       "type": "object",
       "patternProperties": {
-        "^(\\d{4}|unlogin|default)": {
+        "^(\\d{4}|guest|default)": {
           "type": "object",
           "properties": {
             "items": {
@@ -58,7 +58,7 @@
     "guide-page": {
       "type": "object",
       "patternProperties": {
-        "^(\\d{4}|unlogin|default)": {
+        "^(\\d{4}|guest|default)": {
           "type": "object",
           "properties": {
             "items": {
