@@ -130,13 +130,17 @@ article:
     url: https://mp.weixin.qq.com/s/4dYZmq5PMgHwOPgV4H8rDQ
 
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoOuKxwozqciaQhsBHhI4x6XJqcgsrLSict7EcWCyuVleQTfEicvNQMBEMpNzpriciaxTNqOcg0l4ZOyibg/0?wx_fmt=jpeg
-    title: 文学青年行动计划 | 讲座：有形的诗和无形的诗
-    desc: 文学青年行动计划 | 讲座：有形的诗和无形的诗
+    title: |-
+      文学青年行动计划 | 讲座: 有形的诗和无形的诗
+    desc: |-
+      文学青年行动计划 | 讲座: 有形的诗和无形的诗
     url: https://mp.weixin.qq.com/s/6VddnLzPnaRq6NFpq9nneQ
 
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoOuKxwozqciaQhsBHhI4x6XJqcgsrLSict7EcWCyuVleQTfEicvNQMBEMpNzpriciaxTNqOcg0l4ZOyibg/0?wx_fmt=jpeg
-    title: 文学青年行动计划｜讲座：从主题创作看文学基因
-    desc: 文学青年行动计划｜讲座：从主题创作看文学基因
+    title: |-
+      文学青年行动计划｜讲座: 从主题创作看文学基因
+    desc: |-
+      文学青年行动计划｜讲座: 从主题创作看文学基因
     url: https://mp.weixin.qq.com/s/PQDJnNyO92xqS1XfqMiGBw
 
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfoOuKxwozqciaQhsBHhI4x6XJqcgsrLSict7EcWCyuVleQTfEicvNQMBEMpNzpriciaxTNqOcg0l4ZOyibg/0?wx_fmt=jpeg
@@ -285,12 +289,14 @@ article:
     url: https://mp.weixin.qq.com/s/kxFU9cZxyVN1Iui8xtNGvQ
 
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrajibTznutpfsoL2opljwib1ibIrd1L4MmywGv3rmPyShqzsXrJsluX1kf0EgFNN6ugHIHvlpuK9HJw/0?wx_fmt=jpeg
-    title: 帮推｜饮风文学社纳新&“百团大战”活动预告：一阵风拍了拍你，并向你投出橄榄枝
+    title: |-
+      帮推｜饮风文学社纳新&“百团大战”活动预告: 一阵风拍了拍你，并向你投出橄榄枝
     desc: 饮风文学社招新啦！
     url: https://mp.weixin.qq.com/s/ylqNVwx-UjGNVuuXKFn8CQ
 
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrajibTznutpfsoL2opljwib1dbozwyxLZke6CPcWb1eKj4DW0KrFibgGxtSUAicWaWmf4BqSuOCxFibvg/0?wx_fmt=jpeg
-    title: 帮推丨文学院青马学会纳新：青马起航，青春飞扬
+    title: |-
+      帮推丨文学院青马学会纳新: 青马起航，青春飞扬
     desc: 文学院青年马克思主义者学习研究会开始纳新啦！
     url: https://mp.weixin.qq.com/s/rkuqjsIx-uschHl5E6HmZw
 
@@ -300,7 +306,8 @@ article:
     url: https://mp.weixin.qq.com/s/T5HSYm3P_iDVxES5Uz6otw
 
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/kEqMDVjicTfrVue8HhmlUqSZSiaZTjcq52QLfqb025WOgFUTogIplXt8SRuYMOgPpBTsEdYeiaj4YicxuEYEICcgSQ/0?wx_fmt=jpeg
-    title: 帮推｜“志远”支教团纳新：励志教育，与爱同行
+    title: |-
+      帮推｜“志远”支教团纳新: 励志教育，与爱同行
     desc: “志远”支教团纳新啦！
     url: https://mp.weixin.qq.com/s/0QWN6Vo04-ghgfK4ukdT-A
 

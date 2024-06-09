@@ -1,13 +1,14 @@
 title: 退学
 icon: ban
 author: Mr.Hope
-time: 2024-01-13T05:40:07.509Z
+time: 2024-06-09T21:26:41.668Z
 shareable: true
 cite:
   - https://jwc.nenu.edu.cn/ggmb/content3.jsp?urltype=tree.TreeTempUrl&wbtreeid=1948
 content:
   - tag: p
-    text: 有下列情形之一的，可予退学处理：
+    text: |-
+      有下列情形之一的，可予退学处理:
 
   - tag: ol
     text:

@@ -234,22 +234,26 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
     title: 通知 |关于公布高等教育 (本科) 教学成果培育项目评审结果的通知
-    desc: 各学院 (部) 、各单位：　　根据《关于开展高等教育 (本科) 教学成果培育工作的通知》，学校开展了高等教育 (本科)
+    desc: |-
+      各学院 (部) 、各单位: 根据《关于开展高等教育 (本科) 教学成果培育工作的通知》，学校开展了高等教育 (本科)
     url: https://mp.weixin.qq.com/s/NvXLHFSvjkQVPo7LjEhIQQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
     title: 通知| 关于开展2023年秋季学期全日制本科生赴境内外大学交流学习的课程成绩认定工作的通知
-    desc: 各学院 (部) ：　　根据《东北师范大学本科生赴境内外大学交流学习的课程认定暂行办法》 (附件1) ，现对全日制本科
+    desc: |-
+      各学院 (部) : 根据《东北师范大学本科生赴境内外大学交流学习的课程认定暂行办法》 (附件1) ，现对全日制本科
     url: https://mp.weixin.qq.com/s/7eWwc1ANgttv00fHaxYB9w
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
     title: 通知|关于开展吉林省职业教育“十四五”规划教材遴选推荐工作的通知
-    desc: 各学院 (部) 、各单位：　　为推进高水平教材体系建设，根据吉林省教育厅《关于开展吉林省职业教育“十四五”规划教
+    desc: |-
+      各学院 (部) 、各单位: 为推进高水平教材体系建设，根据吉林省教育厅《关于开展吉林省职业教育“十四五”规划教
     url: https://mp.weixin.qq.com/s/bgdg2y_k0IDrocNes9A2pg
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy20afjibSw9K7OPXEZy3JK39OjO1677brhvJWBJowCGKKoCKH7wh03gUqwXe64lKT0FtrApaDhs33g/0?wx_fmt=jpeg
     title: 通知|关于划拨2023年秋季学期本科课程交叉课时费的通知
-    desc: 各学院 (部) 及相关开课单位：　　现将2023年秋季学期本科课程交叉课时费补贴予以公示 (具体发放情况见附件) ，
+    desc: |-
+      各学院 (部) 及相关开课单位: 现将2023年秋季学期本科课程交叉课时费补贴予以公示 (具体发放情况见附件) ，
     url: https://mp.weixin.qq.com/s/z6pGxXwX2LFYSbnOQgH84w
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3QOXrh6CN6mia01Z5m9OjlofS4uTPAM6r3IHSmIH98O9xNj9icrdIRF3YiciaNMclibJQp5JBWjHicheRw/0?wx_fmt=jpeg
@@ -305,7 +309,8 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
     title: 通知 | 关于2024届全日制普通本科毕业生推荐免试攻读硕士学位研究生普通类选拔结果的公示
-    desc: 各学院 (部) ：　　经学生本人申报、学院 (部) 推荐、学校审核，我校2024届全日制普通本科毕业生推荐免试攻读硕
+    desc: |-
+      各学院 (部) : 经学生本人申报、学院 (部) 推荐、学校审核，我校2024届全日制普通本科毕业生推荐免试攻读硕
     url: https://mp.weixin.qq.com/s/8nzfSXla-t4GzSYmeXdzWQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
@@ -314,7 +319,8 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3H3qG9ly34KcM5tk4kIoUpGQvkeSRblQebmRP6SYbJ9qRWOAHgL9ib7ZiaexbusfUHdjFrA3g8jpJA/0?wx_fmt=jpeg
     title: 通知 | 关于推荐东北师范大学教材审核专家的通知
-    desc: 各学院 (部) 、各单位：　　为深入贯彻落实《普通高等学校教材管理办法》，提升教材管理科学化水平，充分发挥教材育
+    desc: |-
+      各学院 (部) 、各单位: 为深入贯彻落实《普通高等学校教材管理办法》，提升教材管理科学化水平，充分发挥教材育
     url: https://mp.weixin.qq.com/s/pk3wKDucRsCFdQIQhs5wyg
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0y8pNdSdfPJicxjpSdT94tIibiaoO1vjkL2KSzLibibEYcp9LZTVWWOnQ9uJvCvGRNkLSUibO1B0IZTIdA/0?wx_fmt=jpeg
@@ -360,22 +366,26 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3DAtTslVgwFl8QHtGwXNapibia1Lo6ibT8EiapJfXO4Giac8dHXfYHUKiaiaSkiahsrq6PDY6x6taUOjxeyA/0?wx_fmt=jpeg
     title: 关于2023年秋季学期课程补考 (缓考) 相关考试时间 (共同课部分) 考试安排的通知
-    desc: 关于2023年秋季学期课程补考 (缓考) 相关考试时间 (共同课部分) 考试安排的通知各学院 (部) ：　　2023年秋
+    desc: |-
+      关于2023年秋季学期课程补考 (缓考) 相关考试时间 (共同课部分) 考试安排的通知各学院 (部) : 2023年秋
     url: https://mp.weixin.qq.com/s/eTajVgjlUEpeXWYfSqCxXQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3DAtTslVgwFl8QHtGwXNapOTF1YLsTdOQjNF9CU0oD7EjoFuVbMe11z6grViayj0GsoWIqGvavTaA/0?wx_fmt=jpeg
     title: 关于2023年秋季学期退补选及2023级新生注册课程的通知
-    desc: 关于2023年秋季学期退补选及2023级新生注册课程的通知各学院 (部) ：　　根据《关于2023年秋季学期本科
+    desc: |-
+      关于2023年秋季学期退补选及2023级新生注册课程的通知各学院 (部) : 根据《关于2023年秋季学期本科
     url: https://mp.weixin.qq.com/s/SLxf-AdSpY-jtCypd7mHAw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3DAtTslVgwFl8QHtGwXNapOTF1YLsTdOQjNF9CU0oD7EjoFuVbMe11z6grViayj0GsoWIqGvavTaA/0?wx_fmt=jpeg
     title: 关于建立2023级全日制普通本科生学籍档案的通知
-    desc: 关于建立2023级全日制普通本科生学籍档案的通知各学院 (部) ：　　根据《普通高等学校学生管理规定》和《东北师
+    desc: |-
+      关于建立2023级全日制普通本科生学籍档案的通知各学院 (部) : 根据《普通高等学校学生管理规定》和《东北师
     url: https://mp.weixin.qq.com/s/mlPszu1uWFoj5BKhGjYlgA
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3DAtTslVgwFl8QHtGwXNapOTF1YLsTdOQjNF9CU0oD7EjoFuVbMe11z6grViayj0GsoWIqGvavTaA/0?wx_fmt=jpeg
     title: 关于开展2023年春季学期试卷查阅工作的通知
-    desc: 关于开展2023年春季学期试卷查阅工作的通知全体学生、各学院 (部) ：　　2023年春季学期成绩录入工作目前已
+    desc: |-
+      关于开展2023年春季学期试卷查阅工作的通知全体学生、各学院 (部) : 2023年春季学期成绩录入工作目前已
     url: https://mp.weixin.qq.com/s/dgnZZKqcCEM8pWpzzp2fPA
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1ozv4MblUleJjCuu38rnshTPmUSqOScg80nZA1ud02LZzQbEu65U9gEwuLCJzc4vMRe5PdFgG9Hg/0?wx_fmt=jpeg
@@ -415,7 +425,8 @@ article:
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1ozv4MblUleJjCuu38rnshNNu5MXJNATgPpC3W6GtO0LL4VZYic9icut73LKvwtSDCGslenJ6V8ASA/0?wx_fmt=jpeg
     title: 新生攻略|与教务菌来一场期待已久的邂逅吧！
-    desc: 新/生/指/南             同学，你好我们是  教务处欢迎新同学的到来！2023级的新同学们：
+    desc: |-
+      新/生/指/南 同学，你好我们是教务处欢迎新同学的到来！2023级的新同学们:
     url: https://mp.weixin.qq.com/s/dIfW31DH7EaoW90CJ6DXxQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3m3f6HXgjOfNicPNPqU8smOGamibI9K1dQITYgUHXgsaSlov9lLvDOJVGFUWlKHXuXNBIa772KvuHA/0?wx_fmt=jpeg
@@ -791,19 +802,19 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy16nYfY3CGCvKwKnaMwdd4zJy6d2CVYOS16kr3SnI3mdLjBmayqNkNXJtTTicqeMGLmaN3Tb8DUBBA/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2022年吉林省高等教育教学成果奖申报评审工作的通知
     desc: |-
-      各学院 (部) 、各单位: 　　根据吉林省教育厅工作安排，学校决定开展我校吉林省高等教育教学成果奖申报评审工作，现
+      各学院 (部) 、各单位: 根据吉林省教育厅工作安排，学校决定开展我校吉林省高等教育教学成果奖申报评审工作，现
     url: https://mp.weixin.qq.com/s/9UUXcK4hJ2Rm1bmFgyARFg
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy16nYfY3CGCvKwKnaMwdd4zv4MiaVqpfibeG3LyvfOUIvHIeccTuicJJ1dcZPeL10Qic4FNAYcTTHDEcw/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2022年吉林省基础教育教学成果奖申报评审工作的通知
     desc: |-
-      各学院 (部) 、各单位: 　　根据吉林省教育厅工作安排，学校决定开展我校吉林省基础教育教学成果奖申报评审工作，现
+      各学院 (部) 、各单位: 根据吉林省教育厅工作安排，学校决定开展我校吉林省基础教育教学成果奖申报评审工作，现
     url: https://mp.weixin.qq.com/s/eN668cpQmghiiVl4szqQSA
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy16nYfY3CGCvKwKnaMwdd4z3fCoC8iamNk2xIJFribqXluU1ltwrytObFHre9Y5fqmCbUAQpakia93Lw/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2022年“学院 (部) 本科教学综合改革” 工作的通知
     desc: |-
-      各学院 (部) : 　　为深化教育教学改革，提升人才培养质量，建设一流本科和一流教学，学校决定启动2022年度“学
+      各学院 (部) : 为深化教育教学改革，提升人才培养质量，建设一流本科和一流教学，学校决定启动2022年度“学
     url: https://mp.weixin.qq.com/s/VLWLe-hA-46-m6YZDphPuQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3iaqHuleacTIicH6nKlENcNVcJdHk9CK9AqxrLVC5yoNwicjPDCftzs9yPdWUPxckIrAZjbNKj7pvGg/0?wx_fmt=jpeg
@@ -814,7 +825,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3iaqHuleacTIicH6nKlENcNVOw26F7G5ZolfpkuwxQXibUx3d83mIr7pkbC2q7o61zC7B3wr5ky9d7Q/0?wx_fmt=jpeg
     title: 微关注 | 关于进一步开展师范类专业认证状态保持工作的通知
     desc: |-
-      相关学院 (部) : 　　根据教育部教育质量评估中心《普通高等学校师范类专业认证状态保持监控办法 (试行) 》 (附件1
+      相关学院 (部) : 根据教育部教育质量评估中心《普通高等学校师范类专业认证状态保持监控办法 (试行) 》 (附件1
     url: https://mp.weixin.qq.com/s/z3UxQiosYoLt9_Lja0OffA
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2UDVo6iaTyrhC1A5VvXj6KaZPbVr9VS2g08sicKzCiaAkibrMcKdfu78yLakibEib1WTgnEVeR8fqV1Myw/0?wx_fmt=jpeg
@@ -835,7 +846,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0Bc49x53ibibACsynRODKQYKQh7QnpPJRvb5r05TRu8NgwNROO6J0W3BibiaUAia3aPFAtBA5T3mWY3PA/0?wx_fmt=jpeg
     title: 微关注 | 关于2022年春季学期本科课程考核有关要求的通知
     desc: |-
-      各学院 (部) : 　　我校2022年春季学期教学工作即将进入考试阶段，为规范考场秩序，严肃考风考纪，根据《东北师
+      各学院 (部) : 我校2022年春季学期教学工作即将进入考试阶段，为规范考场秩序，严肃考风考纪，根据《东北师
     url: https://mp.weixin.qq.com/s/gDo4rvYgaMMLeNmdkb6xPA
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0zq4OIxedxic7f75ElmiaQGa124LqCRsmAnQWjzmOcDhnGe42q20QIw4lOT5QBmHCicR0kVVjmdmhhw/0?wx_fmt=jpeg
@@ -846,7 +857,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy0zq4OIxedxic7f75ElmiaQGaAyaKHkqCatot9dq7ibfPLFEho6r7MNq3bEXLlYx7LhSicVTVz8vlh9IQ/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2023年度本科教学实验室建设项目申报工作的通知
     desc: |-
-      各学院 (部) : 　　为进一步促进本科教学实验室建设，推进实验教学改革，加强实践育人工作，提升创新人才培养能力，
+      各学院 (部) : 为进一步促进本科教学实验室建设，推进实验教学改革，加强实践育人工作，提升创新人才培养能力，
     url: https://mp.weixin.qq.com/s/jOJKTIy8eeoRDMHNBYL_fw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2UDVo6iaTyrhC1A5VvXj6KaCO3vNyct84BOwauKd5kSXEicouStPsKWKhQTJquELLMIM2MuJRAxonw/0?wx_fmt=jpeg
@@ -866,7 +877,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2EiaxkBuM6RIibAQguQYdrAMiargiaUz8icm4d9WR2R5NBBIv8NDKIXff8ialcGnUIyeWTa3IlPMvLdyiaw/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2022年春季学期本科课堂教学学生评教工作的通知
     desc: |-
-      各学院 (部) : 　　课堂教学学生评教是我校本科教学质量保障体系的重要环节，是学校和教师了解并不断提高教学质量的
+      各学院 (部) : 课堂教学学生评教是我校本科教学质量保障体系的重要环节，是学校和教师了解并不断提高教学质量的
     url: https://mp.weixin.qq.com/s/ui15v5UmZ7A2rQRzrTS14Q
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2UDVo6iaTyrhC1A5VvXj6KaHWxiaWeZdkrQTEibG8uQ0tQcLthzDog1X6ZIicoCjl5xwyk4HgTWYtofQ/0?wx_fmt=jpeg
@@ -903,7 +914,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy19evicAczYTSsZsjBuZapPXX1bCtfIMgMATcyTibrAnOUZDNGMNaj3ZKa7jXYpX9z48me9YlSichwlA/0?wx_fmt=jpeg
     title: 微关注 | 关于2022年师范专业应届本科毕业生申请教师资格证认定工作的通知
     desc: |-
-      各学院 (部) : 　　根据《长春市教育局关于2022年春季中小学教师资格认定工作公告》要求，现将我校师范专业应届
+      各学院 (部) : 根据《长春市教育局关于2022年春季中小学教师资格认定工作公告》要求，现将我校师范专业应届
     url: https://mp.weixin.qq.com/s/ocvWbh6_7AgdeH3N5sfgwQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy26It50lv88f1xp2ibpZTh8FgIDX0vngSEaicHNl7vFg80ibX3GJlNPlSgjjbFv5bpyU89ssEiaiaNibbUg/0?wx_fmt=jpeg
@@ -929,7 +940,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy26It50lv88f1xp2ibpZTh8FZX3YVibEicqjpZml7aBhVnQpMv7dVZKOUQ5jdcVXS5zQEYQ7LtjhPMYA/0?wx_fmt=jpeg
     title: 微关注 | 关于申报2022年度东北师范大学本科精品教材建设项目的通知
     desc: |-
-      各学院 (部) 、各单位: 　　为贯彻落实《全国大中小学教材建设规划 (2019-2022年) 》《普通高等学校教材管
+      各学院 (部) 、各单位: 为贯彻落实《全国大中小学教材建设规划 (2019-2022年) 》《普通高等学校教材管
     url: https://mp.weixin.qq.com/s/zAcpbBO9VOYQF-DvZDRDQQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3oNNo7hiaUQibpsm2fgrOeJvvWmFXVV0PxzOJcLahwHiaicCcicd8TUhDTJ2FVjPibkn7vpbviciaHM0hCtw/0?wx_fmt=jpeg
@@ -956,7 +967,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1z7dDkjGdVDsF1AP1w2IThuGq1X6n4wVicibgV0BucuUXqJrZzpIvqxfLWbkRDtdHdenY7RPonSvcQ/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2022届全日制普通本科毕业生毕业审核工作的通知
     desc: |-
-      毕业审核各学院 (部) : 　　根据学校本科毕业生工作安排及学历学位管理文件要求，现将2022届全日制普通本科生毕
+      毕业审核各学院 (部) : 根据学校本科毕业生工作安排及学历学位管理文件要求，现将2022届全日制普通本科生毕
     url: https://mp.weixin.qq.com/s/wwOQAd3Bjmqe6usG_bLnFw
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1z7dDkjGdVDsF1AP1w2IThknEbwcEhTXoVyGkSdNQXkK1057ynNdV6EBOsVs8dsI2Fxcuw56uaFg/0?wx_fmt=jpeg
@@ -997,7 +1008,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1QYnlVkNVJCZoCBLrNDCo2PibFIDLjNEZ3ib9QuDUdK4tHBV0u63h3OpIo8u2uNndSyRhsGEghW9Cw/0?wx_fmt=jpeg
     title: 微关注 | 叮咚！一份质量调查问卷请您查收~
     desc: |-
-      全体师生: 　　您好！　　校园封闭实行静态管理已近一个月，学校高度关切全体师生的身心健康和线上教学情况。在这样
+      全体师生: 您好！校园封闭实行静态管理已近一个月，学校高度关切全体师生的身心健康和线上教学情况。在这样
     url: https://mp.weixin.qq.com/s/_cxqIqggJZ_VqwoFKZf8EA
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1QYnlVkNVJCZoCBLrNDCo2ibGC73L4Q8beyCXqrukqiawOmbIj7FQnicW5DSkfKp8lkXfWhdjqvibdRg/0?wx_fmt=jpeg
@@ -1083,13 +1094,13 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2vCPyvWfFYtbNK1XhmO6liah44jkakkSey0FLker3raibzc21PJkSv9FKVaUh7d44zUHRnnbeSm8iaQ/0?wx_fmt=jpeg
     title: 微关注 | 关于2022年春季学期本科生选课退补选的通知
     desc: |-
-      全体本科生: 　　根据《关于2022年春季学期本科生选课的通知》的要求，2022年春季学期退补选时间为3月7日
+      全体本科生: 根据《关于2022年春季学期本科生选课的通知》的要求，2022年春季学期退补选时间为3月7日
     url: https://mp.weixin.qq.com/s/x21gRMD1Jb8NS_LhgUSRgQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2vCPyvWfFYtbNK1XhmO6liaLkag4RF0icMZB1l2icz5ntQXYQpVaqx5QzK0apnpRlqC8f5xicEQDG9jQ/0?wx_fmt=jpeg
     title: 微关注 | 关于开展2022年春季学期通识教育网络选修课程开课的通知
     desc: |-
-      全体本科生: 　　2022年春季学期开设8门在线课程作为我校通识教育选修课程，具体课程如下: 　　1．课程开设情
+      全体本科生: 2022年春季学期开设8门在线课程作为我校通识教育选修课程，具体课程如下: 1．课程开设情
     url: https://mp.weixin.qq.com/s/y85nQ06fbNmQjlSlXVPe1A
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1e6dHbo2Kw4PFUbEibKH0H5DHhJf0noWibeCXYf5wMh14h5f8n1qjvuYqvojzwVKBZiaHm5XWdZt5ag/0?wx_fmt=jpeg
@@ -1100,7 +1111,7 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1e6dHbo2Kw4PFUbEibKH0H5AnLEELoxiciayXGshC1TG2HUs6aicMx55o9qArsLpH6icbOlNADzCJhcNw/0?wx_fmt=jpeg
     title: 微关注 | 关于2022年春季学期开学前教学准备工作检查的通知
     desc: |-
-      各学院 (部) : 　　为保证新学期教学工作顺利进行，学校定于2月24日 (星期四) 上午对本科生和研究生的开学前教学
+      各学院 (部) : 为保证新学期教学工作顺利进行，学校定于2月24日 (星期四) 上午对本科生和研究生的开学前教学
     url: https://mp.weixin.qq.com/s/q21u43-la42CNUDtqARc3Q
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy1e6dHbo2Kw4PFUbEibKH0H53R1s5IIPOumVAyuOibhyLCFslOQ9NjHs8M0LZaoM4E99Vac0vcDF5LA/0?wx_fmt=jpeg
@@ -1156,13 +1167,13 @@ article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2O9yngTdZCRxww5y9dF1re5WujFtUjXKEsB6ClMB4PI4jMMY3uPStBs95DiapO56AVSeYLJcovJ8A/0?wx_fmt=jpeg
     title: 微关注 | 关于组织开展教育部“十四五”首批职业教育国家规划教材遴选推荐工作的通知
     desc: |-
-      各学院 (部) 、各单位: 　　为贯彻落实全国职业教育大会和全国教材工作会议精神，根据《“十四五”职业教育规划教材
+      各学院 (部) 、各单位: 为贯彻落实全国职业教育大会和全国教材工作会议精神，根据《“十四五”职业教育规划教材
     url: https://mp.weixin.qq.com/s/O4_Kpesl2rp_uU3G-N0DJQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy2O9yngTdZCRxww5y9dF1re5WujFtUjXKEsB6ClMB4PI4jMMY3uPStBs95DiapO56AVSeYLJcovJ8A/0?wx_fmt=jpeg
     title: 微关注 | 关于组织开展教育部“十四五”首批职业教育国家规划教材遴选推荐工作的通知
     desc: |-
-      各学院 (部) 、各单位: 　　为贯彻落实全国职业教育大会和全国教材工作会议精神，根据《“十四五”职业教育规划教材
+      各学院 (部) 、各单位: 为贯彻落实全国职业教育大会和全国教材工作会议精神，根据《“十四五”职业教育规划教材
     url: https://mp.weixin.qq.com/s/O4_Kpesl2rp_uU3G-N0DJQ
 
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/EnWHfkNlxy3LCgsE5p0sGBxtbxgLBr6HAnuR64ic5JTfMibQibCLKabL5154LFF1POiaYicTSTYI85zGndmFriaVaJSw/0?wx_fmt=jpeg

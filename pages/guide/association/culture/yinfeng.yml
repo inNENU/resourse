@@ -14,7 +14,8 @@ content:
   - tag: card
     cover: $img/association/yinfeng/cover.jpg
     name: 饮风文学社
-    title: 饮风文学社纳新啦：一阵风拍了拍你，并向你投出橄榄枝🌿
+    title: |-
+      饮风文学社纳新啦: 一阵风拍了拍你，并向你投出橄榄枝🌿
     logo: $img/association/yinfeng/logo.png
     path: yinfeng-in
 

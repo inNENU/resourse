@@ -7,7 +7,8 @@ content:
 
   - tag: text
     text:
-      - 📣亲爱的同学们：
+      - |-
+        📣亲爱的同学们:
 
   - tag: p
     text:
@@ -17,7 +18,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 🎡光年合唱团日常排练内容：
+    heading: 🎡光年合唱团日常排练内容
     text:
       - 🎼专业的开嗓环节和听音训练
       - 🎼五线谱识谱和基础乐理学习

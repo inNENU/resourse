@@ -2,7 +2,7 @@ title: 招生情况
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-07T12:42:22.784Z
+time: 2024-06-09T21:26:40.649Z
 shareable: true
 content:
   - tag: list
@@ -12,21 +12,21 @@ content:
       #   icon: rule
       #   path: under/rule/
 
-      # - text: 2023 年招生计划
-      #   icon: rule
-      #   url: under-enroll-plan
-      #   env:
-      #     - app
-      #     - qq
-      #     - wx
+      - text: 招生计划
+        icon: rule
+        url: under-enroll-plan
+        env:
+          - app
+          - qq
+          - wx
 
-      # - text: 历史分数线线
-      #   icon: time
-      #   url: under-history-grade
-      #   env:
-      #     - app
-      #     - qq
-      #     - wx
+      - text: 历史分数线
+        icon: time
+        url: under-history-grade
+        env:
+          - app
+          - qq
+          - wx
 
       - text: 大类招生介绍
         icon: about
@@ -70,6 +70,6 @@ content:
   - tag: list
     header: 第二学士学位
     items:
-      - text: 2023 年第二学士学位招生简章
+      - text: 2024 年第二学士学位招生简章
         icon: rule
-        path: second-degree/2023
+        path: second-degree/2024

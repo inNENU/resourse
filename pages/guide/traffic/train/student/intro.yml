@@ -1,7 +1,7 @@
 title: 火车学生票介绍
 icon: student
 author: Mr.Hope
-time: 2023-09-23T10:52:59.706Z
+time: 2024-06-09T21:26:41.962Z
 shareable: true
 cite:
   - https://kyfw.12306.cn/otn/gonggao/student.html
@@ -63,8 +63,10 @@ content:
     type: tip
     heading: 例子
     text:
-      - 情况1：学生优惠区间为A-E，如购买A-B，再购买B-D以及D-E，扣减1次。
-      - 情况2：学生优惠区间为A-E，如购买A-B，再购买D-E时就会扣减2次，但之后购买了B-D完成接续的，可以在12306APP申诉或致电12306电话申诉。 (温馨提示：学生票分段购买时，请注意购买区段接续性) 。
+      - |-
+        情况1: 学生优惠区间为A-E，如购买A-B，再购买B-D以及D-E，扣减1次。
+      - |-
+        情况2: 学生优惠区间为A-E，如购买A-B，再购买D-E时就会扣减2次，但之后购买了B-D完成接续的，可以在12306APP申诉或致电12306电话申诉。 (温馨提示: 学生票分段购买时，请注意购买区段接续性) 。
 
   - tag: title
     text: 常见问题
