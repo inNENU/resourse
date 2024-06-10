@@ -126,7 +126,7 @@ export interface PageConfig {
 }
 
 /** 页面数据 */
-export interface PageOptions {
+export interface PageData {
   /** 页面标题 */
   title: string;
   /** 页面图标 */

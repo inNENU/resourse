@@ -18,7 +18,7 @@ import { resolvePhone } from "./phone/index.js";
 import { resolveTable } from "./table/index.js";
 import { resolveText } from "./text/index.js";
 import { resolveTitle } from "./title/index.js";
-import type { PageConfig, PageOptions } from "./typings.js";
+import type { PageConfig, PageData } from "./typings.js";
 import { resolveAlias } from "./utils.js";
 import { resolveVideo } from "./video/index.js";
 
@@ -35,7 +35,7 @@ export const resolvePage = (
   page: PageConfig,
   pagePath = "",
   diffResult = "",
-): PageOptions => {
+): PageData => {
   if (!page) throw new Error(`${pagePath} doesn't contain anything`);
 
   if (!page.content)
@@ -43,7 +43,7 @@ export const resolvePage = (
 
   const { id = pagePath, author, cite, content, time, ...others } = page;
   const images: string[] = [];
-  const pageData: PageOptions = {
+  const pageData: PageData = {
     ...others,
     id,
     ...(author

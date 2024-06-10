@@ -1,14 +1,14 @@
 import { basename } from "node:path";
 
 import { resolvePage } from "../components/page.js";
-import type { PageConfig, PageOptions } from "../components/typings.js";
+import type { PageConfig, PageData } from "../components/typings.js";
 
 export interface Donate {
   all: number;
   donations: [string, number][];
 }
 
-export const genDonate = (data: Donate, filePath: string): PageOptions => {
+export const genDonate = (data: Donate, filePath: string): PageData => {
   const baseName = basename(filePath);
 
   const donateAmount = data.donations.reduce(

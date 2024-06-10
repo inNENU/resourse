@@ -1,11 +1,11 @@
 import { resolvePage } from "../components/page.js";
-import type { PageConfig, PageOptions } from "../components/typings.js";
+import type { PageConfig, PageData } from "../components/typings.js";
 import { resolveAlias } from "../components/utils.js";
 
 export const resolveLocationPage = (
   data: PageConfig & { photo?: string[] },
   filePath: string,
-): PageOptions & { photo?: string[] } => {
+): PageData & { photo?: string[] } => {
   if (data.photo)
     data.photo = data.photo.map((link, index) =>
       // `$` alias resolve and file check

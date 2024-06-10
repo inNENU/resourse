@@ -3,7 +3,7 @@ import { resolve } from "node:path";
 
 import { load } from "js-yaml";
 
-import type { PageOptions } from "../components/typings.js";
+import type { PageData } from "../components/typings.js";
 import { getFileList } from "../utils/index.js";
 
 const enum SearchItemType {
@@ -78,7 +78,7 @@ const createSearchMap = (folder: string): SearchMap => {
     const content = readFileSync(resolve(folder, filePath), {
       encoding: "utf-8",
     });
-    const page = JSON.parse(content) as PageOptions;
+    const page = JSON.parse(content) as PageData;
     const id = `${folder}/${filePath}`.replace(/\.\/d\/(.*)\.json/u, "$1");
 
     // 生成对应页面的索引对象
