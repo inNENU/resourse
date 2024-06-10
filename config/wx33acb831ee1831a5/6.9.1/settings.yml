@@ -757,16 +757,10 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  course-grade: local
-  course-table: local
-  info-detail: local
-  info-list: local
-  notice-detail: local
-  notice-list: local
+  post-system-login: online
   under-grade-detail: online
   under-grade-list: online
-  post-login: online
-  special-exam: online
+  under-special-exam: online
 
 notice:
   main:

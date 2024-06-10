@@ -98,6 +98,10 @@
           "description": "账号激活",
           "$ref": "#/$defs/service-status"
         },
+        "action-login": {
+          "description": "功能大厅登录",
+          "$ref": "#/$defs/service-status"
+        },
         "apply-email": {
           "description": "邮箱申请",
           "$ref": "#/$defs/service-status"
@@ -108,6 +112,18 @@
         },
         "announcement-list": {
           "description": "通知公列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-login": {
+          "description": "认证服务器登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-init-info": {
+          "description": "初始化认证信息",
+          "$ref": "#/$defs/service-status"
+        },
+        "init-auth": {
+          "description": "初始化认证",
           "$ref": "#/$defs/service-status"
         },
         "borrow-books": {
@@ -126,8 +142,12 @@
           "description": "成绩列表",
           "$ref": "#/$defs/service-status"
         },
-        "course-table": {
-          "description": "课程表",
+        "under-course-table": {
+          "description": "本科生生课程表",
+          "$ref": "#/$defs/service-status"
+        },
+        "post-course-table": {
+          "description": "研究生课程表",
           "$ref": "#/$defs/service-status"
         },
         "exam-place": {
@@ -146,6 +166,10 @@
           "description": "邮件页面",
           "$ref": "#/$defs/service-status"
         },
+        "library-people": {
+          "description": "图书馆人数",
+          "$ref": "#/$defs/service-status"
+        },
         "info-list": {
           "description": "官网通知列表",
           "$ref": "#/$defs/service-status"
@@ -154,7 +178,11 @@
           "description": "官网通知详情",
           "$ref": "#/$defs/service-status"
         },
-        "reset": {
+        "my-login": {
+          "description": "我的登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "reset-password": {
           "description": "密码重置",
           "$ref": "#/$defs/service-status"
         },
@@ -162,7 +190,7 @@
           "description": "通知列表",
           "$ref": "#/$defs/service-status"
         },
-        "post-login": {
+        "post-system-login": {
           "description": "研究生教务系统登录",
           "$ref": "#/$defs/service-status"
         },
@@ -170,20 +198,52 @@
           "description": "本科生教务系统登录",
           "$ref": "#/$defs/service-status"
         },
+        "post-plan": {
+          "description": "研究生培养计划",
+          "$ref": "#/$defs/service-status"
+        },
+        "post-recommend-plan": {
+          "description": "研究生推免计划",
+          "$ref": "#/$defs/service-status"
+        },
         "under-grade-list": {
           "description": "本科生成绩",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-special-exam": {
+          "description": "本科生专项考试",
+          "$ref": "#/$defs/service-status"
+        },
+        "post-grade-list": {
+          "description": "研究生成绩",
           "$ref": "#/$defs/service-status"
         },
         "under-grade-detail": {
           "description": "本科生成绩详情",
           "$ref": "#/$defs/service-status"
         },
-        "create-archive": {
+        "create-under-archive": {
           "description": "创建学籍",
           "$ref": "#/$defs/service-status"
         },
-        "view-archive": {
+        "under-admission": {
+          "description": "本科生录取",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-history-grade": {
+          "description": "本科生历史分数",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-enroll-plan": {
+          "description": "本科生招生计划",
+          "$ref": "#/$defs/service-status"
+        },
+        "view-under-archive": {
           "description": "查看学籍",
+          "$ref": "#/$defs/service-status"
+        },
+        "weather": {
+          "description": "天气",
           "$ref": "#/$defs/service-status"
         },
         "notice-detail": {
