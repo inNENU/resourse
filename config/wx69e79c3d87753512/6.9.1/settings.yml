@@ -1,10 +1,37 @@
 main-page:
-  unlogin: unlogin
+  guest: guest
   "2023": newcomer
   default: at-school
 
 main-presets:
-  unlogin:
+  guest:
+    - tag: grid
+      header: 本科招生
+      items:
+        - text: 招生简章
+          name: Rule
+          color: blue
+          icon: rule
+          path: intro/enroll/under/rule/
+
+        - text: 招生计划
+          name: Plan
+          color: orange
+          icon: enroll
+          url: under-enroll-plan
+
+        - text: 历史分数线
+          name: History grade
+          color: purple
+          icon: time
+          url: under-history-grade
+
+        - text: 更多
+          name: More
+          color: red
+          icon: more
+          path: intro/enroll/under/
+
     - tag: grid
       header: 您可能想关注
       items:
@@ -225,7 +252,7 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
 intro-page:
-  unlogin:
+  guest:
     items:
       - under-enroll
       - grad-enroll
@@ -244,7 +271,7 @@ intro-page:
       - grad-enroll
 
 guide-page:
-  unlogin:
+  guest:
     items:
       - life
       - study
@@ -293,19 +320,37 @@ guide-page:
       - graduate
 
 function-page:
-  unlogin: unlogin
+  guest: guest
   default: at-school
 
 function-presets:
-  unlogin:
+  guest:
     - tag: grid
-      header: 账号激活
+      header: 本科招生
       items:
-        - text: 账号激活
-          color: grey
-          name: Activate
-          icon: authorize
-          url: activate
+        - text: 招生简章
+          name: Rule
+          color: blue
+          icon: rule
+          path: intro/enroll/under/rule/
+
+        - text: 招生计划
+          name: Plan
+          color: orange
+          icon: enroll
+          url: under-enroll-plan
+
+        - text: 历史分数线
+          name: History grade
+          color: purple
+          icon: time
+          url: under-history-grade
+
+        - text: 录取查询
+          name: Admission
+          color: cyan
+          icon: letter
+          url: admission?type=search
 
     - tag: grid
       header: 东师风采
@@ -372,6 +417,15 @@ function-presets:
           name: News
           icon: study
           url: academic-list
+
+    - tag: grid
+      header: 账号激活
+      items:
+        - text: 账号激活
+          color: grey
+          name: Activate
+          icon: authorize
+          url: activate
 
     - tag: grid
       header: 信息查询
@@ -447,33 +501,6 @@ function-presets:
           name: Weather
           icon: sun
           url: weather
-
-    - tag: grid
-      header: 本科招生
-      items:
-        - text: 2023 年招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        #     - text: 2023 年招生计划
-        #       name: Plan
-        #       color: orange
-        #       icon: enroll
-        #       url: under-enroll-plan
-
-        #     - text: 历史分数线
-        #       name: History grade
-        #       color: purple
-        #       icon: time
-        #       url: under-history-grade
-
-        - text: 录取查询
-          name: Admission
-          color: cyan
-          icon: letter
-          url: admission?type=search
 
     - tag: list
       items:
@@ -792,10 +819,11 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  special-exam: online
-  under-grade-detail: online
-  under-grade-list: online
-  post-login: online
+  {}
+  # under-special-exam: online
+  # under-grade-detail: online
+  # under-grade-list: online
+  # post-system-login: online
 
 notice:
   main:
