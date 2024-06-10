@@ -1,10 +1,10 @@
 main-page:
-  unlogin: unlogin
+  guest: guest
   "2023": newcomer
   default: at-school
 
 main-presets:
-  unlogin:
+  guest:
     - tag: grid
       header: 您可能想关注
       items:
@@ -225,7 +225,7 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
 intro-page:
-  unlogin:
+  guest:
     items:
       - under-enroll
       - grad-enroll
@@ -237,14 +237,14 @@ intro-page:
   default:
     items:
       - about
+      - school
       - apartment
     more:
-      - school
       - under-enroll
       - grad-enroll
 
 guide-page:
-  unlogin:
+  guest:
     items:
       - life
       - study
@@ -293,11 +293,11 @@ guide-page:
       - graduate
 
 function-page:
-  unlogin: unlogin
+  guest: guest
   default: at-school
 
 function-presets:
-  unlogin:
+  guest:
     - tag: grid
       header: 账号激活
       items:
@@ -412,23 +412,23 @@ function-presets:
     - tag: grid
       header: 本科招生
       items:
-        - text: 2023 年招生简章
+        - text: 招生简章
           name: Rule
           color: blue
           icon: rule
           path: intro/enroll/under/rule/
 
-        #     - text: 2023 年招生计划
-        #       name: Plan
-        #       color: orange
-        #       icon: enroll
-        #       url: under-enroll-plan
+        - text: 招生计划
+          name: Plan
+          color: orange
+          icon: enroll
+          url: under-enroll-plan
 
-        #     - text: 历史分数线
-        #       name: History grade
-        #       color: purple
-        #       icon: time
-        #       url: under-history-grade
+        - text: 历史分数
+          name: History grade
+          color: purple
+          icon: time
+          url: under-history-grade
 
         - text: 录取查询
           name: Admission
@@ -665,7 +665,7 @@ user:
         icon: about
         url: about
 
-  - tag: text
+  - tag: p
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
@@ -757,13 +757,10 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  apply-email: local
-  course-grade: local
-  course-table: local
-  info-detail: local
-  info-list: local
-  notice-detail: local
-  notice-list: local
+  post-system-login: online
+  under-grade-detail: online
+  under-grade-list: online
+  under-special-exam: online
 
 notice:
   main:
