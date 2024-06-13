@@ -2,7 +2,7 @@ title: 本科招生
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-09T21:26:40.691Z
+time: 2024-06-13T12:54:49.405Z
 shareable: true
 content:
   - tag: list
@@ -49,17 +49,6 @@ content:
     content: https://book.eol.cn/books/kpeu/mobile/index.html
 
   - tag: list
-    header: 更多
-    items:
-      - text: 录取通知书查询
-        icon: search
-        path: search
-
-      - text: 本科历史招生信息
-        icon: time
-        path: history
-
-  - tag: list
     header: 招生咨询
     items:
       - text: 招生办公室联系方式
@@ -88,6 +77,17 @@ content:
       - text: 录取相关
         icon: letter
         path: faq/admission
+
+  - tag: list
+    header: 更多
+    items:
+      - text: 录取通知书查询
+        icon: search
+        path: search
+
+      - text: 本科历史招生信息
+        icon: time
+        path: history
 
   - tag: action
     header: 招生办留言板

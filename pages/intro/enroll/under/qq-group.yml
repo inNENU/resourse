@@ -1,7 +1,7 @@
 title: 官方招生咨询群
 icon: qq-group
 author: Mr.Hope
-time: 2023-09-23T11:16:45.462Z
+time: 2024-06-13T12:54:49.409Z
 shareable: true
 content:
   - tag: title
@@ -24,15 +24,15 @@ content:
     type: warning
     heading: 学院招生咨询已截止
     text:
-      - 各学院招生咨询已于 7 月 7 日截止。
+      - 各学院招生咨询于 6 月 13 日开始到 7 月 7 日截止。
 
   - tag: action
     header: 教育学部
-    content: "755968207"
+    content: "787994544"
 
   - tag: action
     header: 心理学院
-    content: "608106643"
+    content: "208424547"
 
   - tag: action
     header: 政法学院
@@ -44,15 +44,15 @@ content:
 
   - tag: action
     header: 文学院
-    content: "424636702"
+    content: "679750732"
 
   - tag: action
     header: 历史文化学院
-    content: "810914112"
+    content: "455087865"
 
   - tag: action
     header: 外国语学院
-    content: "749914954"
+    content: "689509720"
 
   - tag: action
     header: 音乐学院
@@ -60,7 +60,7 @@ content:
 
   - tag: action
     header: 美术学院
-    content: "418527693"
+    content: "956276309"
 
   - tag: action
     header: 马克思主义学部
@@ -68,19 +68,19 @@ content:
 
   - tag: action
     header: 数学与统计学院
-    content: "856114675"
+    content: "626520709"
 
   - tag: action
     header: 信息科学与技术学院
-    content: "727420593"
+    content: "822633326"
 
   - tag: action
     header: 物理学院
-    content: "146445853"
+    content: "432546319"
 
   - tag: action
     header: 化学学院
-    content: "813901081"
+    content: "793596289"
 
   - tag: action
     header: 生命科学学院
@@ -88,16 +88,16 @@ content:
 
   - tag: action
     header: 地理科学学院
-    content: "566206959"
+    content: "935470626"
 
   - tag: action
     header: 环境学院
-    content: "710946560"
+    content: "483765506"
 
   - tag: action
     header: 体育学院 (冰雪学院)
-    content: "167551365"
+    content: "744616064"
 
   - tag: action
     header: 传媒科学学院 (新闻学院)
-    content: "329751232"
+    content: "817398574"
