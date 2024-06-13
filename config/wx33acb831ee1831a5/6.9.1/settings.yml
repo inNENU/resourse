@@ -1,6 +1,5 @@
 main-page:
   guest: guest
-  "2023": newcomer
   default: at-school
 
 main-presets:
@@ -198,6 +197,11 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
+    - tag: text
+      type: danger
+      heading: 小程序即将停运！
+      url: web?url=https://mp.weixin.qq.com/s/wxQOqOCdKnJ_8bCBEjxAXw
+
     - tag: grid
       header: 功能
       items:
