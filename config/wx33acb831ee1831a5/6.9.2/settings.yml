@@ -545,6 +545,12 @@ function-presets:
           icon: change
           url: change-major-plan
 
+        - text: 课程评价
+          color: grey
+          name: Commentary
+          icon: heart
+          url: under-course-commentary
+
     - tag: grid
       header: 东师风采
       items:
@@ -758,6 +764,7 @@ about:
 
 service:
   post-system-login: online
+  under-course-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
