@@ -11,7 +11,6 @@ import type {
   FunctionalListComponentOptions,
   ListComponentOptions,
 } from "./list/typings.js";
-import type { LoadingComponentOptions } from "./loading/typings.js";
 import type { LocationComponentOptions } from "./location/typings.js";
 import type { PhoneComponentOptions } from "./phone/typings.js";
 import type { TableComponentOptions } from "./table/typings.js";
@@ -30,7 +29,6 @@ export * from "./grid/typings.js";
 export * from "./img/typings.js";
 export * from "./list/typings.js";
 export * from "./location/typings.js";
-export * from "./loading/typings.js";
 export * from "./phone/typings.js";
 export * from "./table/typings.js";
 export * from "./text/typings.js";
@@ -68,7 +66,6 @@ export type ComponentOptions =
   | ListComponentOptions
   | LocationComponentOptions
   | ImageComponentOptions
-  | LoadingComponentOptions
   | PhoneComponentOptions
   | TableComponentOptions
   | TextComponentOptions

@@ -12,7 +12,6 @@ import { resolveFooter } from "./footer/index.js";
 import { resolveGrid } from "./grid/index.js";
 import { resolveImg } from "./img/index.js";
 import { resolveList } from "./list/index.js";
-import { resolveLoading } from "./loading/index.js";
 import { resolveLocation } from "./location/index.js";
 import { resolvePhone } from "./phone/index.js";
 import { resolveTable } from "./table/index.js";
@@ -89,8 +88,6 @@ export const resolvePage = (
       else if (tag === "location") resolveLocation(element, position);
       // 检测表格
       else if (tag === "table") resolveTable(element, position);
-      // 检测加载
-      else if (tag === "loading") resolveLoading(element, position);
       else
         console.warn(
           `${pagePath} page.content[${index}] 存在非法 tag ${
