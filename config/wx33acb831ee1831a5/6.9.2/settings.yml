@@ -12,7 +12,8 @@ main-presets:
     - tag: text
       type: warning
       heading: 小程序维护中
-      text: 因微信公众号作者赞赏到账时间为 7 天，且当前阿里云费用不足，小程序进入维护模式。
+      text:
+        - 因微信公众号作者赞赏到账时间为 7 天，且当前阿里云费用不足，小程序进入维护模式。
 
   guest:
     - tag: grid
@@ -343,7 +344,8 @@ function-presets:
     - tag: text
       type: warning
       heading: 小程序维护中
-      text: 由于资金不足，所有功能暂时下线。
+      text:
+        - 由于资金不足，所有功能暂时下线。
 
   guest:
     - tag: grid
