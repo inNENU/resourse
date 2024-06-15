@@ -71,11 +71,11 @@
 # 教务系统
 - text: 建立学籍
   icon: archive
-  url: create-archive
+  url: under-archive-create
 
 - text: 查看学籍
   icon: archive
-  url: view-archive
+  url: under-archive-view
   tags:
     - 注册学籍
     - 学籍注册
@@ -106,7 +106,7 @@
 
 - text: 转专业计划
   icon: change
-  url: change-major-plan
+  url: change-major
   tags:
     - 转专业
 
@@ -124,14 +124,14 @@
 # 网上服务大厅
 - text: 申请邮箱
   icon: email
-  url: apply-email
+  url: email-apply
   tags:
     - 邮箱申请
     - 创建邮箱
 
 - text: 校园邮箱
   icon: email
-  url: email
+  url: email-recent
 
 # 工具
 - text: 体测计算器
@@ -143,26 +143,26 @@
 # 官网
 - text: 学校通知
   icon: notice
-  url: info-list
+  url: official-info-list
 
 - text: 学校新闻
   color: cyan
   name: News
   icon: news
-  url: info-list?type=news
+  url: official-info-list?type=news
 
 - text: 学术预告
   color: cyan
   name: News
   icon: study
-  url: info-list?type=academic
+  url: official-info-list?type=academic
   tags:
     - 学术会议
 
 # 杂项
 - text: 账号激活
   icon: authorize
-  url: activate
+  url: account-activate
   tags:
     - 统一身份认证
     - 创建账号
@@ -191,7 +191,7 @@
 
 - text: 登录账户
   icon: account
-  url: account
+  url: account-login
   tags:
     - 登录
     - 账户
@@ -199,7 +199,7 @@
 
 - text: 密码重置
   icon: change
-  url: reset
+  url: account-reset
   tags:
     - 重置密码
     - 找回密码

@@ -1,7 +1,7 @@
 title: 校园邮箱申请
 icon: apply
 author: Mr.Hope
-time: 2024-06-09T11:20:25.670Z
+time: 2024-06-15T19:54:15.395Z
 shareable: true
 content:
   - tag: text
@@ -18,7 +18,7 @@ content:
     items:
       - text: 邮箱申请
         icon: apply
-        url: apply-email
+        url: email-apply
 
   - tag: title
     text: 官方申请流程

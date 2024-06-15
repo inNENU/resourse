@@ -22,7 +22,7 @@
     - text: 历史分数线
       icon: time
       name: Grade
-      url: under-history-grade
+      url: under-enroll-grade
       env:
         - app
         - qq

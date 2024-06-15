@@ -1,7 +1,7 @@
 title: 统一身份认证
 icon: authorize
 author: Mr.Hope
-time: 2023-09-22T16:59:13.245Z
+time: 2024-06-15T19:54:15.387Z
 shareable: true
 content:
   - tag: text
@@ -14,7 +14,7 @@ content:
     cover: https://assets.innenu.com/img/tab/activate.jpg
     title: 账号激活
     logo: authorize
-    url: activate
+    url: account-activate
 
   - tag: list
     items:

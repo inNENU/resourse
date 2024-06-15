@@ -1,7 +1,7 @@
 title: 学籍注册
 icon: archive
 author: Mr.Hope
-time: 2024-06-09T21:26:41.752Z
+time: 2024-06-15T19:54:16.332Z
 shareable: true
 cite:
   - https://jwc.nenu.edu.cn/ggmb/content3.jsp?urltype=tree.TreeTempUrl&wbtreeid=1927
@@ -32,11 +32,11 @@ content:
     items:
       - text: 新生建立学籍
         icon: archive
-        url: create-archive
+        url: under-archive-create
 
       - text: 在校生学年注册学籍
         icon: archive
-        url: view-archive
+        url: under-archive-view
 
   - tag: title
     text: 官方系统申请

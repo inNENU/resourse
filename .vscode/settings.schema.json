@@ -110,7 +110,7 @@
           "description": "通知公告详情",
           "$ref": "#/$defs/service-status"
         },
-        "announcement-list": {
+        "official-notice-list": {
           "description": "通知公列表",
           "$ref": "#/$defs/service-status"
         },
@@ -134,7 +134,7 @@
           "description": "校园卡余额",
           "$ref": "#/$defs/service-status"
         },
-        "change-major-plan": {
+        "change-major": {
           "description": "转专业计划",
           "$ref": "#/$defs/service-status"
         },
@@ -230,7 +230,7 @@
           "description": "本科生录取",
           "$ref": "#/$defs/service-status"
         },
-        "under-history-grade": {
+        "under-enroll-grade": {
           "description": "本科生历史分数",
           "$ref": "#/$defs/service-status"
         },

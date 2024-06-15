@@ -202,7 +202,7 @@ main-presets:
           color: purple
           name: Email
           icon: email
-          url: email
+          url: email-recent
 
         - text: 图书馆
           color: purple
@@ -220,7 +220,7 @@ main-presets:
           color: red
           name: Change major
           icon: change
-          url: change-major-plan
+          url: change-major
 
       footer: 更多内容请详见下方其他 Tab 页
 
@@ -305,7 +305,7 @@ function-presets:
           color: grey
           name: Activate
           icon: authorize
-          url: activate
+          url: account-activate
 
     - tag: grid
       header: 东师风采
@@ -341,37 +341,37 @@ function-presets:
     #       color: red
     #       name: Notice
     #       icon: notice
-    #       url: announcement-list
+    #       url: official-notice-list
 
     #     - text: 要闻速递
     #       color: cyan
     #       name: News
     #       icon: news
-    #       url: info-list?type=news
+    #       url: official-info-list?type=news
 
     #     - text: 媒体师大
     #       color: cyan
     #       name: Media
     #       icon: media
-    #       url: info-list?type=media
+    #       url: official-info-list?type=media
 
     #     - text: 人文社科
     #       color: cyan
     #       name: Social
     #       icon: marx
-    #       url: info-list?type=social
+    #       url: official-info-list?type=social
 
     #     - text: 自然科学
     #       color: cyan
     #       name: Science
     #       icon: chemistry
-    #       url: info-list?type=science
+    #       url: official-info-list?type=science
 
     #     - text: 学术预告
     #       color: cyan
     #       name: News
     #       icon: study
-    #       url: academic-list
+    #       url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -428,7 +428,7 @@ function-presets:
         #       name: History grade
         #       color: purple
         #       icon: time
-        #       url: under-history-grade
+        #       url: under-enroll-grade
 
         # - text: 录取查询
         #   name: Admission
@@ -439,7 +439,7 @@ function-presets:
     - tag: list
       items:
         - text: 登录开启海量校园功能
-          url: account
+          url: account-login
       footer: " "
 
   at-school:
@@ -531,25 +531,25 @@ function-presets:
           color: purple
           name: Study Archive
           icon: archive
-          url: view-archive
+          url: under-archive-view
 
         - text: 建立学籍
           color: purple
           name: Create Archive
           icon: archive
-          url: create-archive
+          url: under-archive-create
 
         - text: 转专业计划
           color: red
           name: Change major
           icon: change
-          url: change-major-plan
+          url: change-major
 
         - text: 课程评价
           color: grey
           name: Commentary
           icon: heart
-          url: under-course-commentary
+          url: under-commentary
 
     - tag: grid
       header: 东师风采
@@ -585,37 +585,37 @@ function-presets:
     #       color: red
     #       name: Notice
     #       icon: notice
-    #       url: announcement-list
+    #       url: official-notice-list
 
     #     - text: 要闻速递
     #       color: cyan
     #       name: News
     #       icon: news
-    #       url: info-list?type=news
+    #       url: official-info-list?type=news
 
     #     - text: 媒体师大
     #       color: cyan
     #       name: Media
     #       icon: media
-    #       url: info-list?type=media
+    #       url: official-info-list?type=media
 
     #     - text: 人文社科
     #       color: cyan
     #       name: Social
     #       icon: marx
-    #       url: info-list?type=social
+    #       url: official-info-list?type=social
 
     #     - text: 自然科学
     #       color: cyan
     #       name: Science
     #       icon: chemistry
-    #       url: info-list?type=science
+    #       url: official-info-list?type=science
 
     #     - text: 学术预告
     #       color: cyan
     #       name: News
     #       icon: study
-    #       url: academic-list
+    #       url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -624,7 +624,7 @@ function-presets:
           color: purple
           name: Email
           icon: email
-          url: email
+          url: email-recent
 
         - text: 校历
           color: olive
@@ -651,13 +651,13 @@ function-presets:
           color: grey
           name: Activate
           icon: authorize
-          url: activate
+          url: account-activate
 
         - text: 邮箱申请
           color: purple
           name: Email
           icon: email
-          url: apply-email
+          url: email-apply
 
     - tag: grid
       header: 工具
@@ -725,7 +725,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1057100 字，其中东师指南部分 322232 字，新生迎新部分 102089 字，东师介绍部分 333882 字，机构介绍部分 70756 字，学院介绍部分 144199 字，功能大厅部分 36075 字，其他部分 47867 字。
+      - text: 小程序现有字数为 1057104 字，其中东师指南部分 322236 字，新生迎新部分 102089 字，东师介绍部分 333882 字，机构介绍部分 70756 字，学院介绍部分 144199 字，功能大厅部分 36075 字，其他部分 47867 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
@@ -764,7 +764,7 @@ about:
 
 service:
   post-system-login: online
-  under-course-commentary: online
+  under-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
