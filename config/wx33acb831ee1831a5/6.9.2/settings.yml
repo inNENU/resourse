@@ -781,6 +781,7 @@ about:
 
 service:
   post-system-login: online
+  under-course-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online

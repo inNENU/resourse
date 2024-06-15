@@ -768,6 +768,7 @@ service:
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
+  under-select: online
 
 notice:
   main:
