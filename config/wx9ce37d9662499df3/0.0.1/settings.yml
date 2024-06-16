@@ -713,7 +713,7 @@ user:
 
       - text: 评价小程序
         icon: star
-        url: action?type=rate
+        url: action?action=rate
 
       - text: 联系 Mr.Hope
         icon: contact
