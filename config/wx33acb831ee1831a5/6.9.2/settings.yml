@@ -744,6 +744,7 @@ user:
         icon: contact
         type: button
         openType: contact
+        handler: reportInfo
 
 about:
   - tag: list
@@ -781,6 +782,7 @@ about:
         icon: contact
         type: button
         openType: contact
+        handler: reportInfo
 
   - tag: text
     heading: 小程序内容

@@ -801,6 +801,7 @@ about:
         icon: contact
         type: button
         openType: contact
+        handler: reportInfo
 
   - tag: text
     heading: App 内容

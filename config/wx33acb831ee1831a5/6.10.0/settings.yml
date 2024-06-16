@@ -711,13 +711,13 @@ user:
 
       - text: 评价小程序
         icon: star
-        type: button
-        handler: rate
+        url: action?type=rate
 
       - text: 联系 Mr.Hope
         icon: contact
         type: button
         openType: contact
+        handler: reportInfo
 
 about:
   - tag: list
