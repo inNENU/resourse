@@ -36,7 +36,7 @@
     "@mr-hope/assert-type": "3.0.0",
     "@vuepress/bundler-vite": "2.0.0-rc.13",
     "@vuepress/plugin-feed": "2.0.0-rc.34",
-    "@vueuse/core": "10.10.0",
+    "@vueuse/core": "10.11.0",
     "ali-oss": "6.20.0",
     "cheerio": "1.0.0-rc.12",
     "del": "7.1.0",
