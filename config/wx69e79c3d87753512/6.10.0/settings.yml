@@ -163,7 +163,7 @@ main-presets:
           color: red
           name: SpecialExam
           icon: test
-          url: special-exam
+          url: grade-special
 
         - text: 校园地图
           color: orange
@@ -561,7 +561,7 @@ function-presets:
           color: red
           name: SpecialExam
           icon: test
-          url: special-exam
+          url: grade-special
 
         - text: 学籍
           color: purple
