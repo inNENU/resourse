@@ -1,14 +1,8 @@
 main-page:
-  unlogin: unlogin
-  default: offline
+  guest: guest
+  default: at-school
 
 main-presets:
-  offline:
-    - tag: text
-      type: warning
-      heading: 小程序维护中
-      text: 因当前阿里云费用不足，小程序进入维护模式。
-
   unlogin:
     - tag: grid
       header: 2024 年本科招生
@@ -29,7 +23,7 @@ main-presets:
           name: History grade
           color: purple
           icon: time
-          url: under-history-grade
+          url: under-enroll-grade
 
         - text: 更多
           name: More
@@ -203,11 +197,6 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: danger
-      heading: 小程序即将停运！
-      url: web?url=https://mp.weixin.qq.com/s/wxQOqOCdKnJ_8bCBEjxAXw
-
     - tag: grid
       header: 功能
       items:
@@ -239,7 +228,7 @@ main-presets:
           color: purple
           name: Email
           icon: email
-          url: email
+          url: email-recent
 
         - text: 图书馆
           color: purple
@@ -257,12 +246,12 @@ main-presets:
           color: red
           name: Change major
           icon: change
-          url: change-major-plan
+          url: change-major
 
       footer: 更多内容请详见下方其他 Tab 页
 
 intro-page:
-  unlogin:
+  guest:
     items:
       - under-enroll
       - grad-enroll
@@ -330,17 +319,11 @@ guide-page:
       - graduate
 
 function-page:
-  unlogin: unlogin
-  default: offline
+  guest: guest
+  default: at-school
 
 function-presets:
-  offline:
-    - tag: text
-      type: warning
-      heading: 小程序维护中
-      text: 由于资金不足，所有功能暂时下线。
-
-  unlogin:
+  guest:
     - tag: grid
       header: 账号激活
       items:
@@ -348,7 +331,7 @@ function-presets:
           color: grey
           name: Activate
           icon: authorize
-          url: activate
+          url: account-activate
 
     - tag: grid
       header: 东师风采
@@ -384,37 +367,37 @@ function-presets:
           color: red
           name: Notice
           icon: notice
-          url: announcement-list
+          url: official-notice-list
 
         - text: 要闻速递
           color: cyan
           name: News
           icon: news
-          url: info-list?type=news
+          url: official-info-list?type=news
 
         - text: 媒体师大
           color: cyan
           name: Media
           icon: media
-          url: info-list?type=media
+          url: official-info-list?type=media
 
         - text: 人文社科
           color: cyan
           name: Social
           icon: marx
-          url: info-list?type=social
+          url: official-info-list?type=social
 
         - text: 自然科学
           color: cyan
           name: Science
           icon: chemistry
-          url: info-list?type=science
+          url: official-info-list?type=science
 
         - text: 学术预告
           color: cyan
           name: News
           icon: study
-          url: academic-list
+          url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -471,7 +454,7 @@ function-presets:
           name: History grade
           color: purple
           icon: time
-          url: under-history-grade
+          url: under-enroll-grade
 
         - text: 录取查询
           name: Admission
@@ -482,7 +465,7 @@ function-presets:
     - tag: list
       items:
         - text: 登录开启海量校园功能
-          url: account
+          url: account-login
       footer: " "
 
   at-school:
@@ -544,25 +527,25 @@ function-presets:
           color: purple
           name: Study Archive
           icon: archive
-          url: view-archive
+          url: under-archive-view
 
         - text: 建立学籍
           color: purple
           name: Create Archive
           icon: archive
-          url: create-archive
+          url: under-archive-create
 
         - text: 转专业计划
           color: red
           name: Change major
           icon: change
-          url: change-major-plan
+          url: change-major
 
         - text: 课程评价
           color: grey
           name: Commentary
           icon: heart
-          url: under-course-commentary
+          url: under-commentary
 
     - tag: grid
       header: 东师风采
@@ -598,37 +581,37 @@ function-presets:
           color: red
           name: Notice
           icon: notice
-          url: announcement-list
+          url: official-notice-list
 
         - text: 要闻速递
           color: cyan
           name: News
           icon: news
-          url: info-list?type=news
+          url: official-info-list?type=news
 
         - text: 媒体师大
           color: cyan
           name: Media
           icon: media
-          url: info-list?type=media
+          url: official-info-list?type=media
 
         - text: 人文社科
           color: cyan
           name: Social
           icon: marx
-          url: info-list?type=social
+          url: official-info-list?type=social
 
         - text: 自然科学
           color: cyan
           name: Science
           icon: chemistry
-          url: info-list?type=science
+          url: official-info-list?type=science
 
         - text: 学术预告
           color: cyan
           name: News
           icon: study
-          url: academic-list
+          url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -637,7 +620,7 @@ function-presets:
           color: purple
           name: Email
           icon: email
-          url: email
+          url: email-recent
 
         - text: 校历
           color: olive
@@ -664,19 +647,19 @@ function-presets:
           color: grey
           name: Activate
           icon: authorize
-          url: activate
+          url: account-activate
 
         - text: 密码重置
           color: grey
           name: Reset
           icon: reset
-          url: reset
+          url: account-reset
 
         - text: 邮箱申请
           color: purple
           name: Email
           icon: email
-          url: apply-email
+          url: email-apply
 
     - tag: grid
       header: 工具
@@ -807,7 +790,7 @@ about:
 
 service:
   post-system-login: online
-  under-course-commentary: online
+  under-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
