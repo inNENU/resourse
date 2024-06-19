@@ -251,7 +251,7 @@ guide-page:
       - enjoy
       - newcomer
     more:
-      - account
+      # - account
       # - service
       - tip
       - graduate
@@ -259,7 +259,7 @@ guide-page:
   "2023":
     items:
       - life
-      - account
+      # - account
       - enjoy
       # - service
       - study
@@ -273,7 +273,7 @@ guide-page:
       - graduate
       - study
       - service
-      - account
+      # - account
     more:
       - life
       - tip
@@ -286,7 +286,7 @@ guide-page:
       - study
       - life
     more:
-      - account
+      # - account
       - tip
       - enjoy
       - newcomer
