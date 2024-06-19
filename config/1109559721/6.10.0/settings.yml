@@ -3,7 +3,7 @@ main-page:
   default: at-school
 
 main-presets:
-  unlogin:
+  guest:
     - tag: grid
       header: 2024 年本科招生
       items:
