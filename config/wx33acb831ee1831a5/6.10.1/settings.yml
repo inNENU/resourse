@@ -130,7 +130,7 @@ main-presets:
           color: blue
           name: Select
           icon: select
-          url: select
+          url: under-select
 
         - text: 专项考试成绩
           color: red
@@ -768,7 +768,12 @@ service:
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
-  under-select: online
+  under-select-category: online
+  under-select-class: online
+  under-select-info: online
+  under-select-process: online
+  under-select-search: online
+  under-select-selected: online
 
 notice:
   main:
