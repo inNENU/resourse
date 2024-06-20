@@ -513,7 +513,7 @@ function-presets:
           color: blue
           name: Select
           icon: select
-          url: select
+          url: under-select
 
         - text: 考场查询
           color: grey
@@ -764,6 +764,7 @@ about:
 
 service:
   post-system-login: online
+  under-study-check: online
   under-commentary: online
   under-grade-detail: online
   under-grade-list: online
