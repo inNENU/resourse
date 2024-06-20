@@ -1,49 +1,10 @@
 main-page:
   guest: guest
+  "2023": newcomer
   default: at-school
 
 main-presets:
-  offline:
-    - tag: text
-      type: danger
-      heading: 【通知】小程序可能停运
-      url: web?url=https://mp.weixin.qq.com/s/wxQOqOCdKnJ_8bCBEjxAXw
-
-    - tag: text
-      type: warning
-      heading: 小程序维护中
-      text:
-        - 因微信公众号作者赞赏到账时间为 7 天，且当前阿里云费用不足，小程序进入维护模式。
-        - 请关注 inNENU 公众号，我们会发布启用通知。
-
   guest:
-    - tag: grid
-      header: 2024 年本科招生
-      items:
-        - text: 招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        - text: 招生计划
-          name: Plan
-          color: orange
-          icon: enroll
-          url: under-enroll-plan
-
-        - text: 历史分数线
-          name: History grade
-          color: purple
-          icon: time
-          url: under-enroll-grade
-
-        - text: 更多
-          name: More
-          color: red
-          icon: more
-          path: intro/enroll/under/
-
     - tag: grid
       header: 您可能想关注
       items:
@@ -169,7 +130,7 @@ main-presets:
           color: blue
           name: Select
           icon: select
-          url: select
+          url: under-select
 
         - text: 专项考试成绩
           color: red
@@ -210,11 +171,6 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: danger
-      heading: 小程序即将停运！
-      url: web?url=https://mp.weixin.qq.com/s/wxQOqOCdKnJ_8bCBEjxAXw
-
     - tag: grid
       header: 功能
       items:
@@ -271,17 +227,17 @@ main-presets:
 intro-page:
   guest:
     items:
-      - under-enroll
-      - grad-enroll
+      # - under-enroll
+      # - grad-enroll
       - about
-      - school
+      # - school
     more:
       - apartment
 
   default:
     items:
       - about
-      - school
+      # - school
       - apartment
     more:
       - under-enroll
@@ -296,7 +252,7 @@ guide-page:
       - newcomer
     more:
       - account
-      - service
+      # - service
       - tip
       - graduate
 
@@ -305,7 +261,7 @@ guide-page:
       - life
       - account
       - enjoy
-      - service
+      # - service
       - study
       - tip
       - newcomer
@@ -326,7 +282,7 @@ guide-page:
 
   default:
     items:
-      - service
+      # - service
       - study
       - life
     more:
@@ -341,13 +297,6 @@ function-page:
   default: at-school
 
 function-presets:
-  offline:
-    - tag: text
-      type: warning
-      heading: 小程序维护中
-      text:
-        - 由于资金不足，所有功能暂时下线。
-
   guest:
     - tag: grid
       header: 账号激活
@@ -367,17 +316,17 @@ function-presets:
           icon: map
           url: map
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+        # - text: 音悦东师
+        #   color: blue
+        #   name: Music
+        #   icon: cd
+        #   url: music
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+        # - text: 影约东师
+        #   color: mauve
+        #   name: Media
+        #   icon: media
+        #   url: video?type=video
 
         - text: 校园媒体
           color: grey
@@ -385,44 +334,44 @@ function-presets:
           icon: account
           url: school-media
 
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: official-notice-list
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: official-notice-list
 
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: official-info-list?type=news
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: official-info-list?type=news
 
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: official-info-list?type=media
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: official-info-list?type=media
 
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: marx
-          url: official-info-list?type=social
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: official-info-list?type=social
 
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: official-info-list?type=science
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: official-info-list?type=science
 
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: official-academic-list
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -463,29 +412,29 @@ function-presets:
     - tag: grid
       header: 本科招生
       items:
-        - text: 招生简章
+        - text: 2024 年招生简章
           name: Rule
           color: blue
           icon: rule
           path: intro/enroll/under/rule/
 
-        - text: 招生计划
+        - text: 2024 年招生计划
           name: Plan
           color: orange
           icon: enroll
           url: under-enroll-plan
 
-        - text: 历史分数
+        - text: 历史分数线
           name: History grade
           color: purple
           icon: time
           url: under-enroll-grade
 
-        - text: 录取查询
-          name: Admission
-          color: cyan
-          icon: letter
-          url: admission?type=search
+        # - text: 录取查询
+        #   name: Admission
+        #   color: cyan
+        #   icon: letter
+        #   url: admission?type=search
 
     - tag: list
       items:
@@ -534,7 +483,7 @@ function-presets:
           color: blue
           name: Select
           icon: select
-          url: select
+          url: under-select
 
         - text: 考场查询
           color: grey
@@ -581,17 +530,17 @@ function-presets:
           icon: map
           url: map
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+        # - text: 音悦东师
+        #   color: blue
+        #   name: Music
+        #   icon: cd
+        #   url: music
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+        # - text: 影约东师
+        #   color: mauve
+        #   name: Media
+        #   icon: media
+        #   url: video?type=video
 
         - text: 校园媒体
           color: grey
@@ -599,44 +548,44 @@ function-presets:
           icon: account
           url: school-media
 
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: official-notice-list
+    # - tag: grid
+    #   header: 学校动态
+    #   items:
+    #     - text: 通知公告
+    #       color: red
+    #       name: Notice
+    #       icon: notice
+    #       url: official-notice-list
 
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: official-info-list?type=news
+    #     - text: 要闻速递
+    #       color: cyan
+    #       name: News
+    #       icon: news
+    #       url: official-info-list?type=news
 
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: official-info-list?type=media
+    #     - text: 媒体师大
+    #       color: cyan
+    #       name: Media
+    #       icon: media
+    #       url: official-info-list?type=media
 
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: marx
-          url: official-info-list?type=social
+    #     - text: 人文社科
+    #       color: cyan
+    #       name: Social
+    #       icon: marx
+    #       url: official-info-list?type=social
 
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: official-info-list?type=science
+    #     - text: 自然科学
+    #       color: cyan
+    #       name: Science
+    #       icon: chemistry
+    #       url: official-info-list?type=science
 
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: official-academic-list
+    #     - text: 学术预告
+    #       color: cyan
+    #       name: News
+    #       icon: study
+    #       url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -673,12 +622,6 @@ function-presets:
           name: Activate
           icon: authorize
           url: account-activate
-
-        - text: 密码重置
-          color: grey
-          name: Reset
-          icon: reset
-          url: account-reset
 
         - text: 邮箱申请
           color: purple
@@ -726,7 +669,7 @@ user:
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 104 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 104 万字。
     style: "color: #888; font-size: 14px"
 
   - tag: functional-list
@@ -773,17 +716,6 @@ about:
       - text: 致谢名单
         url: info?path=Oabout/thanks
 
-  - tag: functional-list
-    header: 支持小程序
-    items:
-      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
-
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-        handler: reportInfo
-
   - tag: text
     heading: 小程序内容
     text:
@@ -802,26 +734,23 @@ about:
 
 service:
   post-system-login: online
+  under-study-check: online
   under-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
-  under-select: online
+  under-select-category: online
+  under-select-class: online
+  under-select-info: online
+  under-select-process: online
+  under-select-search: online
+  under-select-selected: online
 
 notice:
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 104 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
 
-  activate:
-    title: 手机验证码
-    content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
-
-  select:
-    title: 暂不支持
-    content: 学校本次使用了全新选课系统，因此陪伴大家三次选课的旧选课系统已经下线。Mr.Hope 会尽快重新适配。
-    force: true
-
 update:
-  force: true
+  force: false
   reset: false
