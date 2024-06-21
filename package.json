@@ -59,7 +59,7 @@
     "@types/markdown-it": "14.1.1",
     "@types/node": "20.14.7",
     "@types/qrcode": "1.5.5",
-    "eslint": "8.57.0",
+    "eslint": "9.5.0",
     "eslint-config-mister-hope": "0.1.1",
     "eslint-plugin-vue": "9.26.0",
     "husky": "9.0.11",
