@@ -2,7 +2,7 @@ title: 研究生招生
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2023-09-23T12:19:59.364Z
+time: 2024-06-22T19:43:00.045Z
 shareable: true
 content:
   - tag: list
@@ -25,7 +25,7 @@ content:
     items:
       - text: 东师研招公众号
         icon: wechat
-        url: wechat-detail?path=graduate
+        url: wechat?path=graduate
 
   - tag: list
     header: 更多

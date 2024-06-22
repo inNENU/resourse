@@ -292,7 +292,7 @@ grad-enroll:
       color: grey
       name: Wechat
       icon: wechat
-      url: wechat-detail?path=graduate
+      url: wechat?path=graduate
 
     - text: 更多
       name: More
