@@ -1,7 +1,7 @@
 title: 选课系统
 icon: select
 author: Mr.Hope
-time: 2023-12-20T06:56:43.641Z
+time: 2024-06-22T19:44:22.128Z
 grey: true
 shareable: true
 content:
@@ -9,7 +9,7 @@ content:
     cover: $img/tab/select.png
     title: 选课系统
     logo: select
-    url: select
+    url: under-select
 
   - tag: list
     header: inNENU 选课系统

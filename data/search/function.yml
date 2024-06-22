@@ -170,7 +170,7 @@
 
 - text: 选课系统
   icon: select
-  url: select
+  url: under-select
   tags:
     - 选课
 
