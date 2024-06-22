@@ -1,7 +1,7 @@
 title: 体育学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-07T07:49:35.154Z
+time: 2024-06-22T19:16:14.270Z
 shareable: true
 content:
   - tag: title
@@ -25,7 +25,7 @@ content:
         path: ice
 
       - text: 运动训练
-        path: sport
+        path: train
 
       - text: 武术与民族传统体育
         path: martial

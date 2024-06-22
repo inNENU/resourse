@@ -1,9 +1,9 @@
 title: 俄语
 desc: |-
-  来源: 2023 年本科招生指南
-time: 2023-06-27T16:49:20.808Z
+  来源: 2024 年本科招生指南
+time: 2024-06-22T19:16:14.206Z
 cite:
-  - https://book.eol.cn/books/kpeu/mobile/index.html
+  - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
 content:
   - tag: title
@@ -15,12 +15,9 @@ content:
   - tag: title
     text: 主干课程
 
-  - tag: ul
+  - tag: p
     text:
-      - 基础俄语
-      - 课程与教学论
-      - 俄罗斯文学
-      - 俄罗斯国情
+      - 主要开设:听、说、读、写、译等实践技能课程，语言学、俄罗斯文学、跨文化交际等专业理论课程，俄语课程与教学论、俄语教学技能训练、俄语课程标准解读与教材分析等教师教育课程。
 
   - tag: title
     text: 学费价格

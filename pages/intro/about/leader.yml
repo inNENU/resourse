@@ -3,8 +3,8 @@ icon: leader
 desc: |-
   2021 年 3 月 16 日更新，由学校办公室提供
 cite:
-  - https://www.nenu.edu.cn/xxgk1/ldjg1.htm
-time: 2023-09-23T11:16:45.413Z
+  - https://www.nenu.edu.cn/xxgk/xrld.htm
+time: 2024-06-22T19:16:14.498Z
 shareable: true
 content:
   - tag: title
@@ -12,16 +12,16 @@ content:
 
   - tag: text
     heading: 书记
-    text: 前任书记去世，暂无
+    text: 李忠军
 
   - tag: action
     header: 书记信箱
     content: shuji@nenu.edu.cn
 
-  # - tag: text
-  #   type: info
-  #   heading: 个人介绍
-  #   path: lanhengbin
+  - tag: text
+    type: info
+    heading: 个人介绍
+    path: lizhongjun
 
   - tag: ul
     heading: 副书记
