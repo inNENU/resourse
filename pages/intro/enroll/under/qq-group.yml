@@ -1,7 +1,7 @@
 title: 官方招生咨询群
 icon: qq-group
 author: Mr.Hope
-time: 2024-06-13T12:54:49.409Z
+time: 2024-06-22T19:40:30.850Z
 shareable: true
 content:
   - tag: title
@@ -21,8 +21,8 @@ content:
     text: 各学院招生咨询群
 
   - tag: text
-    type: warning
-    heading: 学院招生咨询已截止
+    type: info
+    heading: 学院招生咨询时间
     text:
       - 各学院招生咨询于 6 月 13 日开始到 7 月 7 日截止。
 

@@ -2,12 +2,16 @@ title: 本科招生历史信息
 icon: time
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.459Z
+time: 2024-06-22T19:40:30.847Z
 shareable: true
 content:
   - tag: list
     header: 本科招生专业
     items:
+      - text: 2023 年本科开设专业
+        icon: list
+        path: major/2023
+
       - text: 2022 年本科开设专业
         icon: list
         path: major/2022
@@ -27,6 +31,10 @@ content:
   - tag: list
     header: 本科招生章程
     items:
+      - text: 2023 年本科招生章程
+        icon: rule
+        path: rule/2023
+
       - text: 2022 年本科招生章程
         icon: rule
         path: rule/2022
@@ -46,6 +54,38 @@ content:
   - tag: list
     header: 其他招生简章
     items:
+      - text: 2023 年国家高校专项计划招生简章
+        icon: rule
+        path: rule/2023-plan
+
+      - text: 2023 年国家美术类专业招生简章
+        icon: rule
+        path: rule/2023-art
+
+      - text: 2023 年国家舞蹈编导专业招生简章
+        icon: rule
+        path: rule/2023-dance
+
+      - text: 2023 年国家播音与主持艺术专业招生简章
+        icon: rule
+        path: rule/2023-host
+
+      - text: 2023 年国家音乐学专业招生简章
+        icon: rule
+        path: rule/2023-music
+
+      - text: 2023 年国家优师专项计划招生简章
+        icon: rule
+        path: rule/2023-great
+
+      - text: 2023 年运动训练、武术与民族传统体育专业招生简章
+        icon: rule
+        path: rule/2023-pe
+
+      - text: 2023 年高水平运动队招生简章
+        icon: rule
+        path: rule/2023-team
+
       - text: 2022 年国家高校专项计划招生简章
         icon: rule
         path: rule/2022-plan
