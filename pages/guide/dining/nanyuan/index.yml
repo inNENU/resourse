@@ -1,7 +1,7 @@
 title: 南苑餐厅
 icon: dining
 author: Mr.Hope
-time: 2024-01-13T04:17:33.751Z
+time: 2024-06-22T19:19:18.197Z
 grey: true
 shareable: true
 content:
@@ -9,7 +9,7 @@ content:
     items:
       - text: 介绍
         icon: about
-        url: intro
+        path: intro
 
   - tag: list
     header: 一楼

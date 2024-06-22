@@ -2,14 +2,14 @@ title: 北苑餐厅
 icon: dining
 grey: true
 author: Mr.Hope
-time: 2023-09-22T16:59:13.548Z
+time: 2024-06-22T19:19:18.167Z
 shareable: true
 content:
   - tag: list
     items:
       - text: 介绍
         icon: about
-        url: intro
+        path: intro
 
   - tag: list
     header: 基本餐
