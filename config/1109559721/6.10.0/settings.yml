@@ -23,7 +23,7 @@ main-presets:
           name: History grade
           color: purple
           icon: time
-          url: under-enroll-grade
+          url: under-enroll-score
 
         - text: 更多
           name: More
@@ -454,7 +454,7 @@ function-presets:
           name: History grade
           color: purple
           icon: time
-          url: under-enroll-grade
+          url: under-enroll-score
 
         - text: 录取查询
           name: Admission

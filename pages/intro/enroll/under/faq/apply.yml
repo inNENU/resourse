@@ -1,7 +1,7 @@
 title: 本科招生报考常见问题
 icon: apply
 author: Mr.Hope
-time: 2024-06-22T19:40:30.853Z
+time: 2024-06-26T03:13:21.644Z
 shareable: true
 content:
   - tag: title
@@ -97,7 +97,7 @@ content:
     items:
       - text: 历史分数线
         icon: time
-        url: under-enroll-grade
+        url: under-enroll-score
         env:
           - app
           - qq

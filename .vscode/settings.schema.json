@@ -230,7 +230,7 @@
           "description": "本科生录取",
           "$ref": "#/$defs/service-status"
         },
-        "under-enroll-grade": {
+        "under-enroll-score": {
           "description": "本科生历史分数",
           "$ref": "#/$defs/service-status"
         },

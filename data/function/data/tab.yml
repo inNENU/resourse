@@ -321,7 +321,7 @@ under-enroll:
       name: History grade
       color: purple
       icon: time
-      url: under-enroll-grade
+      url: under-enroll-score
 
     - text: 更多
       name: More

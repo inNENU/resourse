@@ -2,7 +2,7 @@ title: 本科招生
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-22T19:16:14.546Z
+time: 2024-06-26T03:13:21.641Z
 shareable: true
 content:
   - tag: list
@@ -22,7 +22,7 @@ content:
 
       - text: 历史分数线
         icon: time
-        url: under-enroll-grade
+        url: under-enroll-score
         env:
           - app
           - qq
