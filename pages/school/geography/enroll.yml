@@ -1,9 +1,18 @@
 title: 地理科学学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-07T07:49:34.992Z
+time: 2024-06-26T05:43:14.353Z
 shareable: true
 content:
+  - tag: title
+    text: 院长说专业
+
+  - tag: text
+    heading: 地载万物 理蕴乾坤
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/5/08/2A/543DF7419E2B09F0D1F6E472DFC_20825E01_25DFEE12.mp4?e=.mp4
+
   - tag: title
     text: 本科招生概况
 
@@ -36,15 +45,6 @@ content:
   - tag: doc
     name: 地理科学学院本科人才培养方案 (2020)
     url: $file/course-plan/geography/2020.pdf
-
-  - tag: title
-    text: 专业介绍视频
-
-  - tag: text
-    heading: 地载万物 理蕴乾坤
-
-  - tag: video
-    src: https://zsb.nenu.edu.cn/__local/F/9F/95/AEF900FCF09BD4293CB7929D63B_1821A624_390A68A9.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况

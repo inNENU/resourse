@@ -1,9 +1,18 @@
 title: 美术学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-07T07:49:34.772Z
+time: 2024-06-26T05:43:14.156Z
 shareable: true
 content:
+  - tag: title
+    text: 院长说专业
+
+  - tag: text
+    heading: 艺术并重 道器兼修
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/2/B7/96/E79E274C3A0CBDEDFD64CC45A85_962B538A_140B5B22.mp4?e=.mp4
+
   - tag: title
     text: 本科招生情况
 
@@ -34,12 +43,6 @@ content:
   - tag: doc
     name: 美术学院本科人才培养方案
     url: $file/course-plan/fineart.pdf
-
-  - tag: text
-    heading: 专业介绍视频
-
-  - tag: video
-    src: https://zsb.nenu.edu.cn/__local/7/3B/06/060FD8E8B4FE5B33D5E8D1A6A0D_312321FB_2B39BF6A.mp4?e=.mp4
 
   - tag: phone
     fName: 美术学院本科招生电话

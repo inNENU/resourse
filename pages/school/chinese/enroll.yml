@@ -1,9 +1,18 @@
 title: 文学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-07T07:49:34.850Z
+time: 2024-06-26T05:43:14.223Z
 shareable: true
 content:
+  - tag: title
+    text: 院长说专业
+
+  - tag: text
+    heading: 文心雕龙 学在东师
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/5/1B/50/EB2239295FFB3A5884AD1752927_FF55912C_1BB06D00.mp4?e=.mp4
+
   - tag: title
     text: 本科招生概况
 
@@ -39,15 +48,6 @@ content:
   - tag: doc
     name: 文学院汉语言文学(公费师范)本科人才培养方案 (2020)
     url: $file/course-plan/chinese/normal-2020.pdf
-
-  - tag: title
-    text: 专业介绍视频
-
-  - tag: text
-    heading: 文以载道 追求卓越
-
-  - tag: video
-    src: https://zsb.nenu.edu.cn/__local/A/C6/CA/B14375E7A7876280C363706CC24_023718FD_1A5A769E.mp4?e=.mp4
 
   - tag: title
     text: 硕士研究生招生概况

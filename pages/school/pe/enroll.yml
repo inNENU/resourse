@@ -1,7 +1,7 @@
 title: 体育学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-22T19:16:14.270Z
+time: 2024-06-26T05:43:14.488Z
 shareable: true
 content:
   - tag: title
@@ -35,7 +35,7 @@ content:
     url: $file/course-plan/pe/2019.pdf
 
   - tag: title
-    text: 专业介绍视频
+    text: 院长说专业
 
   - tag: text
     heading: 东师体院等你来

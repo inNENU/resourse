@@ -1,9 +1,18 @@
 title: 教育学部招生
 icon: enroll
 desc: 研究生招生信息来自研究生院
-time: 2024-06-22T19:16:14.180Z
+time: 2024-06-26T05:43:14.270Z
 shareable: true
 content:
+  - tag: title
+    text: 院长说专业
+
+  - tag: text
+    heading: 松高芝兰 教育诗篇
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/A/0F/45/1C403358823B9790A1DF22EDB45_AB0FCEA1_2D3B9CAC.mp4?e=.mp4
+
   - tag: title
     text: 本科招生概况
 
@@ -54,15 +63,6 @@ content:
   - tag: doc
     name: 教育学部教育学专业人才培养方案
     url: $file/course-plan/education/education.docx
-
-  - tag: title
-    text: 专业介绍视频
-
-  - tag: text
-    heading: 松高芝兰 教育诗篇
-
-  - tag: video
-    src: https://zsb.nenu.edu.cn/__local/F/40/B3/9F9AB244ECB4AF264F5774132C7_75BE73FC_2A1CB2BF.mp4?e=.mp4
 
   - tag: title
     text: 本科招生咨询电话

@@ -1,7 +1,7 @@
 title: 物理学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-22T19:16:14.278Z
+time: 2024-06-26T05:43:14.507Z
 shareable: true
 content:
   - tag: title
@@ -45,7 +45,7 @@ content:
     url: $file/course-plan/physics/2021.pdf
 
   - tag: title
-    text: 专业介绍视频
+    text: 院长说专业
 
   - tag: text
     heading: 格物致知 穷理笃行

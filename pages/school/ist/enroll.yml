@@ -1,9 +1,18 @@
 title: 信息科学与技术学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-07T07:49:35.048Z
+time: 2024-06-26T05:43:14.405Z
 shareable: true
 content:
+  - tag: title
+    text: 院长说专业
+
+  - tag: text
+    heading: 智能创造 遇见未来
+
+  - tag: video
+    src: https://zsb.nenu.edu.cn/__local/2/FB/F4/65E020717010CB8F2351DB77F16_7E98D8CB_12559614.mp4?e=.mp4
+
   - tag: title
     text: 本科招生概况
 
@@ -50,15 +59,6 @@ content:
   - tag: doc
     name: 计算机科学与技术专业、教育技术学专业、图书馆学专业和信息资源管理专业课程简介与大纲
     url: $file/study/ist-kcjj.pdf
-
-  - tag: title
-    text: 专业介绍视频
-
-  - tag: text
-    heading: 智能创造 遇见未来
-
-  - tag: video
-    src: https://zsb.nenu.edu.cn/__local/A/18/19/1CA7AB30BA1CE91A218AF5ECA05_6232FFFB_2A1C9A5F.mp4?e=.mp4
 
   - tag: phone
     fName: 信息科学与技术学院本科招生
