@@ -4,10 +4,6 @@ main-page:
 
 main-presets:
   guest:
-    - tag: text
-      type: danger
-      heading: 目前学校统一身份认证服务故障导致各系统无法登录，非小程序问题。
-
     - tag: grid
       header: 2024 年本科招生
       items:
@@ -201,10 +197,6 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
-    - tag: text
-      type: danger
-      heading: 目前学校统一身份认证服务故障导致各系统无法登录，非小程序问题。
-
     - tag: grid
       header: 功能
       items:
@@ -798,11 +790,6 @@ service:
   under-select-selected: online
 
 notice:
-  app:
-    title: 统一身份认证系统超时
-    content: 学校统一身份认证系统目前访问无响应，这将导致小程序绝大部分账号相关功能无法正常使用。如有疑问请联系信息化办。
-    force: true
-
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 106 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
