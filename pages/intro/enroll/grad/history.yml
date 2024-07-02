@@ -1,16 +1,12 @@
 title: 研究生招生历史信息
 icon: time
 author: Mr.Hope
-time: 2023-09-23T11:16:45.434Z
+time: 2024-07-02T18:12:13.643Z
 shareable: true
 content:
   - tag: list
     header: 2023 年
     items:
-      - text: 2023 年招生专业、人数与联系方式
-        icon: list
-        path: major/2023
-
       - text: 2023 年硕士研究生招生简章
         icon: rule
         path: rule/2023
@@ -22,14 +18,6 @@ content:
   - tag: list
     header: 2022 年
     items:
-      - text: 2022 年招生专业、人数与联系方式
-        icon: list
-        path: major/2022
-
       - text: 2022 年硕士研究生招生简章
         icon: rule
         path: rule/2022
-
-  - tag: doc
-    name: 2022 年直博专业目录
-    url: $file/enroll/direct-doctor-list-2022.pdf

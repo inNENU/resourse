@@ -1,7 +1,7 @@
 title: 学校情况
 icon: about
 author: Mr.Hope
-time: 2023-10-29T17:18:50.428Z
+time: 2024-07-02T18:12:13.578Z
 shareable: true
 content:
   - tag: ul
@@ -42,9 +42,7 @@ content:
     type: info
     heading: 校情统计
     text:
-      # 暂无此内容
       - 已建成『700』平方米的场地用于同学的咨询服务与教育活动。
-    path: /intro/about/data
 
   - tag: ul
     type: info

@@ -2,7 +2,7 @@ title: 学校概况
 icon: about
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.410Z
+time: 2024-07-02T18:12:13.613Z
 shareable: true
 content:
   - tag: list
@@ -23,10 +23,6 @@ content:
       - text: 学校校史
         icon: history
         path: history
-
-      - text: 校情统计
-        icon: data
-        path: data
 
       - text: 领导机构
         icon: leader

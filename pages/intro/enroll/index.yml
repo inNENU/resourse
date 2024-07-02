@@ -2,15 +2,15 @@ title: 招生情况
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-26T03:13:21.616Z
+time: 2024-07-02T18:12:13.637Z
 shareable: true
 content:
   - tag: list
     header: 本科招生
     items:
-      # - text: 2023 年本科招生简章
-      #   icon: rule
-      #   path: under/rule/
+      - text: 2024 年本科招生简章
+        icon: rule
+        path: under/rule/
 
       - text: 招生计划
         icon: rule

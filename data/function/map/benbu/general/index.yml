@@ -36,10 +36,6 @@ content:
         icon: history
         path: /intro/about/history
 
-      - text: 校情统计
-        icon: data
-        path: /intro/about/data
-
       - text: 领导机构
         icon: leader
         path: /intro/about/leader

@@ -1,7 +1,7 @@
 title: 学校标识
 icon: activity
 desc: 2021 年 4 月 8 日更新，由学校办公室、党委宣传部提供
-time: 2023-09-23T11:16:45.416Z
+time: 2024-07-02T18:12:13.628Z
 shareable: true
 cite:
   - https://www.nenu.edu.cn/xxgk1/xxbs.htm
@@ -22,26 +22,23 @@ content:
   - tag: title
     text: 校徽
 
+  - tag: p
+    text: 东北师范大学校徽包括徽志和徽章。学校徽志为椭圆形，外围由学校的中英文名称环绕，中间是以笔尖、五星、书籍和表示学校建立年份的数字“1946”组成的图案。中文为郭沫若字体。学校标准色为深蓝色。学校徽章为教职工和学生佩戴的题有校名的长方形证章。
+
   - tag: img
     src: $img/about/badge.jpg
-
-  - tag: p
-    text: 校徽，是一所大学的象征。东北师范大学校徽包括徽志和徽章。学校徽志为椭圆形，外围由学校的中英文名称环绕，中间是以笔尖、五星、书籍和表示学校建立年份的数字“1946”组成的图案。中文为郭沫若字体。学校标准色为深蓝色。学校徽章为教职工和学生佩戴的题有校名的长方形证章。
 
   - tag: title
     text: 校旗
 
-  - tag: img
-    src: $img/about/flag.jpg
-
   - tag: p
     text: 校旗为白色长方形旗帜，中央位置印有校名，并配以学校徽志。校名与学校徽志颜色为深蓝色。
 
+  - tag: img
+    src: $img/about/flag.jpg
+
   - tag: title
     text: 校训
-
-  - tag: img
-    src: $img/about/motto.jpg
 
   - tag: text
     text: 勤奋创新 为人师表
@@ -49,6 +46,9 @@ content:
     style:
       font-size: 20px
       font-weight: bold
+
+  - tag: img
+    src: $img/about/motto.jpg
 
   - tag: title
     text: 校歌
