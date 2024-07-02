@@ -1,7 +1,7 @@
 title: 开学活动
 icon: activity
 author: Mr.Hope
-time: 2023-09-23T12:11:48.931Z
+time: 2024-07-02T16:28:50.351Z
 grey: true
 shareable: true
 content:
@@ -60,4 +60,4 @@ content:
       - text: 更多活动
         desc: 请读我
         icon: more
-        path: post
+        path: grad

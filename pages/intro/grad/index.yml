@@ -1,0 +1,64 @@
+title: 考研保研相关
+icon: degree
+author: Mr.Hope
+time: 2024-07-02T16:28:50.644Z
+grey: true
+shareable: true
+content:
+  - tag: title
+    text: 推免 (保研)
+
+  - tag: list
+    header: false
+    items:
+      # TODO: Update at 2024-09
+      - text: 2023 年推免通知
+        icon: notice
+        url: notice-detail?id=fde8b090b6934f60bc93a71ef8bbc275&title=关于推荐2024届全日制本科毕业生免试攻读硕士学位研究生工作的通知
+
+      # TODO: Update at 2024-09
+      - text: 第 26 届研究生支教团通知
+        icon: notice
+        url: notice-detail?id=64dee78a99ef45779fb1c31d6ebb9530&title=关于招募第26届研究生支教团的通知
+
+  - tag: list
+    items:
+      - text: 推免工作实施办法
+        desc: 保研规则
+        icon: rule
+        path: promote/promotion-rule
+
+      - text: 实施办法解读
+        icon: explain
+        path: promote/explain
+
+  - tag: title
+    text: 考研报考
+
+  - tag: list
+    header: false
+    items:
+      - text: 2023 年时间安排
+        icon: time
+        path: exam/time
+
+      - text: 2023 年全国招生规定
+        icon: rule
+        path: exam/enroll-rule
+
+  - tag: list
+    items:
+      - text: 报考要求
+        icon: alert
+        path: exam/requirement
+
+      - text: 考研报名
+        icon: apply
+        path: exam/apply
+
+  - tag: list
+    header: 东师研究生招生
+    items:
+      - text: 东师研究生招生详情
+        icon: more
+        path: /intro/enroll/grad/

@@ -129,7 +129,7 @@
           "type": "string"
         }
       },
-      "required": ["text"],
+      "required": ["type", "text"],
       "default": { "type": "navigator", "text": "" },
       "additionalProperties": false
     },
@@ -164,7 +164,7 @@
           "type": "string"
         }
       },
-      "required": ["text", "key"],
+      "required": ["type", "text", "key"],
       "default": { "type": "switch", "text": "", "key": "" },
       "additionalProperties": false
     },
@@ -207,7 +207,7 @@
           "type": "boolean"
         }
       },
-      "required": ["text", "select", "key"],
+      "required": ["type", "text", "select", "key"],
       "default": { "text": "", "select": [], "key": "" },
       "additionalProperties": false
     },
@@ -250,7 +250,7 @@
           "type": "number"
         }
       },
-      "required": ["text", "key"],
+      "required": ["type", "text", "key"],
       "default": { "type": "slider", "text": "", "handler": "" },
       "additionalProperties": false
     },
@@ -311,7 +311,7 @@
           "type": "boolean"
         }
       },
-      "required": ["text"],
+      "required": ["type", "text"],
       "default": { "type": "button", "text": "", "handler": "" },
       "additionalProperties": false
     },

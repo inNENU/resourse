@@ -1,7 +1,7 @@
 title: 马克思主义学部招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-26T05:43:14.426Z
+time: 2024-07-02T16:28:50.258Z
 shareable: true
 content:
   - tag: title
@@ -65,7 +65,7 @@ content:
     items:
       - text: 查询地址
         icon: search
-        url: post-enroll-plan?school=马克思主义学部
+        url: grad-enroll-plan?school=马克思主义学部
 
   - tag: phone
     header: 硕士研究生招生咨询电话

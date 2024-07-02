@@ -43,7 +43,7 @@ about:
       color: blue
       name: Postgraduate
       icon: study
-      path: intro/post/
+      path: intro/grad/
 
 apartment:
   icon: apartment
@@ -350,7 +350,7 @@ newcomer:
       color: blue
       name: Edu Course
       icon: study
-      post: null
+      grad: null
       path: newcomer/yiban/
 
     - text: 需带物品
@@ -380,7 +380,7 @@ newcomer:
       name: Activity
       icon: activity
       under: newcomer/activity/under
-      post: newcomer/activity/post
+      grad: newcomer/activity/grad
       path: newcomer/activity/
 
     - text: 防盗防骗
@@ -399,7 +399,7 @@ newcomer:
       color: olive
       name: Intro
       icon: about
-      post: null
+      grad: null
       path: newcomer/intro/
 
     - text: 专业介绍
@@ -454,7 +454,7 @@ service:
       name: Service
       icon: service
       under: guide/action/under
-      post: guide/action/post
+      grad: guide/action/grad
       path: guide/action/
 
 life:
@@ -618,7 +618,7 @@ study:
       color: red
       name: Postgraduate
       icon: study
-      path: intro/post/
+      path: intro/grad/
 
     - text: 优秀毕业生建议
       color: purple

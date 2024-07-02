@@ -2,7 +2,7 @@ title: 规章制度
 icon: rule
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.538Z
+time: 2024-07-02T16:28:50.679Z
 shareable: true
 content:
   - tag: list
@@ -74,7 +74,7 @@ content:
 
       - text: 研究生学籍管理规定
         icon: rule
-        path: post-school-roll
+        path: grad-school-roll
 
   - tag: list
     header: 学位管理
@@ -122,7 +122,7 @@ content:
     items:
       - text: 东北师范大学研究生国家奖学金评审细则
         icon: rule
-        path: post-scholarship
+        path: grad-scholarship
 
       - text: 东北师范大学研究生学术道德规范
         icon: rule

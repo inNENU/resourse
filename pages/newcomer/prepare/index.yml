@@ -1,7 +1,7 @@
 title: 入学准备
 icon: prepare
 author: Mr.Hope
-time: 2023-09-23T12:11:49.109Z
+time: 2024-07-02T16:28:50.488Z
 grey: true
 shareable: true
 content:
@@ -50,7 +50,7 @@ content:
     items:
       - text: 档案邮寄
         icon: archive
-        path: /guide/archive/post-in
+        path: /guide/archive/grad-in
 
       - text: 证件材料
         icon: id
@@ -58,7 +58,7 @@ content:
 
       - text: 录取通知书详情
         icon: letter
-        path: post-admission-notice
+        path: grad-admission-notice
 
       - text: 党员组织关系接转
         icon: league

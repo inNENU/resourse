@@ -2,7 +2,7 @@ title: 奖学金
 icon: metal
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.575Z
+time: 2024-07-02T16:28:50.715Z
 shareable: true
 content:
   - tag: list
@@ -21,7 +21,7 @@ content:
     items:
       - text: 研究生奖学金介绍
         icon: metal
-        path: post
+        path: grad
 
       - text: 2022 - 2023 学年通知
         icon: notice

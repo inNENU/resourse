@@ -1,7 +1,7 @@
 title: 物理学院招生
 icon: enroll
 author: Mr.Hope
-time: 2024-06-26T05:43:14.507Z
+time: 2024-07-02T16:28:50.295Z
 shareable: true
 content:
   - tag: title
@@ -61,7 +61,7 @@ content:
     items:
       - text: 查询地址
         icon: search
-        url: post-enroll-plan?school=物理学院
+        url: grad-enroll-plan?school=物理学院
 
   - tag: phone
     header: 硕士研究生招生咨询电话

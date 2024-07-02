@@ -2,7 +2,7 @@ title: 档案相关
 icon: archive
 grey: true
 author: Mr.Hope
-time: 2024-05-22T11:27:02.118Z
+time: 2024-07-02T16:28:50.878Z
 shareable: true
 content:
   - tag: list
@@ -26,7 +26,7 @@ content:
 
       - text: 研究生档案转入
         icon: enter
-        path: post-in
+        path: grad-in
 
   - tag: list
     header: 档案转出

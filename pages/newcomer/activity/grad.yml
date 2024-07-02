@@ -1,0 +1,59 @@
+title: 研究生开学活动
+icon: activity
+author: Mr.Hope
+time: 2024-07-02T16:28:50.348Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    header: 重要活动
+    items:
+      - text: 体检
+        icon: medical-exam
+        path: /newcomer/check/medical-examination
+
+      - text: 导师选择
+        icon: change
+        path: choose
+
+  - tag: list
+    header: 其他活动
+    items:
+      - text: 注册学籍
+        icon: rule
+
+      - text: 学费缴纳
+        icon: money
+        path: /guide/pay/
+
+      - text: 银行卡办理
+        icon: card
+        path: bank-card
+
+      - text: 保险办理
+        desc: 自愿
+        icon: insurance
+        path: /guide/insurance/
+
+      - text: 火车优惠卡申领
+        icon: train
+        path: train-card
+
+      - text: 献血
+        icon: heart
+        path: blood-donate
+
+  - tag: list
+    header: 征兵工作
+    items:
+      - text: 征兵工作条例
+        icon: rule
+        path: /intro/rule/official-conscription
+
+      - text: 东师征兵工作实施细则
+        icon: rule
+        path: /intro/rule/conscription
+
+      - text: 参军入伍待遇解释
+        icon: idea
+        path: conscription/explain
