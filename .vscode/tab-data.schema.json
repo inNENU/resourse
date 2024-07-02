@@ -36,11 +36,11 @@
         },
         "under": {
           "description": "本科生路径",
-          "type": ["string", "null"]
+          "type": ["string", "false"]
         },
-        "post": {
+        "grad": {
           "description": "研究生路径",
-          "type": ["string", "null"]
+          "oneOf": [{ "type": "string" }, { "enum": [false] }]
         },
         "benbu": {
           "description": "本部路径",
@@ -101,6 +101,12 @@
         "items": []
       },
       "additionalProperties": false
+    },
+    "env": {
+      "type": "array",
+      "items": {
+        "enum": ["app", "qq", "wx", "web"]
+      }
     }
   },
   "patternProperties": {

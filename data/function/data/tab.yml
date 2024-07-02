@@ -350,7 +350,7 @@ newcomer:
       color: blue
       name: Edu Course
       icon: study
-      grad: null
+      grad: false
       path: newcomer/yiban/
 
     - text: 需带物品
@@ -399,7 +399,7 @@ newcomer:
       color: olive
       name: Intro
       icon: about
-      grad: null
+      grad: false
       path: newcomer/intro/
 
     - text: 专业介绍
@@ -675,6 +675,7 @@ enjoy:
 graduate:
   icon: archive
   name: 再见东师
+  path: guide/graduate
   items:
     - text: 就业
       color: blue

@@ -1,0 +1,18 @@
+title: 再见东师
+icon: leave
+grey: true
+content:
+  - tag: grid
+    header: 再见东师
+    items:
+      - text: 就业
+        color: blue
+        name: Job
+        icon: job
+        path: job/
+
+      - text: 档案
+        color: purple
+        name: Archive
+        icon: archive
+        path: archive/
