@@ -2,7 +2,7 @@ title: 学院介绍
 icon: school
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:49.936Z
+time: 2024-07-03T08:50:13.330Z
 shareable: true
 content:
   - tag: grid
@@ -120,3 +120,9 @@ content:
         name: Media
         icon: media
         path: media/intro
+
+      - text: 纽瓦克学院
+        color: grey
+        name: Newark
+        icon: flag
+        path: newark/intro

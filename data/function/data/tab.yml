@@ -271,6 +271,12 @@ school:
       icon: network
       path: school/international/
 
+    - text: 纽瓦克学院
+      color: grey
+      name: Newark
+      icon: flag
+      path: school/newark/
+
 grad-enroll:
   icon: degree
   name: 研究生招生
