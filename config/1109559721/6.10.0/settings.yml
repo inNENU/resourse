@@ -34,6 +34,12 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 找到组织
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
+
         - text: 学校概况
           color: red
           name: Description
@@ -272,10 +278,10 @@ intro-page:
 guide-page:
   guest:
     items:
+      - newcomer
       - life
       - study
       - enjoy
-      - newcomer
     more:
       - account
       - service
@@ -728,6 +734,7 @@ user:
         type: button
         openType: addFriend
         openId: 41D0ED9AEDD96C611B0E679EF3ED67F9
+        handler: reportInfo
 
       - text: 添加到桌面
         icon: send
@@ -771,6 +778,7 @@ about:
         type: button
         openType: addFriend
         openId: 868D7B2F0C609B4285698EAB77A47BA1
+        handler: reportInfo
 
   - tag: text
     heading: 小程序内容
@@ -790,10 +798,17 @@ about:
 
 service:
   grad-system-login: online
+  under-study-check: online
   under-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
+  under-select-category: online
+  under-select-class: online
+  under-select-info: online
+  under-select-process: online
+  under-select-search: online
+  under-select-selected: online
 
 notice:
   main:
@@ -806,9 +821,9 @@ notice:
     # title: 手机验证码
     # content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
 
-  select:
-    title: 暂不支持
-    content: 学校本次使用了全新选课系统，因此陪伴大家三次选课的旧选课系统已经下线。Mr.Hope 会尽快重新适配。
+  under-select:
+    title: 公测中
+    content: 新版本科选课系统已初步适配，现面向全体用户发起公测。特别提示：当前选课系统已完整内测阶段，所需功能基本可用，但 Mr.Hope 不保证当前公测版系统没有问题，也不会对公测版系统引发的问题负责。继续使用即代表您已知晓并接受此风险。
     force: true
 
 update:

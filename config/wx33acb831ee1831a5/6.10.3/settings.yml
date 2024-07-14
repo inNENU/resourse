@@ -34,6 +34,12 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 找到组织
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
+
         - text: 学校概况
           color: red
           name: Description
@@ -272,10 +278,10 @@ intro-page:
 guide-page:
   guest:
     items:
+      - newcomer
       - life
       - study
       - enjoy
-      - newcomer
     more:
       - account
       - service
