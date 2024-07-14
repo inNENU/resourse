@@ -4,6 +4,100 @@ desc: 发布安全工作状态、推送安全常识、剖析安全事例、进�
 id: gh_dd8abfa7985e
 logo: $img/media/pingan.png
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs8bF5icaV9zu0Ct2Njw02h1FGxWCoRYz6MrqclWD9MnrAAadBV8KzujK8iaIxytAtibn9hvVJeTQLPHw/0?wx_fmt=jpeg
+    title: 平安东师｜你的充电宝安全吗？
+    desc: 消防安全，人人有责！
+    url: https://mp.weixin.qq.com/s/vdX3n1HOvFMbTWpWMkJNcw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsicWJjfibyhxu9hAaFeRBUSqPRVc1j3BjskkbbZJQZ5w6OqGYWyLFHbcYuV2bxicN19cnmIiayB1IRhoQ/0?wx_fmt=jpeg
+    title: 平安东师｜宿舍电气火灾防范指南
+    desc: 安全用电！
+    url: https://mp.weixin.qq.com/s/OmqkoPtX4TNj58Ckg74rdg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsicRCRa50rphMvWibl0ic5PNxllqNJmRbmFI3OP5q4gMjGUTSGOFBsKm2NHrVibcbnUq5ST2pYFvoF8gA/0?wx_fmt=jpeg
+    title: 我校联合交警支队开展校园交通安全宣传活动
+    desc: 我校联合长春市交警支队举办“交通安全宣传走进东北师大”安全宣讲活动。
+    url: https://mp.weixin.qq.com/s/NKiyQJIjSdGyUetuqzs0fg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsibdIdO1icYpEpy1WzIBficnjg40JPlpp5JLCIcvUg2mw56I1wjS8HuYYJiamabKSIzDSJfy3XdGV1n1A/0?wx_fmt=jpeg
+    title: 东北师范大学开展春季火灾疏散逃生演练系列活动
+    desc: 保障消防安全 共筑平安校园
+    url: https://mp.weixin.qq.com/s/adYPcK0f30J9D0J6nN65Gg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsicckCEicm4HEn51Q03UYYleDRRIZ1LhxBYsBygTFNmbtiaTTGibVjWRnDcZibRAmfUDAhLEiabxxgSwAcg/0?wx_fmt=jpeg
+    title: “全民国家安全教育日”主题作品获奖名单公布
+    desc: “全民国家安全教育日”主题作品获奖名单公布啦！
+    url: https://mp.weixin.qq.com/s/7JV5FudCZAZC38355aM7Lg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs9GqcHOPPcEygZPKjfqNmgNWSgOdjHbroENMg9573I0P17KSd54ia83G2zb7sjOTp0vJOEpChynRIw/0?wx_fmt=jpeg
+    title: 东北师范大学开展全民国家安全教育宣传日系列活动
+    desc: 2024年是习近平总书记提出总体国家安全观10周年。今年4月15日是第九个全民国家安全教育日。
+    url: https://mp.weixin.qq.com/s/fy2KdratE7v-Dv1TkD2Tpw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs9EiaC2ia6HJoFjHLVR4gC3SMGGbOzB2nv3UvhmmBnFyrhCSBWEaGLmqW4AOsIMUDlXdaru2j09Oqvg/0?wx_fmt=jpeg
+    title: Nenuers请查收！2024总体国家安全观宣传手册来啦！
+    desc: 总体国家安全观，创新引领10周年
+    url: https://mp.weixin.qq.com/s/Df4IOB7SAC2FaQD2pc4tew
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs80ZERZHwjMmLkGqATsdv6Xa8q8XicQ1mFBZKZwYw9DxibWB05kaiaSllXdY5ZpibgyNyvdavwVp7ZqNw/0?wx_fmt=jpeg
+    title: 安全提示｜大风天气消防安全小知识
+    desc: 春季校园大风天气消防安全提示
+    url: https://mp.weixin.qq.com/s/o23czpUOOCne0O2Zdhrvdg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs8Zw08VXeMhvHF7IX2oCLMrOiaRkpubttmSU5EYBlKxhxfFT33uCy62UiaRIOQK6uGrzGqCCPzzpIQA/0?wx_fmt=jpeg
+    title: 坚持总体国家安全观，国家安全，人人有责
+    desc: 今年是习近平总书记提出总体国家安全观十周年，今天我们就带大家了解一下什么是“总体国家安全观”。
+    url: https://mp.weixin.qq.com/s/ppS9saRcUAjZDFHkq3dXDw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs990CoiaIYOhgPgHGK0BBdVMeQKdHiaKqOvOib1m4S23G68fV7qFFnPwjCo7cUaKKyOCfK2QL05jdc1g/0?wx_fmt=jpeg
+    title: 【协会风采】三月社团活动集锦
+    desc: 平安东师学生志愿者协会以维护校园安全为己任，发挥学生群体在校园安全管理中的主人翁精神，切实营造“人人说安全，人
+    url: https://mp.weixin.qq.com/s/OMkfpBmnyqKxln5SNWjEeQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsib6aWdpO7sGwCUBicfqt6H1fiaygVrlrG56NgYsOc0F9FJcRF6b3MKbC5WQKJmq0kLH03ibUMWBoCcZA/0?wx_fmt=jpeg
+    title: 警界在线｜案件警示—《致命的微笑》
+    desc: 深度解析
+    url: https://mp.weixin.qq.com/s/4Mjhg6KnLxJiO9PdcU0P1Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsibXFFQvnibrdhNrvo2eLicfLqkbUARJ1M4UeIFD0fA43iauGloE0IH3yPU9q8stOpJWyPvQ6pCWLwDIA/0?wx_fmt=jpeg
+    title: 东北师范大学成功举办2024年春季消防疏散演练活动
+    desc: 学习消防安全知识， 提高自防自救能力。
+    url: https://mp.weixin.qq.com/s/g5ATQHXuiCxYb6nKFWxDdQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs9b6WW9ic5JUHQUbq1OmlAZDJXEpEoPpwtnPry5M91AWh8Cibpau8MJA2yrIDVJKFdwfoVzBndDr7wA/0?wx_fmt=jpeg
+    title: 安全校园，护我同行
+    desc: 近年来，校园安全事件屡屡发生
+    url: https://mp.weixin.qq.com/s/Fr4M-Ya9BexyA57FgVMzQw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs90gYn13XZa1b10Tiab3ibP1Z3AFZhRKrprtMAY95oxC4YQrdJEMYCRxnCVvZH5SBxHXZV3PRDTQ6xw/0?wx_fmt=jpeg
+    title: 我校举办开学季校园反诈宣传教育活动
+    desc: 开学季反诈第一课
+    url: https://mp.weixin.qq.com/s/Nc6Rn2VdYEjS3eL1S6S94w
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs9P3J9nr0maAxFMqW0gYIg7STKw0Xibicjoy0Uia3cugpW2BItsFyVRicW39CM7oZNf2KICbWVbRQSjRA/0?wx_fmt=jpeg
+    title: 开学第一课——新学期校园防火秘笈来了！
+    desc: 关注消防，生命至上 安全防火，人人有责
+    url: https://mp.weixin.qq.com/s/-Fiy3USapW2_b9nSgG2mQQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsicJyqRCSjDlTo0plfm1pzyUYjroKMWpZzWybLoSj1cqq9VtSqnibDR9KmGxPHPwViaSc8Agb7O4nzhw/0?wx_fmt=jpeg
+    title: 开学第一课——新学期兼职防诈秘笈来了！
+    desc: 坐以待币
+    url: https://mp.weixin.qq.com/s/Qo0PY9hbpJaOoTxS5jJC6g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsibbPV3B3GXLJEA9tmqnvpxUErMeic3YTdGx1N09sUTPER84HvNQkZ2yJmrCR7lacmm8icqHv45IWLag/0?wx_fmt=jpeg
+    title: 打击网络谣言，你我有责！
+    url: https://mp.weixin.qq.com/s/zDnaPIbd4KU5tGwSND8ppg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrsibNSOiaVzLpohpvcLxso9HvWbrueQOAoYVc0XQCYOen3zwMyXuvWY3f20bRlvqrlZ5gVoQN2wfKDdg/0?wx_fmt=jpeg
+    title: 平安东师，2023我们共同的记忆
+    desc: 不论春夏秋冬，只有一年365天×24小时
+    url: https://mp.weixin.qq.com/s/ibrkONHIbV6SPyDP1udDLQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs8Pcibb2Sm11mI0EyuhJhSxblvTbtbBQ75VnVFtPSYDuV2IbrDo88WKWCtZQQo5FoTHibuf5kSSm0Bg/0?wx_fmt=jpeg
+    title: 东师校园电动车消防安全提示
+    desc: 校园电动车火灾防护常识，你了解多少？
+    url: https://mp.weixin.qq.com/s/3Q2DkoJGWf6sM4CGDbnQ9A
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/E2eJYIhNrs8vYR1Hiavu4ZnGAUPrM4bWlABdbXAXRYpK3kicPCH9UNBWEsd0nFPA7cX14icgIaoTfrgM3yubuuicEA/0?wx_fmt=jpeg
     title: 东师学子走进长春消防科普教育基地为安全“加油”
     desc: 11月是全国消防安全宣传月，今年的主题是“预防为主，生命至上”，为了能让学生更加直观地感受火灾场

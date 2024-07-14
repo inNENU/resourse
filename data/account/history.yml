@@ -4,6 +4,48 @@ desc: 努力成为史苑学生生活上的“友、助、冶、趣”之地，�
 id: dssyxl
 logo: $img/media/history.jpg
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5w8VLlNGQMFZDsq9LQR71eLMxSGnHYfibvkyrpSnLUAwG6CLL7aA6CT8nDoMmT9UUQWSZ8BIbCB2GKQ/0?wx_fmt=jpeg
+    title: 酷爽夏日，文体之旅｜暑假文体活动来袭，快来一起参与吧！
+    desc: 亲爱的同学们，暑假来临，你是否已经迫不及待地想要投身于各种有趣的活动呢？今天，我们为大家带来了一场别开生面的暑假活动——酷爽夏日，文体之旅！
+    url: https://mp.weixin.qq.com/s/XwwR3kSr0KVHLcLnOG6vUQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5w8qwzZmFHZXldv69ibvlpJLYtdxtrCKCz79ryyaicTX6cTibgibjvYPjVdkadfwPQ8rLTfdXM9xVOP4uQ/0?wx_fmt=jpeg
+    title: 遇健美好｜“与心灵相约，与健康同行”心理嘉年华圆满收官
+    desc: 送走春日，迎来初夏，在温暖里，来一场心灵盛宴！
+    url: https://mp.weixin.qq.com/s/5Kt3O23ppzYqM3jr57im4g
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5w8UkONSNALmnuyknoHibTV9juOXhuNCwMEnzTzeusvxQ5T51JgfibYHh2kTDADAO0fD5dGvK4aq1TBQ/0?wx_fmt=jpeg
+    title: “时光之旅，历史之星”表彰大会圆满落幕，荣誉时刻共见证！
+    url: https://mp.weixin.qq.com/s/-UMGXIkx3fR3Ka99gx8sLg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5w9R0uw953ylob3H9LsEvqkokzlcFq5gVJJibeO7d8Ptyhibic8lYPfMB6aGTFNsm0oZ1uic8aBibTBeQkg/0?wx_fmt=jpeg
+    title: 遇健心声之史苑“心晴嘉年华” ｜拒绝烦恼，我的世界本就该围着我转！
+    url: https://mp.weixin.qq.com/s/MGwvvQ9cWmdOkK5M6_wp5w
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5wic6cSgSGU5GIscvzBZY0gMDMfF0BfnKaWJ8RFQhR1jumcWIPBOqvlcsMNRALjrczDXB2nBZKqibb6A/0?wx_fmt=jpeg
+    title: 遇健美好之岁月清欢 | “寝室文化节”活动成果大赏
+    desc: 成长的季节到茂盛的季节，花鸟的季节到我们的季节，那就跟随青春的脚步，一起看看我们的成果吧！
+    url: https://mp.weixin.qq.com/s/vdSEBRgO0PGRTLDKybkeqg
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5w9OBrmkxsIEymibylPJKfRTT4muvvRn2eAAjwyzZfTM6gQ05MBeJ2Go390DPQiaWq5ALxfMP6ocB0oQ/0?wx_fmt=jpeg
+    title: 学海泛舟｜“筑梦前行，砥砺奋进”理想与成才巡回报告会之历史文化学院2023级本科生专场
+    desc: 在这春光作序、万物和鸣的季节里，我们迎来了一场意义非凡的“理想与成才”巡回报告会。本次活动有幸邀请到了外国语
+    url: https://mp.weixin.qq.com/s/U3-_LK3BD_eg3ZW3jV0iJw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5wibuUvP3t6ML9mkUkUyfhsdkRv84Y5dxRxgMcf1WnpfJAAdMF3yp8jwqNcKAOFhR7nXQiaicd0RfXgBw/0?wx_fmt=jpeg
+    title: 史于遇健之岁月清欢系列 | 2023级本科生甲辰新年生活分享
+    desc: 史于遇健之岁月清欢系列 | 2023级本科生甲辰新年生活分享
+    url: https://mp.weixin.qq.com/s/sNjss06P0eh6_uU9ZAXDkQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5wibDaShucTd8lrlUYx9slAydrttsoEf3jpzZ5pSSI06ObWb7qbicBZULmW2UesnzctO0ORKLgG0tJsw/0?wx_fmt=jpeg
+    title: 青蓝赓续之心语心愿系列｜2023级本科生12·5“要爱我”心理日专题活动圆满收官
+    desc: 2023级本科生12·5“要爱我”心理日专题活动圆满收官
+    url: https://mp.weixin.qq.com/s/g9npllYSs8nzbbwGnEBbZQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/8g3OkANV5wicxZSrpgTrsQicvcSDnBQ53zdYicOy9vicKbYiaDKicapalv8icFdL7ic73Xjo3qBvUJSVPFxicCtqIM7ZutA/0?wx_fmt=jpeg
+    title: 2023级本科“辞暮尔尔，烟火年年”迎新暨元旦晚会精彩回顾
+    url: https://mp.weixin.qq.com/s/gVnjPUoejrXsXHNKKlyLdg
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/oicpMGd7RbK9Uev5jYXTwzrjCFFJKGtGiaUsM9Kd3xriaJnDaWd84kLAPDkQuggqhbliadfLicXN7bp9jPl3yYkHCwA/0?wx_fmt=jpeg
     title: 对话·史坛之窗|期刊推荐 (第8期)
     url: https://mp.weixin.qq.com/s/zn6jlEQpGaFgOTjFC2W8yQ

@@ -4,6 +4,236 @@ desc: 勤奋创新 为人师表
 id: nenuweixin
 logo: $img/media/official.png
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgUv0xiaRYM82bKmLoiaZsOiayRmacAiber90J85uFiczcMHbgp1yiaCy34dHPyx4L6BzK99aPfYn2NjDTQ/0?wx_fmt=jpeg
+    title: 寻访东师抗美援朝英烈王生华
+    desc: 致敬东师前辈！
+    url: https://mp.weixin.qq.com/s/fp-M2qDMaZNOJUZhhekIHQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgDHqW1zgtun8p6ibqcbxYy8bsrw2DcMds7AFdHwZzpd2pHYW3VtH4pFBvghS1I2ZQw35LWhxctv4g/0?wx_fmt=jpeg
+    title: 东北师范大学在冰麦标准化种植示范基地举办“弱碱低产耕地小冰麦新种植模式”鉴定会
+    url: https://mp.weixin.qq.com/s/WcW6m1CRFdzYYWoVh2GbEQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiac5LLNqDVgTAliaORkibiaC14YhdicMfooibKFXs4vyDEo6zS06dzVk4ZXa1nE77LjlntHafr8vrGKUGw/0?wx_fmt=jpeg
+    title: 东北师范大学刘益春院士赴京参加全国科技大会、国家科学技术奖励大会、两院院士大会
+    url: https://mp.weixin.qq.com/s/8adiKsNr0FMp3peilBQ5xA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjdIctBSd4k4UpFY4pTZKRmhGhyaEHBQFSDa6dAtkJQyZQVOtd1VpxpTbu3PKD8z3iaTMpjYbB9VMA/0?wx_fmt=jpeg
+    title: 院士师范院校行暨东师大师公开课（第一讲）举行
+    url: https://mp.weixin.qq.com/s/xWwuQPVAx3rIwX6D2u2oRA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjdIctBSd4k4UpFY4pTZKRmAOYGeicIMmL1Snuev6pqia7X1Lo4yanBYiboI6zHOBxzePUeVjZvw9zNg/0?wx_fmt=jpeg
+    title: 东师“志远书院”，揭牌！
+    url: https://mp.weixin.qq.com/s/U1NLgMAxAJ2LJPIF_S61Pg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFh71QZQ5W5FttoYv9iaR0fgbSI78Z01AaxdicInTib1fAdHO28uxQunOXGV1CME1icy4oZ1nwAvhmZdDA/0?wx_fmt=jpeg
+    title: 与AI同频 与时代同行——校长徐海阳在东北师范大学2024年毕业典礼上的讲话
+    url: https://mp.weixin.qq.com/s/HHc2Czt0r1T1BMITvbwAVg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgrKcdicFicvp7biaR6V225MygoawmAMuNrFvKsKKJWuwyGibz5zrE98LNKsoPQ1ZjVyCmfAZe9W4ROaw/0?wx_fmt=jpeg
+    title: 东北师范大学2024届学生毕业典礼隆重举行！
+    desc: 远方有你，不说再见！
+    url: https://mp.weixin.qq.com/s/F3YUXle55C1MFhcBjRofkA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFia07u0XNJMIsGetTMsiaWzmUEHNZgJdhgzicWNNickiczeSM50WIpYhYQibwMLjibcgFvySgpEu0ibBMYG2Q/0?wx_fmt=jpeg
+    title: 期待加入！东北师范大学2024年本科招生线上咨询群开通啦！
+    desc: "@2024高考生们热烈祝贺你们披荆斩棘即将踏上人生新篇章的征途！东北师范大学2024年本科招生线上咨询群现已"
+    url: https://mp.weixin.qq.com/s/k-ArBMbFAY-fwMrJgwSlCQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiaicPibE9b5dMyXkNUsFgWErlaJBPWY1icepxaoVxORyxic2LfIfzlVbuicPyWTiaga17DxMUPETawJbfIw/0?wx_fmt=jpeg
+    title: 党纪学习教育·深度解读 | 《求是》杂志评论员：学纪、知纪、明纪、守纪
+    url: https://mp.weixin.qq.com/s/ZWklr8da4QJatggBIKPx5Q
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgR6xbaiariboUC6XVONqMJqR7hSfp56HAX00dsoqdWXxqjrEm6mlojb4L3XKhJsko1n0QiakvHyTU0g/0?wx_fmt=jpeg
+    title: 教育时评：迈出教育强国建设的铿锵步伐
+    url: https://mp.weixin.qq.com/s/490hrO8g97H_JqwqNsMt_g
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgrKffcP4ZzkEC37PKo9fCU2gg5hhA9TqH1pMyibkAzXtibMbLHZvy2icFOo7xj4sXpkawBjsDA32icRg/0?wx_fmt=jpeg
+    title: 东北师范大学出版社举行系列新书发布会
+    desc: 坚守师范本色，赓续红色基因！
+    url: https://mp.weixin.qq.com/s/x94-GMRFTOT2BE7hcWrLnA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjonMKSZQhiaH9dG91Ou1ic0hWMCqjgLCruG2ak7aJ4pYJE60aqO7V9FO8pKticzc00cy7pibKGhQK3yQ/0?wx_fmt=jpeg
+    title: 党纪学习教育·深度解读 | 学纪、知纪、明纪、守纪
+    url: https://mp.weixin.qq.com/s/GZ2l1siGF-18U_dKgqEQnw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjYk4XxDDtvVItRok1pBrpyvyiboIbwibEd3Imm45Qmfw9Cx1pU6vcY6mSS42nxpbDbgicy2TKjoO56g/0?wx_fmt=jpeg
+    title: 习近平对学校思政课建设作出重要指示
+    url: https://mp.weixin.qq.com/s/t45TcEblpVB46vKUSrp-Yw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjSIGa5icicHwNe6XibaiaU9j0rnrLr3vMdAj2EVIXEnPLTBhibr4jpsfYDD0HnVB6MWD0iaETMCq32n1KA/0?wx_fmt=jpeg
+    title: 优秀！东师学子毕润生荣登《人民日报》
+    desc: 点赞！
+    url: https://mp.weixin.qq.com/s/FfSkkFJTb0ktoOS2zLxqLQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFg4bZkOwGvicIoB4v8MSM7OHZG6dpYkaKU8p7YFNic2Zpl6ibvfqYpE1GO1SNIsfDWKh6ibXsQTv9GWCg/0?wx_fmt=jpeg
+    title: 致知笃行 | 政法学院崔云瀚：心怀热爱 笃行致远
+    url: https://mp.weixin.qq.com/s/G9z78zUPtq9WWedEqAE7lw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjIjhVME7WDQf9AuCCZYTPpxvEGia2aB8owRt81y9pHib5WEKDq6IEmiazDkkMqLzjI09gYe3ib2nhzbQ/0?wx_fmt=jpeg
+    title: 党纪学习教育·深度解读 | 深刻认识加强党的纪律建设的重要性
+    url: https://mp.weixin.qq.com/s/7B4HKWsLrO-T4FUljkjwIA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiaYiaL4bjwia1dia2aA9diaTibJib6X8ygZYiaibrREGia8RLuu379Mjm4XXtUW0hyCXjDBwj69R78atiaFNicuQ/0?wx_fmt=jpeg
+    title: 文蕴东师·致敬大师 | 大师风尚，匠心独造 ——数学家、教育家黄启昌
+    desc: 大学之大，在于大师
+    url: https://mp.weixin.qq.com/s/RI4Izgz567gPjQsyJPt5mg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjpziaEuz6IMC1NWA6vXrGVJg5nw8icSx8X1QJdon5wSacrpIgEpb2tpZxI8X8XXicicOyXVrALclBJtA/0?wx_fmt=jpeg
+    title: 悟界面绮想 触科技前沿 | 刘益春院士赴东师附中开展科学家科普进校园活动
+    desc: 为响应教育部、中国科协联合印发的《“科学家（精神）进校园行动”实施方案》，4月26日，中国科学院院士、我
+    url: https://mp.weixin.qq.com/s/VPXN4u8SUZaToSI3XA060Q
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhJnuFJ40BbDiamme4hFeibKfywB1hmaNicFayCaWtMmxZPurib218ahVqUujNomgtVfjgiaIhjR6k0ibRA/0?wx_fmt=jpeg
+    title: 东北师范大学天津校友会召开换届大会并助力母校招生工作
+    url: https://mp.weixin.qq.com/s/d47wRR-7ZN-IDT1lQ4epng
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiaYiaL4bjwia1dia2aA9diaTibJibzP2h4xBG4L6DjuG9zzPL07ibE2icbd0MQd8NpygicINVeaThuHYH9L6ng/0?wx_fmt=jpeg
+    title: 当电影有了“盐”值，10万+观众写出这份观影报告
+    url: https://mp.weixin.qq.com/s/qBdR0YO1XOGbUu1fKh3bHA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFj7uhFNfXSUlSnwibqnjWsTsj9Rfl4rOQ6IS8ORHWDvWSF7cbIicM8MOZ0m27ibC4xpXFdouj8Q9g9BA/0?wx_fmt=jpeg
+    title: 东北师范大学代表团访问俄罗斯　与莫斯科国立大学签署合作协议
+    desc: 访问成果丰硕！
+    url: https://mp.weixin.qq.com/s/ufCR1ybATc60XRFMSR5RHg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhbpRc1z8JHt6GibibRgboEGHiclibmcE5xLpEMhnCcVLDynzibsGXgm0ePTxCRveDsXsfzSg7pf2k1NaQ/0?wx_fmt=jpeg
+    title: 重磅！东北师范大学环境科学方向以共同通讯作者身份发表Science
+    desc: 向勇攀高峰的东师科研团队致敬！
+    url: https://mp.weixin.qq.com/s/_as90iEcfF9lAGMjY_a1mg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhRTHicCXNqYc2icgaaOR789SBH4vvTZfxUkX5CZ7xgnxOLsyTAh9rkCygPsdZUoQGJzMnKouVK04gw/0?wx_fmt=jpeg
+    title: 文蕴东师 · 致敬大师 | 丁则民先生与东师史学
+    desc: 大学之大，在于大师
+    url: https://mp.weixin.qq.com/s/2V6lhvsXasUPrKlNWt3_zw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhRTHicCXNqYc2icgaaOR789SubJWg30MqlEwBx882rhhxq2ezMpfIWteD3h5sOQsWiaiameryvVl9y1A/0?wx_fmt=jpeg
+    title: 政法学院徐一平：勤学慎思 精耕致远
+    desc: 朋辈力量，伴我前行！
+    url: https://mp.weixin.qq.com/s/yYOUPCk0_kA9q6H5XDq3fQ
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_png/ysE1q5sFFFjgH6ht03E9eg7GxVnvhxOo0kCXUlQ39uiblOniadH8ABhNnaKaHB4ulK3fLs3SU9zYMoEARVsIKAoQ/0?wx_fmt=png
+    title: 文蕴东师 · 致敬大师 | 献身科研教育　坚定爱国信仰——郑汝骊
+    desc: 大学之大，在于大师
+    url: https://mp.weixin.qq.com/s/8vXGdksLJJSqFQU0mN4sUw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgKzIKwEGyvngGTpc4icX3LMr2quRK3MsHeqVEWiaa6klYSqAHDNec9Ul7Cliciaibo76hia68eSib9yQvWA/0?wx_fmt=jpeg
+    title: 快来看，东师给你写了封信······
+    url: https://mp.weixin.qq.com/s/ayAGryzgj0u_t0pRXHVd7g
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhKD8icTbUYfsXuAuOib7sib0aLMLXT7JKaZe6vODSWO8v9coMqYzyTibsYkNdTJOPEhhfxPzZOzkFYcg/0?wx_fmt=jpeg
+    title: 电影《我要当老师》吉林首映，在东师！
+    desc: 《我要当老师》将于2024年3月起温暖上映
+    url: https://mp.weixin.qq.com/s/O1tl8KCFvvLR6alA6SftFg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhUlrB1zMCaDKMCYBicn7veiaw3FgC5YVmmqd3T2giaeJo5lsjB1KA8S1ex6jZCBNg9ttIsvYVPWBUIw/0?wx_fmt=jpeg
+    title: 祝贺！东北师范大学正式加入“延河高校人才培养联盟”
+    desc: 巍巍东师，根溯延安，白山松水，薪火相传！
+    url: https://mp.weixin.qq.com/s/JyJCHDhZevH4gOAEJFzcvw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgtOIAS3ickK6j9obIJPP5eCicH9Vmz4WMr452bWRMZ6gws7L1erFiafF2rVzedgXhSwRgF6cwquOTeg/0?wx_fmt=jpeg
+    title: 文蕴东师 · 致敬大师 | 现代鸟类学奠基人——傅桐生
+    desc: 大学之大，在于大师
+    url: https://mp.weixin.qq.com/s/nYY7OKiu7lRtItM5WLJ_kQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjdVVvEDic1D04Gmib0fQWic7RuqM7pjYk2Em0Ngv8sxicOtFXmayias3ubP3QrQH7J8eAiaGeibZFxYCTUA/0?wx_fmt=jpeg
+    title: 两会·声音 | 媒体聚焦两会上的东师声音
+    desc: 东师人积极建言献策 共同书写中国式现代化建设新篇章！
+    url: https://mp.weixin.qq.com/s/gdrdwgLN_LVyKhaPS79qww
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhMzmQWG5UEkVnIAXWJZxx3xC9viaduHb2K0gO8tia0fpqKSEruZviaI0yIss3feht6eoxZRtKr3w3Ig/0?wx_fmt=jpeg
+    title: 致敬 | 危急时刻，他第一时间伸出援手
+    desc: 危急时刻伸援手 东师校友勇担当
+    url: https://mp.weixin.qq.com/s/HkqyU7e6XaKwoW7I1fJvVw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhKlPkqCZyMkh8u7JlpD12yYIcWERAllwCNWLfpntrSjs8ClhRwvdxZFoFURsTXInd8lbebSBI8jg/0?wx_fmt=jpeg
+    title: 东师“双子星”！闪耀“十四冬”冰上赛场
+    url: https://mp.weixin.qq.com/s/lu7zvGeSeszhJ6FMCu0lYw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhjDwCSoKt2DTDBL36PpGM5tZKjPzFONFhaYXDZl1nR1dRdxTTh84uLa4BPBmEHH06QeYnGdiaWhRg/0?wx_fmt=jpeg
+    title: 年夜饭已上桌！东师留校师生欢度温暖春节！
+    desc: 龙腾盛世，爱满东师，师生同庆，喜迎春来！
+    url: https://mp.weixin.qq.com/s/ap2_zkh4A2dVoSz2SA2ekw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_png/ysE1q5sFFFhR34cZvzn6HY4giauhIDKSOtPVahmYtOc0JYgU7cuZTLy1FBMrDvVInW8m2QNKPsLLsHfoia24iaBPA/0?wx_fmt=png
+    title: 春节前夕省委副书记、省长胡玉亭等领导同志看望东北师范大学刘益春院士等专家学者
+    url: https://mp.weixin.qq.com/s/8GpNtwYCy4szZ9E7_Ogr1Q
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjyjk6DdoVn0Pe1ficva1MYJJ5hKQ21af3QUXYkvf2c72bia7ke7KWV8uHQd8ibh3QaicWe7Tj4fUXHdQ/0?wx_fmt=jpeg
+    title: 春节不打烊！东师2所博物馆等你来过“文化年”！
+    desc: 一起过个“文化年”！
+    url: https://mp.weixin.qq.com/s/Zdq9oe88U0TTA2I_uhQTmw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFglUY5WDwZ4rDUKPTTx8jfmsmnqunebns8mVIId7FIf1lPU8tK2auictv0t1TgWIB71yG5xoK5HrHg/0?wx_fmt=jpeg
+    title: 祝贺！东北师范大学学子刘盈钠荣登2023年第四季度“中国好人榜”！
+    desc: 让我们为刘盈钠点赞！
+    url: https://mp.weixin.qq.com/s/peYVTANAyK_wF00hMMhDQQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhDx2gIXibKDNsh0bD8nFxiaehiaTyQtCvQSyuUye2iaLTbjKthedW1Onm1r37M4fLf42qOnz1YGia7BkQ/0?wx_fmt=jpeg
+    title: 赞！赞！赞！东北师范大学滑雪队在全国第十四届冬季运动会中获佳绩！
+    desc: 为东师健儿骄傲！
+    url: https://mp.weixin.qq.com/s/A9PhEuC_-kIctQunrDMuNw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhiaz2GvP809FPzfTZ3IXCGtzmiaP3m0JjiaWMmPb3IoQ4K9JznKMmKZZA0Q2icO2rUe2YibFkQUHnFkNg/0?wx_fmt=jpeg
+    title: 东师·印象 | 刘和忠：东北师大校训石的由来及校园石刻文化
+    desc: 东师风物，一石一木皆有情。
+    url: https://mp.weixin.qq.com/s/2CvTTmOa1Z6-JS48pClbLg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgbEM099UicYyUbYdeHgrmo9tZoica49kia7F3lrVibZxAZ7cEu9OUTXkOM11CicqPJRNWSvRgIS0GrLjA/0?wx_fmt=jpeg
+    title: 1金1银4铜！东师体育健儿就是这么牛！
+    desc: 东师健儿再获佳绩！
+    url: https://mp.weixin.qq.com/s/bo-eFDYrpV5SwEh536QGFg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjeibicTmvNAvMFbrLBAOa7kZVMDx6FLD9Bv722PXA97sALetVEgI0ojADHmhpibYy7q614uuOu4TuYw/0?wx_fmt=jpeg
+    title: 东北师范大学获批国家民委中华民族共同体研究基地
+    url: https://mp.weixin.qq.com/s/9WWasZ5iPZh4q0iB7qQDZw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjeibicTmvNAvMFbrLBAOa7kZqj5I538pm9sze4coJQxmYo8zM0jmcxup4BEscbSicExLMO9zDDw4GAw/0?wx_fmt=jpeg
+    title: 东北师范大学教师荣获达摩院青橙奖“最具潜力奖”
+    url: https://mp.weixin.qq.com/s/1EUuujWL2uG_iYKQPoSPDQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgk3ybkcgW845kY2m95ddtDxEsD3o3Dib87yZsxTK1ibqjg2oiaI3pbjJ64Lx5XMcPhCqPja9RVMUudA/0?wx_fmt=jpeg
+    title: 骄傲！自豪！东北师范大学滑雪队在第十届大学生滑雪挑战赛上获佳绩！
+    desc: 为东师运动健儿点赞！
+    url: https://mp.weixin.qq.com/s/j0zAghlLsy3MhQgbwVSK5A
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjx1iaUoHwmEeBVHsicdUVqu91C3cN7X2RTXVZkziad2iaaIc9uibxlTG9K6nXMlGvzophtT2vnvsH4M2w/0?wx_fmt=jpeg
+    title: 重磅 | 东北师范大学牵头承担国家重点研发计划重点项目取得新突破
+    url: https://mp.weixin.qq.com/s/R-Nyw6P8ss2_LglTm-PyFQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_png/ysE1q5sFFFjFBicp9bibppbcoicBTiarm2bibWqmCZCx1YFAHcRIwInT2ibdiaYFJLKVmvet8TEHWGkAoaElPfY0xLsJA/0?wx_fmt=png
+    title: 弘扬优秀文化 讲好东师故事 | 东北师范大学中外学生携手联欢共迎新年！
+    desc: 回首旧岁耕耘路，逐梦新年新征程！
+    url: https://mp.weixin.qq.com/s/Mn66WYa70JjkY2I2H1UOvQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiaZMWbIicmlkNBqVia52ibYtHd3onjqiczcTicVcGGlfKss140jhJPJyzXaOsUPsRPHCM9Zx4v8OibbGr2Q/0?wx_fmt=jpeg
+    title: 精彩纷呈、百花齐放！东北师范大学2023年度（第六届）“创造的教育”示范课堂展示活动举行
+    url: https://mp.weixin.qq.com/s/hfApedGJ9j_jfTaq6DvJUw
+
+  - cover: http://mmbiz.qpic.cn/mmbiz_png/ysE1q5sFFFhYnN3FF2ORev0wOSydsZz4phomXq9smFReNy2eaD099Q31XuhBVtIUImQhuSJLRG04yndcZOiaibfQ/0?wx_fmt=png
+    title: 东北师范大学2023年辅导员素质能力大赛圆满收官！
+    desc: 以赛促学、以赛促训、以赛促建
+    url: https://mp.weixin.qq.com/s/sFhGxAMz4bECEYGtcMpW1Q
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjoS07eVHicF7d2xg2wBRFPhribNWicRdPcG55U8belpHauHUibLQrrfnOmmI7q39K87f56wfh3s0icbSg/0?wx_fmt=jpeg
+    title: 吉林省“高校辅导员年度人物提名” | 东北师范大学辅导员刘雨婷——心怀“国之大者”，培育“时代新人”
+    url: https://mp.weixin.qq.com/s/hiHqN-2T3Qu8rs5BJ-jGWQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFhY39XI6JQ1zYG9ssFXg10dvFrdhhTibUxoZBCwG9KYRvPc3QibzQzj3K1rQ9ZQry7bxiayVcH30oNdA/0?wx_fmt=jpeg
+    title: 东北师范大学刘益春院士当选吉林省院士专家联合会会长
+    url: https://mp.weixin.qq.com/s/zHaiTiS37D_tuiT2J3Ob_A
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiaQp2ricibPQUm5C35HIx9EMOQQibhuMRVO1FghGsjhjamAGzC83tKa81WVjrB5xXs1Z78rGLt68cJWg/0?wx_fmt=jpeg
+    title: 吉林省“高校辅导员年度人物” | 东北师范大学辅导员李思逸——党建领航，绽放青年力量
+    url: https://mp.weixin.qq.com/s/iMM6LMfCv02X5Ks-QPgDOA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFgcOSWPnX28iay1CUQyysiadDg8I4VRicq6ufRFz5qBhOV2I0OWopcuc75gou2aibnxcqt0A37966YX1g/0?wx_fmt=jpeg
+    title: 东北师范大学首届校史故事大赛圆满落幕
+    url: https://mp.weixin.qq.com/s/yZNZRUxQHN4CDts13q2udw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFjq7rjQGakyTezKuWhMGHySibCMXicYJ1X9qbnsxb5OQCpAI9LyiaTxs5kDxP5S6EwwEv62Nkn0LNoVA/0?wx_fmt=jpeg
+    title: 东北师范大学“双一流”建设校友论坛暨第七届地方校友工作联席会举行
+    url: https://mp.weixin.qq.com/s/ViJ_sOcMp5qoNRw4_CEfag
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/ysE1q5sFFFiatxiauXeHt42IYqAoJzURaMHrCDXomZ2qGmUDscE8IBoNz7sKLLXztVYAu22afcC1bmuppKmrSkZw/0?wx_fmt=jpeg
     title: 第八届中国创意写作年会在东北师范大学举行
     url: https://mp.weixin.qq.com/s/MqnbyN0tYXuFivYRt-AtuA

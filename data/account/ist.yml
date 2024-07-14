@@ -4,6 +4,26 @@ desc: 欢迎关注东北师范大学信息科学与技术学院
 id: dsxk2017
 logo: $img/media/ist.png
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKO7qPTicEia2ztyaOk521SmVwSGzKFl1Pt4Ps5MykU5nodqJssKnf2VxA99n0lbZQ1aTpPSjKxblLbw/0?wx_fmt=jpeg
+    title: 华为来我院举办华为鸿蒙校园公开课
+    url: https://mp.weixin.qq.com/s/2KmvJsKdcUapHvIiRvHTxA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKMQEcgkwSrjnDZmibibGuPDZ8Naz28B3MfRQShYicaHXCBsexwDSlfYBV2AjDdeMBQYzeU4FGJldmf5Q/0?wx_fmt=jpeg
+    title: 我院举办“传承五四精神，凝聚青春力量”师生拔河比赛
+    url: https://mp.weixin.qq.com/s/KDY5zV92P7VfMzLJD6r7XA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKOXEpcO39R9kGakVvrtMjmfT11UtWvqvLibI0nXGSPvDhXaEOZx0L0ibMQKGVicjvT2Fa8A1FU3caU6w/0?wx_fmt=jpeg
+    title: 我院举办数字支教之百城千校公益活动总结表彰大会
+    url: https://mp.weixin.qq.com/s/NzDq1-QjueLCsmCUaJYJyg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKNia6mgS5LRYHHDM9c5LGqKGfKWjhJMUGOrdmNZB83e7nw711BA24xjfDP7s1NjD20HqdibkOjc3rCQ/0?wx_fmt=jpeg
+    title: 喜讯|我院逗号文学社成员在CCTV《品牌中国》栏目发表作品
+    url: https://mp.weixin.qq.com/s/vyY8p87-3PxQp5FydEm_JQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKMOXO4VnH9uu2tR5UwpzoAqaMj9IChnzmCreHPFviaWkpLYNh7v9YK0TiahXM5guFXLseCzjgeWS8iaQ/0?wx_fmt=jpeg
+    title: 小组动态|学习小组特色风采（一）
+    url: https://mp.weixin.qq.com/s/N75ZotINdSMq0l8Kub6T2g
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/UYFyeYjCWKN5dfr7RMiccTicwOp6QLUAotBWg0XDq9euq2fpG4JkGpYmrz5Js8mYp3FFrIlqOpbhL024tPAPkjqw/0?wx_fmt=jpeg
     title: 朋辈课堂|LaTeX排版工具小课堂
     url: https://mp.weixin.qq.com/s/zXIhk9oJ_e9YomD4_waFwA

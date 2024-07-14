@@ -4,6 +4,190 @@ desc: 关注东师图书馆，掌握图书馆讲座、资源、服务最新动�
 id: nenu_lib
 logo: $img/media/library.png
 article:
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSn6WxnMckoicStG4zmR8Jpjj0cQGOfr3ZhrT5oOhS3YD0jdZD7kicYWYRAYHLIzic38dGeLV4dFcLcTQ/0?wx_fmt=jpeg
+    title: 从古籍陈列室到艺术课堂：图书馆助力美术学院艺术鉴赏教学
+    desc: 打开新旅程
+    url: https://mp.weixin.qq.com/s/xAYmHuGFIJLwuy-Srbos6g
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSntFQeYD5vWBnoib2xnOBkq50biasXOcnoicV1oPIeX0T0d4ger53lblATl0ia8MlicBBMVT47iar28LxBQ/0?wx_fmt=jpeg
+    title: 中国科学院大学初景利教授来校作“专业文献阅读策略”学术讲座
+    desc: 欢迎关注！
+    url: https://mp.weixin.qq.com/s/L8IUwELRGlqx5K3HKlQjzg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmZjLgkEntq5eW54NhoX0Mhd410jwN3k0sRgE9LwZEYLHopQp6bTNT6O2bEibetBDyTTc0K1m0VEkQ/0?wx_fmt=jpeg
+    title: 我校图书馆学科联络馆员赴吉林警察学院开展交流活动
+    desc: 我校图书馆学科联络馆员赴吉林警察学院开展交流活动近日，东北师范大学图书馆学习与学科支持中心王雪莲、孔凡晶、沈
+    url: https://mp.weixin.qq.com/s/gnj33T05IDeevozZ3rrwvw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkcAoyfsrNicheNlicr5lL5KdPMfV5yibyMOjln7FnmbwSQB1kSjyGpACbZAOFicugP2b7C0o6icpegYUA/0?wx_fmt=jpeg
+    title: “三师雅集，墨绘传奇” ——CASHL服务启动20周年藏书票设计大赛获奖通知
+    desc: 获奖通知！！！
+    url: https://mp.weixin.qq.com/s/5uaT52059szbhel6zlANFA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSms3LXI6UB1xPZ0SRE93ZcFLiaiaXt7BsAssiaG72usOCTya27aH1IgVxkGH9fp5GPLEGO7tAJkEMoMw/0?wx_fmt=jpeg
+    title: 图书馆阅读分享活动第102期暨“阅读分享·学思书香”第4期在人民大街校区成功举办
+    desc: 成功举办
+    url: https://mp.weixin.qq.com/s/YTXbGGR2VAGJ6_wVdjhrdQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSnmnqxSA8Xnjj4libecsqP5S9KpUibas54upuwKyrCNcbIdRpH9IqGz2JdbmUt4A82zhvxKa5MYesVw/0?wx_fmt=jpeg
+    title: 图书馆助力体育学院研究生科研专题讲座
+    desc: 感谢大家的关注
+    url: https://mp.weixin.qq.com/s/dIsxV52iL2w1I_HYFfTXLQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSms65hia0Ww4SiariblXXDnLsHS7JSq4FOVpbficPqT5UKcFB0Bu8xwhaQEZAzlicz5MxF8eOLaKlCSXcA/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第103期 | 不完整自我的冒险——卡尔维诺《分成两半的子爵》漫谈
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/fcjJvJX_DQUotb9DxjZtjQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSms65hia0Ww4SiariblXXDnLsHd3icWHYojSMfgWoMe2giazljaibIkqlEwN4IamBDGgVZIQxOVdJIsItwg/0?wx_fmt=jpeg
+    title: 中小学优秀学生代表来馆开展科普活动
+    desc: 中小学优秀学生代表来馆开展科普活动为弘扬科学家精神，营造创新氛围，近期，净月大街校区图书馆接待了110名优秀
+    url: https://mp.weixin.qq.com/s/BB7xRd5bSv8NIMTVg4wa2g
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkOXZ9BMDKVrDsqB3uoKgwXHbGlNbFdHAYcibrMWh8Bib1rDpY4vUP3GmZhkia78lGfPtqcOB5Z7RE0w/0?wx_fmt=jpeg
+    title: “阅读分享·学思书香”第102期｜走近电影——《通向电影的圣殿》
+    url: https://mp.weixin.qq.com/s/B0m37cYZZ4kq3cDi33z9PA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSla1Jib4XH2T98b1TvgphHYDQgv41LsHzibk9KGOkywb4wGJvgsueQMaoicwkOzDsr0ML1Q7LgbjSmDA/0?wx_fmt=jpeg
+    title: “盟阅东师”暨“阅读分享·净月书香”第101期 | 神话还是历史？——寻找夏王朝
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/EiByThDx_Mfz1SD86EQGMA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkhkLC9Fn6R74mMITvbkMfgbd2PQjWVZT95JZuJ6ZvBWcicziaCGkeYPrD6uGnmBia3fE3TSBOibmlTWA/0?wx_fmt=jpeg
+    title: 图书馆和政法学院联合举办学科服务报告会
+    desc: Hi图书馆和政法学院联合举办学科服务报告会XUEKEFUWU 近期，图书馆与政法学院法
+    url: https://mp.weixin.qq.com/s/SetTkgJoXQlRGa-HZZK9Vg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkhkLC9Fn6R74mMITvbkMfg6FMhvBzxpzQKgRUEn9elL0nW6l7iaiaibrUzpUJOXgjkoObFOd7FXRW6w/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第100期 | 最接近“真相”的方式——一位新闻传播学生的阅读观察
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/OKQnO2BvPjrsdSGSMyfjVw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlupOSrUricAbdLf45apAfl5gC5kFyzHbCxicicXichL4ibXyUSvwrUzuibia0t3TuWg3bgicVFsy7iamzI5icQ/0?wx_fmt=jpeg
+    title: 图书馆阅读分享活动第98期暨“阅读分享·学思书香”第3期在人民大街校区成功举办
+    desc: 夏日读书悦享美好阅读分享·学思书香5月29日，图书馆阅读分享活动第98期暨“阅读分享·学思书香”第3期在人民
+    url: https://mp.weixin.qq.com/s/hDVg9c2J9whiOUTjuusAVA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlY6u31WJAKOibOV3LibLUsVGfoXLwicGmywIcuywMPYFX4r8GKwA3IvNDGxMqdia5icb5N9Bj5THtsmGA/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第99期 | “跨学科”的文科人——一场苦修抑或一种学术人生
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/MPJloCoisaN_t3NA2vPp8Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlY6u31WJAKOibOV3LibLUsVGDzV5XA2RzYEvMHbxHNDRsCvNUdw6eJrTORu4X5LMA1LgKgic9HTQc5Q/0?wx_fmt=jpeg
+    title: 图书馆志愿者团队暨馆员场馆讲解培训顺利完成
+    desc: 图书馆场馆讲解培训顺利完成
+    url: https://mp.weixin.qq.com/s/YFhCkzJkVpcOOSbX9PG8VQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkxH0GRIeJhtjXYkBcsFe08C8esSRbwUAiaKITibckMia6Ll9ZmIKH9uVbI4GAWceC95yl2bvcibyiceeA/0?wx_fmt=jpeg
+    title: “阅读分享·学思书香”第98期｜你真的懂爱吗？
+    desc: 阅读分享·学思书香爱是一种力量，它能够让我们变得更加勇敢、更加坚强；爱也是一种智慧，它能够让我们在人生的道路
+    url: https://mp.weixin.qq.com/s/8Z-y9RYr7zxirzG1olikAQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSkxH0GRIeJhtjXYkBcsFe08a88Rgrjv1I20WCNL1tIPCqIUOjc2osvwwb1Jr8WXmib1xffdDU5M3HA/0?wx_fmt=jpeg
+    title: 学术研究利器-浏览器的高效使用
+    desc: 论文助力工作坊第四期
+    url: https://mp.weixin.qq.com/s/-ttua-q2GzgUiYh2WhrdfQ
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlHKjalTE5WBukMQH1D7q0DibtIQicVbYLXF6gibEkgibfRdzUKcmicL4pXRtWUuUjWgaE5s7icEVT3QObg/0?wx_fmt=jpeg
+    title: 信息素养工作坊 | 一起给研究领域做个“X光”
+    desc: 给你的研究领域+ 做“X光”你是否……面对新的研究领域，感到迷茫？彷徨？无措？不知道…… 如何了解学术研究热
+    url: https://mp.weixin.qq.com/s/LA6KOkKlp6g4QQEM3u9uzA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSm4h4BolMPUM4KexmENoicaeKMkux3tOJxuiaQNzx1XPsgjWyAu5xjtBB0kvdzdAR0uxvmibmVCy8WJA/0?wx_fmt=jpeg
+    title: “弘扬爱国情 奋进新时代”主题画展在图书馆展出
+    desc: 欢迎观展
+    url: https://mp.weixin.qq.com/s/0Wz2wakNWTVV1kJJeOpJSA
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlxL2ebmBR3DUicSnfZqXhQ2Q0Rw3bYwib76MzSHhbKX3dmmKm4dSbdzXicIz9NrmrqxjmPOFnTKqILg/0?wx_fmt=jpeg
+    title: “东北大讲堂”作家进校园系列专场报告会成功举办
+    desc: 欢迎关注！
+    url: https://mp.weixin.qq.com/s/85aJjdBc5SHqgmVQDLNwUg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSnZgYBIGqgIiaHoiaUSxAhCM4ibx152HCiaSsozibltRNHbJTs5JnGC6K1B3fml6fVQP5ptb1Gdmxnib04w/0?wx_fmt=jpeg
+    title: 图书馆与社会科学处、文科青年学者联合会共同举办 “AIGC与哲学社会科学研究”青年学者论坛
+    desc: 图书馆与社会科学处、文科青年学者联合会共同举办“AIGC与哲学社会科学研究”青年学者论坛5月11日，图书馆联
+    url: https://mp.weixin.qq.com/s/TqRTGb95el5LU2m5LZ-95Q
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSk7UGsUaEqLvylUzdnXWpXeHz4QZ0kcl1LkfCqonVYR9wzsNuzCdpXuibQ7ZFasszEe83C5A6vxHTg/0?wx_fmt=jpeg
+    title: “阅读分享·学思书香”第93期｜感恩·成长·筑梦
+    desc: 阅读分享·学思书香阅读分享·学思书香在这“桃之夭夭，灼灼其华”的季节里，东北师范大
+    url: https://mp.weixin.qq.com/s/RbqUPHBvxODEXWiihc5p1A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmDGNhHjxcctV2bLsJnicuPx0DBXnABtuZhI2ShbFlGlfdBtibP9gXPUpBBqiaicEAscRKRJicZsnS5ybA/0?wx_fmt=jpeg
+    title: 图书馆举办“新阅读新体验，图书馆再发现”世界读书日主题活动
+    desc: 图书馆举办“新阅读新体验，图书馆再发现”世界读书日主题活动。
+    url: https://mp.weixin.qq.com/s/IfHPAwBwUNZNVFvLxWXfDw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmDGNhHjxcctV2bLsJnicuPx0DBXnABtuZhI2ShbFlGlfdBtibP9gXPUpBBqiaicEAscRKRJicZsnS5ybA/0?wx_fmt=jpeg
+    title: 2024年世界读书日“新阅读新体验 图书馆再发现”主题活动
+    desc: 2024年世界读书日主题活动
+    url: https://mp.weixin.qq.com/s/GqvFJkpLMBr4rsYfmu2P3A
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmTUzT56NyOQqJibI9EHqTr7Pox7GNamiarHyFGIYSw93cyHKibxaZ6ia9uzghb5ia0mx5kQRvqjcf7J4Q/0?wx_fmt=jpeg
+    title: “阅读筑梦，知识启航”世界读书日知识竞赛活动获奖名单
+    desc: 在4·23世界读书日到来之际图书馆与中文在线联合举办的“阅读筑梦，知识启航”世界读书日知识竞赛活动历时2周于
+    url: https://mp.weixin.qq.com/s/hulNvKVcbv2nJddth6G3GQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmmSvWBn4PJq0icPSDPAtKMOmazqZzKib8XoGyjkMfgtqsZ8rwVvNEGCXx4f4OiacFS8H3AACb8Rp2fA/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第91期 | 反复摇摆——想做一次行动派
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/UZjQIqiyoLwZwTyXnxoVag
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSm2icqQrDTGybZBcZtWU4ib4dwMhUVYwdjCNE6HXM1A4vjY9W4tXf3vPasM9ATVYHmTrWY1xYNaiblHA/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第90期 | 学术研究中概念的使用——理解社会科学研究设计的一个导论
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/n6Fl5Mh60hbs-IEuJJ-JYg
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSnn3uTlddG8FM7MGMMC8UL5XJ10haVtU2p5GjNMGHiayZxOSUJe5NyiaicVWry03OHGMsVdWM0JozdCw/0?wx_fmt=jpeg
+    title: 图书馆推出二十四节气专题书架
+    desc: 不负时光，不负阅读
+    url: https://mp.weixin.qq.com/s/xuTF4Swnux_adsqE4OqbxQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlOsRKy366Q5BuxtAkCMLia6YcnehvEKxUak8BEx6gzlnFlEmRMz3kyuoKXIwhDickp73FH25eXzD8Q/0?wx_fmt=jpeg
+    title: 图书馆阅读分享活动第88期暨“阅读分享·学思书香”第1期在人民大街校区成功举办
+    desc: 阅读分享·学思书香
+    url: https://mp.weixin.qq.com/s/6QzDZRzknoZTozw5agOxWQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSnyvEgsgiarNHzrbeXsqwJb4kkINddzJXrS1M1aYft7Po0LFRrNwNljFicNV2CZaKZEd3LTu1P7y9Eg/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第89期 | “笔墨”之外，“气韵”之中——十张作品看懂两宋绘画
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/6SVfyayCx77-kolU0c6Ofw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSk34aCFvVftT5sZaK1EPnaOn2GI9XonfEZaQewCwiadOTib1hFK4EPXHvKC3ic2iasmwGc96tjX0o40QA/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第87期 | 书生也锻炼——伏案打工人的健身日常
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/oWXUaDkAmOF9veeh70vA_A
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmdqkDqXsbY4AlpW1D9xcmJVkEDlIyjnFS2R6r6MFA67hWzOS2FHdGB9QnAlHX5httuqEZrULWeDw/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第86期 | 陀思妥耶夫斯基的A面与B面——《地下室手记》《白夜》解读与分享
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/oYjrD5Relyi8CMFghyknqg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmZI1ibPbU9wmRvhg5hxY2tiacOKEy7YLrkficV3SAC6FyHUtgAHvPezEyfqp0Z8NcrAg6qcqwQ1ev6w/0?wx_fmt=jpeg
+    title: “阅读分享·净月书香”第85期 | 定格与叙说——寒假的阅读与生活
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/lb1YFW3-fiFui_42BRXtew
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_png/md78XOO0kSnZvaYRC0FYHwcTJLQtKbPibJJaACdHlWEpU4C67xll22MSqBWNHvzeZEhYqeS7V8tM4sicOcuXwaFQ/0?wx_fmt=png
+    title: 大数据下的东师图书馆2023
+    desc: 数据中的图书馆
+    url: https://mp.weixin.qq.com/s/7A9W-6Zmz4Z5Vb2EHIw2Gg
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSl0OGt7cof4X5sVV0Zh25W8hBibwrjic6nD3yIJYibWsTAJT35jV9M9PXtNRqAWh2kKibibbTkomownIgw/0?wx_fmt=jpeg
+    title: 东北师范大学党外专家大讲堂第38期暨“净月书香·阅读分享”第83期 | 尊重、模仿自然——生态文明的实现路径
+    desc: 欢迎广大师生参加！
+    url: https://mp.weixin.qq.com/s/IMlKqYBSMttwcioEJOIvgQ
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSmC9oYtEv0IW6Y8qtlibibpsJtT6EyZTWibILq7JqAu67ATdWlXTtBGxBPJVehKYZRC6QIGZnJsLkufQ/0?wx_fmt=jpeg
+    title: 阅读分享会回顾 | 第82期：人与地的相互馈赠
+    desc: 欢迎关注
+    url: https://mp.weixin.qq.com/s/bTmI9k3F9xgMe44-8HWDZw
+
+  - cover: http://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSn7Cqbtib3dFZp78DTY4VjcOrDOW5cOVdglMBfvPvSqPR53icgYosbuTtciat74lCiaMsSehBONGOgY5A/0?wx_fmt=jpeg
+    title: “书脸秀”创意摄影大赛获奖通知!
+    desc: 图书馆喊你来领奖！
+    url: https://mp.weixin.qq.com/s/llRHdzf45crStGP837v5aA
+
   - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/md78XOO0kSlOgn3Fibjf5WEZmTSNu4m4MMe1AdUsdL5kUyJbPmK2UjriaHQkIkIPKZETLf2t92IyufBk82MjDm0A/0?wx_fmt=jpeg
     title: 图书馆等单位联合举办“在传承中锐意创新，在创新中拼搏进取——走进科学系列展览”活动
     desc: 欢迎关注！

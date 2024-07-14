@@ -4,6 +4,106 @@ desc: 消息发布、工作通知、活动展示、教育引导
 id: nenupetw
 logo: $img/media/pe.png
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHachhh5xEqicWB587Arq0TGRMeZzbMfGLARNE49IVYE6qoxnQib9C3sFD8wB4Ge1x9S2P6sxIibdVXxw/0?wx_fmt=jpeg
+    title: 东师体育快讯|我校射箭队2名运动员参加了第6届中国大学生射箭（射艺）锦标赛反曲弓丙组比赛，共斩获4金2银的优异成绩
+    desc: 我校射箭队2名运动员参加了第6届中国大学生射箭（射艺）锦标赛反曲弓丙组比赛，共斩获4金2银的优异成绩
+    url: https://mp.weixin.qq.com/s/VxXQZxPd_yRFD0Bitt28Vw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHachhh5xEqicWB587Arq0TGRGAnnLvUZ2NwQsu9AQ0WGRCoznSibI4AZX3agzYU8CZ05iagibvhJq3Qng/0?wx_fmt=jpeg
+    title: 东师体育快讯 | 东师阳光田径队省赛斩获佳绩，学子风采闪耀田径场！
+    desc: 东师阳光田径队省赛斩获佳绩，学子风采闪耀田径场！
+    url: https://mp.weixin.qq.com/s/OTGH8WkYJE7nX3R14peeJw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHaNXlovcKdDo0ZvAaz16xsbaicdSibibHguQOhuiaCrx0uWxWBiaN0EBQbXd3UY2rRyPxjy0LJhtPzLnyA/0?wx_fmt=jpeg
+    title: 东师体育快讯｜力量与美完美融合 青春风采闪耀赛场
+    desc: 力量与美完美融合 青春风采闪耀赛场——东北师范大学阳光健美操队于2024年吉林省校园健美操锦标赛斩获佳绩
+    url: https://mp.weixin.qq.com/s/M12UU1PtxVlQCdY5NZ7NHQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHaNXlovcKdDo0ZvAaz16xsbich9XWVrZn6weAenCzpHIuDZ3Via4LUCJCeTO74bjR8ULHs36mfN3b6Q/0?wx_fmt=jpeg
+    title: 东师体育快讯|艳冶随朝露，馨香逐晚风——记东北师范大学阳光男排2024年吉林省大学生排球锦标赛
+    desc: 艳冶随朝露，馨香逐晚风——记东北师范大学阳光男排2024年吉林省大学生排球锦标赛
+    url: https://mp.weixin.qq.com/s/YP8eODyrlcZWZGotk5NBig
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHZfmdwMklRQj4NwM9dpJyufOa4sZicw1K8ducaUfNz1FFZWPgBwDC8MouiaicLHAU0d6JzQHymOgx9uw/0?wx_fmt=jpeg
+    title: 东师体育快讯|阳光灿烂的日子：我们的太极之路
+    desc: 阳光灿烂的日子：我们的太极之路
+    url: https://mp.weixin.qq.com/s/iVFvgN3DMXSS_oUpen6s2w
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHaNXlovcKdDo0ZvAaz16xsbNjtlujPYKmmsUet1ibTpibXNHNSLkjkicuysacbZBokHbKlvyIlAhaErw/0?wx_fmt=jpeg
+    title: 热爱可破风浪，共襄绿茵盛宴|2024“东师杯”五人制足球赛圆满落幕！
+    desc: 2024“东师杯”五人制足球赛圆满落幕！
+    url: https://mp.weixin.qq.com/s/J7KZZH_ifrMhdNvjMsUVQQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHZU2mOKHQW0jCiae7MDDPurqjiab2RWs3sOQlCic3F4xvtqR8924eT5sSZyE2ictYLOKM9MPcGcGvlanw/0?wx_fmt=jpeg
+    title: 东师体育快讯｜东师舞狮俱乐部、跳绳俱乐部闪耀全省首届大学生广场演出开幕式
+    desc: 东师舞狮俱乐部、跳绳俱乐部闪耀全省首届大学生广场演出开幕式
+    url: https://mp.weixin.qq.com/s/B8dhBYVLAEYef-nopNH_MQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHakxjgUgoyEhjYDVZf8H4QIasffBYVY5RBBN7OibJbTPwfcrG3UYdXiaiay0dMRJ6oQE3T2nX0JjJBJg/0?wx_fmt=jpeg
+    title: 东师体育快讯 | 东北师范大学跳绳竞赛预赛圆满结束！
+    desc: 东北师范大学跳绳竞赛预赛圆满结束！
+    url: https://mp.weixin.qq.com/s/vY1D3vzxc8Ss6Ly07ZnzRw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHYNL7dRicrk6ib67ZS8aicT6jbic5FauRia7ltMfa2Mj31SQdup7UzAVv0csx1hbwKDqESvfxZMQLc5Yxg/0?wx_fmt=jpeg
+    title: 东师体育快讯|我校武术队在2024年中国大学生武术套路锦标赛中取得佳绩
+    desc: 我校武术队在2024年中国大学生武术套路锦标赛中取得佳绩
+    url: https://mp.weixin.qq.com/s/diOj3FdkcjK6rSCYNrLjcg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHa10IeZtibficahOYEficr7lticTTG8xA61aI0VPGHkkxp09phUlicDDsV1Yybiahq6Tyzqwiapjkn6DaPww/0?wx_fmt=jpeg
+    title: 东师体育快讯｜夜动NENU 青春开跑 精彩视频来了
+    desc: 夜动NENU 青春开跑 精彩视频来了
+    url: https://mp.weixin.qq.com/s/8I8TkYPVxJtwLhy0nQLdLA
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHa10IeZtibficahOYEficr7lticaAetAdgGuYcPq6pBr47VicrZCoX0sIUibiaib393v4EsCiaWjV6znw26l9A/0?wx_fmt=jpeg
+    title: 东北师范大学2024年“五四青年接力赛”成功举办
+    desc: 东北师范大学2024年“五四青年接力赛”成功举办
+    url: https://mp.weixin.qq.com/s/D1cL9xIk89oTuONO7STDrg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHa4KIbhicOuBibPRXibTLkoOesic96ichjOTm86XiaCHKHmH8ibmiaYwA1A86BTQTibFQYFj5vbqYhXibl1AbXw/0?wx_fmt=jpeg
+    title: 夜动青春，逐梦NENU——2024东师夜跑，精彩启航！
+    desc: 夜动青春，逐梦NENU——2024东师夜跑，精彩启航！
+    url: https://mp.weixin.qq.com/s/-Am5ZPuPh-SxapB5zsJFHw
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHb9bjqp8C3oV9sSzXvcPZJtkibvl4f9JsRpmK7mQe3vmTmy2zcUhGgnictGicIbXYksvq2AqSWb8R6lA/0?wx_fmt=jpeg
+    title: 以体育人 激扬赛场 展东师风采——记东北师范大学乒乓球队参加2024年吉林省校园乒乓球锦标赛
+    desc: 记东北师范大学乒乓球队参加2024年吉林省校园乒乓球锦标赛
+    url: https://mp.weixin.qq.com/s/zB2iPZQbMU6LtV1jshnrsg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHbI3G70j5hiculQUgcq8Ngpte0jtAVxiafy5icFlhGIicSMJIZGI9NX7GXQIV5DzQQJlqrbcH4g9gX7pQ/0?wx_fmt=jpeg
+    title: 东师体育快讯｜我校羽毛球队在2024年吉林省羽毛球省锦标赛中夺得一金两铜
+    desc: 我校羽毛球队在2024年吉林省羽毛球省锦标赛中夺得一金两铜
+    url: https://mp.weixin.qq.com/s/9ceIzW6lpwC0ko17KxrxfQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHa2icefQb7bq5NicrMIzG5Eqj4nnfVpLniaURmicOp8SyX99ox6wkwZwc3lEHB8UEibWXmWVjY3zZX3AVg/0?wx_fmt=jpeg
+    title: 东师体育快讯|遇见春日，悦动绿茵！
+    desc: 遇见春日，悦动绿茵！
+    url: https://mp.weixin.qq.com/s/KMGQHe1cNdjEd7EnOxwlsg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHboE4zveyRsqk2JZus4NuMtN5Nyfy7GsmWm9rXs6ehU6kIvziaKE36NNibJGHq5ibNkiamicThcxW16n3g/0?wx_fmt=jpeg
+    title: 东北师范大学2024年寒假教职工子女体育公益培训活动圆满结束！
+    desc: 东北师范大学2024年寒假教职工子女体育公益培训活动圆满结束！
+    url: https://mp.weixin.qq.com/s/C40WqCH_BStgRrbd75UsIg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHbR4nZprYepM6onONsgmFKLKW98Ibez4PfCFdYtu6gjWvMc8dDDicPxCzBOYxZdLwpAFdicjv52AujQ/0?wx_fmt=jpeg
+    title: 东师体育快讯 | 我校滑雪队吕美硕获得2023-2024赛季全国单板滑雪平行项目锦标赛冠军
+    desc: 我校滑雪队吕美硕获得2023-2024赛季全国单板滑雪平行项目锦标赛冠军
+    url: https://mp.weixin.qq.com/s/1oLjk5oE04o_CRm4or4P5w
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHafpRf9EaURsiazj8SpEmomI9TQa5HBsKlO54S8ic5NcHQo7npJ3HBh1Xk5ptFXcX8BpPiaDgIDBD2tQ/0?wx_fmt=jpeg
+    title: 东师体育快讯|我校滑雪队在第十届大学生滑雪挑战赛获得佳绩
+    desc: 我校滑雪队在第十届大学生滑雪挑战赛获得佳绩
+    url: https://mp.weixin.qq.com/s/IS8RxfYCvDB2xqHyrEonhQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHay0cenS1vXG8jRxo4LG59s8pr17rWdevv2hCsVrBkAXh5Az5JzUSRypUExcbDB2NWwfLp4WKTxlw/0?wx_fmt=jpeg
+    title: 东师体育快讯｜东师冰雪——“U-G-S”优秀冰雪运动人才培养模式百花齐放
+    desc: 东师冰雪——“U-G-S”优秀冰雪运动人才培养模式百花齐放
+    url: https://mp.weixin.qq.com/s/0DYHxt3i9IPUFQevwvnwyg
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Oontryt6RHa9jBvmSSYVbSA76iayvjvylAQ8rRicH8vusSibGDic6CxvH6umTOLa6sWzVETMzAiblDNAMoiaia9xGuq0g/0?wx_fmt=jpeg
+    title: 东师体育快讯｜我校1758啦啦队在吉林省校园啦啦操锦标赛中斩获佳绩
+    desc: 我校1758啦啦队在吉林省校园啦啦操锦标赛中斩获佳绩
+    url: https://mp.weixin.qq.com/s/7EDMNocXoEG3IXRPQgP91w
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/9opNmOhpWG2ePOQ73jW1AqdF1xVcY0tbicZzdxmOdXfQwaeibBfF1iazyxicfaU4NoZ5NNpicZvt9qLEqNAcGtYnzKg/0?wx_fmt=jpeg
     title: 体育学院十一月团日活动｜担当时代大任，勇做时代新人
     desc: 体育学院十一月团日活动｜担当时代大任，勇做时代新人

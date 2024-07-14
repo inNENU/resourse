@@ -2,8 +2,11 @@ name: 东北师范大学国际汉学院
 desc: 东北师范大学国际汉学院(海外教育学院)具有中外学生汉语国际教育专业硕士、外国留学生汉语言专业本科人才培养职能，学校各类外国留学生汉语教学职能，是“中国政府奖学金本科来华留学预科教育基地、国际汉语教师培训基地、华文教育基地。
 id: nenuscs
 logo: $img/media/scs.png
-
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/TMX5mNrG5piamdjcX9ULYnQq9EworxRrQInvg0hCGRRA0VnHNudxBwPiaC0rkUaI1nNUp9F8hWh8t0FyKrpJGMYA/0?wx_fmt=jpeg
+    title: 2023“汉教英雄会”东北区国际中文教学技能交流活动圆满落下帷幕
+    url: https://mp.weixin.qq.com/s/fpCWAULrhZbKBVeeEnPVAg
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/TMX5mNrG5piamdjcX9ULYnQq9EworxRrQInvg0hCGRRA0VnHNudxBwPiaC0rkUaI1nNUp9F8hWh8t0FyKrpJGMYA/0?wx_fmt=jpeg
     title: 2023“汉教英雄会”东北区国际中文教学技能交流活动圆满落下帷幕
     url: https://mp.weixin.qq.com/s/fpCWAULrhZbKBVeeEnPVAg

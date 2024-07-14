@@ -1,4 +1,4 @@
-name: 东师之声校园广播
+name: NENU东小声
 detail: 东北师范大学“东师之声”校园广播站
 desc: 东北师范大学的有声媒体，东师之声校园广播官方平台，用心吐字，用爱归音
 id: DSZS2555
@@ -6,6 +6,16 @@ logo: $img/organization/voice.png
 
 authorized: true
 article:
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrQxn9VIUlDo7iancxBx1PJlmm1pUQRic15e0Uy7k1Amxe1eQMVuWuEic4MW48ohXZl0w8QFalJTQRDEw/0?wx_fmt=jpeg
+    title: 榜样人物——万维明
+    desc: /Our role model /榜样人物 Oo/ Our role model/榜样的力量我们崇敬榜样，
+    url: https://mp.weixin.qq.com/s/sAIDMFM1IK0odx94lVycnw
+
+  - cover: https://mmbiz.qpic.cn/sz_mmbiz_jpg/4ibXUPiaLwibrSkTlTIIVR70paD3iczzXZCV7JdAbpzt6yFNibT0h0IOhKEml3nzibmGUI5C65wBU33d4CYQbjBvQwuw/0?wx_fmt=jpeg
+    title: 东师之声——净月东师小声第15周音乐是一种治愈心灵的力量，它能够以文字无法表达的方式温暖我们的内心
+    desc: 东师之声——净月东师小声第15周音乐是一种治愈心灵的力量，它能够以文字无法表达的方式温暖我们的内心。音乐会带
+    url: https://mp.weixin.qq.com/s/UlBwzEWm2WcXKjq3O2Wlcg
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/4ibXUPiaLwibrTibdpOqbvIYia0fejdTic3PuKpVbgBV4mVAq6m6kLF4dagBS2poy42diaUDARWRY2RKk8Zq8bwjcnxHA/0?wx_fmt=jpeg
     title: 走进电影 | 简·爱
     desc: 走进电影 |《简·爱》

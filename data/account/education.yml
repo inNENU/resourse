@@ -3,6 +3,24 @@ desc: 东北师范大学教育学部官方微信平台
 id: edunenu
 logo: $img/media/education-wechat.png
 article:
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Vx8dVSJTs8axJm7f0aahiadVtia90tEeaABOD0Um7caGVYfDUZpMkMElibNyty56zGKiazL4fDvOYDnDktG8VmpAaA/0?wx_fmt=jpeg
+    title: “中国教育学会教育管理分会2024年高等学校教育管理学科学术会议”在东北师范大学成功召开
+    url: https://mp.weixin.qq.com/s/io_A6k3q7B272b_b7YxY0w
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Vx8dVSJTs8adpcbTVK5eIwKQlRzLByBw6ZVyc6dUL8Gn2Fho8MuxLFREj0kmTdxU3YcbwRfZ8NtL6jUicDrn6mQ/0?wx_fmt=jpeg
+    title: 教育学部举办2024届学生毕业典礼暨学位授予仪式
+    desc: 教育学部2024届学生毕业典礼暨学位授予仪式于6月22日在学生就业指导中心三楼报告厅举行。
+    url: https://mp.weixin.qq.com/s/8C4kts1EIpqiWA29KNWwxQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Vx8dVSJTs8aEZnDvO7UvXGEOnAUWxTUicxp2EGDWaXV8rfbIFtU4DTVVodQA1ib2INoIW8kia363d2iawmUM23CyjQ/0?wx_fmt=jpeg
+    title: “师范院校劳动教育教学研讨会”成功举办
+    url: https://mp.weixin.qq.com/s/JSDDGtWLLjwvrhZxKaWPzQ
+
+  - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Vx8dVSJTs8ZtmOd2gsLU7zrZUKfiaI0D3rBltt8GWKReW6020YFUydVpJHSbdyx9oCoruvwoBjS6VsMTTf1ticyg/0?wx_fmt=jpeg
+    title: 喜报
+    desc: 学部学子荣获2023年吉林省普通高校省级优秀大学生标兵和优秀大学生荣誉称号
+    url: https://mp.weixin.qq.com/s/9X-Fl7xBJ6HfZCwaO1Xd7g
+
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/Vx8dVSJTs8YZlu6aWIHKNsftZKIaib6bUEj30HzfCwoA21lAAOWtpX78gr7MhLTG4SzMbLQHpYjJ3MoI5WIHExQ/0?wx_fmt=jpeg
     title: 第八届“率性教育与儿童哲学”学术论坛顺利召开
     url: https://mp.weixin.qq.com/s/y_Ak0cBZBUDRSn-ZnjWoeg

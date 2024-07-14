@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
 import { resolveAlias } from "../components/utils.js";
-import { getFileList } from "../utils/index.js";
+import { getFileList, promiseQueue } from "../utils/index.js";
 
 interface WechatAccountInfo {
   name: string;
@@ -82,40 +82,62 @@ export const checkAccountDetail = (
   return data;
 };
 
-export const genAccount = (filePath: string): Promise<void> => {
-  const content = readFileSync(`./data/account/${filePath}`, {
+export const generateAccount = (filePath: string): Promise<void> => {
+  let data = readFileSync(`./data/account/${filePath}`, {
     encoding: "utf-8",
   });
 
-  const results = content
+  const results = data
     .split("\n")
     .map((item) => /- url: (.*)$/.exec(item)?.[1] ?? "")
     .filter((item) => item.length);
 
-  return Promise.all(
-    results.map((item) =>
-      fetch(item)
-        .then((res) => res.text())
-        .then((content) => {
-          const [, cover = ""] =
-            /<meta property="og:image" content="(.*?)" \/>/.exec(content) ?? [];
-          const [, title = ""] =
-            /<meta property="og:title" content="(.*?)" \/>/.exec(content) ?? [];
-          const [, desc = ""] =
-            /<meta property="og:description" content="(.*?)" \/>/.exec(
-              content,
-            ) ?? [];
+  return promiseQueue(
+    results.map(
+      (item) => () =>
+        fetch(item)
+          .then((res) => res.text())
+          .then((content) => {
+            const supportedOGP = content.includes("<meta property");
 
-          content = content.replace(
-            `- url: ${item}`,
-            `- cover: ${cover}\n    title: ${decodeText(title)}\n${
-              desc ? `    desc: ${decodeText(desc)}\n` : ""
-            }    url: ${item}`,
-          );
-        }),
+            const cover = supportedOGP
+              ? /<meta property="og:image" content="(.*?)" \/>/.exec(
+                  content,
+                )?.[1]
+              : /msg_cdn_url = "(.*)"/.exec(content)?.[1];
+            const title = supportedOGP
+              ? /<meta property="og:title" content="(.*?)" \/>/.exec(
+                  content,
+                )?.[1]
+              : /msg_title = '(.*)'/.exec(content)?.[1];
+            const desc = supportedOGP
+              ? /<meta property="og:description" content="(.*?)" \/>/.exec(
+                  content,
+                )?.[1]
+              : /msg_desc = htmlDecode\("(.*)"\)/.exec(content)?.[1];
+
+            if (
+              typeof cover !== "string" ||
+              typeof title !== "string" ||
+              typeof desc !== "string"
+            ) {
+              throw new Error(
+                `Parsing failed: ${JSON.stringify({ supportedOGP, cover, title, desc })}`,
+              );
+            }
+
+            data = data.replace(
+              `- url: ${item}`,
+              `- cover: ${cover}\n    title: ${decodeText(title)}\n${
+                desc ? `    desc: ${decodeText(desc)}\n` : ""
+              }    url: ${item}`,
+            );
+          })
+          .then(() => console.log(`${item} fetched`))
+          .catch((err) => console.error(`Fetching ${item} failed:`, err)),
     ),
   ).then(() => {
-    writeFileSync(`./data/account/${filePath}`, content, {
+    writeFileSync(`./data/account/${filePath}`, data, {
       encoding: "utf-8",
     });
   });
@@ -123,4 +145,6 @@ export const genAccount = (filePath: string): Promise<void> => {
 
 const fileList = getFileList("./data/account", "yml");
 
-await Promise.all(fileList.map((item) => genAccount(item)));
+await promiseQueue(
+  fileList.map((item) => (): Promise<void> => generateAccount(item)),
+);
