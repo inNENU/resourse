@@ -1,7 +1,7 @@
 title: DET
 icon: english
 author: Mr.Hope
-time: 2023-09-22T16:59:13.479Z
+time: 2024-07-14T15:54:42.459Z
 shareable: true
 content:
   - tag: text
@@ -22,15 +22,13 @@ content:
       - |-
         大学英语水平测试 (术科类) 主体测试对象: 术科类专业以及民族班的学生。
 
-  # TODO: Update at 2023-09
+  # TODO: Update at 2024-09
   - tag: text
     type: info
-    heading: 2023 年秋季开学 DET 考试时间
+    heading: 2024 年秋季开学 DET 考试时间
     text:
       - |-
-        新生: 9 月 9 日 9:00 - 11:20
-      - |-
-        其他年级: 暂无通知
+        暂未通知，2023 年时间安排为 9 月 9 日 9:00 - 11:20。
 
   - tag: ol
     type: info

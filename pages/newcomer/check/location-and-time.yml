@@ -1,11 +1,15 @@
-title: 2023 年报到时间地点
+title: 2024 年报到时间地点
 icon: time
 author: Mr.Hope
-time: 2023-09-23T12:11:49.039Z
+time: 2024-07-14T15:54:41.904Z
 shareable: true
 content:
   - tag: title
     text: 报到时间
+
+  - tag: text
+    type: warning
+    heading: 以下 2024 年拟定安排，如无特殊情况不会变动，但请以学校最终通知为准。
 
   - tag: text
     type: info
@@ -18,7 +22,7 @@ content:
     heading: 研究生新生报到
     text:
       - |-
-        临时接待: 2023年 8 月 28 日 13:30 - 22:00
+        临时接待: 2023 年 8 月 28 日 13:30 - 22:00
       - |-
         正式报到时间: 2023 年 8 月 29 日、30 日 (星期二、星期三)
 
@@ -26,7 +30,7 @@ content:
     type: tip
     heading: 接站
     text:
-      - 火车站、机场均将设有新生接待处，但无接站大巴
+      - 火车站、机场均将设有新生接待处，但无接站大巴。
     path: /newcomer/arrival/pickup
 
   - tag: list
@@ -65,6 +69,10 @@ content:
 
   - tag: title
     text: 报到(接待)地点
+
+  - tag: text
+    type: warning
+    heading: 以下为 2023 年安排，2024 年可能有所变动（学校尚未落实 24 年报到工作安排）。
 
   - tag: text
     text:

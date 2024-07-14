@@ -1,7 +1,7 @@
-title: 2023 年本科档案接收人
+title: 2024 年本科档案接收人
 icon: people
 author: Mr.Hope
-time: 2023-09-22T16:59:13.320Z
+time: 2024-07-14T15:54:42.347Z
 shareable: true
 content:
   - tag: text
@@ -10,10 +10,11 @@ content:
       - 通常情况下，您可以在新生手册上找到档案接收人的信息。
       - 大部分学院的档案接收人即是您的辅导员，后方的电话即是辅导员的电话。部分学院可能会将团委书记的姓名和联系方式放置在上面。
 
-  - tag: img
-    src: $img/prepare/benbu-contact.jpg
-    desc: 本部
+  # FIXME: Need update with latest
+  # - tag: img
+  #   src: $img/prepare/benbu-contact.jpg
+  #   desc: 本部
 
-  - tag: img
-    src: $img/prepare/jingyue-contact.jpg
-    desc: 净月
+  # - tag: img
+  #   src: $img/prepare/jingyue-contact.jpg
+  #   desc: 净月

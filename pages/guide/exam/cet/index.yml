@@ -2,7 +2,7 @@ title: 大学英语水平测试
 icon: cet
 grey: true
 author: Mr.Hope
-time: 2023-09-23T08:04:54.151Z
+time: 2024-07-14T15:54:42.580Z
 shareable: true
 cite: https://cet.neea.edu.cn/html1/category/16093/1124-1.htm
 content:
@@ -12,9 +12,13 @@ content:
         icon: time
         path: time
 
-      - text: 关于2023年下半年全国大学外语四、六级考试报名工作的通知
+      - text: 关于2024年上半年全国大学英语四、六级考试报名工作的通知
         icon: notice
-        url: notice-detail?id=5c43f6f406f144b7b700ac91b015885a&title=关于2023年下半年全国大学外语四、六级考试报名工作的通知
+        url: notice-detail?id=b9a5a348cda148cb88e73462575f1356&title=关于2024年上半年全国大学英语四、六级考试报名工作的通知
+
+      - text: 关于2024年上半年全国大学英语四、六级考试增补考位的通知
+        icon: notice
+        url: notice-detail?id=b51eae3b0b874b67847585425b49830f&title=关于2024年上半年全国大学英语四、六级考试增补考位的通知
 
   - tag: list
     items:

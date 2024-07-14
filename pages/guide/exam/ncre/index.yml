@@ -1,15 +1,15 @@
 title: NCRE
 icon: pc
 author: Mr.Hope
-time: 2023-09-23T08:04:54.161Z
+time: 2024-07-14T15:54:42.587Z
 grey: true
 shareable: true
 content:
   - tag: list
     items:
-      - text: 2023 年时间安排
-        icon: time
-        path: time
+      - text: 2024 年下半年报名通知
+        icon: notice
+        url: notice-detail?id=6e24784087ae4a8785dbbd248d5b6428&title=关于2024年9月（第74次）全国计算机等级考试报名工作的通知
 
   - tag: list
     items:

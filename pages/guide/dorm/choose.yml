@@ -1,7 +1,7 @@
 title: 寝室选择
 icon: faq
 author: Mr.Hope
-time: 2023-09-22T16:59:13.613Z
+time: 2024-07-14T15:54:42.540Z
 cite:
   - https://publish.nenu.edu.cn/info/1068/2633.htm
 shareable: true
@@ -32,9 +32,10 @@ content:
   - tag: p
     text: 寝室不可选择，只能等学校分配结果。住宿费和寝室环境、寝室面积和寝室楼层挂钩。根据住宿条件的不同，本科生在 700 - 800 元之间，研究生在 600 - 1200 元之间。
 
+  # TODO: Update at 2025-09
   - tag: doc
-    name: 2023 年住宿费标准
-    url: $file/intro/2023-dorm-fee.pdf
+    name: 2024 年住宿费标准
+    url: $file/intro/2024-dorm-fee.pdf
 
   - tag: text
     type: tip

@@ -1,7 +1,7 @@
 title: 英语免修评定
 icon: exemption
 author: Mr.Hope
-time: 2024-05-22T11:27:02.404Z
+time: 2024-07-14T15:54:42.460Z
 shareable: true
 content:
   - tag: list
@@ -13,15 +13,15 @@ content:
   # TODO: Update at 2024-09
   - tag: text
     type: info
-    heading: 2024 年春季学期时间安排
+    heading: 2024 年秋季学期时间安排
     text:
-      - 3 月 13 日 10:00 至 3 月 15 日 16:00
+      - 暂未通知，2023 年时间为 9 月 13 日 16:00 至 9 月 15 日 22:00。
 
   - tag: text
     type: info
-    heading: 2023 年秋季学期时间安排
+    heading: 2024 年春季学期时间安排
     text:
-      - 9 月 13 日 16:00 至 9 月 15 日 22:00
+      - 3 月 13 日 10:00 至 3 月 15 日 16:00
 
   - tag: title
     text: 申请条件

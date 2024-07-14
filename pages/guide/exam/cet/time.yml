@@ -1,14 +1,15 @@
+# TODO: Update at 2024-09
 title: 大学英语水平测试时间
 icon: time
 author: Mr.Hope
-time: 2023-09-23T08:04:54.155Z
+time: 2024-07-14T15:54:42.582Z
 shareable: true
 content:
   - tag: text
     type: info
-    heading: 2023 年下半年报名时间
+    heading: 2024 年上半年报名时间
     text:
-      - 2023年9月18日10时－9月26日17时
+      - 2024年3月20日13时－3月29日17时
 
   # - tag: text
   #   type: info
@@ -19,18 +20,18 @@ content:
 
   - tag: text
     type: info
-    heading: 2023 年下半年口试考试时间
+    heading: 2024 年上半年口试考试时间
     text:
       - |-
-        英语四级考试(CET4): 11 月 18 日
+        英语四级考试 (CET4): 5 月 18 日
       - |-
-        英语六级考试(CET6): 11 月 19 日
+        英语六级考试 (CET6): 5 月 19 日
 
   - tag: text
     type: info
-    heading: 2023 年下半年笔试考试时间
+    heading: 2024 年上半年笔试考试时间
     text:
       - |-
-        英语四级考试(CET4): 12 月 16 日 9:00 - 11:20
+        英语四级考试 (CET4): 6 月 15 日 9:00 - 11:20
       - |-
-        英语六级考试(CET6): 12 月 16 日 15:00 - 17:25
+        英语六级考试 (CET6): 6 月 15 日 15:00 - 17:25
