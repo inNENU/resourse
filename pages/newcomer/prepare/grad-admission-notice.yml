@@ -1,7 +1,7 @@
 title: 研究生录取通知书
 icon: letter
 author: Mr.Hope
-time: 2024-07-02T16:28:50.480Z
+time: 2024-07-14T16:30:36.494Z
 shareable: true
 content:
   - tag: title
@@ -39,7 +39,7 @@ content:
     text: 学号
 
   - tag: text
-    text: 录取通知书编号即为学号，是以 2023 开头的十位数字，在通知书右下角。
+    text: 录取通知书编号即为学号，是以 2024 开头的十位数字，在通知书右下角。
 
   - tag: img
     src: $img/prepare/post-admission-letter.jpg

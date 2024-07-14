@@ -1,7 +1,7 @@
 title: 缴费相关
 icon: money
 author: Mr.Hope
-time: 2023-09-23T10:52:59.485Z
+time: 2024-07-14T16:30:37.211Z
 cite:
   - https://publish.nenu.edu.cn/info/1068/2632.htm
   - https://publish.nenu.edu.cn/info/1068/2634.htm
@@ -28,8 +28,8 @@ content:
     url: $file/intro/2023-post-fee.pdf
 
   - tag: doc
-    name: 2023 年住宿费标准
-    url: $file/intro/2023-dorm-fee.pdf
+    name: 2024 年住宿费标准
+    url: $file/intro/2024-dorm-fee.pdf
 
   - tag: title
     text: 缴费方式

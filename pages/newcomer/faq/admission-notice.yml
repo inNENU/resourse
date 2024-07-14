@@ -1,7 +1,7 @@
 title: 录取通知书相关
 icon: letter
 author: Mr.Hope
-time: 2023-09-23T12:11:49.053Z
+time: 2024-07-14T16:30:36.464Z
 shareable: true
 content:
   - tag: text
@@ -25,7 +25,7 @@ content:
     type: info
     heading: 学号是什么?
     text:
-      - 录取通知书证书编号即为学号，是以 2023 开头的十位数字，在通知书下方。
+      - 录取通知书证书编号即为学号，是以 2024 开头的十位数字，在通知书下方。
 
   - tag: text
     type: info

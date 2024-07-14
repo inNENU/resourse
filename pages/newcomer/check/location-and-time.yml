@@ -1,7 +1,7 @@
 title: 2024 年报到时间地点
 icon: time
 author: Mr.Hope
-time: 2024-07-14T15:54:41.904Z
+time: 2024-07-14T16:30:36.455Z
 shareable: true
 content:
   - tag: title
@@ -15,16 +15,13 @@ content:
     type: info
     heading: 本科新生报到
     text:
-      - 报到时间为 2023 年 8 月 26 日、8 月 27 日 (星期六、星期日)
+      - 2024 年 8 月 16 日 8 月 17 日 (星期五、星期六)
 
   - tag: text
     type: info
     heading: 研究生新生报到
     text:
-      - |-
-        临时接待: 2023 年 8 月 28 日 13:30 - 22:00
-      - |-
-        正式报到时间: 2023 年 8 月 29 日、30 日 (星期二、星期三)
+      - 2024 年 8 月 27 日、28 日 (星期二、星期三)
 
   - tag: text
     type: tip
