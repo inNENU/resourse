@@ -662,6 +662,12 @@ function-presets:
           icon: calendar
           url: calendar
 
+        - text: 校史
+          color: grey
+          name: History
+          icon: history
+          url: calendar-history
+
         - text: 校外服务
           color: red
           name: Service
