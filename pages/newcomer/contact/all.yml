@@ -1,7 +1,7 @@
 title: 学校新生群
 icon: qq-group
 author: Mr.Hope
-time: 2023-09-23T12:11:49.043Z
+time: 2024-07-17T19:36:42.843Z
 shareable: true
 content:
   - tag: text
@@ -18,10 +18,10 @@ content:
     path: cheat
 
   - tag: title
-    text: 东北师范大学 2023 本科新生群
+    text: 东北师范大学 2024 本科新生群
 
   - tag: img
-    src: $img/about/under.jpg
+    src: $img/about/under-2024.jpg
     env:
       - app
       - wx
@@ -29,11 +29,12 @@ content:
   - tag: functional-list
     header: false
     items:
-      - text: 加入东北师范大学 2023 本科新生群
+      - text: 加入东北师范大学 2024 本科新生群
         icon: qq-group
         type: button
         openType: openGroupProfile
-        groupId: "670581382"
+        # FIXME: Update it
+        groupId: "970718774"
     env:
       - qq
 
@@ -41,7 +42,7 @@ content:
     text: 东北师范大学本科交流群
 
   - tag: img
-    src: $img/about/hope.jpg
+    src: $img/about/under.jpg
     env:
       - app
       - wx
@@ -53,6 +54,7 @@ content:
         icon: qq-group
         type: button
         openType: openGroupProfile
+        # FIXME: Update it
         groupId: "594493757"
     env:
       - qq
@@ -61,7 +63,7 @@ content:
     text: 东北师范大学研究生交流群
 
   - tag: img
-    src: $img/about/post.jpg
+    src: $img/about/post2.jpg
     env:
       - app
       - wx
@@ -73,7 +75,7 @@ content:
         icon: qq-group
         type: button
         openType: openGroupProfile
-        groupId: "284291586"
+        groupId: "231792797"
     env:
       - qq
 

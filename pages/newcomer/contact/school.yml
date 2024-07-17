@@ -2,87 +2,60 @@ title: 学院迎新群
 icon: qq-group
 author: Mr.Hope
 desc: 欢迎大家私聊并提交自己学院的新生群二维码
-time: 2023-09-23T12:11:49.051Z
+time: 2024-07-17T19:36:42.852Z
 shareable: true
 content:
-  - tag: title
-    text: 各学院年级群
-
   - tag: text
     type: info
     text:
-      # - 目前所有学院的辅导员均已联系了自己的学生建立年级群。
-      - 大部分学院辅导员为了防止其他人混入，都会给学生致电或短信，来发送群号。此类群 Mr.Hope 将配合导员工作不予公开。(如文学院)
-      # - 下列群聊均已争得导员同意。
-      - 请您耐心等待电话或短信后自行入群。
+      - 目前录取工作尚未完成，迎新群尚未建立。
 
-  - tag: img
-    src: $img/about/math-2023.png
-    desc: 数学学院年级群
+  # - tag: title
+  #   text: 各学院年级群
 
-  - tag: img
-    src: $img/about/env-2023.png
-    desc: 环境学院年级群
+  # - tag: text
+  #   type: info
+  #   text:
+  #     # - 目前所有学院的辅导员均已联系了自己的学生建立年级群。
+  #     - 大部分学院辅导员为了防止其他人混入，都会给学生致电或短信，来发送群号。此类群 Mr.Hope 将配合导员工作不予公开。(如文学院)
+  #     # - 下列群聊均已争得导员同意。
+  #     - 请您耐心等待电话或短信后自行入群。
 
-  - tag: title
-    text: 各学院官方迎新群
+  # - tag: title
+  #   text: 各学院官方迎新群
 
-  - tag: text
-    type: info
-    text:
-      - 下列群聊都是官方群，也就是学院团学组织建立且学院团委老师为管理员或群主的群，或辅导员为管理员或群主的年级群。
-      - Mr.Hope 也仅会核实并添加符合以上两点要求的群，所以请不要私聊发送自行创建的群。
+  # - tag: text
+  #   type: info
+  #   text:
+  #     - 下列群聊都是官方群，也就是学院团学组织建立且学院团委老师为管理员或群主的群，或辅导员为管理员或群主的年级群。
+  #     - Mr.Hope 也仅会核实并添加符合以上两点要求的群，所以请不要私聊发送自行创建的群。
 
-  - tag: text
-    type: tip
-    text: Mr.Hope 欢迎各学院团学组织的同学们或各位辅导员老师们联系并提供相关群的二维码。(⚠需要证实自己身份)
+  # - tag: text
+  #   type: tip
+  #   text: Mr.Hope 欢迎各学院团学组织的同学们或各位辅导员老师们联系并提供相关群的二维码。(⚠需要证实自己身份)
 
-  - tag: img
-    src: $img/about/history-2023.jpg
-    desc: 历史文化学院
+  # - tag: title
+  #   text: 各学院非官方迎新群
 
-  - tag: img
-    src: $img/about/chemistry-2023.jpg
-    desc: 化学学院
+  # - tag: text
+  #   type: warning
+  #   text:
+  #     - 下列群聊均为非官方群，也就是不含有辅导员或学院团委老师，学长学姐自发建立的。
+  #     - Mr.Hope 只会偶尔监控一下各群状态是否正常，不对群的正规性以及加群产生的任何后果负责。
 
-  - tag: img
-    src: $img/about/foreign-benbu-2023.jpg
-    desc: 外国语学院本部
+  # - tag: ul
+  #   type: info
+  #   heading: 列出要求
+  #   text:
+  #     - 管理员必须均为此学院学生且至少有两名管理为学生干部
+  #     - 已经证实的外校人员不得以任何理由留在群中
+  #     - 其他学院的学生无特殊理由不得留在群中
+  #     - Mr.Hope 必须入群 (以定期确认状态)
+  #     - 群人数 ≥ 25
 
-  - tag: img
-    src: $img/about/foreign-jingyue-2023.jpg
-    desc: 外国语学院净月
-
-  - tag: img
-    src: $img/about/economy-2023.jpg
-    desc: 经济与管理学院
-
-  - tag: title
-    text: 各学院非官方迎新群
-
-  - tag: text
-    type: warning
-    text:
-      - 下列群聊均为非官方群，也就是不含有辅导员或学院团委老师，学长学姐自发建立的。
-      - Mr.Hope 只会偶尔监控一下各群状态是否正常，不对群的正规性以及加群产生的任何后果负责。
-
-  - tag: img
-    src: $img/about/pe-2023.jpg
-    desc: 体育学院
-
-  - tag: ul
-    type: info
-    heading: 列出要求
-    text:
-      - 管理员必须均为此学院学生且至少有两名管理为学生干部
-      - 已经证实的外校人员不得以任何理由留在群中
-      - 其他学院的学生无特殊理由不得留在群中
-      - Mr.Hope 必须入群 (以定期确认状态)
-      - 群人数 ≥ 25
-
-  - tag: text
-    type: tip
-    text: 如果您创建了符合上述要求的群，欢迎联系 Mr.Hope 提供。同时 Mr.Hope 极其不推荐一个学院存在多个非官方群。
+  # - tag: text
+  #   type: tip
+  #   text: 如果您创建了符合上述要求的群，欢迎联系 Mr.Hope 提供。同时 Mr.Hope 极其不推荐一个学院存在多个非官方群。
 
   # - tag: title
   #   text: Mr.Hope 不信任的群

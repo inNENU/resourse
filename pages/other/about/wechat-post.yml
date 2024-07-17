@@ -1,6 +1,6 @@
 title: 微信研究生闲聊群介绍
 author: Mr.Hope
-time: 2023-12-20T06:56:43.878Z
+time: 2024-07-17T19:36:44.239Z
 shareable: true
 content:
   - tag: text
@@ -15,6 +15,7 @@ content:
 
   - tag: action
     header: QQ 群号
+    # FIXME: Update it
     content: "594493757"
 
   - tag: title
