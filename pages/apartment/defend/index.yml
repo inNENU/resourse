@@ -1,16 +1,15 @@
 title: 保卫科
 icon: police
 author: Mr.Hope
-time: 2023-09-22T15:38:33.124Z
+time: 2024-07-17T20:15:11.089Z
 shareable: true
 content:
   - tag: title
     text: 简介
 
-  - tag: p
+  - tag: text
     text:
-      - 保卫科是负责校园安全的科室。
-      - 如发现或遭遇安全问题，请一定要拨打保卫科电话。
+      - 保卫科是负责校园安全的科室。如发现或遭遇安全问题，请同学们一定要拨打保卫科电话。
 
   - tag: title
     text: 联系电话

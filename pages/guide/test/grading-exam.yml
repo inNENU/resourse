@@ -2,14 +2,15 @@ title: 英语分班考试
 icon: english
 author: Mr.Hope
 desc: 感谢梦雨提供订正
-time: 2023-09-23T10:52:59.561Z
+time: 2024-07-17T20:15:12.488Z
 shareable: true
 content:
+  # TODO: Update at 2024-08
   - tag: text
     type: info
-    heading: 2023 年英语分班考试时间
+    heading: 2024 年英语分班考试时间
     text:
-      - 9 月 9 日 9:00 - 11:20
+      - 9 月 7 日 9:00 - 11:30
 
   - tag: text
     type: warning

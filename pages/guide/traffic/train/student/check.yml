@@ -1,10 +1,10 @@
 title: 火车学生票核验
 icon: check
 author: Mr.Hope
-time: 2023-09-23T10:52:59.704Z
+time: 2024-07-17T20:15:12.623Z
 shareable: true
 cite:
-  - https://mp.weixin.qq.com/s/K-iGgaNPjQ6cg-BM3Y-PIw
+  - https://kyfw.12306.cn/otn/gonggao/student.html
 content:
   - tag: text
     type: tip
@@ -31,54 +31,31 @@ content:
     text: 学生票核验方式
 
   - tag: text
-    text: 前往售票大厅、候车室的任意一台自助终端机。
+    text: 在 12306 App 上按照要求完成学生票核验即可。
 
-  - tag: img
-    src: $img/traffic/train/student-check-1.jpg
-    desc: 点击“优惠资质绑定”
-    watermark: true
-
-  - tag: img
-    src: $img/traffic/train/student-check-2.jpg
-    desc: 选择“学生购优惠票资质绑定”
-    watermark: true
-
-  - tag: img
-    src: $img/traffic/train/student-check-3.jpg
-    desc: 确认绑定须知
-    watermark: true
-
-  - tag: img
-    src: $img/traffic/train/student-check-4.jpg
-    desc: 刷“学生购票优惠卡”
-    watermark: true
-
-  - tag: img
-    src: $img/traffic/train/student-check-5.jpg
-    desc: 刷“身份证”
-    watermark: true
-
-  - tag: title
-    text: 进站注意事项
-
-  - tag: text
+  - tag: ol
+    heading: 学生票核验流程
     text:
-      - 只有购票时已经通过了学生资质核验，才可以直接刷身份证进站乘车。
-
-  - tag: text
-    type: danger
-    heading: 特别注意
-    text:
-      - 网上购票时没有有效的学生资质，相应车票必须在自助终端机取出后，方可乘车。
-      - 这意味着，对于大多数人来说，每年秋季学期寒假结束的返程票，购票时是未完成核验的，在这种情况下，必须前往自助终端机完成信息核验并取票，才可以刷身份证乘车。
+      - 进入 12306 App
+      - 点击我的 -> 学生票核验
+      - 按照要求如实填写信息
+      - 点击提交，并等待核验结果 (3 个工作日内)
 
   - tag: title
     text: 常见问题
 
   - tag: text
     type: info
-    heading: 网上购买学生票后刷证进站时无法通过，显示“验证失败”，提示“请到售票窗口办理核验”?
-    text: 这是因为车票购买时未完成优惠资质绑定核验，请前往车站售票处，到人工售票窗口、自动售票机完成核验并取票 (报销凭证) 即可。
+    heading: 新生如何优惠购票
+    text:
+      - 正常通过学生票核验流程提交所需信息，并在线上购买学生票
+      - 推荐早到并提前持身份证和录取通知书到窗口进行资质核验再前往检票口直接刷身份证进站乘车；也可直接手持录取通知书和有效证件从人工检票口进站乘车。
+
+  - tag: text
+    type: info
+    heading: 是否完成核验即可确定享受学生票
+    text:
+      - 不是的，学生仍需携带加盖了学期注册章的学生证，以备列车员核查。
 
   - tag: text
     type: info

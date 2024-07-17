@@ -1,7 +1,7 @@
 title: 本科课程
 icon: content
 author: Mr.Hope
-time: 2023-09-22T16:59:13.475Z
+time: 2024-07-17T20:15:12.059Z
 grey: true
 shareable: true
 content:
@@ -31,7 +31,7 @@ content:
         icon: course-table
         path: table
 
-      - text: 本科人才培养计划
+      - text: 本科人才培养方案
         icon: plan
         path: plan/
 

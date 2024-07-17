@@ -1,7 +1,7 @@
 title: 校园跑
 icon: run
 author: Mr.Hope
-time: 2023-09-22T16:59:13.499Z
+time: 2024-07-17T20:15:12.074Z
 shareable: true
 content:
   - tag: title
@@ -14,11 +14,7 @@ content:
     text: 考查方式
 
   - tag: p
-    text: 校园跑需要使用“运动世界校园” APP 进行，同学们需要下载安装。
-
-  - tag: action
-    header: 下载地址
-    content: https://h5.gxapp.iydsj.com/gxapp/version/v1.22/download/index.html
+    text: 校园跑需要使用“运动世界校园” APP 进行，同学们需要自行在应用商店搜索安装。
 
   - tag: text
     type: info

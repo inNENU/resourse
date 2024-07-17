@@ -1,7 +1,7 @@
 title: 专业所在校区
 icon: locate
 author: Mr.Hope
-time: 2023-09-23T12:11:49.037Z
+time: 2024-07-17T20:15:11.515Z
 shareable: true
 content:
   - tag: title
@@ -71,6 +71,7 @@ content:
       - 美术学院
       - 信息科学与技术学院
       - 传媒科学学院
+      - 纽瓦克学院
 
   - tag: list
     header: false
@@ -95,7 +96,7 @@ content:
       - 教师教育研究院在本部。
       - 思想政治教育中心在本部。
       - 国际汉学院在净月。
-      - 量子科学中心计划迁回本部，中心意见是建议新生选择本部寝室。
+      - 量子科学中心目前在净月，但计划迁回本部。
 
   - tag: title
     text: 校区地址
