@@ -1,5 +1,6 @@
 main-page:
   guest: guest
+  "2024": newcomer
   default: at-school
 
 main-presets:
@@ -336,16 +337,16 @@ guide-page:
       - tip
       - graduate
 
-  "2023":
+  "2024":
     items:
-      - life
-      - account
-      - enjoy
-      - service
-      - study
-      - tip
       - newcomer
+      - life
+      - study
+      - enjoy
+      - tip
     more:
+      - account
+      - service
       - graduate
 
   "2020":
