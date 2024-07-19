@@ -8,48 +8,6 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
-        - text: 学校概况
-          color: red
-          name: Description
-          icon: about
-          path: intro/about/
-
-        - text: 学科建设
-          color: olive
-          name: Subject
-          icon: content
-          path: intro/subject/
-
-        - text: 学生就业
-          color: cyan
-          name: Job
-          icon: job
-          path: intro/job/
-
-        - text: 资助
-          color: purple
-          name: Subsidize
-          icon: subsidize
-          path: intro/subsidize/
-
-        - text: 招生
-          name: Enroll
-          color: red
-          icon: enroll
-          path: intro/enroll/
-
-        - text: 学院介绍
-          name: School
-          color: purple
-          icon: school
-          path: school/
-
-        - text: 学校机构
-          name: School
-          color: red
-          icon: apartment
-          path: apartment/
-
         - text: 寝室
           color: blue
           name: Dorm
@@ -103,12 +61,6 @@ main-presets:
           name: Scholarship
           icon: metal
           path: intro/scholarship/
-
-        - text: 图书馆
-          color: blue
-          name: Library
-          icon: library
-          path: apartment/library/
 
         - text: 考研/保研
           color: red

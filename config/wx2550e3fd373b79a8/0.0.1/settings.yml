@@ -700,7 +700,7 @@ user:
   - tag: p
     heading: " "
     text:
-      - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
+      - 如果看过小程序后您还有疑问，欢迎加入 weNENU 咨询群 (1139044856) 进行咨询。
       - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 106 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
     style: "color: #888; font-size: 14px"
 
@@ -733,7 +733,7 @@ about:
         url: info?path=Oabout/mrhope
 
       - text: |-
-          记: inNENU
+          记: weNENU
         url: info?path=Oabout/history
 
       - text: 开发者访谈
