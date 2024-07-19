@@ -3,7 +3,7 @@ main-page:
   default: at-school
 
 main-presets:
-  unlogin:
+  guest:
     - tag: grid
       header: 2024 年本科招生
       items:
@@ -34,6 +34,12 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 找到组织
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
+
         - text: 学校概况
           color: red
           name: Description
@@ -146,23 +152,71 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
-        - text: 课程表
-          color: grey
-          name: Course
-          icon: course-table
-          url: course-table
+        - text: 找到组织
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
 
-        - text: 选课系统
+        - text: 专业介绍
+          color: mauve
+          name: Major
+          icon: study
+          path: school/major
+
+        - text: 寝室
           color: blue
-          name: Select
-          icon: select
-          url: under-select
+          name: Dorm
+          icon: dorm
+          path: guide/dorm/
 
-        - text: 专项考试成绩
+        - text: 食堂
+          color: orange
+          name: Dining
+          icon: dining
+          path: guide/dining/
+
+        - text: 洗浴
           color: red
-          name: SpecialExam
-          icon: test
-          url: grade-special
+          name: Bath
+          icon: bath
+          path: guide/bath/
+
+        - text: 生活
+          color: purple
+          name: Life
+          icon: life
+          path: guide/life/
+
+        - text: 转专业
+          color: red
+          name: Change Major
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          color: purple
+          name: Normal
+          icon: teacher
+          path: guide/normal/
+
+        - text: 课程
+          color: orange
+          name: Course
+          icon: content
+          path: guide/course/
+
+        - text: 学习
+          color: mauve
+          name: Study
+          icon: study
+          path: guide/study/
+
+        - text: 奖学金
+          color: purple
+          name: Scholarship
+          icon: metal
+          path: intro/scholarship/
 
         - text: 校园地图
           color: orange
@@ -272,10 +326,10 @@ intro-page:
 guide-page:
   guest:
     items:
+      - newcomer
       - life
       - study
       - enjoy
-      - newcomer
     more:
       - account
       - service
@@ -332,6 +386,12 @@ function-presets:
           name: Activate
           icon: authorize
           url: account-activate
+
+        - text: 密码重置
+          color: grey
+          name: Reset
+          icon: reset
+          url: account-reset
 
     - tag: grid
       header: 东师风采
@@ -407,6 +467,18 @@ function-presets:
           name: Calendar
           icon: calendar
           url: calendar
+
+        - text: 本科人才培养计划
+          color: grey
+          name: Cultivate
+          icon: rule
+          url: under-major-plan
+
+        - text: 校史
+          color: blue
+          name: History
+          icon: history
+          url: calendar-history
 
         - text: 东师网站
           color: orange
@@ -728,6 +800,7 @@ user:
         type: button
         openType: addFriend
         openId: 41D0ED9AEDD96C611B0E679EF3ED67F9
+        handler: reportInfo
 
       - text: 添加到桌面
         icon: send
@@ -771,6 +844,7 @@ about:
         type: button
         openType: addFriend
         openId: 868D7B2F0C609B4285698EAB77A47BA1
+        handler: reportInfo
 
   - tag: text
     heading: 小程序内容
@@ -790,23 +864,32 @@ about:
 
 service:
   grad-system-login: online
+  under-study-check: online
   under-commentary: online
   under-grade-detail: online
   under-grade-list: online
   under-special-exam: online
+  under-select-category: online
+  under-select-class: online
+  under-select-info: online
+  under-select-process: online
+  under-select-search: online
+  under-select-selected: online
 
 notice:
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 106 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
 
-  activate:
-    title: 手机验证码
-    content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
+  account-activate:
+    title: 2024级本科生账号暂不可激活
+    content: 由于本科生尚未完成录取，2024年新生统一身份认证账户暂不可激活。根据去年经验，预计开放时间不早于 2024 年 8 月。请耐心等待官方正式通知。
+    # title: 手机验证码
+    # content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
 
-  select:
-    title: 暂不支持
-    content: 学校本次使用了全新选课系统，因此陪伴大家三次选课的旧选课系统已经下线。Mr.Hope 会尽快重新适配。
+  under-select:
+    title: 公测中
+    content: 新版本科选课系统已初步适配，现面向全体用户发起公测。特别提示：当前选课系统已完整内测阶段，所需功能基本可用，但 Mr.Hope 不保证当前公测版系统没有问题，也不会对公测版系统引发的问题负责。继续使用即代表您已知晓并接受此风险。
     force: true
 
 update:
