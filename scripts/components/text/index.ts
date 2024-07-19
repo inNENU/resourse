@@ -89,7 +89,7 @@ ${
     : ""
 }\
 ${
-  type ?? heading
+  (type ?? heading)
     ? `${type ? `::: ${type === "danger" ? "caution" : type} ` : ""}${
         typeof heading === "string" ? `${type ? "" : "### "}${heading}` : ""
       }

@@ -80,7 +80,7 @@ ${
   </div>
   <div class="innenu-account-action-list">
 ${
-  qq ?? qqcode
+  (qq ?? qqcode)
     ? `\
     <button class="innenu-account-action" ${
       qq ? `aria-label="${qq}" data-balloon-pos="up" data-qq="${qq}" ` : ""
@@ -93,7 +93,7 @@ ${
     : ""
 }\
 ${
-  wxid ?? wxcode
+  (wxid ?? wxcode)
     ? `\
     <button class="innenu-account-action" ${
       wxid ? `data-wxid="${wxid}" ` : ""

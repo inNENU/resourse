@@ -48,7 +48,7 @@ export const resolvePage = (
     ...(author
       ? { author: Array.isArray(author) ? author.join("、") : author }
       : {}),
-    cite: typeof cite === "string" ? [cite] : cite ?? [],
+    cite: typeof cite === "string" ? [cite] : (cite ?? []),
     content: content.map((element, index) => {
       const { tag } = element;
       /** 当前位置 */
