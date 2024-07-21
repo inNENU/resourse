@@ -1,25 +1,9 @@
 title: 使用 IE 内核浏览网页
 icon: ie
 author: Mr.Hope
-time: 2023-09-23T10:52:59.584Z
+time: 2024-07-21T14:45:02.447Z
 shareable: true
 content:
-  - tag: title
-    text: 简介
-
-  - tag: p
-    text:
-      - 目前学校所使用的本科生、研究生教学服务系统均由湖南强智科技发展有限公司开发。
-      - 这套系统是 21 世纪初 (约 2005 年前后研发) 的版本，版本很老。由于学校的经费、管理问题，后续一直没有对系统进行更新。
-
-  - tag: title
-    text: 系统兼容性
-
-  - tag: text
-    text:
-      - 由于教学服务系统研发于 21 世纪初期，只能运行在 IE (Internet Explorer) 内核浏览器上 (如 IE11、IE10、IE9)。
-      - 其他浏览器无法解析运行脚本，会出现“不能创建对象”的错误提示。
-
   - tag: text
     type: danger
     text:

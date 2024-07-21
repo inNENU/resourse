@@ -274,7 +274,7 @@ school:
     - text: 纽瓦克学院
       color: grey
       name: Newark
-      icon: flag
+      icon: activity
       path: school/newark/
 
 grad-enroll:

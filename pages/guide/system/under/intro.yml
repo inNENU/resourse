@@ -1,7 +1,7 @@
 title: 本科教学服务系统介绍
 icon: system
 author: Mr.Hope
-time: 2023-09-23T12:20:00.116Z
+time: 2024-07-21T14:45:02.428Z
 shareable: true
 content:
   - tag: title
@@ -9,44 +9,36 @@ content:
 
   - tag: text
     text:
-      - 本科教学服务系统由湖南强智科技发展有限公司开发，版本很老。
+      - 本科教学服务系统由广州乘方科技公司开发。
 
   - tag: text
     type: info
     heading: 本科教学服务系统功能
     text:
-      - 系统提供选课、考场查询、成绩查询、学籍管理、教学评价、考试管理、研究生推免、免修申请等功能。
+      - 系统提供选课、考试安排、成绩查询、教学评价、免修申请、缓考申请、毕业申请、校外交流成绩认定、转向报名、考试报名、免试报名等功能。
 
   - tag: title
     text: 访问系统
 
   - tag: text
     heading: 校内访问
-    text: 使用 IE 浏览器访问 http://dsjx.nenu.edu.cn (东师教学缩写)
+    text: 使用 IE 浏览器访问 http://bkjx.nenu.edu.cn (本科教学缩写)
 
   - tag: action
-    content: http://dsjx.nenu.edu.cn
+    content: http://bkjx.nenu.edu.cn
 
   - tag: text
     heading: 校外访问
-    text: 使用 IE 浏览器访问 https://dsjx.webvpn.nenu.edu.cn 并登录 Web VPN。
+    text: 使用 IE 浏览器访问 https://bkjx.webvpn.nenu.edu.cn 并登录 Web VPN。
 
   - tag: action
-    content: https://dsjx.webvpn.nenu.edu.cn
+    content: https://bkjx.webvpn.nenu.edu.cn
 
   - tag: list
     items:
       - text: Web VPN 介绍
         icon: vpn
         path: /guide/network/vpn
-
-  - tag: text
-    type: warning
-    heading: 系统兼容性
-    text:
-      - 由于本科教学服务系统研发于 21 世纪初期，本科教学服务系统只能使用 IE(Internet Explorer) 内核浏览器。
-      - 具体的限制及注意事项请详见“如何使用 IE 内核浏览器”。
-    path: /guide/tip/ie/
 
   - tag: title
     text: 用户名与密码
@@ -77,16 +69,5 @@ content:
     text: 系统页面
 
   - tag: img
-    src: $img/system/UI.png
+    src: $img/system/main-page.png
     watermark: true
-
-  - tag: text
-    text: 进入系统后，您会看到一个具有风格十分经典的系统界面。
-
-  - tag: title
-    text: Mr.Hope の 吐槽
-
-  - tag: p
-    text:
-      - 我知道很多人会抱怨东师的教务系统老，还时常崩溃。但是有一说一，升级换代这个系统真的没您想象的那么简单。
-      - 目前高校教务系统、图书系统这些方面基本上是处于一种垄断的情况，报价极其高昂，一套教务系统报价最低也要几十万起步，通常动辄上百万。所以如果旧系统依旧能满足基本的正常使用的话，学校采购新系统就变得异常困难。

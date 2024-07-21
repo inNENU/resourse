@@ -1,7 +1,7 @@
 title: 选课系统
 icon: select
 author: Mr.Hope
-time: 2024-06-22T19:44:22.128Z
+time: 2024-07-21T14:45:02.400Z
 grey: true
 shareable: true
 content:
@@ -17,14 +17,6 @@ content:
       - text: inNENU 选课系统指南
         icon: idea
         path: intro
-
-  - tag: text
-    type: tip
-    text:
-      - 相比小程序，App 端具有更高的响应速度，推荐优先使用。
-    env:
-      - wx
-      - qq
 
   - tag: list
     header: 官方系统

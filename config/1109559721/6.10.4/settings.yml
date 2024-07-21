@@ -814,7 +814,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1065679 字，其中东师指南部分 322001 字，新生迎新部分 101906 字，东师介绍部分 338391 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39437 字，其他部分 47867 字。
+      - text: 小程序现有字数为 1064802 字，其中东师指南部分 321124 字，新生迎新部分 101906 字，东师介绍部分 338391 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39437 字，其他部分 47867 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
@@ -876,8 +876,14 @@ service:
   under-select-process: online
   under-select-search: online
   under-select-selected: online
+  forceOnline: true
 
 notice:
+  app:
+    title: 账号功能暂不可用
+    content: 由于学校 21 号升级了统一身份认证系统，小程序需要重新适配。预计七月底前与学校账号的相关功能均不可用。
+    force: true
+
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 106 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。

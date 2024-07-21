@@ -1,17 +1,9 @@
 title: 登录选课系统
 icon: account
 author: Mr.Hope
-time: 2023-12-20T06:07:06.633Z
+time: 2024-07-21T14:45:02.402Z
 shareable: true
 content:
-  - tag: text
-    type: warning
-    heading: 系统兼容性
-    text:
-      - 由于选课研发于 21 世纪初期，请使用 IE(Internet Explorer) 内核浏览器如 IE11、IE10、IE9。其他内核浏览器存在兼容性问题，无法正确显示选课弹窗。
-      - 具体的限制及注意事项请点此查看。
-    path: /guide/tip/ie/
-
   - tag: text
     type: tip
     heading: 自研选课系统
@@ -24,11 +16,12 @@ content:
 
   - tag: text
     heading: 本科生
-    text: 打开浏览器输入 http://xk.nenu.edu.cn/ 直接进入选课页面。
+    text: 打开浏览器输入 http://bkjx.nenu.edu.cn/ ，完成登陆后选择【报名服务】-【选课报名】直接进入选课页面。
 
   - tag: action
-    content: http://xk.nenu.edu.cn/
+    content: http://bkjx.nenu.edu.cn/
 
+  # FIXME: Update link
   - tag: text
     heading: 研究生
     text: 打开浏览器输入 https://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
@@ -79,18 +72,3 @@ content:
       - text: 信息化办
         icon: tech
         path: /apartment/xxhb/
-
-  - tag: title
-    text: Mr.Hope の 吐槽
-
-  - tag: p
-    text:
-      - 很多人会抱怨东师的选课系统老，还时常崩溃。但是升级换代这个系统真的没您想象的那么简单。
-
-  - tag: ol
-    text:
-      - 目前高校教务系统、图书系统这些方面基本上是处于一种垄断的情况，报价极其高昂，一套教务系统报价最低也要几十万起步，通常动辄上百万。所以如果旧系统依旧能满足基本的正常使用的话，学校采购新系统就变得异常困难。
-      - 另外，由于选课系统需要和教务系统配合，导入您的已选课程和已选学分，并且最终要将选课数据输出到教务系统生成学生的最终课程情况，所以单独更换选课系统是不太现实的。而且在学校领导眼中这系统也能凑合用。
-
-  - tag: p
-    text: 所以，在可以预见的将来，东师应该还会沿用这一套系统。
