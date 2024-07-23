@@ -1,7 +1,7 @@
 title: 本科生入学准备
 icon: prepare
 author: Mr.Hope
-time: 2024-07-14T16:30:36.505Z
+time: 2024-07-23T18:53:08.078Z
 grey: true
 shareable: true
 content:
@@ -61,7 +61,7 @@ content:
     items:
       - text: 师范生协议填写说明
         icon: idea
-        path: /guide/normal/fill
+        path: /guide/normal/contract/guide
 
       - text: 更多师范生相关
         icon: more

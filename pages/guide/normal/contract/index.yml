@@ -1,0 +1,21 @@
+# TODO: Update the content
+title: 师范生协议
+icon: contract
+author: Mr.Hope
+time: 2024-07-23T18:53:08.950Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 师范生协议填写说明
+        icon: idea
+        path: guide
+
+      - text: 公费师范生协议
+        icon: contract
+        path: free
+
+      - text: 优师专项师范生协议
+        icon: contract
+        path: great

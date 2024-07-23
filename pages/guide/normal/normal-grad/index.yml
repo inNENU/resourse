@@ -1,0 +1,24 @@
+title: 本研衔接师范生介绍
+icon: teacher
+author: Mr.Hope
+time: 2024-07-23T18:53:08.967Z
+grey: true
+shareable: true
+content:
+  - tag: list
+    items:
+      - text: 本研衔接师范生介绍
+        icon: teacher
+        path: intro
+
+      - text: 部属师范本研衔接师范生公费教育实施办法
+        icon: rule
+        path: rule
+
+      - text: 部属师范本研衔接师范生公费教育实施办法解释
+        icon: explain
+        path: explain
+
+      - text: 部属师范本研衔接师范生公费教育实施办法常见问题
+        icon: faq
+        path: faq

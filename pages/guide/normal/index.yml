@@ -1,51 +1,71 @@
 title: 师范生介绍
 icon: teacher
 author: Mr.Hope
-time: 2023-09-23T10:52:59.445Z
+time: 2024-07-23T18:53:08.935Z
 grey: true
 shareable: true
 content:
   - tag: list
+    header: 本研衔接师范生
     items:
-      - text: 师范生协议填写说明
-        icon: idea
-        path: fill
+      - text: 本研衔接师范生介绍
+        icon: teacher
+        path: normal-grad/intro
+
+      - text: 部属师范本研衔接师范生公费教育实施办法
+        icon: rule
+        path: normal-grad/rule
+
+      - text: 部属师范本研衔接师范生公费教育实施办法解释
+        icon: explain
+        path: normal-grad/explain
+
+      - text: 部属师范本研衔接师范生公费教育实施办法常见问题
+        icon: faq
+        path: normal-grad/faq
+    footer: 在符合条件的情况下，本科毕业后直接推荐免试攻读硕士的师范生，按 4+2 年限培养。
 
   - tag: list
+    header: 优师专项师范生
     items:
-      - text: 公费师范生介绍
-        icon: teacher
-        path: free-intro
-
       - text: 优师专项师范生介绍
-        icon: teacher
-        path: great-intro
+        icon: intro
+        path: great/intro
+
+      - text: 中西部欠发达地区优秀教师定向培养计划
+        icon: rule
+        path: great/rule
+
+      - text: 常见问题
+        icon: faq
+        path: great/faq
 
   - tag: list
     header: 国优计划
     items:
-      - text: 教育部通知
+      - text: 教育部意见
         icon: notice
         path: nation-great/notice
 
       - text: 教育部解读
         icon: explain
         path: nation-great/explain
+    footer: 全称双一流高校培养优秀中小学教师计划，即双一流高校通过研究生计划单列培养优秀中小学教师。
 
   - tag: list
-    header: 相关政策
+    header: 师范生协议
     items:
-      - text: 教育部直属师范大学师范生公费教育实施办法
-        icon: rule
-        path: normal
+      - text: 师范生协议填写说明
+        icon: idea
+        path: contract/guide
 
       - text: 公费师范生协议
         icon: contract
-        path: free-contract
+        path: contract/free
 
       - text: 优师专项师范生协议
         icon: contract
-        path: great-contract
+        path: contract/great
 
   - tag: list
     header: 师范类专业认证
@@ -73,10 +93,10 @@ content:
         icon: explain
         path: explain
 
-      - text: 公费师范生常见问题
-        icon: faq
-        path: free-faq
-
-      - text: 优师专项师范生常见问题
-        icon: faq
-        path: great-faq
+  - tag: list
+    header: 其他
+    items:
+      - text: 教育部直属师范大学师范生公费教育实施办法
+        desc: 已废止
+        icon: rule
+        path: normal-rule

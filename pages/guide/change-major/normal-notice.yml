@@ -22,6 +22,6 @@ content:
   - tag: list
     header: 相关政策
     items:
-      - text: 教育部直属师范大学师范生公费教育实施办法
+      - text: 教育部直属师范大学本研衔接师范生公费教育实施办法
         icon: rule
-        path: /guide/normal/normal
+        path: /guide/normal/normal-grad/rule
