@@ -1,7 +1,7 @@
 title: 安卓邮件客户端设置
 icon: android
 author: Mr.Hope
-time: 2023-09-22T16:59:13.249Z
+time: 2024-07-23T11:29:28.033Z
 shareable: true
 content:
   - tag: text
@@ -53,12 +53,6 @@ content:
   - tag: action
     content: smtphz.qiye.163.com
 
-  - tag: text
-    type: tip
-    text:
-      - 尽管学校支持 "smtp.nenu.edu.cn"，但是因为证书不符无法在某些客户端添加或会持续发出警告。
-      - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
-
   - tag: img
     src: $img/account/mail/gmail-6.jpg
     watermark: true
@@ -70,9 +64,9 @@ content:
     content: smtphz.qiye.163.com
 
   - tag: text
-    type: tip
+    type: warning
     text:
-      - 尽管学校支持 "smtp.nenu.edu.cn"，但是因为证书不符无法在某些客户端添加或会持续发出警告。
+      - 尽管学校支持 "smtp.nenu.edu.cn" 作为收发服务器，但是学校未配置有效的证书。这将导致大部分邮件客户端不能成功添加，或在添加后会持续发出证书警告。
       - 在学校解决证书问题前，建议使用 163 企业邮提供的服务器。
 
   - tag: img
@@ -83,7 +77,7 @@ content:
     text: 自行选择合适的同步频率
 
   - tag: text
-    type: tip
+    type: note
     text: 同步频率过高会加大手机耗电量
 
   - tag: img

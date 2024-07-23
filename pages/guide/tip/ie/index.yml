@@ -1,7 +1,7 @@
 title: 使用 IE 内核浏览网页
 icon: ie
 author: Mr.Hope
-time: 2024-07-21T14:45:02.447Z
+time: 2024-07-23T11:29:28.612Z
 shareable: true
 content:
   - tag: text
@@ -10,7 +10,7 @@ content:
       - Microsoft Edge 不是 IE!
 
   - tag: img
-    src: $img/select/ie.jpg
+    src: $img/tip/ie.jpg
     watermark: true
 
   - tag: title

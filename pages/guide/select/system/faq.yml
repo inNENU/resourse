@@ -1,7 +1,7 @@
 title: 选课系统常见问题
 icon: faq
 author: Mr.Hope
-time: 2024-07-21T14:45:02.397Z
+time: 2024-07-23T11:29:28.540Z
 shareable: true
 content:
   - tag: title
@@ -9,9 +9,16 @@ content:
 
   - tag: text
     type: info
-    heading: 无法选课
+    heading: 提示未完成评教
     text:
-      - 请检查自己是否完成了评教。未评教的同学不能参加下学期选课。请务必及时评教。
+      - 未完成评教的同学不能选课，请先完成评教。
+
+  - tag: list
+    header: false
+    items:
+      - text: 课程评价
+        icon: heart
+        url: under-course-commentary
 
   - tag: title
     text: inNENU 选课系统常见问题
@@ -20,8 +27,8 @@ content:
     type: info
     heading: 进行操作响应缓慢或提示 timeout
     text:
-      - inNENU 小程序服务器系 Mr.Hope 自费搭建，配置与性能有限 (和学校某些系统本身就很差不一样)
-      - 如遇大量用户，小程序服务器可能会产生缓慢与拥堵，推荐使用 inNENU App 进行操作。同时 Mr.Hope 可能会关闭小程序登录入口。
+      - inNENU 小程序服务器系 Mr.Hope 自费搭建。由于 Mr.Hope 能拿出做公益的资金是有限的，因此小程序服务器的配置、性能和带宽有限。 (和学校某些系统本身就很差是两回事儿)
+      - 如遇大量用户，小程序服务器可能会产生缓慢与拥堵。
 
   - tag: title
     text: 官方选课系统常见问题

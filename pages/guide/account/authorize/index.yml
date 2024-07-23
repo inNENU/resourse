@@ -1,20 +1,25 @@
 title: 统一身份认证
 icon: authorize
 author: Mr.Hope
-time: 2024-06-15T19:54:15.387Z
+time: 2024-07-23T11:29:28.030Z
 shareable: true
 content:
   - tag: text
     type: info
     text:
       - 2023 级起，新生需要自己完成账号激活。
-      - 目前所有 2023 级本科生、研究生都可以激活自己账号了。
+      - 目前所有 2024 级研究生都可以激活自己账号了，2023 级本科生需要等待录取工作全部完成后才能激活账号。
 
-  - tag: card
-    cover: https://assets.innenu.com/img/tab/activate.jpg
-    title: 账号激活
-    logo: authorize
-    url: account-activate
+  - tag: action
+    header: 账号激活
+    content: https://authserver.nenu.edu.cn/retrieve-password/accountActivation/index.html
+
+  # TODO: Update this once the account activation page is ready
+  # - tag: card
+  #   cover: https://assets.innenu.com/img/tab/activate.jpg
+  #   title: 账号激活
+  #   logo: authorize
+  #   url: account-activate
 
   - tag: list
     items:
