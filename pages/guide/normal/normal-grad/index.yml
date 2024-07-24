@@ -1,7 +1,7 @@
 title: 本研衔接师范生介绍
 icon: teacher
 author: Mr.Hope
-time: 2024-07-23T18:53:08.967Z
+time: 2024-07-24T05:59:20.943Z
 grey: true
 shareable: true
 content:
@@ -22,3 +22,7 @@ content:
       - text: 部属师范本研衔接师范生公费教育实施办法常见问题
         icon: faq
         path: faq
+
+  - tag: doc
+    name: 东师履约地点
+    url: $file/normal/2024-limit.pdf
