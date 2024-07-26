@@ -1,16 +1,20 @@
 title: 接站
 icon: pickup
 author: Mr.Hope
-time: 2023-09-23T12:11:48.976Z
+time: 2024-07-26T12:30:25.412Z
 shareable: true
 content:
   - tag: title
-    text: 接站地点
+    text: 新生指引点
 
   - tag: p
     text:
-      - 接站地点为在长春站南北出站口、长春西站和龙嘉机场。
+      - 学校在长春站【北】出站口、长春西设有新生指引点。
       - 接待处提供学校路线指引手册，但无接站大巴。
+
+  - tag: text
+    type: warning
+    heading: 长春站南出站口、龙嘉机场无接站人员。
 
   - tag: title
     text: 接站标志
@@ -29,6 +33,6 @@ content:
     text: 接站时间
 
   - tag: text
-    heading: 2023 年接站时间
+    heading: 2024 年接站时间
     text:
-      - 2023 年 8 月 26、27、29、30 日 7:00 - 20:00
+      - 2024 年 8 月 17 日 7:00 - 21:00
