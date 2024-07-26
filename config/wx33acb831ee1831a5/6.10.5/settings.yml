@@ -203,7 +203,7 @@ guide-page:
       - enjoy
       - newcomer
     more:
-      - account
+      # - account
       # - service
       - tip
       - graduate
@@ -224,8 +224,8 @@ guide-page:
     items:
       - graduate
       - study
-      - service
-      - account
+      # - service
+      # - account
     more:
       - life
       - tip
@@ -238,7 +238,7 @@ guide-page:
       - study
       - life
     more:
-      - account
+      # - account
       - tip
       - enjoy
       - newcomer
@@ -697,6 +697,7 @@ service:
   under-select-process: online
   under-select-search: online
   under-select-selected: online
+  forceOnline: true
 
 notice:
   main:
