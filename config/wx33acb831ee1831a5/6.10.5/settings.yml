@@ -860,6 +860,8 @@ service:
   auth-init-info: online
   init-auth: online
   auth-login: online
+  auth-captcha: online
+  re-auth: online
   action-login: online
   my-login: online
   under-login: online
