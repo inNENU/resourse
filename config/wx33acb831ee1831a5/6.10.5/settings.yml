@@ -855,6 +855,16 @@ about:
 
 service:
   grad-system-login: online
+
+  # 新版统一身份登录存在 Referrer 问题
+  auth-init-info: online
+  init-auth: online
+  auth-login: online
+  action-login: online
+  my-login: online
+  under-login: online
+  under-study-login: online
+  # 本科教务系统全部存在 Referrer 问题
   under-study-check: online
   under-commentary: online
   under-grade-detail: online
