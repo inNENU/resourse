@@ -878,6 +878,8 @@ service:
   under-select-process: online
   under-select-search: online
   under-select-selected: online
+  # FIXME: 临时 bug
+  under-admission: online
 
 notice:
   main:
