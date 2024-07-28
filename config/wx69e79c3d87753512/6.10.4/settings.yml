@@ -445,7 +445,7 @@ function-presets:
         - text: 国家考试
           color: blue
           name: Exam
-          icon: exam
+          icon: test
           url: info?path=/other/action/test
 
         - text: 东师网站
@@ -554,7 +554,7 @@ function-presets:
         - text: 考场查询
           color: grey
           name: Exam
-          icon: exam
+          icon: test
           url: exam-place
 
         - text: 专项考试成绩
@@ -783,7 +783,7 @@ about:
     items:
       - text: App 全部内容均由 Mr.Hope 独立开发。
 
-      - text: App 现有字数为 1078747 字，其中东师指南部分 335128 字，新生迎新部分 101849 字，东师介绍部分 338391 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39435 字，其他部分 47867 字。
+      - text: App 现有字数为 1078622 字，其中东师指南部分 335128 字，新生迎新部分 101724 字，东师介绍部分 338391 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39435 字，其他部分 47867 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
