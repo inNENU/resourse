@@ -251,7 +251,7 @@ ${
 `
     : ""
 }\
-<div class="innenu-list">
+<div class="innenu-list ${header ? "" : "no-header"}">
 
 ${items
   .map((item) => {

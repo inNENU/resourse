@@ -1,4 +1,5 @@
 title: 大学生艺术团
+icon: $img/organization/daYi.png
 shareable: true
 content:
   - tag: account
@@ -6,7 +7,6 @@ content:
     logo: $img/organization/daYi.png
     desc: 东北师范大学大学生艺术团
     wxid: nenuyishutuan
-
     account: art-ensemble
     mail: nenuyishutuan@163.com
 

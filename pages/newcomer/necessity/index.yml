@@ -1,20 +1,20 @@
 title: 各类物品
 icon: necessity
 author: Mr.Hope
-time: 2023-09-23T12:11:49.096Z
+time: 2024-07-28T10:30:18.948Z
 grey: true
 shareable: true
 content:
   - tag: p
-    type: note
-    text: 以下物品可以自己带到学校，也可以在适应期内慢慢补足。此物品清单仅作参考! 并不是每个人都需要买。
+    type: tip
+    text: 以下物品可以自己带到学校，也可以在适应期内慢慢补足。标记 “*” 的意味着校内超市有售。
 
   - tag: text
-    type: tip
-    text: 标记 “*” 的意味着校内超市有售
+    type: warning
+    text: 此物品清单仅作参考! 并不是每个人都需要买清单内的所有物品，请根据自己习惯决定！
 
   - tag: list
-    header: false
+    header: 校内售卖点
     items:
       - text: 校内外超市
         icon: shop

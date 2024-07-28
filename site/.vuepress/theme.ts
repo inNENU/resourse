@@ -54,8 +54,8 @@ export default hopeTheme(
 
     plugins: {
       copyright: {
-        disableCopy: true,
-        disableSelection: true,
+        disableCopy: process.env.NODE_ENV !== "development",
+        disableSelection: process.env.NODE_ENV !== "development",
         global: true,
         author: "Mr.Hope",
         license: "CC BY-NC-ND 4.0",

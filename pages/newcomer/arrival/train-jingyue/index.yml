@@ -1,7 +1,7 @@
 title: 长春站-到净月
 icon: railway
 author: Mr.Hope
-time: 2023-09-23T12:11:48.999Z
+time: 2024-07-28T10:30:18.881Z
 shareable: true
 content:
   - tag: title
@@ -45,7 +45,7 @@ content:
     type: tip
     heading: 出租车/网约车
     text:
-      - 如果您有太多的行李很难自行搬运，或您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+      - 如果您有太多的行李很难自行搬运，或您出站时轨道交通已不在运行时间，那么您应该需要打车或呼叫网约车。
     path: taxi
 
   - tag: text

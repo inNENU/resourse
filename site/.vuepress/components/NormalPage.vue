@@ -37,7 +37,7 @@ const id = computed(() => page.value.path.replace(/\.html$/, ""));
 .open-app-button {
   display: inline-block;
 
-  margin: 6px 0;
+  margin: 8px 0;
   padding: 4px 8px;
   border-radius: 8px;
 

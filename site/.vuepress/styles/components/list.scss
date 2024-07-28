@@ -11,6 +11,10 @@
   border-radius: 8px;
 
   background-color: var(--bg-color-block);
+
+  &.noheader {
+    margin-top: 8px;
+  }
 }
 
 .innenu-list-item {

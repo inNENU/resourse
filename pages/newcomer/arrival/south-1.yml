@@ -1,7 +1,7 @@
-title: 长春站-到本部乘坐地铁
+title: 长春站-到本部-轨道交通
 icon: train
 author: Mr.Hope
-time: 2023-09-23T12:11:48.978Z
+time: 2024-07-28T10:30:18.865Z
 shareable: true
 content:
   - tag: img
@@ -41,7 +41,7 @@ content:
     watermark: true
 
   - tag: text
-    text: 使用微信支付宝扫码乘车可直接刷吉祥码进行安检，否则需要站台外买票再进站。
+    text: 使用微信支付宝扫码可乘车，否则需要站台外买票再进站。
 
   - tag: img
     src: $img/arrival/train-south-subway-entrance1.jpg

@@ -1,7 +1,7 @@
 title: 长春西站-到本部
 icon: railway
 author: Mr.Hope
-time: 2023-09-23T12:11:49.004Z
+time: 2024-07-28T10:30:18.885Z
 shareable: true
 content:
   - tag: title
@@ -50,7 +50,7 @@ content:
     type: info
     heading: 出租车/网约车
     text:
-      - 如果您到达火车站已经是晚上，轨道交通已经停运，那么您也许需要打车。
+      - 如果您出站时轨道交通已不在运行时间，那么您应该需要打车或呼叫网约车。
       - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
     path: taxi
 

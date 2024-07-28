@@ -1,7 +1,7 @@
 title: 运动会介绍
 icon: sports
 author: Mr.Hope
-time: 2023-09-23T12:11:49.082Z
+time: 2024-07-28T10:30:18.938Z
 shareable: true
 content:
   - tag: title
@@ -41,7 +41,8 @@ content:
     text: 比赛
 
   - tag: p
-    text: 整个赛程通常在下午三点之前安排完毕，各项目在田径场进行决赛。
+    text:
+      - 运动会赛程会安排的比较紧张，各项目在田径场进行决赛。整个赛程通常在下午三点之前安排完毕，
 
   - tag: img
     src: $img/activity/sport-meeting/race1.jpg
@@ -50,4 +51,4 @@ content:
     text: 颁奖与闭幕式
 
   - tag: p
-    text: 各比赛项目结束后，学校会组织领导与老师进行颁奖，之后由校领导致闭幕词，运动会结束。
+    text: 各比赛项目结束后，学校会组织领导进行颁奖，之后由校领导致闭幕词，运动会结束。
