@@ -1,7 +1,7 @@
 title: 证件材料类
 icon: id
 author: Mr.Hope
-time: 2024-07-17T20:15:11.567Z
+time: 2024-07-28T19:07:02.010Z
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
   - tag: text
     type: note
     text:
-      - 虽然忘带了也并不会真正不让你入学，但是会非常麻烦 (核验身份证，院长签字等)，而且您大概是不想一开学这么被导员深刻地记住的。
+      - 虽然忘带了也并不会真正不让您入学，但是会非常麻烦 (核验身份证，院长签字等)，而且您大概是不想一开学这么被导员深刻地记住的。
 
   - tag: text
     heading: 身份证及正反两面复印件

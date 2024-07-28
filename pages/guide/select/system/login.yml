@@ -1,14 +1,14 @@
 title: 登录选课系统
 icon: account
 author: Mr.Hope
-time: 2024-07-21T14:45:02.402Z
+time: 2024-07-28T19:07:02.974Z
 shareable: true
 content:
   - tag: text
     type: tip
     heading: 自研选课系统
     text:
-      - Mr.Hope 推荐你使用 Mr.Hope 自主开发的选课系统进行选课，该系统支持手机、平板与 PC。
+      - Mr.Hope 推荐您使用 Mr.Hope 自主开发的选课系统进行选课，该系统支持手机、平板与 PC。
     path: intro
 
   - tag: title

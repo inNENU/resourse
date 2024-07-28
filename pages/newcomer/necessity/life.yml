@@ -1,7 +1,7 @@
 title: 生活用品
 icon: life
 author: Mr.Hope
-time: 2023-09-23T12:11:49.098Z
+time: 2024-07-28T19:07:02.009Z
 shareable: true
 content:
   - tag: text
@@ -33,7 +33,7 @@ content:
     type: tip
     heading: 长春过冬提示
     text:
-      - 如果你是南方人，不熟悉东北的气候和穿衣，请点击查看详情。Mr.Hope 为你准备了一份长春过冬指南。
+      - 如果您是南方人，不熟悉东北的气候和穿衣，请点击查看详情。Mr.Hope 为您准备了一份长春过冬指南。
     path: /guide/tip/winter/
 
   - tag: p

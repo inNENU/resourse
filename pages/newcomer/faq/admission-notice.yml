@@ -1,7 +1,7 @@
 title: 录取通知书相关
 icon: letter
 author: Mr.Hope
-time: 2024-07-14T16:30:36.464Z
+time: 2024-07-28T19:07:01.975Z
 shareable: true
 content:
   - tag: text
@@ -33,4 +33,4 @@ content:
     text:
       - 公费师范生共有 4 份，优师计划共有 5 份。需要签字，并填写各方空缺的信息。
       - 具体的协议说明与填写指南，请详见“公费师范生”板块。
-    path: /guide/normal/
+    path: /guide/normal/contract/

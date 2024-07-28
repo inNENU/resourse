@@ -1,6 +1,6 @@
 title: 卸载软件
 author: Mr.Hope
-time: 2023-07-16T11:41:47.774Z
+time: 2024-07-28T19:07:03.100Z
 shareable: true
 content:
   - tag: text
@@ -21,7 +21,7 @@ content:
   - tag: text
     text:
       - UWP 版的软件是通过 Microsoft Store 安装的，会直接显示在开始菜单和搜索列表中，可以直接右键卸载。
-      - 你可以点击开始菜单并在列表中找到对应的软件，并右键选择卸载
+      - 您可以点击开始菜单并在列表中找到对应的软件，并右键选择卸载
 
   - tag: img
     src: $img/tip/software/uwp-uninstall1.jpg
@@ -35,7 +35,7 @@ content:
     watermark: true
 
   - tag: text
-    text: 当然，你也可以按照下方的流程进行卸载
+    text: 当然，您也可以按照下方的流程进行卸载
 
   - tag: title
     text: 应用程序卸载
