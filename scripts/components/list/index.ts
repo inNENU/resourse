@@ -307,7 +307,7 @@ ${
     ? `\
 <div class="innenu-list-footer">
 ${footer}
-<div>
+</div>
 `
     : ""
 }\

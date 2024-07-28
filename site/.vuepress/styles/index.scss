@@ -1,6 +1,14 @@
 @use "components";
 @use "homepage";
 
+.vp-feature-item.link:hover {
+  transform: scale(0.95);
+
+  &::before {
+    display: none;
+  }
+}
+
 .vp-catalog-wrapper {
   .icon {
     width: 1.25em;
