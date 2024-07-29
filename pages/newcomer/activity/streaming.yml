@@ -1,7 +1,7 @@
 title: 直播安排
 icon: stream
 author: Mr.Hope
-time: 2024-07-28T19:39:51.746Z
+time: 2024-07-29T03:50:39.365Z
 shareable: true
 content:
   - tag: p
@@ -13,8 +13,8 @@ content:
     type: tip
     heading: 2024 年直播安排
     text:
-      - 7/30 8/1 8/3 在知乎直播
-      - 7/31 8/2 8/4 在 B 站直播
+      - 7/30 8/1 8/3 在知乎直播，每天下午两点开始
+      - 7/31 8/2 8/4 在 B 站直播，每天下午两点开始
       - 晚上不定时在微信视频号和抖音直播答疑
 
   - tag: title
