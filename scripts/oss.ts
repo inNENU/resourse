@@ -131,4 +131,5 @@ const syncOSS = async (): Promise<void> => {
   ]);
 };
 
-await syncOSS();
+if (execSync("git branch --show-current").toString().trim().includes("main"))
+  await syncOSS();

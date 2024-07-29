@@ -104,6 +104,7 @@ convertYml2Json("./config", "./d/config", (data, filePath) => {
     const {
       "main-presets": mainPresets,
       "function-presets": functionPresets,
+      about,
       ...rest
     } = data as Record<string, unknown> & {
       // eslint-disable-next-line @typescript-eslint/naming-convention
@@ -133,7 +134,7 @@ convertYml2Json("./config", "./d/config", (data, filePath) => {
           ),
         ]),
       ),
-      about: resolvePageContent(rest.about, "settings.about", "pages"),
+      about: resolvePageContent(about, "settings.about", "pages"),
     };
   }
 
