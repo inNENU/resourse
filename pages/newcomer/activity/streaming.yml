@@ -1,7 +1,7 @@
 title: 直播安排
 icon: stream
 author: Mr.Hope
-time: 2024-07-29T03:50:39.365Z
+time: 2024-07-31T04:06:32.034Z
 shareable: true
 content:
   - tag: p
@@ -13,8 +13,7 @@ content:
     type: tip
     heading: 2024 年直播安排
     text:
-      - 7/30 8/1 8/3 在知乎直播，每天下午两点开始
-      - 7/31 8/2 8/4 在 B 站直播，每天下午两点开始
+      - 7/30 - 8/4 在 B 站直播，每天下午两点开始
       - 晚上不定时在微信视频号和抖音直播答疑
 
   - tag: title
@@ -24,9 +23,9 @@ content:
     header: B 站 inNENU
     content: http://live.bilibili.com/25489132
 
-  - tag: action
-    header: 知乎 Mr.Hope
-    content: https://www.zhihu.com/theater/26268
+  # - tag: action
+  #   header: 知乎 Mr.Hope
+  #   content: https://www.zhihu.com/theater/26268
 
   - tag: img
     src: $img/about/innenu-douyin.jpg
@@ -53,21 +52,6 @@ content:
 
   - tag: title
     text: 直播计划
-
-  - tag: ul
-    heading: 7/30 知乎
-    text:
-      - 需带物品清单
-      - 具体包括校园生活中需要用到哪些物品？到校前需要准备哪些行李？这些东西哪些建议网购哪些建议携带哪些建议校内购买？东北冬季御寒衣物该如何选择？如何跟据自己的专业与需求选购合适的笔记本电脑？
-
-  - tag: ul
-    heading: 7/31 B站
-    text:
-      - 东师课程设置
-      - 具体包括东师设置哪些课程类别？大学都要上哪些课程？如何参考人才培养计划与课程表？如何进行选课注课以及各种干货要点。
-      - |-
-        学习概况介绍: 上课时间与地点，学分和绩点， 免修缓考补考，成绩单与成绩档案，自习地点与图书馆等
-      - 奖学金介绍
 
   - tag: ul
     heading: 8/1 知乎
@@ -114,3 +98,21 @@ content:
     type: tip
     text:
       - 欢迎各位新生与新生家长有可参与直播并互动。在校生与在校生家长如有需求也可参与答疑互动提问。
+
+  - tag: title
+    text: 直播历史
+
+  - tag: ul
+    heading: 7/30 知乎
+    text:
+      - 需带物品清单
+      - 具体包括校园生活中需要用到哪些物品？到校前需要准备哪些行李？这些东西哪些建议网购哪些建议携带哪些建议校内购买？东北冬季御寒衣物该如何选择？如何跟据自己的专业与需求选购合适的笔记本电脑？
+
+  - tag: ul
+    heading: 7/31 B站
+    text:
+      - 东师课程设置
+      - 具体包括东师设置哪些课程类别？大学都要上哪些课程？如何参考人才培养计划与课程表？如何进行选课注课以及各种干货要点。
+      - |-
+        学习概况介绍: 上课时间与地点，学分和绩点， 免修缓考补考，成绩单与成绩档案，自习地点与图书馆等
+      - 奖学金介绍

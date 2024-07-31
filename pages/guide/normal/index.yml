@@ -1,7 +1,7 @@
 title: 师范生介绍
 icon: teacher
 author: Mr.Hope
-time: 2024-07-28T06:51:54.468Z
+time: 2024-07-31T04:06:32.842Z
 grey: true
 shareable: true
 content:
@@ -65,13 +65,18 @@ content:
         icon: idea
         path: contract/guide
 
-      - text: 公费师范生协议
+      - text: 本研衔接师范生公费教育协议
         icon: contract
-        path: contract/free
+        path: contract/normal-grad
 
       - text: 优师专项师范生协议
         icon: contract
         path: contract/great
+
+      - text: 公费师范生协议
+        desc: 旧协议 (2023年及以前师范生所执行协议)
+        icon: contract
+        path: contract/free
 
   - tag: list
     header: 师范类专业认证
