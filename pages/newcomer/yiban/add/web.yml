@@ -1,7 +1,7 @@
 title: Web 新生课程添加
 icon: pc
 author: Mr.Hope
-time: 2023-09-23T12:11:49.145Z
+time: 2024-08-01T03:27:09.118Z
 shareable: true
 content:
   - tag: text
@@ -27,10 +27,10 @@ content:
     watermark: true
 
   - tag: text
-    text: 点击添加课群，输入『EYD6CZXC』并点击确定 ↓
+    text: 点击添加课群，输入『F8EP3PU2』并点击确定 ↓
 
   - tag: action
-    content: EYD6CZXC
+    content: F8EP3PU2
 
   - tag: img
     src: $img/yiban/web-add3.jpg
