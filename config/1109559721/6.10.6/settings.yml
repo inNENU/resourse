@@ -5,9 +5,31 @@ main-page:
 
 main-presets:
   guest:
+    - tag: card
+      cover: $img/tab/stream.png
+      title: 经验分享与答疑
+      path: newcomer/activity/streaming
+
+    - tag: card
+      cover: $img/tab/faq.png
+      title: 常见问题
+      path: newcomer/faq/
+
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 高考录取查询
+          name: Admission
+          color: cyan
+          icon: letter
+          url: admission?type=search
+
+        - text: 找到组织
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
+
         - text: 学校概况
           color: red
           name: Description
@@ -120,6 +142,12 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 找到组织
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
+
         - text: 专业介绍
           color: mauve
           name: Major
@@ -269,10 +297,10 @@ main-presets:
 intro-page:
   guest:
     items:
-      # - under-enroll
-      # - grad-enroll
+      - under-enroll
+      - grad-enroll
       - about
-      # - school
+      - school
     more:
       - apartment
 
@@ -293,8 +321,8 @@ guide-page:
       - study
       - enjoy
     more:
-      # - account
-      # - service
+      - account
+      - service
       - tip
       - graduate
 
@@ -306,16 +334,16 @@ guide-page:
       - enjoy
       - tip
     more:
-      # - account
-      # - service
+      - account
+      - service
       - graduate
 
   "2020":
     items:
       - graduate
       - study
-      # - service
-      # - account
+      - service
+      - account
     more:
       - life
       - tip
@@ -324,11 +352,11 @@ guide-page:
 
   default:
     items:
-      # - service
+      - service
       - study
       - life
     more:
-      # - account
+      - account
       - tip
       - enjoy
       - newcomer
@@ -349,6 +377,12 @@ function-presets:
           icon: authorize
           url: account-activate
 
+        - text: 密码重置
+          color: grey
+          name: Reset
+          icon: reset
+          url: account-reset
+
     - tag: grid
       header: 东师风采
       items:
@@ -358,11 +392,62 @@ function-presets:
           icon: map
           url: map
 
+        - text: 音悦东师
+          color: blue
+          name: Music
+          icon: cd
+          url: music
+
+        - text: 影约东师
+          color: mauve
+          name: Media
+          icon: media
+          url: video?type=video
+
         - text: 校园媒体
           color: grey
           name: Accounts
           icon: account
           url: school-media
+
+    - tag: grid
+      header: 学校动态
+      items:
+        - text: 通知公告
+          color: red
+          name: Notice
+          icon: notice
+          url: official-notice-list
+
+        - text: 要闻速递
+          color: cyan
+          name: News
+          icon: news
+          url: official-info-list?type=news
+
+        - text: 媒体师大
+          color: cyan
+          name: Media
+          icon: media
+          url: official-info-list?type=media
+
+        - text: 人文社科
+          color: cyan
+          name: Social
+          icon: marx
+          url: official-info-list?type=social
+
+        - text: 自然科学
+          color: cyan
+          name: Science
+          icon: chemistry
+          url: official-info-list?type=science
+
+        - text: 学术预告
+          color: cyan
+          name: News
+          icon: study
+          url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -527,11 +612,62 @@ function-presets:
           icon: map
           url: map
 
+        - text: 音悦东师
+          color: blue
+          name: Music
+          icon: cd
+          url: music
+
+        - text: 影约东师
+          color: mauve
+          name: Media
+          icon: media
+          url: video?type=video
+
         - text: 校园媒体
           color: grey
           name: Accounts
           icon: account
           url: school-media
+
+    - tag: grid
+      header: 学校动态
+      items:
+        - text: 通知公告
+          color: red
+          name: Notice
+          icon: notice
+          url: official-notice-list
+
+        - text: 要闻速递
+          color: cyan
+          name: News
+          icon: news
+          url: official-info-list?type=news
+
+        - text: 媒体师大
+          color: cyan
+          name: Media
+          icon: media
+          url: official-info-list?type=media
+
+        - text: 人文社科
+          color: cyan
+          name: Social
+          icon: marx
+          url: official-info-list?type=social
+
+        - text: 自然科学
+          color: cyan
+          name: Science
+          icon: chemistry
+          url: official-info-list?type=science
+
+        - text: 学术预告
+          color: cyan
+          name: News
+          icon: study
+          url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -568,6 +704,12 @@ function-presets:
           name: Activate
           icon: authorize
           url: account-activate
+
+        - text: 密码重置
+          color: grey
+          name: Reset
+          icon: reset
+          url: account-reset
 
         - text: 邮箱申请
           color: purple
@@ -615,7 +757,7 @@ user:
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 107 万字。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3000 小时，文字数量超过 107 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
     style: "color: #888; font-size: 14px"
 
   - tag: functional-list
@@ -636,6 +778,13 @@ user:
         type: button
         openType: openGuildProfile
         guildId: "5684461640601496"
+
+      - text: 添加 inNENU 媒体号
+        icon: qq
+        type: button
+        openType: addFriend
+        openId: 41D0ED9AEDD96C611B0E679EF3ED67F9
+        handler: reportInfo
 
       - text: 添加到桌面
         icon: send
@@ -669,6 +818,18 @@ about:
       - text: 致谢名单
         url: info?path=Oabout/thanks
 
+  - tag: functional-list
+    header: 支持小程序
+    items:
+      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
+
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: addFriend
+        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        handler: reportInfo
+
   - tag: text
     heading: 小程序内容
     text:
@@ -687,6 +848,18 @@ about:
 
 service:
   grad-system-login: online
+
+  # 新版统一身份登录存在 Referrer 问题
+  auth-init-info: online
+  init-auth: online
+  auth-login: online
+  auth-captcha: online
+  re-auth: online
+  action-login: online
+  my-login: online
+  under-login: online
+  under-study-login: online
+  # 本科教务系统全部存在 Referrer 问题
   under-study-check: online
   under-commentary: online
   under-grade-detail: online
@@ -698,7 +871,6 @@ service:
   under-select-process: online
   under-select-search: online
   under-select-selected: online
-  forceOnline: true
 
 notice:
   main:
@@ -707,13 +879,7 @@ notice:
 
   account-activate:
     title: 2024级本科生账号暂不可激活
-    content: 由于本科生尚未完成录取，2024年新生统一身份认证账户暂不可激活。根据去年经验，预计开放时间不早于 2024 年 8 月。请耐心等待官方正式通知。
-    # title: 手机验证码
-    # content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
-
-  under-select:
-    title: 公测中
-    content: 新版本科选课系统已初步适配，现面向全体用户发起公测。特别提示：当前选课系统已完整内测阶段，所需功能基本可用，但 Mr.Hope 不保证当前公测版系统没有问题，也不会对公测版系统引发的问题负责。继续使用即代表您已知晓并接受此风险。
+    content: 研究生目前可以激活账户，本科生需等到 8 月 10 日信息录入后方可激活，请耐心等待。
     force: true
 
 update:
