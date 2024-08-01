@@ -11,6 +11,7 @@ site/**/*.md
 !site/README.md
 !site/about/**
 !site/contributing/**
+!site/tool/**
 
 # Vuepress Cache
 **/.vuepress/.cache/**

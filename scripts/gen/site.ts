@@ -15,6 +15,7 @@ deleteSync([
   "!./site/README.md",
   "!./site/about/**",
   "!./site/contributing/**",
+  "!./site/tool/**",
 ]);
 
 // 生成对应的 Markdown
