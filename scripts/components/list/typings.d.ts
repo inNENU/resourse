@@ -120,7 +120,7 @@ export interface PickerListComponentItemOptions<T = any>
    */
   inlay?: boolean;
   /** picker 选择器对应的值 */
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+
   value?: T;
 }
 

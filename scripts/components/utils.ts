@@ -63,7 +63,7 @@ export const getAssetIconLink = (name: string): string =>
 
 export const getIconLink = (icon = ""): string =>
   icon
-    ? icon.match(/^https?:\/\//)
+    ? /^https?:\/\//.exec(icon)
       ? icon
       : icon.startsWith("$")
         ? resolveAlias(icon)

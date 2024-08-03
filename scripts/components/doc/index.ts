@@ -69,7 +69,7 @@ export const getDocMarkdown = (component: DocComponentOptions): string => {
 
   return `
 ${
-  url.match(/\.(pdf|jpe?g|png|bmp|svg)$/)
+  /\.(pdf|jpe?g|png|bmp|svg)$/.exec(url)
     ? `
 <a class="innenu-doc" href="${url}" name="${docName}" target="_blank" rel="noopener noreferrer">
   ${docIcon}

@@ -110,9 +110,9 @@ const createSearchMap = (folder: string): SearchMap => {
           SearchIndexType.Image,
           {
             desc: element.desc,
-            icon: element.src.match(/\.jpe?g$/i)
+            icon: /\.jpe?g$/i.exec(element.src)
               ? "jpg"
-              : element.src.match(/\.png$/i)
+              : /\.png$/i.exec(element.src)
                 ? "png"
                 : "document",
           },

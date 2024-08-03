@@ -35,8 +35,8 @@ export const resolveGrid = (
 
     if (
       gridItem.icon &&
-      !gridItem.icon.match(/^https?:\/\//) &&
-      !gridItem.icon.match(/\./) &&
+      !/^https?:\/\//.exec(gridItem.icon) &&
+      !/\./.exec(gridItem.icon) &&
       !existsSync(`./data/icon/${gridItem.icon}.svg`)
     ) {
       console.warn(`Icon ${gridItem.icon} not exist in ${location}`);

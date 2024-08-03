@@ -29,7 +29,6 @@ export const pushPages = (): Promise<void> => {
           .then((res) => res.json() as Promise<{ access_token: string }>)
           .then((data) =>
             fetch(
-              // eslint-disable-next-line @typescript-eslint/naming-convention
               `https://api.weixin.qq.com/wxa/search/wxaapi_submitpages?access_token=${data.access_token}`,
               { method: "post", body: JSON.stringify({ pages: pageLists }) },
             ),

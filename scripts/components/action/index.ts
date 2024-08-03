@@ -28,7 +28,7 @@ export const getActionMarkdown = (
 ): string => {
   const { content, header } = component;
   const isLink =
-    /^https?:\/\// ??
+    /^https?:\/\//.test(content) ||
     /^(?:(?:25[0-5]|2[0-4]\d|1?\d?\d)\.){3}(?:25[0-5]|2[0-4]\d|1?\d?\d)(?::\d{1,5})?$/.test(
       content,
     );

@@ -83,7 +83,7 @@ export const resolvePageContent = (
  *
  * @returns 处理之后的page
  */
-// eslint-disable-next-line max-lines-per-function
+
 export const resolvePage = (
   page: PageConfig,
   pagePath = "",
@@ -150,8 +150,8 @@ export const resolvePage = (
 
   if (page.icon)
     if (
-      !page.icon.match(/^https?:\/\//) &&
-      !page.icon.match(/\./) &&
+      !/^https?:\/\//.exec(page.icon) &&
+      !/\./.exec(page.icon) &&
       !existsSync(`./data/icon/${page.icon}.svg`)
     ) {
       console.warn(`Icon ${page.icon} not exist in ${pagePath}`);

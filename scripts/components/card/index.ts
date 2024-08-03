@@ -13,8 +13,8 @@ export const resolveCard = (
   if (component.logo) {
     // check icons
     if (
-      !component.logo.match(/^https?:\/\//) &&
-      !component.logo.match(/\./) &&
+      !/^https?:\/\//.exec(component.logo) &&
+      !/\./.exec(component.logo) &&
       !existsSync(`./data/icon/${component.logo}.svg`)
     ) {
       console.warn(`Icon ${component.logo} not exist in ${location}`);
@@ -83,7 +83,7 @@ export const resolveCard = (
 
 export const getCardMarkdown = (component: CardComponentOptions): string => {
   const logo = component.logo
-    ? component.logo.match(/^https?:\/\//)
+    ? /^https?:\/\//.exec(component.logo)
       ? component.logo
       : resolveAlias(component.logo)
     : null;
@@ -129,7 +129,7 @@ ${
 </div>
 `;
 
-  if ("url" in component && component.url.match(/^https?:\/\//))
+  if ("url" in component && /^https?:\/\//.exec(component.url))
     return `\
 <a class="innenu-card" href="${component.url}" target="_blank">
 ${cardChildren}

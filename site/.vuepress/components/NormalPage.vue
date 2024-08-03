@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { computed } from "vue";
+// eslint-disable-next-line import-x/no-unresolved
 import { usePageData } from "vuepress/client";
+// eslint-disable-next-line import-x/no-unresolved
 import HopeNormalPage from "vuepress-theme-hope/components/NormalPage.js";
 
 const page = usePageData();

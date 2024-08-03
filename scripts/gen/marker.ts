@@ -66,7 +66,6 @@ export const resolveMarker = (
 
   categories.forEach((category) => {
     markers[category] = data[category].content.map((marker) =>
-      // eslint-disable-next-line no-plusplus
       genMarker(marker, folder, category, id++),
     );
 

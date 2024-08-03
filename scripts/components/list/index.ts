@@ -21,8 +21,8 @@ export const resolveList = (
   element.items?.forEach((listItem, index) => {
     if (listItem.icon)
       if (
-        !listItem.icon.match(/^https?:\/\//) &&
-        !listItem.icon.match(/\./) &&
+        !/^https?:\/\//.exec(listItem.icon) &&
+        !/\./.exec(listItem.icon) &&
         !existsSync(`./data/icon/${listItem.icon}.svg`)
       ) {
         console.warn(`Icon ${listItem.icon} not exist in ${location}`);

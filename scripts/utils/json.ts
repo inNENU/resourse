@@ -10,7 +10,7 @@ const testJSON = (path: string): Promise<void> =>
       }
       try {
         JSON.parse(content);
-      } catch (err) {
+      } catch {
         throw new Error(`${path} is not a correct JSON file`);
       }
 
