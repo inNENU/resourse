@@ -6,9 +6,13 @@ main-page:
 main-presets:
   guest:
     - tag: card
-      cover: $img/tab/stream.png
-      title: 经验分享与答疑
-      path: newcomer/activity/streaming
+      cover: $img/tab/activate.jpg
+      title: 账号激活
+
+    # - tag: card
+    #   cover: $img/tab/stream.png
+    #   title: 经验分享与答疑
+    #   path: newcomer/activity/streaming
 
     - tag: card
       cover: $img/tab/faq.png
@@ -797,7 +801,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1078642 字，其中东师指南部分 335163 字，新生迎新部分 101709 字，东师介绍部分 338391 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39435 字，其他部分 47867 字。
+      - text: 小程序现有字数为 1078662 字，其中东师指南部分 335163 字，新生迎新部分 101729 字，东师介绍部分 338391 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39435 字，其他部分 47867 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about
@@ -879,7 +883,7 @@ notice:
 
   account-activate:
     title: 2024级新生已启用
-    content: 2024级新生已经可以激活我校统一身份认证账号了，如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公式，电话 0431-85099005。
+    content: 2024级新生已经可以激活我校统一身份认证账号了，如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
     force: true
 
 update:
