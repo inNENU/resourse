@@ -8,6 +8,7 @@ main-presets:
     - tag: card
       cover: $img/tab/activate.jpg
       title: 账号激活
+      url: account-activate
 
     # - tag: card
     #   cover: $img/tab/stream.png
@@ -715,11 +716,11 @@ function-presets:
           icon: reset
           url: account-reset
 
-        - text: 邮箱申请
-          color: purple
-          name: Email
-          icon: email
-          url: email-apply
+        # - text: 邮箱申请
+        #   color: purple
+        #   name: Email
+        #   icon: email
+        #   url: email-apply
 
     - tag: grid
       header: 工具
