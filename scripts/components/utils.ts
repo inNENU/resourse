@@ -32,7 +32,7 @@ export const resolveAlias = (link = "", type = "", location = ""): string => {
 
     if (existsSync(localPath)) return link.replace(/^\$/, `${ASSETS_SERVER}/`);
 
-    console.warn(`${type} ${localPath} not exist in ${location}`);
+    console.error(`${type} ${localPath} not exist in ${location}`);
   }
 
   return link;

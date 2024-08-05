@@ -41,7 +41,7 @@ export const pushPages = (): Promise<void> => {
   );
 
   return Promise.all(promises).then(() => {
-    console.log("All pages are published");
+    console.info("All pages are published");
   });
 };
 

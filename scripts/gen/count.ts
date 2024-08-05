@@ -58,7 +58,7 @@ export const count = (): void => {
     schoolWords
   } 字，其中东师指南部分 ${guideWords} 字，新生迎新部分 ${newcomerWords} 字，东师介绍部分 ${introWords} 字，机构介绍部分 ${apartmentWords} 字，学院介绍部分 ${schoolWords} 字，功能大厅部分 ${functionWords} 字，其他部分 ${otherWords} 字。`;
 
-  console.log(wordsTip);
+  console.info(wordsTip);
 
   getFileList("./config", ".yml").forEach((filePath) => {
     if (/\/(?:about|settings)\.yml$/u.exec(filePath)) {

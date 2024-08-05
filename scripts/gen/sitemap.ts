@@ -44,5 +44,5 @@ export const genSitemap = (): void => {
   writeFileSync("../app/sitemap.json", JSON.stringify(sitemapContent), {
     encoding: "utf-8",
   });
-  console.log("Sitemap generated!");
+  console.info("Sitemap generated!");
 };

@@ -25,7 +25,7 @@ export const resolveList = (
         !/\./.exec(listItem.icon) &&
         !existsSync(`./data/icon/${listItem.icon}.svg`)
       ) {
-        console.warn(`Icon ${listItem.icon} not exist in ${location}`);
+        console.error(`Icon ${listItem.icon} not exist in ${location}`);
       }
       // `$` alias resolve and file check
       else listItem.icon = resolveAlias(listItem.icon, "Image", location);

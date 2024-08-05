@@ -66,7 +66,7 @@ export const resolvePageContent = (
     // 检测表格
     else if (tag === "table") resolveTable(element, position);
     else
-      console.warn(
+      console.error(
         `${pagePath} page.content[${index}] 存在非法 tag ${
           tag as unknown as string
         }`,
@@ -154,7 +154,7 @@ export const resolvePage = (
       !/\./.exec(page.icon) &&
       !existsSync(`./data/icon/${page.icon}.svg`)
     ) {
-      console.warn(`Icon ${page.icon} not exist in ${pagePath}`);
+      console.error(`Icon ${page.icon} not exist in ${pagePath}`);
     }
     // `$` alias resolve and file check
     else page.icon = resolveAlias(page.icon, "Image", pagePath);

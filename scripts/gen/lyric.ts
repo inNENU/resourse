@@ -41,5 +41,5 @@ export const genLyric = (): void => {
       JSON.stringify(lyricConfig),
     );
   });
-  console.log("Generated lyric!");
+  console.info("Generated lyric!");
 };

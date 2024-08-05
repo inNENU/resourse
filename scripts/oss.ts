@@ -97,7 +97,7 @@ const syncOSS = async (): Promise<void> => {
 
   const putFile = async (filePath: string): Promise<void> => {
     try {
-      console.log(`Putting file ${filePath}`);
+      console.debug(`Putting file ${filePath}`);
       const result = await client.put(
         filePath,
         path.normalize(path.join(__dirname, filePath)),
@@ -105,7 +105,7 @@ const syncOSS = async (): Promise<void> => {
       );
 
       if (result.res.status !== 200)
-        console.log(`${filePath} upload failed:`, result.res.status);
+        console.error(`${filePath} upload failed:`, result.res.status);
     } catch (err) {
       console.error(`${filePath} upload failed:`, err);
     }
@@ -118,7 +118,7 @@ const syncOSS = async (): Promise<void> => {
       const result = await client.deleteMulti(filePaths);
 
       if (result.res.status !== 200)
-        console.log(`delete failed:`, result.res.status);
+        console.error(`delete failed:`, result.res.status);
     } catch (err) {
       console.error(`delete failed:`, err);
     }

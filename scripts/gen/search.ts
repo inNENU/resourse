@@ -230,5 +230,5 @@ export const genSearchMap = (): void => {
     }),
   );
 
-  console.log("Search index generated");
+  console.info("Search index generated");
 };

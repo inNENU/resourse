@@ -39,7 +39,7 @@ export const resolveGrid = (
       !/\./.exec(gridItem.icon) &&
       !existsSync(`./data/icon/${gridItem.icon}.svg`)
     ) {
-      console.warn(`Icon ${gridItem.icon} not exist in ${location}`);
+      console.error(`Icon ${gridItem.icon} not exist in ${location}`);
     }
 
     checkKeys(

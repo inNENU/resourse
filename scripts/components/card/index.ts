@@ -17,7 +17,7 @@ export const resolveCard = (
       !/\./.exec(component.logo) &&
       !existsSync(`./data/icon/${component.logo}.svg`)
     ) {
-      console.warn(`Icon ${component.logo} not exist in ${location}`);
+      console.error(`Icon ${component.logo} not exist in ${location}`);
     } else component.logo = resolveAlias(component.logo, "Image", location);
   }
 

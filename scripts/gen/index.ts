@@ -146,4 +146,4 @@ await generateLicense();
 // 生成资源
 generateResource();
 
-console.log("All completed");
+console.info("All completed");
