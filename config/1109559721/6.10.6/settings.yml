@@ -878,6 +878,11 @@ service:
   under-select-selected: online
 
 notice:
+  app:
+    title: 学校服务器下线
+    content: 由于今天本部停电检修，而学校大部分服务器均在本部，因此各系统均无法正常使用。请耐心等待供电恢复。另外由于小程序由个人开发维护，对开发者的辱骂会导致您被小程序开发者拉黑禁止使用小程序，请您特别注意。
+    force: true
+
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 107 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
