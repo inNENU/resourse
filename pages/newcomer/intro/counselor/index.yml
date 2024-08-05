@@ -1,7 +1,7 @@
 title: 辅导员
 icon: teacher
 author: Mr.Hope
-time: 2023-09-23T12:11:49.085Z
+time: 2024-08-05T08:53:15.742Z
 grey: true
 shareable: true
 content:
@@ -14,6 +14,16 @@ content:
       - text: 2023 级辅导员大揭秘
         icon: teacher
         path: "2023"
+        env:
+          - qq
+
+  - tag: card
+    cover: https://mmbiz.qpic.cn/mmbiz_jpg/1LGPufKFDrdWYjcsI2ku82lich9RJa567Mcx9PicslCC4FRwMNpLCKHzliaAX4NQEJP4elHysSZibWqxGiaK71iaL0Gw/0?wx_fmt=jpeg
+    title: 2023级辅导员大揭秘
+    url: https://mp.weixin.qq.com/s/z8G4-EOtJyUx7npBIHtJ4Q
+    env:
+      - wx
+      - app
 
   - tag: list
     header: 相关要求

@@ -1,7 +1,7 @@
 title: QQ 群
 icon: qq-group
 author: Mr.Hope
-time: 2023-09-25T10:16:17.318Z
+time: 2024-08-05T08:53:15.721Z
 grey: true
 shareable: true
 content:
@@ -21,7 +21,7 @@ content:
     items:
       - text: 专业所属学院
         icon: content
-        path: /intro/enroll/under/major/2023
+        path: /intro/enroll/under/major/2024
 
       - text: 学校新生群
         icon: qq-group

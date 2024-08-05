@@ -1,7 +1,7 @@
 title: 净月超市
 icon: shop
 author: Mr.Hope
-time: 2023-09-23T10:52:59.529Z
+time: 2024-08-05T08:53:16.524Z
 shareable: true
 content:
   - tag: list
@@ -13,10 +13,15 @@ content:
   - tag: text
     text: 净月校区的主要超市是京东便利店师大净月店。
 
+  - tag: text
+    type: info
+    heading: 京东超市可能要从 2024 年暑假撤出，更换为天猫。
+
   - tag: list
     header: false
     items:
       - text: 京东便利店师大净月店
+        desc: 暑期可能撤出
         path: jingdong
 
       - text: 二食堂生活区

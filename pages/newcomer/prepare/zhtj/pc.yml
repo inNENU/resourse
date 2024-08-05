@@ -1,7 +1,7 @@
 title: 智慧团建 PC 端操作流程
 icon: pc
 author: Mr.Hope
-time: 2023-09-23T12:11:49.120Z
+time: 2024-08-05T08:53:15.774Z
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
     content: https://zhtj.youth.cn/zhtj/signin
 
   - tag: img
-    src: $img/prepare/youth-login.png
+    src: $img/prepare/youth-login.jpg
     watermark: true
 
   - tag: text

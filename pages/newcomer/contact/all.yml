@@ -1,7 +1,7 @@
 title: 学校新生群
 icon: qq-group
 author: Mr.Hope
-time: 2024-07-17T19:36:42.843Z
+time: 2024-08-05T08:53:15.719Z
 shareable: true
 content:
   - tag: text
@@ -33,7 +33,6 @@ content:
         icon: qq-group
         type: button
         openType: openGroupProfile
-        # FIXME: Update it
         groupId: "970718774"
     env:
       - qq
@@ -54,8 +53,7 @@ content:
         icon: qq-group
         type: button
         openType: openGroupProfile
-        # FIXME: Update it
-        groupId: "594493757"
+        groupId: "769768089"
     env:
       - qq
 

@@ -1,7 +1,7 @@
 title: 本科录取通知书
 icon: letter
 author: Mr.Hope
-time: 2024-08-03T02:24:50.488Z
+time: 2024-08-05T08:53:15.770Z
 shareable: true
 content:
   - tag: title
@@ -68,9 +68,6 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/prepare/under-admission-letter-back.jpg
+    src: $img/prepare/under-admission-gift.jpg
     watermark: true
-
-  - tag: img
-    src: $img/prepare/under-admission-letter-front.jpg
-    watermark: true
+    desc: 录取通知书礼品 (共 4 种颜色)

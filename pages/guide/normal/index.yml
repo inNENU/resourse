@@ -1,7 +1,7 @@
 title: 师范生介绍
 icon: teacher
 author: Mr.Hope
-time: 2024-07-31T04:06:32.842Z
+time: 2024-08-05T08:53:16.446Z
 grey: true
 shareable: true
 content:
@@ -83,15 +83,15 @@ content:
     items:
       - text: 师范类专业认证情况
         icon: verify
-        path: authorize/status
+        path: verify/status
 
       - text: 师范类专业认证解释
         icon: explain
-        path: authorize/explain
+        path: verify/explain
 
       - text: 普通高等学校师范类专业认证实施办法 (暂行)
         icon: rule
-        path: authorize/rule
+        path: verify/rule
 
   - tag: list
     header: 常见问题

@@ -694,3 +694,38 @@ graduate:
       name: Archive
       icon: archive
       path: guide/archive/
+
+normal:
+  icon: teacher
+  name: 师范生
+  path: guide/normal/
+  items:
+    - text: 本硕衔接
+      color: purple
+      name: Normal-grad
+      icon: teacher
+      path: guide/normal/normal-grad/
+
+    - text: 优师专项
+      color: grey
+      name: Great
+      icon: teacher
+      path: guide/normal/great/
+
+    - text: 师范生协议
+      color: red
+      name: Contract
+      icon: contract
+      path: guide/normal/contract/
+
+    - text: 国优计划
+      color: red
+      name: Nation-great
+      icon: rule
+      path: guide/normal/nation-great/
+
+    - text: 专业认证
+      color: red
+      name: Verify
+      icon: verify
+      path: guide/normal/verify/

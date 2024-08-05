@@ -1,7 +1,7 @@
 title: 研究生录取通知书
 icon: letter
 author: Mr.Hope
-time: 2024-07-14T16:30:36.494Z
+time: 2024-08-05T08:53:15.762Z
 shareable: true
 content:
   - tag: title
@@ -19,6 +19,11 @@ content:
   - tag: text
     type: info
     text: 我校研究生录取通知书使用 EMS，速度会很快。
+
+  - tag: img
+    src: $img/prepare/grad-admission-bag.jpg
+    desc: 录取通知书
+    watermark: true
 
   - tag: title
     text: 录取通知书内容
@@ -42,6 +47,20 @@ content:
     text: 录取通知书编号即为学号，是以 2024 开头的十位数字，在通知书右下角。
 
   - tag: img
-    src: $img/prepare/post-admission-letter.jpg
+    src: $img/prepare/grad-admission-letter.jpg
     desc: 录取通知书
+    watermark: true
+
+  - tag: img
+    src: $img/prepare/grad-admission-letter-back.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/prepare/grad-admission-gift1.jpg
+    desc: 本子
+    watermark: true
+
+  - tag: img
+    src: $img/prepare/grad-admission-gift2.jpg
+    desc: 书签
     watermark: true

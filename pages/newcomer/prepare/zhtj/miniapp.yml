@@ -1,7 +1,7 @@
 title: 智慧团建小程序操作流程
 icon: miniapp
 author: Mr.Hope
-time: 2023-09-23T12:11:49.119Z
+time: 2024-08-05T08:53:15.773Z
 shareable: true
 content:
   - tag: title
@@ -76,7 +76,7 @@ content:
       - 在辅导员没有明确要求的情况下，学院选择团支部、没有的选择选择团总支、临时团支部，没有的还找不到的选择 2023 团支部加入。(研究生请选择带有研究生字样的团支部，不带相关字样的应该是本科团支部)
 
   - tag: img
-    src: $img/prepare/youth-miniapp-select.png
+    src: $img/prepare/youth-miniapp-select.jpg
     watermark: true
 
   - tag: text

@@ -2,7 +2,7 @@ title: 本科招生
 icon: enroll
 grey: true
 author: Mr.Hope
-time: 2024-06-26T03:13:21.641Z
+time: 2024-08-05T08:53:15.861Z
 shareable: true
 content:
   - tag: list
@@ -30,14 +30,16 @@ content:
 
       - text: 本科开设专业
         icon: list
-        path: major/2023
+        path: major/2024
 
+  # FIXME: Fix link
   - tag: action
-    header: 2023 本科招生计划
+    header: 2024 本科招生计划
     content: http://bkzsw.nenu.edu.cn/col_000018_000171.html
     env:
       - web
 
+  # FIXME: Fix link
   - tag: action
     header: 历史分数线
     content: http://bkzsw.nenu.edu.cn/col_000018_000170.html
@@ -45,7 +47,7 @@ content:
       - web
 
   - tag: action
-    header: 2023 本科招生指南
+    header: 2024 本科招生指南
     content: https://book.eol.cn/books/ipnj/mobile/index.html
 
   - tag: list
