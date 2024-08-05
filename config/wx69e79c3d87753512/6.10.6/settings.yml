@@ -848,18 +848,19 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  grad-system-login: online
-
+  # old name
+  init-auth: online
+  under-login: online
   # 新版统一身份登录存在 Referrer 问题
   auth-init-info: online
-  init-auth: online
+  auth-init: online
   auth-login: online
   auth-captcha: online
   re-auth: online
   action-login: online
   my-login: online
-  under-login: online
   under-study-login: online
+  under-system-login: online
   # 本科教务系统全部存在 Referrer 问题
   under-study-check: online
   under-commentary: online

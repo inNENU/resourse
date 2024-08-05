@@ -685,18 +685,6 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  grad-system-login: online
-  under-study-check: online
-  under-commentary: online
-  under-grade-detail: online
-  under-grade-list: online
-  under-special-exam: online
-  under-select-category: online
-  under-select-class: online
-  under-select-info: online
-  under-select-process: online
-  under-select-search: online
-  under-select-selected: online
   forceOnline: true
 
 notice:
