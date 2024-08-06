@@ -7,7 +7,7 @@ import { getFileList, getRichTextNodes } from "../utils/index.js";
 
 const markdownIt = new MarkdownIt().use(frontmatterPlugin);
 
-export const generateLicense = (): Promise<void> => {
+export const generateLicense = (): Promise<void[]> => {
   const fileList = getFileList("./config", "md");
 
   const licenseFiles = fileList.filter(
