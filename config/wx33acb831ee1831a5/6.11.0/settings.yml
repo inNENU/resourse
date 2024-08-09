@@ -482,62 +482,11 @@ function-presets:
           icon: map
           url: map
 
-        # - text: 音悦东师
-        #   color: blue
-        #   name: Music
-        #   icon: cd
-        #   url: music
-
-        # - text: 影约东师
-        #   color: mauve
-        #   name: Media
-        #   icon: media
-        #   url: video?type=video
-
         - text: 校园媒体
           color: grey
           name: Accounts
           icon: account
           url: school-media
-
-    # - tag: grid
-    #   header: 学校动态
-    #   items:
-    #     - text: 通知公告
-    #       color: red
-    #       name: Notice
-    #       icon: notice
-    #       url: official-notice-list
-
-    #     - text: 要闻速递
-    #       color: cyan
-    #       name: News
-    #       icon: news
-    #       url: official-info-list?type=news
-
-    #     - text: 媒体师大
-    #       color: cyan
-    #       name: Media
-    #       icon: media
-    #       url: official-info-list?type=media
-
-    #     - text: 人文社科
-    #       color: cyan
-    #       name: Social
-    #       icon: marx
-    #       url: official-info-list?type=social
-
-    #     - text: 自然科学
-    #       color: cyan
-    #       name: Science
-    #       icon: chemistry
-    #       url: official-info-list?type=science
-
-    #     - text: 学术预告
-    #       color: cyan
-    #       name: News
-    #       icon: study
-    #       url: official-academic-list
 
     - tag: grid
       header: 信息查询
@@ -648,9 +597,6 @@ about:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
       - text: 小程序现有字数为 1080171 字，其中东师指南部分 335216 字，新生迎新部分 102295 字，东师介绍部分 339466 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39496 字，其他部分 47621 字。
-
-      # - text: Hope Studio 介绍
-      #   url: info?path=Ohope-studio/about
 
       - text: Mr.Hope 个人介绍
         url: info?path=Oabout/mrhope
