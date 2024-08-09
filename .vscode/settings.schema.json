@@ -116,6 +116,15 @@
           "$ref": "#/$defs/service-status"
         },
 
+        "auth-center-login": {
+          "description": "认证中心登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-center-check": {
+          "description": "认证中心检查",
+          "$ref": "#/$defs/service-status"
+        },
+
         "official-academic-list": {
           "description": "学术预告列表",
           "$ref": "#/$defs/service-status"

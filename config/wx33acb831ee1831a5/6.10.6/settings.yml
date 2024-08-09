@@ -852,6 +852,7 @@ service:
   auth-captcha: online
   re-auth: online
   action-login: online
+  auth-center-login: online
   my-login: online
   under-study-login: online
   under-system-login: online
