@@ -763,12 +763,7 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  grad-system-login: online
-  under-commentary: online
-  under-grade-detail: online
-  under-grade-list: online
-  under-special-exam: online
-  under-select: online
+  forceOnline: true
 
 notice:
   main:
