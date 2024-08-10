@@ -38,6 +38,7 @@ export const genDonate = (data: Donate, filePath: string): PageData => {
     desc: "该页面为手动更新，会出现延迟",
     author: "Mr.Hope",
     id: `other/donate/${baseName}`,
+    icon: "donate",
     content: [
       {
         tag: "text",
