@@ -1,0 +1,152 @@
+action:
+  tag: grid
+  header: 融合门户
+  items:
+    - text: 学校通知
+      color: red
+      name: Notice
+      icon: notice
+      url: notice-list
+
+    - text: 学校新闻
+      color: cyan
+      name: News
+      icon: news
+      url: notice-list?type=news
+
+    - text: 图书馆
+      color: purple
+      name: Library
+      icon: library
+      url: library
+
+official:
+  tag: grid
+  header: 学校动态
+  items:
+    - text: 通知公告
+      color: red
+      name: Notice
+      icon: notice
+      url: official-notice-list
+
+    - text: 要闻速递
+      color: cyan
+      name: News
+      icon: news
+      url: official-info-list?type=news
+
+    - text: 媒体师大
+      color: cyan
+      name: Media
+      icon: media
+      url: official-info-list?type=media
+
+    - text: 人文社科
+      color: cyan
+      name: Social
+      icon: marx
+      url: official-info-list?type=social
+
+    - text: 自然科学
+      color: cyan
+      name: Science
+      icon: chemistry
+      url: official-info-list?type=science
+
+    - text: 学术预告
+      color: cyan
+      name: News
+      icon: study
+      url: official-academic-list
+
+media:
+  tag: grid
+  header: 东师风采
+  items:
+    - text: 校园地图
+      color: orange
+      name: Map
+      icon: map
+      url: map
+
+    - text: 音悦东师
+      color: blue
+      name: Music
+      icon: cd
+      url: music
+
+    - text: 影约东师
+      color: mauve
+      name: Media
+      icon: media
+      url: video?type=video
+
+    - text: 校园媒体
+      color: grey
+      name: Accounts
+      icon: account
+      url: school-media
+
+info:
+  tag: grid
+  header: 信息查询
+  items:
+    - calendar
+    - under-major-plan
+    - website
+    - phone
+    - calendar-history
+
+tool:
+  tag: grid
+  header: 工具
+  items:
+    - pe-calculator
+    - weather
+
+grad-enroll:
+  tag: grid
+  header: 研究生招生
+  items:
+    - text: 招生简章
+      name: Rule
+      color: blue
+      icon: rule
+      path: intro/enroll/grad/rule/
+
+    - text: 招生计划
+      name: Plan
+      color: orange
+      icon: enroll
+      url: grad-enroll-plan
+
+    - text: 推免计划
+      name: Recommend plan
+      color: purple
+      icon: time
+      url: grad-enroll-plan?recommend=true
+
+under-enroll:
+  tag: grid
+  header: 本科招生
+  items:
+    - admission
+
+    - text: 招生简章
+      name: Rule
+      color: blue
+      icon: rule
+      path: intro/enroll/under/rule/
+
+    - text: 招生计划
+      name: Plan
+      color: orange
+      icon: enroll
+      url: under-enroll-plan
+
+    - text: 历史分数
+      name: History grade
+      color: purple
+      icon: time
+      url: under-enroll-score

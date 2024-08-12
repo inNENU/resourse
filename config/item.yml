@@ -1,0 +1,61 @@
+# enroll
+
+admission:
+  text: 高考录取查询
+  name: Admission
+  color: cyan
+  icon: letter
+  url: admission?type=search
+
+# info
+
+calendar:
+  text: 校历
+  color: olive
+  name: Calendar
+  icon: calendar
+  url: calendar
+
+calendar-history:
+  text: 校史
+  color: blue
+  name: History
+  icon: history
+  url: calendar-history
+
+phone:
+  text: 师大黄页
+  color: purple
+  name: Contact
+  icon: phone
+  url: phone
+
+under-major-plan:
+  text: 本科人才培养计划
+  color: grey
+  name: Cultivate
+  icon: rule
+  url: under-major-plan
+
+website:
+  text: 东师网站
+  color: orange
+  name: Websites
+  icon: network
+  url: website
+
+# Tool
+
+pe-calculator:
+  text: 体测计算器
+  color: olive
+  name: PE Calculator
+  icon: calculate
+  url: pe-calculator
+
+weather:
+  text: 东师天气
+  color: purple
+  name: Weather
+  icon: sun
+  url: weather

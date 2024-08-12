@@ -23,18 +23,6 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
-        - text: 高考录取查询
-          name: Admission
-          color: cyan
-          icon: letter
-          url: admission?type=search
-
-        - text: 找到组织
-          color: olive
-          name: Contact
-          icon: qq-group
-          path: newcomer/contact/
-
         - text: 学校概况
           color: red
           name: Description
@@ -147,12 +135,6 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
-        - text: 找到组织
-          color: olive
-          name: Contact
-          icon: qq-group
-          path: newcomer/contact/
-
         - text: 专业介绍
           color: mauve
           name: Major
@@ -325,7 +307,7 @@ guide-page:
       - life
       - study
       - enjoy
-      - teacher
+      - normal
     more:
       - account
       - service
@@ -337,7 +319,7 @@ guide-page:
       - newcomer
       - life
       - study
-      - teacher
+      - normal
       - enjoy
       - service
       - account
@@ -364,7 +346,7 @@ guide-page:
       - life
       - account
     more:
-      - teacher
+      - normal
       - tip
       - enjoy
       - newcomer
@@ -391,161 +373,17 @@ function-presets:
         #   icon: reset
         #   url: account-reset
 
-    - tag: grid
-      header: 东师风采
-      items:
-        - text: 校园地图
-          color: orange
-          name: Map
-          icon: map
-          url: map
+    - media
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+    - official
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
+    - info
 
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
+    - tool
 
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: official-notice-list
+    - under-enroll
 
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: official-info-list?type=news
-
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: official-info-list?type=media
-
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: marx
-          url: official-info-list?type=social
-
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: official-info-list?type=science
-
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: official-academic-list
-
-    - tag: grid
-      header: 信息查询
-      items:
-        - text: 校历
-          color: olive
-          name: Calendar
-          icon: calendar
-          url: calendar
-
-        - text: 本科人才培养计划
-          color: grey
-          name: Cultivate
-          icon: rule
-          url: under-major-plan
-
-        - text: 校史
-          color: blue
-          name: History
-          icon: history
-          url: calendar-history
-
-        - text: 东师网站
-          color: orange
-          name: Websites
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          color: purple
-          name: Contact
-          icon: phone
-          url: phone
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          color: olive
-          name: PE Calculator
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          color: purple
-          name: Weather
-          icon: sun
-          url: weather
-
-    - tag: grid
-      header: 本科招生
-      items:
-        - text: 招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        - text: 招生计划
-          name: Plan
-          color: orange
-          icon: enroll
-          url: under-enroll-plan
-
-        - text: 历史分数
-          name: History grade
-          color: purple
-          icon: time
-          url: under-enroll-score
-
-    - tag: grid
-      header: 研究生招生
-      items:
-        - text: 招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/grad/rule/
-
-        - text: 招生计划
-          name: Plan
-          color: orange
-          icon: enroll
-          url: grad-enroll-plan
-
-        - text: 推免计划
-          name: Recommend plan
-          color: purple
-          icon: time
-          url: grad-enroll-plan?recommend=true
+    - grad-enroll
 
     - tag: list
       items:
@@ -554,26 +392,7 @@ function-presets:
       footer: " "
 
   at-school:
-    - tag: grid
-      header: 融合门户
-      items:
-        - text: 学校通知
-          color: red
-          name: Notice
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          color: cyan
-          name: News
-          icon: news
-          url: notice-list?type=news
-
-        - text: 图书馆
-          color: purple
-          name: Library
-          icon: library
-          url: library
+    - action
 
     - tag: grid
       header: 教务系统
@@ -632,110 +451,11 @@ function-presets:
           icon: heart
           url: under-commentary
 
-    - tag: grid
-      header: 东师风采
-      items:
-        - text: 校园地图
-          color: orange
-          name: Map
-          icon: map
-          url: map
+    - media
 
-        - text: 音悦东师
-          color: blue
-          name: Music
-          icon: cd
-          url: music
+    - official
 
-        - text: 影约东师
-          color: mauve
-          name: Media
-          icon: media
-          url: video?type=video
-
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
-
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          color: red
-          name: Notice
-          icon: notice
-          url: official-notice-list
-
-        - text: 要闻速递
-          color: cyan
-          name: News
-          icon: news
-          url: official-info-list?type=news
-
-        - text: 媒体师大
-          color: cyan
-          name: Media
-          icon: media
-          url: official-info-list?type=media
-
-        - text: 人文社科
-          color: cyan
-          name: Social
-          icon: marx
-          url: official-info-list?type=social
-
-        - text: 自然科学
-          color: cyan
-          name: Science
-          icon: chemistry
-          url: official-info-list?type=science
-
-        - text: 学术预告
-          color: cyan
-          name: News
-          icon: study
-          url: official-academic-list
-
-    - tag: grid
-      header: 信息查询
-      items:
-        - text: 校园邮箱邮件
-          color: purple
-          name: Email
-          icon: email
-          url: email-recent
-
-        - text: 校历
-          color: olive
-          name: Calendar
-          icon: calendar
-          url: calendar
-
-        - text: 本科人才培养计划
-          color: grey
-          name: Cultivate
-          icon: rule
-          url: under-major-plan
-
-        - text: 东师网站
-          color: orange
-          name: Websites
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          color: purple
-          name: Contact
-          icon: phone
-          url: phone
-
-        - text: 校史
-          color: blue
-          name: History
-          icon: history
-          url: calendar-history
+    - info
 
     - tag: grid
       header: 账号相关
@@ -745,6 +465,12 @@ function-presets:
           name: Activate
           icon: authorize
           url: account-activate
+
+        - text: 校园邮箱邮件
+          color: purple
+          name: Email
+          icon: email
+          url: email-recent
 
         # - text: 密码重置
         #   color: grey
@@ -758,64 +484,11 @@ function-presets:
         #   icon: email
         #   url: email-apply
 
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          color: olive
-          name: PE Calculator
-          icon: calculate
-          url: pe-calculator
+    - tool
 
-        - text: 东师天气
-          color: purple
-          name: Weather
-          icon: sun
-          url: weather
+    - under-enroll
 
-    - tag: grid
-      header: 本科招生
-      items:
-        - text: 招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        - text: 招生计划
-          name: Plan
-          color: orange
-          icon: enroll
-          url: under-enroll-plan
-
-        - text: 历史分数
-          name: History grade
-          color: purple
-          icon: time
-          url: under-enroll-score
-
-    - tag: grid
-      header: 研究生招生
-      items:
-        - text: 招生简章
-          name: Rule
-          color: blue
-          icon: rule
-          path: intro/enroll/grad/rule/
-
-        - text: 招生计划
-          name: Plan
-          color: orange
-          icon: enroll
-          url: grad-enroll-plan
-
-        - text: 推免计划
-          name: Recommend plan
-          color: purple
-          icon: time
-          url: grad-enroll-plan?recommend=true
-
-      footer: " "
+    - grad-enroll
 
 user:
   - tag: list

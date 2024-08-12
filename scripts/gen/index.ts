@@ -19,8 +19,9 @@ import type { PEConfig } from "./peScore.js";
 import { genPEScore } from "./peScore.js";
 import { generateResource } from "./resource.js";
 // import { genSearchMap } from "./search.js";
-import { resolvePage, resolvePageContent } from "../components/page.js";
-import type { ComponentOptions, PageConfig } from "../components/typings.js";
+import { generateSettings } from "./settings.js";
+import { resolvePage } from "../components/page.js";
+import type { PageConfig } from "../components/typings.js";
 import { convertYml2Json } from "../utils/index.js";
 
 // 删除旧的文件
@@ -100,43 +101,9 @@ convertYml2Json("./pages/other/guide", "./d/other/guide", (data, filePath) =>
 
 // 生成 tab 页
 convertYml2Json("./config", "./d/config", (data, filePath) => {
-  if (/settings/u.exec(filePath)) {
-    const {
-      "main-presets": mainPresets,
-      "function-presets": functionPresets,
-      about,
-      ...rest
-    } = data as Record<string, unknown> & {
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      "main-presets": Record<string, ComponentOptions[]>;
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      "function-presets": Record<string, ComponentOptions[]>;
-      about: ComponentOptions[];
-    };
+  if (/item$/u.exec(filePath) || /group$/u.exec(filePath)) return null;
 
-    return {
-      ...rest,
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      "main-presets": Object.fromEntries(
-        Object.entries(mainPresets).map(([key, value]) => [
-          key,
-          resolvePageContent(value, `settings.main-presets.${key}`, "pages"),
-        ]),
-      ),
-      // eslint-disable-next-line @typescript-eslint/naming-convention
-      "function-presets": Object.fromEntries(
-        Object.entries(functionPresets).map(([key, value]) => [
-          key,
-          resolvePageContent(
-            value,
-            `settings.function-presets.${key}`,
-            "pages",
-          ),
-        ]),
-      ),
-      about: resolvePageContent(about, "settings.about", "pages"),
-    };
-  }
+  if (/settings$/u.exec(filePath)) return generateSettings(data);
 
   return data as unknown;
 });
