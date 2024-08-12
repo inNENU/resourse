@@ -1,7 +1,7 @@
 title: 校园邮箱
 icon: about
 author: Mr.Hope
-time: 2023-09-22T16:59:13.259Z
+time: 2024-08-12T11:22:50.003Z
 shareable: true
 content:
   - tag: title
@@ -15,16 +15,11 @@ content:
   - tag: title
     text: 邮箱账号
 
-  - tag: list
-    header: false
-    items:
-      - text: 对于 2021 级及之前的同学，邮箱账号是系统自动分配的。
-      - text: 获取账号
-        path: get
+  - tag: text
+    text: 学生可在命名规则的限制下，自行申请邮箱。
 
   - tag: list
     items:
-      - text: 对于 2022 级及之后的同学，邮箱账号是自行申请的。
       - text: 申请邮箱
         path: apply
 
@@ -33,10 +28,8 @@ content:
 
   - tag: ul
     type: info
-    heading: 邮箱默认密码
     text:
-      - 2022 级及之后，系统会随机生成一个邮箱密码。
-      - 2021 级及之前，默认密码为 Nenu + 身份证后六位，X 用 1 代替
+      - 系统会随机生成一个邮箱初始密码。使用初始密码首次登录邮箱后，需绑定密保手机并重新设置密码。
 
   - tag: text
     type: warning

@@ -1,7 +1,7 @@
 title: 大学生活简介
 icon: about
 author: Mr.Hope
-time: 2024-08-05T08:53:15.736Z
+time: 2024-08-12T11:22:49.295Z
 grey: true
 shareable: true
 content:
@@ -19,15 +19,16 @@ content:
         icon: intro
         path: counselor/intro
 
-      - text: 2023 级辅导员大揭秘
+      - text: 2024 级辅导员大揭秘
         icon: teacher
-        path: counselor/2023
+        path: counselor/2024
         env:
           - qq
+
   - tag: card
-    cover: https://mmbiz.qpic.cn/mmbiz_jpg/1LGPufKFDrdWYjcsI2ku82lich9RJa567Mcx9PicslCC4FRwMNpLCKHzliaAX4NQEJP4elHysSZibWqxGiaK71iaL0Gw/0?wx_fmt=jpeg
-    title: 2023级辅导员大揭秘
-    url: https://mp.weixin.qq.com/s/z8G4-EOtJyUx7npBIHtJ4Q
+    cover: https://mmbiz.qpic.cn/mmbiz_jpg/1LGPufKFDreYSmIlc6yiavJq899WcZw7C4t9j21Y8cxM0n20FXSSGG3CODoqZejfRLJ9IbHnrP2rTPibLoxYwm3A/0?wx_fmt=jpeg
+    title: 2024级辅导员大揭秘
+    url: https://mp.weixin.qq.com/s/qZtZmwkGrhMX9i5nzYhV9Q
     env:
       - wx
       - app

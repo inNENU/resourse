@@ -1,7 +1,7 @@
 title: 校园卡介绍
 icon: card
 author: Mr.Hope
-time: 2023-09-22T16:59:13.421Z
+time: 2024-08-12T11:22:50.232Z
 shareable: true
 content:
   - tag: title
@@ -27,7 +27,7 @@ content:
   - tag: ul
     heading: 生活
     text:
-      - 学校门禁
+      - 校园门禁
       - 食堂消费
       - 生活用水
       - 饮用水
@@ -37,12 +37,14 @@ content:
   - tag: ul
     heading: 学习
     text:
-      - 图书超期罚款
-      - 图书馆电子阅览室的图书借阅
+      - 考勤
       - 图书馆门禁
       - 期中期末考试身份认证
       - 计算机等级考试身份认证
       - 英语四六级考试身份认证
+      - 图书超期罚款
+      - 图书馆电子阅览室的图书借阅
+      - 体能测试
 
   - tag: title
     text: 微信校园卡 (电子卡)

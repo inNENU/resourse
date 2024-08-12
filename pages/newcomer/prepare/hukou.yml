@@ -1,11 +1,16 @@
 title: 户口迁移
 icon: hukou
 author: Mr.Hope
-time: 2023-09-23T12:11:49.105Z
+time: 2024-08-12T11:22:49.348Z
 cite:
   - https://m.nenu.edu.cn/page/viewNews?ID=0d08b61df46c4156a37e9a2712fc9a9e
 shareable: true
 content:
+  # TODO: Update
+  - tag: text
+    type: tip
+    heading: 2024年公告暂未发布。
+
   - tag: title
     text: 概况介绍
 
