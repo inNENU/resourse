@@ -325,6 +325,7 @@ guide-page:
       - life
       - study
       - enjoy
+      - teacher
     more:
       - account
       - service
@@ -336,11 +337,12 @@ guide-page:
       - newcomer
       - life
       - study
+      - teacher
       - enjoy
+      - service
+      - account
       - tip
     more:
-      - account
-      - service
       - graduate
 
   "2020":
@@ -360,8 +362,9 @@ guide-page:
       - service
       - study
       - life
-    more:
       - account
+    more:
+      - teacher
       - tip
       - enjoy
       - newcomer

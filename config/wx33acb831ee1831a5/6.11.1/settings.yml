@@ -181,14 +181,14 @@ intro-page:
     items:
       # - under-enroll
       # - grad-enroll
-      - about
+      # - about
       # - school
-    more:
       - apartment
+    more: []
 
   default:
     items:
-      - about
+      # - about
       # - school
       - apartment
     more:
