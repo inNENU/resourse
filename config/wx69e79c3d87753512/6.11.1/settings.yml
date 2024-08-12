@@ -6,14 +6,19 @@ main-page:
 main-presets:
   guest:
     - tag: card
-      cover: $img/tab/stream.png
-      title: 经验分享与答疑
-      path: newcomer/activity/streaming
+      cover: $img/tab/activate.jpg
+      title: 账号激活
+      url: account-activate
 
     - tag: card
       cover: $img/tab/faq.png
       title: 常见问题
       path: newcomer/faq/
+
+    # - tag: card
+    #   cover: $img/tab/stream.png
+    #   title: 经验分享与答疑
+    #   path: newcomer/activity/streaming
 
     - tag: grid
       header: 您可能想关注
@@ -320,6 +325,7 @@ guide-page:
       - life
       - study
       - enjoy
+      - teacher
     more:
       - account
       - service
@@ -331,11 +337,12 @@ guide-page:
       - newcomer
       - life
       - study
+      - teacher
       - enjoy
+      - service
+      - account
       - tip
     more:
-      - account
-      - service
       - graduate
 
   "2020":
@@ -355,8 +362,9 @@ guide-page:
       - service
       - study
       - life
-    more:
       - account
+    more:
+      - teacher
       - tip
       - enjoy
       - newcomer
@@ -377,11 +385,11 @@ function-presets:
           icon: authorize
           url: account-activate
 
-        - text: 密码重置
-          color: grey
-          name: Reset
-          icon: reset
-          url: account-reset
+        # - text: 密码重置
+        #   color: grey
+        #   name: Reset
+        #   icon: reset
+        #   url: account-reset
 
     - tag: grid
       header: 东师风采
@@ -517,6 +525,27 @@ function-presets:
           color: purple
           icon: time
           url: under-enroll-score
+
+    - tag: grid
+      header: 研究生招生
+      items:
+        - text: 招生简章
+          name: Rule
+          color: blue
+          icon: rule
+          path: intro/enroll/grad/rule/
+
+        - text: 招生计划
+          name: Plan
+          color: orange
+          icon: enroll
+          url: grad-enroll-plan
+
+        - text: 推免计划
+          name: Recommend plan
+          color: purple
+          icon: time
+          url: grad-enroll-plan?recommend=true
 
     - tag: list
       items:
@@ -684,11 +713,11 @@ function-presets:
           icon: calendar
           url: calendar
 
-        - text: 校外服务
-          color: red
-          name: Service
-          icon: contact
-          url: info?path=/other/action/out
+        - text: 本科人才培养计划
+          color: grey
+          name: Cultivate
+          icon: rule
+          url: under-major-plan
 
         - text: 东师网站
           color: orange
@@ -702,6 +731,18 @@ function-presets:
           icon: phone
           url: phone
 
+        - text: 校史
+          color: blue
+          name: History
+          icon: history
+          url: calendar-history
+
+        - text: 校外服务
+          color: red
+          name: Service
+          icon: contact
+          url: info?path=/other/action/out
+
     - tag: grid
       header: 账号相关
       items:
@@ -711,17 +752,17 @@ function-presets:
           icon: authorize
           url: account-activate
 
-        - text: 密码重置
-          color: grey
-          name: Reset
-          icon: reset
-          url: account-reset
+        # - text: 密码重置
+        #   color: grey
+        #   name: Reset
+        #   icon: reset
+        #   url: account-reset
 
-        - text: 邮箱申请
-          color: purple
-          name: Email
-          icon: email
-          url: email-apply
+        # - text: 邮箱申请
+        #   color: purple
+        #   name: Email
+        #   icon: email
+        #   url: email-apply
 
     - tag: grid
       header: 管理系统
@@ -765,6 +806,48 @@ function-presets:
           icon: sun
           url: weather
 
+    - tag: grid
+      header: 本科招生
+      items:
+        - text: 招生简章
+          name: Rule
+          color: blue
+          icon: rule
+          path: intro/enroll/under/rule/
+
+        - text: 招生计划
+          name: Plan
+          color: orange
+          icon: enroll
+          url: under-enroll-plan
+
+        - text: 历史分数
+          name: History grade
+          color: purple
+          icon: time
+          url: under-enroll-score
+
+    - tag: grid
+      header: 研究生招生
+      items:
+        - text: 招生简章
+          name: Rule
+          color: blue
+          icon: rule
+          path: intro/enroll/grad/rule/
+
+        - text: 招生计划
+          name: Plan
+          color: orange
+          icon: enroll
+          url: grad-enroll-plan
+
+        - text: 推免计划
+          name: Recommend plan
+          color: purple
+          icon: time
+          url: grad-enroll-plan?recommend=true
+
       footer: " "
 
 user:
@@ -786,7 +869,7 @@ user:
         icon: about
         url: about
 
-  - tag: text
+  - tag: p
     heading: " "
     text:
       - 如果看过 App 后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
@@ -853,9 +936,9 @@ service:
   auth-init: online
   auth-login: online
   auth-captcha: online
-  auth-center-login: online
   re-auth: online
   action-login: online
+  auth-center-login: online
   my-login: online
   under-study-login: online
   under-system-login: online
@@ -876,6 +959,11 @@ notice:
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
+
+  account-activate:
+    title: 提示
+    content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
+    force: true
 
 update:
   force: false
