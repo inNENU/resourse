@@ -766,11 +766,6 @@ service:
   forceOnline: true
 
 notice:
-  app:
-    title: 暂无法登录
-    content: 由于学校系统发生了一些调整，目前暂无法通过小程序完成登录。Mr.Hope 正在积极和学校信息化办公室进行对接完成修复，请您耐心等待。
-    force: true
-
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
