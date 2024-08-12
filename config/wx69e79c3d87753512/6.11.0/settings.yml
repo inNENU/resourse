@@ -877,11 +877,6 @@ notice:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
 
-  account-activate:
-    title: 2024级本科生账号暂不可激活
-    content: 研究生目前可以激活账户，本科生需等到 8 月 10 日信息录入后方可激活，请耐心等待。
-    force: true
-
 update:
   force: false
   reset: false
