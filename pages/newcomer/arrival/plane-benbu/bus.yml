@@ -1,7 +1,7 @@
 title: 坐飞机-到本部-巴士
 icon: bus
 author: Mr.Hope
-time: 2023-09-23T12:11:48.980Z
+time: 2024-08-15T17:31:26.900Z
 shareable: true
 content:
   - tag: text
@@ -68,6 +68,6 @@ content:
       - 继续行进即可在右手边 (南侧) 看到学校东北门。
       # - 请您下车后，找到附近的斑马线横过马路即可到达学校西门
 
-  # - tag: text
-  #   type: warning
-  #   text: 人民大街是长春市的主干道，车很多。请务必遵守交通规则，通过斑马线横穿马路。
+  - tag: text
+    type: warning
+    text: 人民大街是长春市的主干道，车很多。请务必遵守交通规则，通过斑马线横穿马路。

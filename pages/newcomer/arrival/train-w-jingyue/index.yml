@@ -1,7 +1,7 @@
 title: 长春西站-到净月
 icon: railway
 author: Mr.Hope
-time: 2024-08-15T16:53:50.193Z
+time: 2024-08-15T17:31:26.926Z
 shareable: true
 content:
   - tag: title
@@ -45,7 +45,7 @@ content:
   - tag: text
     type: tip
     heading: 轨道交通换乘
-    text: 如果您行李较少，轨道交通是最便捷最快的的方式。票价 5 元。
+    text: 如果您行李较少，轨道交通是最便捷最快的方式。票价 5 元。
     path: railway
 
   - tag: text

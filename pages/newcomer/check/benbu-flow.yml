@@ -1,7 +1,7 @@
 title: 本部报到流程
 icon: flow
 author: Mr.Hope
-time: 2024-08-15T16:53:50.200Z
+time: 2024-08-15T17:31:26.932Z
 shareable: true
 content:
   - tag: text
@@ -58,6 +58,9 @@ content:
     style:
       font-weight: "500"
       font-size: 20px
+
+  - tag: title
+    text: 报到处报到
 
   - tag: text
     text:

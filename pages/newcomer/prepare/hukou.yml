@@ -1,16 +1,11 @@
 title: 户口迁移
 icon: hukou
 author: Mr.Hope
-time: 2024-08-12T11:22:49.348Z
+time: 2024-08-15T17:31:26.998Z
 cite:
-  - https://m.nenu.edu.cn/page/viewNews?ID=0d08b61df46c4156a37e9a2712fc9a9e
+  - https://m.nenu.edu.cn/page/viewNews?ID=9a5ec3d39b5d4a429b4ea04a42ac8433
 shareable: true
 content:
-  # TODO: Update
-  - tag: text
-    type: tip
-    heading: 2024年公告暂未发布。
-
   - tag: title
     text: 概况介绍
 
@@ -34,21 +29,21 @@ content:
     items:
       - text: 关于新生户籍办理工作的通知
         icon: notice
-        url: notice-detail?id=29d7ce27f95d4d13a218239a83e93c19&title=关于新生户籍办理工作的通知
+        url: notice-detail?id=9a5ec3d39b5d4a429b4ea04a42ac8433&title=关于新生户籍办理工作的通知
 
   - tag: title
     text: 本科新生落户流程
 
   # TODO: Update
   - tag: text
-    text: 新生需要落户的，由辅导员统一收取学生落户相关材料， 2023 年 9 月 8 日前填写《本科新生落户名单》一并交到校区保卫处户籍办公室。
+    text: 新生需要落户的，由辅导员统一收取学生落户相关材料， 2024 年 9 月 8 日前填写《本科新生落户名单》一并交到校区保卫处户籍办公室。
 
   - tag: ol
     type: info
     heading: 省外学生所需材料
     text:
+      - 《户口迁移证》原件
       - 《录取通知书》复印件
-      - 《户口迁移证》
       - 二代居民身份证复印件
 
   - tag: ol
@@ -65,7 +60,7 @@ content:
   # TODO: Update
   - tag: text
     text:
-      - 学生报到当天设置服务台接待户口办理落户事宜；入学当天未办理落户手续的研究生，可于 2023 年 9 月 8 日前凭《户口迁移证》《录取通知书》原件及《录取通知书》、二代居民身份证复印件到校区保卫处户籍办公室办理；我校本升研且户口已在校的，请于 2023 年 9 月 8 日前凭《录取通知书》到校区保卫处户籍办公室办理。
+      - 学生报到当天设置服务台接待户口办理落户事宜；入学当天未办理落户手续的研究生，可于 2024 年 9 月 8 日前凭《户口迁移证》《录取通知书》原件及《录取通知书》、二代居民身份证复印件到校区保卫处户籍办公室办理；我校本升研且户口已在校的，请于 2024 年 9 月 8 日前凭《录取通知书》到校区保卫处户籍办公室办理。
 
   - tag: title
     text: 注意事项
@@ -106,7 +101,8 @@ content:
     header: 净月咨询电话
     fName: 王妮娜
     remark: 净月校区户口迁移咨询
-    num: 0431-84536111
+    num: 0431-84536112
+    homeNum: 13944099040
     org: 东北师范大学
     street: 吉林省长春市净月大街 2555 号
     postCode: 130024
