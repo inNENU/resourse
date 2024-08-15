@@ -6,7 +6,7 @@ desc: |-
   替换条件:
   · 群内已有东师该省份学生不少于 50
   · 群主已失联且活跃的管理员两人以下 / 替换的群活跃人数大于原群 (任选其一)
-time: 2024-07-23T18:53:08.032Z
+time: 2024-08-15T13:41:36.942Z
 shareable: true
 content:
   - tag: title
@@ -150,12 +150,6 @@ content:
     content: "340128156"
 
   - tag: text
-    text: 福建
-
-  - tag: action
-    content: "107092900"
-
-  - tag: text
     text: 重庆市
 
   - tag: action
@@ -202,3 +196,11 @@ content:
 
   - tag: action
     content: "577264612"
+
+  # TODO: 组建新的老乡群
+  # NOTE: 不允许我入群
+  # - tag: text
+  #   text: 福建
+
+  # - tag: action
+  #   content: "107092900"
