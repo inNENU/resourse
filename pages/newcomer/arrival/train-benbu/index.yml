@@ -1,7 +1,7 @@
 title: 长春站-到本部
 icon: railway
 author: Mr.Hope
-time: 2024-08-15T16:53:50.168Z
+time: 2024-08-15T17:15:05.777Z
 shareable: true
 content:
   - tag: title
@@ -52,8 +52,7 @@ content:
     type: danger
     heading: 公交 (不建议)
     text:
-      - 乘坐公交比较麻烦，而且很大概率没有座，路途花费的时间也更长。
-      - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交!
+      - 公交和地铁是同等价位的，只慢不快还折腾! 不要坐公交!
     path: bus
 
   - tag: title
