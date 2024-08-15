@@ -5,195 +5,70 @@ main-page:
 
 main-presets:
   guest:
-    - tag: card
-      cover: $img/tab/activate.jpg
-      title: 账号激活
-      url: account-activate
+    # - tag: card
+    #   cover: $img/tab/activate.jpg
+    #   title: 账号激活
+    #   url: account-activate
 
-    - tag: card
-      cover: $img/tab/faq.png
-      title: 常见问题
-      path: newcomer/faq/
+    # - tag: card
+    #   cover: $img/tab/faq.png
+    #   title: 常见问题
+    #   path: newcomer/faq/
 
     # - tag: card
     #   cover: $img/tab/stream.png
     #   title: 经验分享与答疑
     #   path: newcomer/activity/streaming
 
-    - tag: grid
-      header: 您可能想关注
+    - tag: list
       items:
-        - text: 学校概况
-          color: red
-          name: Description
-          icon: about
-          path: intro/about/
+        - text: 登录开启海量校园功能
+          url: account-login
 
-        - text: 学科建设
+    - tag: grid
+      header: 报到相关
+      items:
+        - text: 入学准备
+          color: red
+          name: Prepare
+          icon: prepare
+          path: newcomer/prepare/
+
+        - text: 到校路线
+          color: grey
+          name: Arrival
+          icon: locate
+          path: newcomer/arrival/
+
+        - text: 新生报到
+          color: orange
+          name: Check
+          icon: check
+          path: newcomer/check/
+
+        - text: 新生群
           color: olive
-          name: Subject
-          icon: content
-          path: intro/subject/
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
 
-        - text: 学生就业
-          color: cyan
-          name: Job
-          icon: job
-          path: intro/job/
+        - text: 需带物品
+          color: olive
+          name: Necessity
+          icon: necessity
+          path: newcomer/necessity/
 
-        - text: 资助
+        - text: 入学活动
           color: purple
-          name: Subsidize
-          icon: subsidize
-          path: intro/subsidize/
+          name: Activity
+          icon: activity
+          path: newcomer/activity/
 
-        - text: 招生
-          name: Enroll
-          color: red
-          icon: enroll
-          path: intro/enroll/
-
-        - text: 学院介绍
-          name: School
-          color: purple
-          icon: school
-          path: school/
-
-        - text: 学校机构
-          name: School
-          color: red
-          icon: apartment
-          path: apartment/
-
-        - text: 寝室
-          color: blue
-          name: Dorm
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          color: orange
-          name: Dining
-          icon: dining
-          path: guide/dining/
-
-        - text: 洗浴
-          color: red
-          name: Bath
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          color: purple
-          name: Life
-          icon: life
-          path: guide/life/
-
-        - text: 转专业
-          color: red
-          name: Change Major
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          color: purple
-          name: Normal
-          icon: teacher
-          path: guide/normal/
-
-        - text: 课程
-          color: orange
-          name: Course
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          color: mauve
-          name: Study
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          color: purple
-          name: Scholarship
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 图书馆
-          color: blue
-          name: Library
-          icon: library
-          path: apartment/library/
-
-        - text: 考研/保研
-          color: red
-          name: Postgraduate
-          icon: study
-          path: intro/grad/
-
-  newcomer:
-    - tag: grid
-      header: 您可能想关注
-      items:
-        - text: 专业介绍
-          color: mauve
-          name: Major
-          icon: study
-          path: school/major
-
-        - text: 寝室
-          color: blue
-          name: Dorm
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          color: orange
-          name: Dining
-          icon: dining
-          path: guide/dining/
-
-        - text: 洗浴
-          color: red
-          name: Bath
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          color: purple
-          name: Life
-          icon: life
-          path: guide/life/
-
-        - text: 转专业
-          color: red
-          name: Change Major
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          color: purple
-          name: Normal
-          icon: teacher
-          path: guide/normal/
-
-        - text: 课程
-          color: orange
-          name: Course
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          color: mauve
-          name: Study
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          color: purple
-          name: Scholarship
-          icon: metal
-          path: intro/scholarship/
+        - text: 防盗防骗
+          color: olive
+          name: Safety
+          icon: safe
+          path: newcomer/safety/
 
         - text: 校园地图
           color: orange
@@ -201,11 +76,189 @@ main-presets:
           icon: map
           url: map
 
+    - tag: grid
+      header: 您可能想关注
+      items:
+        - text: 寝室
+          color: blue
+          name: Dorm
+          icon: dorm
+          path: guide/dorm/
+
+        - text: 食堂
+          color: orange
+          name: Dining
+          icon: dining
+          path: guide/dining/
+
+        - text: 洗浴
+          color: red
+          name: Bath
+          icon: bath
+          path: guide/bath/
+
+        - text: 生活
+          color: purple
+          name: Life
+          icon: life
+          path: guide/life/
+
+        - text: 课程
+          color: orange
+          name: Course
+          icon: content
+          path: guide/course/
+
+        - text: 学习
+          color: mauve
+          name: Study
+          icon: study
+          path: guide/study/
+
+        - text: 奖学金
+          color: purple
+          name: Scholarship
+          icon: metal
+          path: intro/scholarship/
+
+        - text: 转专业
+          color: red
+          name: Change Major
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          color: purple
+          name: Normal
+          icon: teacher
+          path: guide/normal/
+
+  newcomer:
+    - tag: grid
+      header: 报到相关
+      items:
+        - text: 入学准备
+          color: red
+          name: Prepare
+          icon: prepare
+          path: newcomer/prepare/
+
+        - text: 到校路线
+          color: grey
+          name: Arrival
+          icon: locate
+          path: newcomer/arrival/
+
+        - text: 新生报到
+          color: orange
+          name: Check
+          icon: check
+          path: newcomer/check/
+
+        - text: 新生群
+          color: olive
+          name: Contact
+          icon: qq-group
+          path: newcomer/contact/
+
+        - text: 需带物品
+          color: olive
+          name: Necessity
+          icon: necessity
+          path: newcomer/necessity/
+
+        - text: 入学活动
+          color: purple
+          name: Activity
+          icon: activity
+          path: newcomer/activity/
+
+        - text: 防盗防骗
+          color: olive
+          name: Safety
+          icon: safe
+          path: newcomer/safety/
+
+        - text: 校园地图
+          color: orange
+          name: Map
+          icon: map
+          url: map
+
+    - tag: grid
+      header: 校园介绍
+      items:
+        - text: 寝室
+          color: blue
+          name: Dorm
+          icon: dorm
+          path: guide/dorm/
+
+        - text: 食堂
+          color: orange
+          name: Dining
+          icon: dining
+          path: guide/dining/
+
+        - text: 洗浴
+          color: red
+          name: Bath
+          icon: bath
+          path: guide/bath/
+
+        - text: 生活
+          color: purple
+          name: Life
+          icon: life
+          path: guide/life/
+
+        - text: 课程
+          color: orange
+          name: Course
+          icon: content
+          path: guide/course/
+
+        - text: 学习
+          color: mauve
+          name: Study
+          icon: study
+          path: guide/study/
+
+        - text: 奖学金
+          color: purple
+          name: Scholarship
+          icon: metal
+          path: intro/scholarship/
+
+        - text: 转专业
+          color: red
+          name: Change Major
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          color: purple
+          name: Normal
+          icon: teacher
+          path: guide/normal/
+
+        - text: 专业介绍
+          color: mauve
+          name: Major
+          icon: study
+          path: school/major
+
         - text: 学校通知
           color: red
           name: Notice
           icon: notice
           url: notice-list
+
+        - text: 校园媒体
+          color: grey
+          name: Accounts
+          icon: account
+          url: school-media
 
         - text: 学生组织
           color: blue
@@ -218,12 +271,6 @@ main-presets:
           name: Association
           icon: association
           path: guide/association/
-
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
 
       footer: 更多内容请详见下方其他 Tab 页
 

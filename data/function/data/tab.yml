@@ -418,6 +418,7 @@ newcomer:
       color: purple
       name: Streaming
       icon: stream
+      grad: false
       path: newcomer/activity/streaming
 
 service:
