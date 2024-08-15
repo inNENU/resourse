@@ -1,7 +1,7 @@
 title: 净月报到流程
 icon: flow
 author: Mr.Hope
-time: 2023-09-23T12:11:49.030Z
+time: 2024-08-15T16:53:50.213Z
 shareable: true
 content:
   - tag: text
@@ -30,7 +30,7 @@ content:
       - latitude: 43.826361
         longitude: 125.424778
         name: 报到处
-        detail: 2023年净月校区报到处
+        detail: 2024年净月校区报到处
 
   - tag: ol
     type: tip
@@ -68,7 +68,7 @@ content:
     text:
       - 如果没有预先告诉你床位分配，工作人员也会告诉你床位分配情况。
       - 部分学院也可能在此步骤收纳一定的年级费。
-      - 发送的银行卡是空白卡，不与自己身份绑定，后续会安排统一激活。
+      - 发送的银行卡是空白卡，还不能使用，后续学校会安排统一激活。部分学院可能会因为怕丢报到时不发银行卡，选择后续发放，请以学院安排为准。
 
   - tag: img
     src: $img/check/jingyue-check1.jpg

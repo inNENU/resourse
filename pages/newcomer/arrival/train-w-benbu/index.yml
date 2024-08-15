@@ -1,7 +1,7 @@
 title: 长春西站-到本部
 icon: railway
 author: Mr.Hope
-time: 2024-07-28T10:30:18.885Z
+time: 2024-08-15T16:53:50.185Z
 shareable: true
 content:
   - tag: title
@@ -14,15 +14,15 @@ content:
     items:
       - type: navigator
         text: 长春西站南 1 出口导航到本部
-        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南 1 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=weNENU+&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南 1 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
         # 正门
-        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南 1 出口"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=weNENU+&startPoint={"latitude":43.877099,"longitude":125.201158,"name":"长春西站南 1 出口"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
 
       - type: navigator
         text: 长春西站南 2 出口导航到本部
-        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.876565,"longitude":125.200213,"name":"长春西站南 2 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=weNENU+&startPoint={"latitude":43.876565,"longitude":125.200213,"name":"长春西站南 2 出口"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
         # 正门
-        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.876565,"longitude":125.200213,"name":"长春西站南 2 出口"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=weNENU+&startPoint={"latitude":43.876565,"longitude":125.200213,"name":"长春西站南 2 出口"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
     env:
       - wx
 

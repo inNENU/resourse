@@ -2,7 +2,7 @@ title: 本部饮品店
 icon: drink
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2023-09-23T10:52:59.358Z
+time: 2024-08-15T16:53:51.517Z
 shareable: true
 content:
   - tag: title
@@ -64,10 +64,10 @@ content:
     watermark: true
 
   - tag: text
-    heading: 星巴克
+    heading: 甜啦啦
 
   - tag: img
-    src: $img/life/beiyuan/starbucks.jpg
+    src: $img/life/beiyuan/tianlala.jpg
     watermark: true
 
   - tag: text

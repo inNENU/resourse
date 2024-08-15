@@ -3,7 +3,8 @@ icon: express-cabinet
 author:
   - Mr.Hope
   - 战俊华
-time: 2023-09-23T08:04:54.187Z
+  - 小源
+time: 2024-08-15T16:53:51.426Z
 shareable: true
 content:
   - tag: title
@@ -11,8 +12,12 @@ content:
 
   - tag: text
     text:
-      - 快递柜共六个，位于三舍 C 和三舍 B 中间地带。
-      - 里侧那一列是 1、2、3 号柜，外侧是 7、8、9 号柜，柜角有明显的标识。
+      - 快递柜共9个，位于三舍 C 和三舍 B 中间地带，编号分别是 6 - 15 号。
+
+  - tag: img
+    src: $img/express/benbu/cabinet-location.jpg
+    desc: 分布位置示意图
+    watermark: true
 
   - tag: location
     title: 本部快递柜
@@ -21,11 +26,7 @@ content:
         longitude: 125.336322
 
   - tag: img
-    src: $img/express/benbu/cabinet1.jpg
-    watermark: true
-
-  - tag: img
-    src: $img/express/benbu/cabinet2.jpg
+    src: $img/express/benbu/cabinet.jpg
     watermark: true
 
   - tag: title
@@ -33,13 +34,17 @@ content:
 
   - tag: text
     text:
-      - 按照取件码所示寻找柜子，在屏幕上手动输入取件码并确认
+      - 按照短信取件码所示寻找柜子，在屏幕上手动输入取件码并确认 / 使用微信扫描柜子屏幕上的二维码
       - 柜门自动弹开，取走快递合上柜门即可。
 
   - tag: img
     src: $img/express/benbu/cabinet-fetch.jpg
     desc: 取件方式
     watermark: true
+
+  - tag: text
+    type: danger
+    heading: 取完快递记得关门! 取完快递记得关门! 取完快递记得关门!
 
   - tag: title
     text: 常见问题

@@ -1,7 +1,7 @@
 title: 长春站-到净月
 icon: railway
 author: Mr.Hope
-time: 2024-07-28T19:07:01.926Z
+time: 2024-08-15T16:53:50.180Z
 shareable: true
 content:
   - tag: title
@@ -15,9 +15,9 @@ content:
       - type: navigator
         text: 长春站北出口导航到本部
         # 1 号门
-        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站出站口4"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=weNENU+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站出站口4"}&endPoint={"latitude":43.863927,"longitude":125.334771,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
         # 2 号门
-        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=东师青年+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站出站口4"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
+        # url: plugin://routePlan/index?key=7ZXBZ-DZO6W-TK3RO-OGHG5-4J4EQ-PBFFX&referer=weNENU+&startPoint={"latitude":43.91386,"longitude":125.323691,"name":"长春站出站口4"}&endPoint={"latitude":43.86167,"longitude":125.325642,"name":"本部校区"}&mode=transit&themeColor=#2ecc71
     env:
       - wx
 

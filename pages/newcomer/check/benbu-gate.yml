@@ -1,7 +1,7 @@
 title: 本部校区校门
 icon: gate
 author: Mr.Hope
-time: 2024-07-28T10:30:18.897Z
+time: 2024-08-15T16:53:50.202Z
 shareable: true
 content:
   # TODO: Update at 2024-08
@@ -47,7 +47,7 @@ content:
     heading: Mr.Hope の 友情提示
     text:
       - 东北门所在的自由大路被栅栏隔开，想要过马路只能通过不远处的天桥或是绕行至十字路口走斑马线，如果行李多会产生很大不便，所以如果打车请务必让司机掉头停在校门一侧。
-      - 自由大路上是没有停车位的，长期停车可能会被交警贴条。
+      - 自由大路上是没有停车位的，只能临时停车，长期停车不仅会被交警贴条，甚至可能会被拖走。
 
   - tag: title
     text: 本部正门
@@ -71,23 +71,23 @@ content:
     text:
       - 这是学校的正门，进门正对着就是学校的图书馆。
       - 很多公交车如 6 / 66 / 306 的车站都在正门附近。
-      # - 进门后直行走到图书馆，之后从图书馆北侧 (左手边) 那条路一直往前走就能见到搭着橘色棚子的迎新摆台处。
+      - 进门后直行走到图书馆，之后从图书馆北侧 (左手边) 那条路一直走到尽头，之后右转再一直向前走，就能见到搭着橘色棚子的迎新摆台处。
 
-  - tag: title
-    text: 本部南门 (文昌路)
+  # - tag: title
+  #   text: 本部南门 (文昌路)
 
-  - tag: location
-    title: 南门
-    points:
-      - latitude: 43.85967
-        longitude: 125.33021
-        name: 南门
-        detail: 东北师范大学南门
-        path: benbu/gate/south
+  # - tag: location
+  #   title: 南门
+  #   points:
+  #     - latitude: 43.85967
+  #       longitude: 125.33021
+  #       name: 南门
+  #       detail: 东北师范大学南门
+  #       path: benbu/gate/south
 
-  - tag: img
-    src: $img/scenery/benbu/gate/south1.jpg
-    watermark: true
+  # - tag: img
+  #   src: $img/scenery/benbu/gate/south1.jpg
+  #   watermark: true
 
   # - tag: title
   #   text: 本部北门(东师会馆、幼儿园旁)

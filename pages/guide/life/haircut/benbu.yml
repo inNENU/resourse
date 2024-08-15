@@ -1,7 +1,7 @@
 title: 本部理发/美甲
 icon: haircut
 author: Mr.Hope
-time: 2023-09-23T10:52:59.372Z
+time: 2024-08-15T16:53:51.529Z
 shareable: true
 content:
   - tag: title
@@ -44,7 +44,7 @@ content:
     heading: 喜宝美甲美睫皮肤管理
 
   - tag: img
-    src: $img/life/beiyuan/xibao.jpg
+    src: $img/life/beiyuan/xi-bao.jpg
     watermark: true
 
   - tag: title

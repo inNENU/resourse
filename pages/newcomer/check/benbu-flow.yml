@@ -1,7 +1,7 @@
 title: 本部报到流程
 icon: flow
 author: Mr.Hope
-time: 2023-09-23T12:11:49.019Z
+time: 2024-08-15T16:53:50.200Z
 shareable: true
 content:
   - tag: text
@@ -28,24 +28,24 @@ content:
         detail: 东北师范大学西门(正门)
         path: benbu/gate/west
 
-      - latitude: 43.85967
-        longitude: 125.33021
-        name: 南门
-        detail: 东北师范大学南门
-        path: benbu/gate/south
+      # - latitude: 43.85967
+      #   longitude: 125.33021
+      #   name: 南门
+      #   detail: 东北师范大学南门
+      #   path: benbu/gate/south
 
       - latitude: 43.863133
         longitude: 125.331584
         name: 报到处
-        detail: 2023年本部报到处
+        detail: 2024年本部报到处
 
   - tag: ol
     type: tip
     heading: Mr.Hope の 友情提示
     text:
       - 东北门所在的自由大路被栅栏隔开，想要过马路只能通过不远处的天桥或是绕行至十字路口走斑马线，如果行李多会产生很大不便，所以如果打车请务必让司机掉头停在校门一侧。
-      - 东北门距离报到处最近，西门和南门相距报到处都较远，不建议选择。
-      - 另外人民大街、自由大路两侧是没有停车位的，长期停车可能会被交警贴条。
+      - 东北门距离报到处最近，西门相距报到处较远，不建议选择。
+      - 另外人民大街、自由大路两侧是没有停车位的，只能临时停车，长期停车不仅会被交警贴条，甚至可能会被拖走。
 
   - tag: text
     type: note
@@ -76,7 +76,7 @@ content:
     text:
       - 如果没有预先告诉你床位分配，工作人员也会告诉你床位分配情况。
       - 部分学院也可能在此步骤收纳一定的年级费。
-      - 发送的银行卡是空白卡，不与自己身份绑定，后续会安排统一激活。
+      - 发送的银行卡是空白卡，还不能使用，后续学校会安排统一激活。部分学院可能会因为怕丢报到时不发银行卡，选择后续发放，请以学院安排为准。
 
   - tag: img
     src: $img/check/benbu-check1.jpg

@@ -1,8 +1,10 @@
 title: 北苑生活区介绍
 icon: life
 desc: 《北苑生活区》由 Mr.Hope 自行起名，仅用于 inNENU 文中
-author: Mr.Hope
-time: 2023-12-20T06:56:43.430Z
+author:
+  - Mr.Hope
+  - 小源
+time: 2024-08-15T16:53:51.485Z
 shareable: true
 content:
   - tag: title
@@ -24,8 +26,8 @@ content:
     text: 店铺详情
 
   - tag: img
-    src: $img/life/beiyuan/starbucks.jpg
-    desc: 星巴克
+    src: $img/life/beiyuan/tianlala.jpg
+    desc: 甜啦啦
     watermark: true
 
   - tag: img
@@ -34,13 +36,13 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/life/beiyuan/sushi.jpg
+    src: $img/life/beiyuan/shoushi.jpg
     desc: 一间寿司
     watermark: true
 
   - tag: img
-    src: $img/life/beiyuan/icecream.jpg
-    desc: 小姑娘冰激淋
+    src: $img/life/beiyuan/sugar.jpg
+    desc: 属你甜甜水铺
     watermark: true
 
   - tag: img
@@ -94,16 +96,21 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/life/beiyuan/duobaan.jpg
-    desc: 多巴胺甜品烘焙
+    src: $img/life/beiyuan/lucky-coffee.jpg
+    desc: 幸运咖
     watermark: true
 
   - tag: img
-    src: $img/life/beiyuan/xibao.jpg
+    src: $img/life/beiyuan/xi-bao.jpg
     desc: 喜宝美甲美睫皮肤管理
     watermark: true
 
   - tag: img
     src: $img/life/beiyuan/relax.jpg
+    desc: 休闲区
+    watermark: true
+
+  - tag: img
+    src: $img/life/beiyuan/relax2.jpg
     desc: 休闲区
     watermark: true

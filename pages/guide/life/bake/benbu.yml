@@ -1,29 +1,29 @@
 title: 本部烘焙坊
 icon: bake
 author: Mr.Hope
-time: 2023-10-31T15:53:48.791Z
+time: 2024-08-15T16:53:51.507Z
 shareable: true
 content:
   - tag: title
     text: 校内店铺
 
-  - tag: ul
-    text:
-      - |-
-        多巴胺甜品烘焙: 北苑地下一楼西北角
+  # - tag: ul
+  #   text:
+  #     - |-
+  #       多巴胺甜品烘焙: 北苑地下一楼西北角
 
-  - tag: location
-    title: 本部烘焙坊
-    points:
-      - latitude: 43.862932
-        longitude: 125.332507
-        name: 多巴胺甜品烘焙
-        detail: 北苑地下一楼西北角
+  # - tag: location
+  #   title: 本部烘焙坊
+  #   points:
+  #     - latitude: 43.862932
+  #       longitude: 125.332507
+  #       name: 多巴胺甜品烘焙
+  #       detail: 北苑地下一楼西北角
 
-  - tag: img
-    src: $img/life/beiyuan/duobaan.jpg
-    desc: 多巴胺甜品烘焙
-    watermark: true
+  # - tag: img
+  #   src: $img/life/beiyuan/duobaan.jpg
+  #   desc: 多巴胺甜品烘焙
+  #   watermark: true
 
   - tag: title
     text: 校外店铺
