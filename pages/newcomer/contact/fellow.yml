@@ -6,7 +6,7 @@ desc: |-
   替换条件:
   · 群内已有东师该省份学生不少于 50
   · 群主已失联且活跃的管理员两人以下 / 替换的群活跃人数大于原群 (任选其一)
-time: 2024-08-15T13:41:36.942Z
+time: 2024-08-15T14:01:35.097Z
 shareable: true
 content:
   - tag: title
@@ -58,12 +58,6 @@ content:
 
   - tag: action
     content: "157808753"
-
-  - tag: text
-    text: 天津
-
-  - tag: action
-    content: "822145879"
 
   - tag: text
     text: 四川
@@ -204,3 +198,11 @@ content:
 
   # - tag: action
   #   content: "107092900"
+
+  # TODO: 组建新的老乡群
+  # NOTE: 20地理科学姚雨辰不欢迎
+  # - tag: text
+  #   text: 天津
+
+  # - tag: action
+  #   content: "822145879"
