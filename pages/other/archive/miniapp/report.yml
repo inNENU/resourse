@@ -1,6 +1,6 @@
 title: 在校健康检测
 author: Mr.Hope
-time: 2023-06-21T10:21:03.254Z
+time: 2024-08-16T05:53:04.722Z
 shareable: true
 content:
   - tag: title
@@ -34,6 +34,7 @@ content:
 
   - tag: img
     src: $img/epidemic/miniprogram-report.png
+    watermark: true
 
   - tag: ul
     type: info

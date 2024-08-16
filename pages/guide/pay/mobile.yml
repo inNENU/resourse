@@ -1,7 +1,7 @@
 title: 手机使用缴费系统缴费
 icon: mobile
 author: Mr.Hope
-time: 2023-09-23T10:52:59.487Z
+time: 2024-08-16T05:53:04.481Z
 shareable: true
 content:
   - tag: title
@@ -13,12 +13,14 @@ content:
 
   - tag: img
     src: $img/pay/qrcode.png
+    watermark: true
 
   - tag: title
     text: 登录方式
 
   - tag: img
     src: $img/pay/mobile-login.jpg
+    watermark: true
 
   - tag: ul
     heading: 校内用户登录
@@ -51,6 +53,7 @@ content:
 
   - tag: img
     src: $img/pay/mobile-interface.jpg
+    watermark: true
 
   - tag: ul
     text: 选择需要缴费的项目并进行缴费。
@@ -65,6 +68,7 @@ content:
 
   - tag: img
     src: $img/pay/mobile-select.jpg
+    watermark: true
 
   - tag: phone
     header: 咨询电话

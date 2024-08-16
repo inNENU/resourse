@@ -20,6 +20,7 @@ content:
   - tag: img
     src: $img/express/benbu/map.jpg
     desc: 菜鸟驿站分布图
+    watermark: true
 
   - tag: text
     heading: 营业时间

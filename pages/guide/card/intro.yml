@@ -1,7 +1,7 @@
 title: 校园卡介绍
 icon: card
 author: Mr.Hope
-time: 2024-08-12T11:22:50.232Z
+time: 2024-08-16T05:53:04.117Z
 shareable: true
 content:
   - tag: title
@@ -19,6 +19,7 @@ content:
   - tag: img
     src: $img/card/card.jpg
     desc: 校园卡照片
+    watermark: true
 
   - tag: text
     heading: 实体卡主要功能

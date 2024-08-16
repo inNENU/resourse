@@ -1,6 +1,6 @@
 title: 东师 e 起战疫登录
 author: Mr.Hope
-time: 2023-06-21T10:21:03.252Z
+time: 2024-08-16T05:53:04.721Z
 shareable: true
 content:
   - tag: title
@@ -19,6 +19,7 @@ content:
     env:
       - app
       - qq
+    watermark: true
 
   - tag: text
     heading: 登录账号
@@ -34,6 +35,7 @@ content:
     env:
       - app
       - qq
+    watermark: true
 
   - tag: card
     title: 登录
@@ -49,6 +51,7 @@ content:
 
   - tag: img
     src: $img/epidemic/zhane-login2.jpg
+    watermark: true
 
   - tag: ul
     text:
@@ -62,6 +65,7 @@ content:
 
   - tag: img
     src: $img/epidemic/zhane-login3.jpg
+    watermark: true
 
   - tag: ul
     type: warning

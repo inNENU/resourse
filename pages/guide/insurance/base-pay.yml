@@ -1,7 +1,7 @@
 title: 城乡居民基本医疗保险缴费
 icon: money
 author: Mr.Hope
-time: 2023-09-23T08:04:54.205Z
+time: 2024-08-16T05:53:04.315Z
 shareable: true
 content:
   - tag: text
@@ -73,6 +73,7 @@ content:
     env:
       - app
       - qq
+    watermark: true
 
   - tag: ul
     type: warning

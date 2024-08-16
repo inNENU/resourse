@@ -3,7 +3,7 @@ icon: ban
 author:
   - Mr.Hope
   - 魏猿媛
-time: 2023-09-23T10:52:59.413Z
+time: 2024-08-16T05:53:04.413Z
 shareable: true
 content:
   - tag: title
@@ -41,12 +41,14 @@ content:
 
   - tag: img
     src: $img/tip/sim/caict12300.jpg
+    watermark: true
 
   - tag: text
     text: 选择服务中的“用户申诉” - “提交申诉”
 
   - tag: img
     src: $img/tip/sim/12300-apply.png
+    watermark: true
 
   - tag: text
     text: 按要求填写对应的信息，其中注意最后一项的弹窗要按照如下方式选择。
@@ -54,14 +56,17 @@ content:
   - tag: img
     src: $img/tip/sim/complaint2.png
     desc: 选择“是”
+    watermark: true
 
   - tag: img
     src: $img/tip/sim/complaint3.png
     desc: 选择“否”
+    watermark: true
 
   - tag: img
     src: $img/tip/sim/complaint1.png
     desc: 其他项目如实填写
+    watermark: true
 
   - tag: text
     text:

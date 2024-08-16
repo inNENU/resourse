@@ -1,7 +1,7 @@
 title: 本部临时售卖点
 icon: shop
 author: Mr.Hope
-time: 2023-09-23T10:52:59.520Z
+time: 2024-08-16T05:53:04.511Z
 shareable: true
 content:
   - tag: title
@@ -14,12 +14,15 @@ content:
 
   - tag: img
     src: $img/shop/benbu-temp1.jpg
+    watermark: true
 
   - tag: img
     src: $img/shop/benbu-temp2.jpg
+    watermark: true
 
   - tag: img
     src: $img/shop/benbu-temp3.jpg
+    watermark: true
 
   - tag: title
     text: 被褥

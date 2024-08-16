@@ -1,7 +1,7 @@
 title: 本部报到流程
 icon: flow
 author: Mr.Hope
-time: 2024-08-15T17:31:26.932Z
+time: 2024-08-16T05:53:03.617Z
 shareable: true
 content:
   - tag: text
@@ -68,7 +68,8 @@ content:
 
   - tag: img
     src: $img/check/benbu-2023.jpg
-    desc: 本部摆台示意图
+    desc: 本部 2023 年摆台示意图
+    watermark: true
 
   - tag: text
     text:

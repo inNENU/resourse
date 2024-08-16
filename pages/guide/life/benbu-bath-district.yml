@@ -4,7 +4,7 @@ desc: |-
   《本部浴池生活区》由 Mr.Hope 自行起名，仅用于 inNENU 文中
   感谢晴子提供照片
 author: Mr.Hope
-time: 2024-06-09T21:26:41.473Z
+time: 2024-08-16T05:53:04.351Z
 shareable: true
 outdated: true
 content:
@@ -14,6 +14,7 @@ content:
   - tag: img
     src: $img/bath/benbu-outside.jpg
     desc: 周边店铺
+    watermark: true
 
   - tag: title
     text: 包含商家

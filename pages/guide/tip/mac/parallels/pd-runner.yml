@@ -1,6 +1,6 @@
 title: 避免通过 PD Runner 延长试用期
 author: Mr.Hope
-time: 2023-10-23T04:24:15.781Z
+time: 2024-08-16T05:53:04.598Z
 shareable: true
 content:
   - tag: title
@@ -36,6 +36,7 @@ content:
   - tag: img
     src: $img/tip/mac/parallels/pd-runner-install.png
     desc: 安装页面
+    watermark: true
 
   - tag: text
     type: tip
@@ -68,6 +69,7 @@ content:
   - tag: img
     src: $img/tip/mac/parallels/pd-runner-interface.png
     desc: 软件页面
+    watermark: true
 
   - tag: ol
     text:

@@ -1,7 +1,7 @@
 title: 长春西站-到本部-打车
 icon: taxi
 author: Mr.Hope
-time: 2024-08-15T17:15:05.798Z
+time: 2024-08-16T05:53:03.610Z
 shareable: true
 content:
   - tag: p
@@ -44,14 +44,17 @@ content:
   - tag: img
     src: $img/arrival/train-west-exit.jpg
     desc: 长春西站出站口
+    watermark: true
 
   - tag: img
     src: $img/arrival/train-west-taxi-way.jpg
     desc: 长春西站出租车乘降中心位置
+    watermark: true
 
   - tag: img
     src: $img/arrival/train-west-taxi-entrance.jpg
     desc: 长春西站出租车乘降中心入口
+    watermark: true
 
   - tag: title
     text: 价格与时间

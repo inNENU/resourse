@@ -1,7 +1,7 @@
 title: 净月打印复印
 icon: print
 author: Mr.Hope
-time: 2023-09-23T10:52:59.411Z
+time: 2024-08-16T05:53:04.411Z
 shareable: true
 content:
   - tag: title
@@ -42,10 +42,10 @@ content:
     heading: 云印社
     text: 位于学生浴池旁。
 
+    # TODO: 价格表
   - tag: img
     src: $img/life/jingyue/yunyinshe.jpg
     desc: 店铺照片
-    # TODO: 价格表
     watermark: true
 
   - tag: title

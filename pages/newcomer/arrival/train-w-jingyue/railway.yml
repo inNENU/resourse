@@ -1,7 +1,7 @@
 title: 长春西站-到净月-轨道交通
 icon: train
 author: Mr.Hope
-time: 2024-08-15T17:31:26.928Z
+time: 2024-08-16T05:53:03.613Z
 shareable: true
 content:
   - tag: text
@@ -179,6 +179,7 @@ content:
   - tag: img
     src: $img/arrival/subway-env.jpg
     desc: 地铁内部环境
+    watermark: true
 
   - tag: title
     text: 到达校门

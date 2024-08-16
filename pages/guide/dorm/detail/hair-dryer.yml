@@ -1,7 +1,7 @@
 title: 吹风机
 icon: hair-dryer
 author: Mr.Hope
-time: 2023-09-23T08:04:54.119Z
+time: 2024-08-16T05:53:04.251Z
 shareable: true
 content:
   - tag: title
@@ -20,15 +20,19 @@ content:
 
   - tag: img
     src: $img/dorm/hair-dryer1.jpg
+    watermark: true
 
   - tag: img
     src: $img/dorm/hair-dryer2.jpg
     desc: 微信扫码即可使用
+    watermark: true
 
   - tag: img
     src: $img/dorm/hair-dryer3.jpg
     desc: 使用时必须打开蓝牙以连接设备
+    watermark: true
 
   - tag: img
     src: $img/dorm/hair-dryer4.jpg
     desc: 可自由选择多个时长
+    watermark: true

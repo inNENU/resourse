@@ -1,7 +1,7 @@
 title: 长春站-到净月-打车
 icon: taxi
 author: Mr.Hope
-time: 2024-08-15T17:15:05.792Z
+time: 2024-08-16T05:53:03.604Z
 shareable: true
 content:
   - tag: p
@@ -80,10 +80,12 @@ content:
   - tag: img
     src: $img/arrival/train-south-taxi-door.jpg
     desc: 长春站南侧乘降中心入口
+    watermark: true
 
   - tag: img
     src: $img/arrival/train-south-taxi.jpg
     desc: 长春站南侧乘降中心
+    watermark: true
 
   - tag: text
     type: note

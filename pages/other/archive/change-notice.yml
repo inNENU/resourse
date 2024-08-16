@@ -13,6 +13,7 @@ content:
   - tag: img
     src: $img/other/ban.png
     desc: 封禁记录
+    watermark: true
 
   - tag: p
     text:

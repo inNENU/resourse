@@ -3,7 +3,7 @@ icon: about
 desc: |-
   概况部分来自东北师范大学后勤保障部官网
 author: Mr.Hope
-time: 2023-09-22T16:59:13.568Z
+time: 2024-08-16T05:53:04.205Z
 shareable: true
 content:
   - tag: title
@@ -48,23 +48,29 @@ content:
   - tag: img
     src: $img/dining/dining1/1f.jpg
     desc: 一楼环境
+    watermark: true
 
   - tag: img
     src: $img/dining/dining1/2f.jpg
     desc: 二楼环境
+    watermark: true
 
   - tag: img
     src: $img/dining/dining1/study1.jpg
     desc: 学习区
+    watermark: true
 
   - tag: img
     src: $img/dining/dining1/study2.jpg
     desc: 学习区
+    watermark: true
 
   - tag: img
     src: $img/dining/dining1/study3.jpg
     desc: 学习区
+    watermark: true
 
   - tag: img
     src: $img/dining/dining1/study4.jpg
     desc: 学习区
+    watermark: true

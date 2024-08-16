@@ -1,7 +1,7 @@
 title: 微波炉
 icon: microwave
 author: Mr.Hope
-time: 2023-09-23T08:04:54.124Z
+time: 2024-08-16T05:53:04.257Z
 shareable: true
 content:
   - tag: title
@@ -13,6 +13,7 @@ content:
 
   - tag: img
     src: $img/dorm/microwave.jpg
+    watermark: true
 
   - tag: text
     type: info

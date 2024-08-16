@@ -1,7 +1,7 @@
 title: 更多其它诈骗
 icon: more
 author: Mr.Hope
-time: 2023-09-23T12:11:49.126Z
+time: 2024-08-16T05:53:03.702Z
 shareable: true
 content:
   - tag: title
@@ -16,10 +16,3 @@ content:
   - tag: p
     text:
       - 这些人在学校里拦着您卖劣质笔，一盒一盒让您买，说是经管大四实习过任务的这种也是骗子。学校是不会安排这种活动的，这些人都是校外翻进来的。请您先委婉拒绝，之后立即拨打保卫处电话让保卫处过来抓人。
-
-  - tag: title
-    text: 更多
-
-  - tag: img
-    src: $img/check/bilk.jpg
-    desc: 图源自网络

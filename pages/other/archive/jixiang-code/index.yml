@@ -1,6 +1,6 @@
 title: 吉祥码
 author: Mr.Hope
-time: 2023-08-04T13:58:24.184Z
+time: 2024-08-16T05:53:04.713Z
 grey: true
 shareable: true
 cite: http://jl.gov.cn/jxm/
@@ -41,3 +41,4 @@ content:
   - tag: img
     src: $img/arrival/jixiang-code-scan.jpg
     desc: 自助扫码机
+    watermark: true

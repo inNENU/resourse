@@ -1,6 +1,6 @@
 title: 东师 e 起战疫介绍
 author: Mr.Hope
-time: 2023-06-21T10:21:03.249Z
+time: 2024-08-16T05:53:04.720Z
 shareable: true
 content:
   - tag: title
@@ -22,6 +22,7 @@ content:
     env:
       - app
       - qq
+    watermark: true
 
   - tag: card
     title: 东师 e 起战疫

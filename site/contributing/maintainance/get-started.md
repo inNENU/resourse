@@ -311,6 +311,7 @@ content:
   - tag: img
     src: $img/account/email-address.jpg
     desc: 本例中邮箱为 "mr-hope@nenu.edu.cn"
+    watermark: true
 
   - tag: text
     type: info
@@ -319,6 +320,7 @@ content:
 
   - tag: img
     src: $img/account/authserver.jpg
+    watermark: true
 
   - tag: title
     text: 修改密码及密保绑定

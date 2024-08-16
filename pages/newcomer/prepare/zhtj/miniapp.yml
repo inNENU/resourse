@@ -1,7 +1,7 @@
 title: 智慧团建小程序操作流程
 icon: miniapp
 author: Mr.Hope
-time: 2024-08-05T08:53:15.773Z
+time: 2024-08-16T05:53:03.696Z
 shareable: true
 content:
   - tag: title
@@ -29,6 +29,7 @@ content:
 
   - tag: img
     src: $img/prepare/youth-miniapp-login1.jpg
+    watermark: true
 
   - tag: text
     text: 输入登录自己身份证号与密码，登录智慧团建系统。

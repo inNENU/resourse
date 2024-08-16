@@ -1,6 +1,6 @@
 title: 返校申请
 author: Mr.Hope
-time: 2023-08-04T13:58:24.199Z
+time: 2024-08-16T05:53:04.724Z
 shareable: true
 content:
   - tag: title
@@ -37,6 +37,7 @@ content:
 
   - tag: img
     src: $img/epidemic/miniprogram-return.png
+    watermark: true
 
   - tag: ul
     type: warning

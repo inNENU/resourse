@@ -1,7 +1,7 @@
 title: 校园卡补办
 icon: add
 author: Mr.Hope
-time: 2024-05-22T10:29:45.689Z
+time: 2024-08-16T05:53:04.122Z
 shareable: true
 content:
   - tag: text
@@ -38,6 +38,7 @@ content:
   - tag: img
     src: $img/card/create-terminal.jpg
     desc: 补卡终端机
+    watermark: true
 
   - tag: title
     text: 注意事项

@@ -1,7 +1,7 @@
 title: 遗失物品查找
 icon: lost
 author: Mr.Hope
-time: 2023-09-23T10:52:59.696Z
+time: 2024-08-16T05:53:04.667Z
 shareable: true
 content:
   - tag: text
@@ -14,14 +14,17 @@ content:
   - tag: img
     src: $img/traffic/train/lost-1.jpg
     desc: 打开 12306 手机 APP，点击“温馨服务”
+    watermark: true
 
   - tag: img
     src: $img/traffic/train/lost-2.jpg
     desc: 点击“遗失物品查找”
+    watermark: true
 
   - tag: img
     src: $img/traffic/train/lost-3.jpg
     desc: 输入“乘车信息”、“旅客信息”、“遗失物品信息”，点击“提交”
+    watermark: true
 
   - tag: text
     type: tip
@@ -38,6 +41,7 @@ content:
   - tag: img
     src: $img/traffic/train/lost-4.jpg
     desc: 点击“遗失物品招领”，选择“按车次查询”或“按车站查询”，查找保管期内的遗失物品
+    watermark: true
 
   - tag: title
     text: 领取方式

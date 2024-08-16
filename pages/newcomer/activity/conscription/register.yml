@@ -1,7 +1,7 @@
 title: 兵役登记
 icon: check
 author: Mr.Hope
-time: 2023-09-23T12:11:48.943Z
+time: 2024-08-16T05:53:03.562Z
 shareable: true
 content:
   - tag: text
@@ -29,6 +29,7 @@ content:
 
   - tag: img
     src: $img/activity/conscription/1.jpg
+    watermark: true
 
   - tag: text
     type: warning
@@ -42,6 +43,8 @@ content:
 
   - tag: img
     src: $img/activity/conscription/2.jpg
+    watermark: true
 
   - tag: img
     src: $img/activity/conscription/3.jpg
+    watermark: true

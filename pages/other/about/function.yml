@@ -11,6 +11,7 @@ content:
   - tag: img
     src: $img/other/forbidden.png
     desc: 拒审纪录节选
+    watermark: true
 
   - tag: ul
     heading: 腾讯禁止 Mr.Hope

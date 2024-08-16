@@ -1,7 +1,7 @@
 title: 热水房/晾衣间
 icon: hot-water
 author: Mr.Hope
-time: 2023-09-23T08:04:54.120Z
+time: 2024-08-16T05:53:04.253Z
 shareable: true
 content:
   - tag: text
@@ -42,12 +42,15 @@ content:
 
   - tag: img
     src: $img/dorm/clothing1.jpg
+    watermark: true
 
   - tag: img
     src: $img/dorm/clothing2.jpg
+    watermark: true
 
   - tag: img
     src: $img/dorm/clothing3.jpg
+    watermark: true
 
   - tag: text
     type: info

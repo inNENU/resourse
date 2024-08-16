@@ -1,6 +1,6 @@
 title: 每日健康打卡
 author: Mr.Hope
-time: 2023-06-21T10:21:03.236Z
+time: 2024-08-16T05:53:04.716Z
 shareable: true
 content:
   - tag: title
@@ -36,6 +36,7 @@ content:
 
   - tag: img
     src: $img/epidemic/miniprogram-use.png
+    watermark: true
 
   - tag: ul
     type: warning

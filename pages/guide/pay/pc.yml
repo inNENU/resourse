@@ -1,7 +1,7 @@
 title: PC 使用缴费系统缴费
 icon: pc
 author: Mr.Hope
-time: 2023-09-23T10:52:59.489Z
+time: 2024-08-16T05:53:04.482Z
 shareable: true
 content:
   - tag: text
@@ -12,12 +12,14 @@ content:
 
   - tag: img
     src: $img/pay/main.png
+    watermark: true
 
   - tag: title
     text: 登录方式
 
   - tag: img
     src: $img/pay/login.jpg
+    watermark: true
 
   - tag: ul
     heading: 校内用户登录
@@ -50,12 +52,14 @@ content:
 
   - tag: img
     src: $img/pay/layout.jpg
+    watermark: true
 
   - tag: ul
     text: 选择下方的学费缴费，之后选择合适的方式进行缴费。
 
   - tag: img
     src: $img/pay/detail.jpg
+    watermark: true
 
   - tag: ul
     text: 选择需要缴费的项目并进行缴费。
@@ -70,6 +74,7 @@ content:
 
   - tag: img
     src: $img/pay/select.jpg
+    watermark: true
 
   - tag: phone
     header: 咨询电话
