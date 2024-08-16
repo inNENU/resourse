@@ -1,7 +1,7 @@
 title: 净月快递
 icon: express
 author: Mr.Hope
-time: 2023-09-23T08:04:54.203Z
+time: 2024-08-16T20:57:33.495Z
 grey: true
 shareable: true
 content:
@@ -22,6 +22,6 @@ content:
         icon: cainiao
         path: jingyue-cainiao
 
-      - text: 临时取件点
+      - text: 户外取件点
         icon: express
-        path: jingyue-temp
+        path: jingyue-out

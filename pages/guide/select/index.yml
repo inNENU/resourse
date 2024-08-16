@@ -1,7 +1,7 @@
 title: 选课
 icon: select
 author: Mr.Hope
-time: 2023-12-20T04:42:38.148Z
+time: 2024-08-16T20:57:33.678Z
 grey: true
 shareable: true
 content:
@@ -17,6 +17,7 @@ content:
         icon: notice
         url: notice-detail?id=cd6306d89c0a40f1959c431fa7f090f8&title=关于2024春季学期本科生选课的通知
 
+      # TODO: Update at 2024-09
       - text: 2023 级学硕选课须知
         icon: notice
         path: notice/study

@@ -1,7 +1,7 @@
 title: 南苑餐厅三楼
 icon: dining
 author: Mr.Hope
-time: 2024-01-13T04:17:33.742Z
+time: 2024-08-16T20:57:33.408Z
 shareable: true
 content:
   - tag: title
@@ -18,11 +18,11 @@ content:
     text: 东侧的餐厅主要是清真餐及自助火锅。其中自助火锅价格实惠但口味一般。
 
   - tag: img
-    src: $img/dining/dining26.jpg?v=202310
+    src: $img/dining/dining26.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/dining27.jpg?v=202310
+    src: $img/dining/dining27.jpg
     watermark: true
 
   - tag: title
@@ -32,5 +32,5 @@ content:
     text: 西侧的餐厅为教职工餐厅。
 
   - tag: img
-    src: $img/dining/dining28.jpg?v=202310
+    src: $img/dining/dining28.jpg
     watermark: true

@@ -1,7 +1,7 @@
 title: 净月水果店
 icon: fruit
 author: Mr.Hope
-time: 2023-09-23T10:52:59.367Z
+time: 2024-08-16T20:57:33.560Z
 shareable: true
 content:
   - tag: title
@@ -11,8 +11,6 @@ content:
     text:
       - |-
         天猫校园鲜果小铺: 学生浴池左侧
-      - |-
-        缤果屋: 二食堂一楼 (超市入口附近)
       - |-
         平价水果超市: 二食堂二楼基本餐楼层
       - |-
@@ -25,11 +23,6 @@ content:
         longitude: 125.420682
         name: 天猫校园鲜果小铺
         detail: 浴池正门左侧
-
-      - latitude: 43.825252
-        longitude: 125.425045
-        name: 缤果屋
-        detail: 二食堂一楼 (超市入口附近)
 
       - latitude: 43.825084
         longitude: 125.42468
@@ -47,18 +40,6 @@ content:
   - tag: img
     src: $img/life/jingyue/tmall-fruit.jpg
     watermark: true
-
-  - tag: text
-    heading: 缤果屋水果店
-
-  - tag: img
-    src: $img/life/dining2/binguowu1.jpg
-    watermark: true
-
-  - tag: carousel
-    images:
-      - $img/life/dining2/binguowu2.jpg
-      - $img/life/dining2/binguowu3.jpg
 
   - tag: text
     heading: 平价水果超市

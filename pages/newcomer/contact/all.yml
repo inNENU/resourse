@@ -1,7 +1,7 @@
 title: 学校新生群
 icon: qq-group
 author: Mr.Hope
-time: 2024-08-15T17:40:00.211Z
+time: 2024-08-16T20:57:32.838Z
 shareable: true
 content:
   - tag: text
@@ -74,7 +74,7 @@ content:
       - 专门为研究生建立的群聊，身份验证是可选的。
 
   - tag: img
-    src: $img/about/post2.jpg
+    src: $img/about/post.jpg
     env:
       - app
       - wx

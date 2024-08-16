@@ -1,7 +1,7 @@
 title: 户口迁移
 icon: hukou
 author: Mr.Hope
-time: 2024-08-15T17:31:26.998Z
+time: 2024-08-16T20:57:32.882Z
 cite:
   - https://m.nenu.edu.cn/page/viewNews?ID=9a5ec3d39b5d4a429b4ea04a42ac8433
 shareable: true
@@ -27,6 +27,7 @@ content:
   - tag: list
     header: false
     items:
+      # TODO: Update at 2025-08
       - text: 关于新生户籍办理工作的通知
         icon: notice
         url: notice-detail?id=9a5ec3d39b5d4a429b4ea04a42ac8433&title=关于新生户籍办理工作的通知

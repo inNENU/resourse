@@ -1,7 +1,7 @@
 title: 学籍注册
 icon: archive
 author: Mr.Hope
-time: 2024-06-15T19:54:16.332Z
+time: 2024-08-16T20:57:33.726Z
 shareable: true
 cite:
   - https://jwc.nenu.edu.cn/ggmb/content3.jsp?urltype=tree.TreeTempUrl&wbtreeid=1927
@@ -11,6 +11,7 @@ content:
     heading: 新生建立学籍
     text:
       - 新生入学后，应及时完成学籍注册工作。
+    # TODO: Update at 2024-09
     url: notice-detail?id=55435b05a3d84ca29c885b8b3c219679&title=关于建立2023级全日制普通本科生学籍档案的通知
 
   - tag: text

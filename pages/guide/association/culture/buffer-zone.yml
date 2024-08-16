@@ -1,9 +1,10 @@
 title: 缓冲区音乐社
 shareable: true
 content:
+  # TODO: Add wechat
   - tag: account
     name: 缓冲区音乐社
-    # logo: $img/association/astronomy/logo.jpg
+    logo: $img/association/buffer-zone.png
     desc: 东北师范大学缓冲区音乐社
     # qqcode: $img/media/astronomy-qq-qrcode.png
 
@@ -16,7 +17,7 @@ content:
   - tag: title
     text: 简介
 
-  - tag: tedxt
+  - tag: text
     heading: 社团指导单位
     text:
       - 民谣团所属于东北师范大学（净月校区）大学生艺术团。

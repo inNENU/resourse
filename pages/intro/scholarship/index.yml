@@ -2,7 +2,7 @@ title: 奖学金
 icon: metal
 grey: true
 author: Mr.Hope
-time: 2024-07-02T16:28:50.715Z
+time: 2024-08-16T20:57:33.079Z
 shareable: true
 content:
   - tag: list
@@ -23,6 +23,7 @@ content:
         icon: metal
         path: grad
 
+      # TODO: Update at 2024-09
       - text: 2022 - 2023 学年通知
         icon: notice
         url: notice-detail?id=453b33b80f4a49668052bdc7c5fd2bd6&title=关于开展2022-2023学年研究生评奖评优工作的通知

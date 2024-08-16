@@ -17,6 +17,7 @@
   "scripts": {
     "build:site": "vuepress build site",
     "commit:skip": "git commit --no-verify",
+    "check-images": "tsx ./scripts/gen/images.ts",
     "dev:site": "vuepress dev site",
     "generate": "tsx ./scripts/gen/index.ts",
     "generate:account": "tsx ./scripts/gen/account.ts",

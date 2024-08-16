@@ -1,7 +1,7 @@
 title: 2023-2024学年资助对象认定通知
 icon: notice
 author: Mr.Hope
-time: 2023-09-23T11:16:45.591Z
+time: 2024-08-16T20:57:33.089Z
 shareable: true
 cite:
   - https://m.nenu.edu.cn/page/viewNews?ID=8b9f8f5a3c7842ada1d9e0484659cb7d
@@ -9,6 +9,7 @@ content:
   - tag: list
     header: 通知公告
     items:
+      # TODO: Update at 2024-09
       - text: 2023-2024学年资助对象认定
         icon: notice
         url: notice-detail?id=8b9f8f5a3c7842ada1d9e0484659cb7d&title=2022-2023学年资助对象评定

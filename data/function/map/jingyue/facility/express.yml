@@ -23,4 +23,4 @@ content:
 
       - text: 临时取件点
         icon: express
-        path: /guide/express/jingyue-temp
+        path: /guide/express/jingyue-out

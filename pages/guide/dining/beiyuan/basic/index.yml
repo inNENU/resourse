@@ -1,7 +1,7 @@
 title: 北苑基本餐
 icon: dining
 author: Mr.Hope
-time: 2023-11-18T09:23:54.232Z
+time: 2024-08-16T20:57:33.379Z
 shareable: true
 content:
   - tag: text
@@ -19,15 +19,15 @@ content:
       - 受菜品数量限制，早餐可能提前结束
 
   - tag: img
-    src: $img/dining/beiyuan/basic-breakfast1.jpg?v=0000
+    src: $img/dining/beiyuan/basic-breakfast1.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-breakfast2.jpg?v=0000
+    src: $img/dining/beiyuan/basic-breakfast2.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-breakfast3.jpg?v=0000
+    src: $img/dining/beiyuan/basic-breakfast3.jpg
     watermark: true
 
   - tag: text
@@ -45,31 +45,31 @@ content:
       - 受菜品数量限制，晚餐可能提前结束
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner1.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner1.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner2.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner2.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner3.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner3.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner4.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner4.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner5.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner5.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner6.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner6.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic-dinner7.jpg?v=202311
+    src: $img/dining/beiyuan/basic-dinner7.jpg
     watermark: true
 
   - tag: ul
@@ -77,12 +77,12 @@ content:
       - "相关照片"
 
   - tag: img
-    src: $img/dining/beiyuan/basic0.jpg?v=0000
+    src: $img/dining/beiyuan/basic0.jpg
     desc: 餐盘餐具
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/basic.jpg?v=0000
+    src: $img/dining/beiyuan/basic.jpg
     desc: 荤菜区
     watermark: true
 
@@ -105,21 +105,21 @@ content:
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/env1.jpg?v=0000
+    src: $img/dining/beiyuan/env1.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/env2.jpg?v=202311
+    src: $img/dining/beiyuan/env2.jpg
     desc: 北苑一楼基本餐区
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/env3.jpg?v=202311
+    src: $img/dining/beiyuan/env3.jpg
     desc: 北苑一楼基本餐区概览
     watermark: true
 
   - tag: img
-    src: $img/dining/beiyuan/env4.jpg?v=0000
+    src: $img/dining/beiyuan/env4.jpg
     desc: 北苑一楼北侧
     watermark: true
 

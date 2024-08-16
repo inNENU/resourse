@@ -1,14 +1,14 @@
 title: 北苑基本餐价格
 icon: money
 author: Mr.Hope
-time: 2023-10-29T15:45:39.352Z
+time: 2024-08-16T20:57:33.380Z
 shareable: true
 content:
   - tag: title
     text: 基本餐价格
 
   - tag: img
-    src: $img/dining/beiyuan/basic-price.jpg?v=202310
+    src: $img/dining/beiyuan/basic-price.jpg
     watermark: true
 
   - tag: ul

@@ -1,11 +1,12 @@
 title: 英语免修评定
 icon: exemption
 author: Mr.Hope
-time: 2024-07-14T15:54:42.460Z
+time: 2024-08-16T20:57:33.335Z
 shareable: true
 content:
   - tag: list
     items:
+      # TODO: Update at 2024-09
       - text: 2024 年春季学期通知
         icon: notice
         url: notice-detail?id=fecf751a81464518a43be6cc98c79dad&title=关于开展2024年春季学期大学英语免修工作的通知
@@ -48,12 +49,12 @@ content:
       - 也就是说，如果您英语足够好，在分班考试就达到了 80 分的话，您就可以直接免修了。
       - 如果您大一上期末考了 80 分以上，或者是入校第一次四六级满足要求也可以免修下学期的课程。
 
-  - tag: title
-    text: 申请方式
+  # - tag: title
+  #   text: 申请方式
 
-  - tag: list
-    header: false
-    items:
-      - text: 英语免修申请
-        icon: english
-        path: /guide/system/under/exemption/english
+  # - tag: list
+  #   header: false
+  #   items:
+  #     - text: 英语免修申请
+  #       icon: english
+  #       path: /guide/system/under/exemption/english

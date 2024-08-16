@@ -1,7 +1,7 @@
 title: 课程免修
 icon: exemption
 author: Mr.Hope
-time: 2023-09-23T10:52:59.538Z
+time: 2024-08-16T20:57:33.708Z
 shareable: true
 content:
   - tag: title
@@ -26,15 +26,15 @@ content:
   - tag: img
     src: $img/action/exemption.jpg
 
-  - tag: title
-    text: 课程免修申请
+  # - tag: title
+  #   text: 课程免修申请
 
-  - tag: list
-    header: false
-    items:
-      - text: 免修申请
-        icon: exemption
-        path: /guide/system/under/exemption/others
+  # - tag: list
+  #   header: false
+  #   items:
+  #     - text: 免修申请
+  #       icon: exemption
+  #       path: /guide/system/under/exemption/others
 
   - tag: title
     text: 英语免修
@@ -46,9 +46,9 @@ content:
         icon: plan
         path: /guide/course/english/exemption
 
-      - text: 英语免修申请操作
-        icon: exemption
-        path: /guide/system/under/exemption/english
+      # - text: 英语免修申请操作
+      #   icon: exemption
+      #   path: /guide/system/under/exemption/english
 
   - tag: title
     text: 计算机免修

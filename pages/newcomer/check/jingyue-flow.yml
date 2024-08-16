@@ -1,7 +1,7 @@
 title: 净月报到流程
 icon: flow
 author: Mr.Hope
-time: 2024-08-16T05:53:03.628Z
+time: 2024-08-16T20:57:32.828Z
 shareable: true
 content:
   - tag: text
@@ -58,10 +58,9 @@ content:
     text:
       - 前往图书馆门口对应学院的报到处报到，完成入校登记。
 
-    # TODO: Update
   - tag: img
-    src: $img/check/jingyue-2023.jpg
-    desc: 净月 2023 年摆台示意图
+    src: $img/check/jingyue-check-2024.png
+    desc: 净月 2024 年摆台示意图
     watermark: true
 
   - tag: text

@@ -2,7 +2,7 @@ title: 净月理发/美甲
 icon: haircut
 desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2023-09-23T10:52:59.374Z
+time: 2024-08-16T20:57:33.565Z
 shareable: true
 content:
   - tag: title
@@ -11,29 +11,15 @@ content:
   - tag: ul
     text:
       - |-
-        秀发型: 二食堂超市入口对面
-      - |-
         DL 发型设计: 学生浴池正门右侧
 
   - tag: location
     title: 净月理发店
     points:
-      - latitude: 43.825315
-        longitude: 125.425077
-        name: 秀发型
-        detail: 二食堂超市入口对面
-
       - latitude: 43.826169
         longitude: 125.420948
         name: DL 发型设计
         detail: 学生浴池正门右侧
-
-  - tag: text
-    heading: 秀发型
-
-  - tag: img
-    src: $img/life/dining2/show-hair.jpg
-    watermark: true
 
   - tag: text
     heading: DL 发型设计

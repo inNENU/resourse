@@ -2,7 +2,7 @@ title: 入学绿色通道
 icon: green-tunnel
 grey: true
 author: Mr.Hope
-time: 2023-09-23T11:16:45.595Z
+time: 2024-08-16T20:57:33.092Z
 shareable: true
 content:
   - tag: list
@@ -11,9 +11,9 @@ content:
         icon: about
         path: intro
 
-      - text: 2023 年相关公告
+      - text: 2024 年公告
         icon: notice
-        url: notice-detail?id=785e0662988243b08e7d20ce058d8eed&title=关于做好2023年本科新生“绿色通道”工作的通知
+        url: notice-detail?id=ddd1aa0974904377ab30bbdc09a06725&title=关于做好2024年本科新生“绿色通道”工作的通知
 
   - tag: doc
     name: 东北师范大学本科学生“绿色通道”申请表

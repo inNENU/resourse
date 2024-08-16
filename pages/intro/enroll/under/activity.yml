@@ -1,8 +1,9 @@
 title: 官方招生活动
 icon: activity
 author: Mr.Hope
-time: 2023-09-23T11:16:45.456Z
+time: 2024-08-16T20:57:32.973Z
 shareable: true
 content:
+  # FIXME: Update
   - tag: img
     src: $img/enroll/2023-activity.png

@@ -1,7 +1,7 @@
 title: 献血
 icon: heart
 author: Mr.Hope
-time: 2023-10-23T08:51:40.689Z
+time: 2024-08-16T20:57:32.723Z
 shareable: true
 content:
   - tag: title
@@ -21,6 +21,7 @@ content:
   - tag: list
     header: false
     items:
+      # TODO: Update at 2024-09
       - text: 2023 年无偿献血通知
         icon: notice
         url: notice-detail?title=关于组织学生参加2023年无偿献血活动的通知&id=31f8113617714fa39ebf29db8bda733f

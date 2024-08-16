@@ -1,11 +1,12 @@
 title: 普通话水平测试
 icon: putong
 author: Mr.Hope
-time: 2024-05-22T11:27:02.814Z
+time: 2024-08-16T20:57:33.482Z
 shareable: true
 content:
   - tag: list
     items:
+      # TODO: Update at 2024-09
       - text: 2024 年春季学期报名
         icon: notice
         url: notice-detail?id=010a911e4eb64db09b5c70fbfa940f90&title=关于2024年春季学期普通话水平测试网上报名工作的通知

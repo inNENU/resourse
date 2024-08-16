@@ -1,7 +1,7 @@
 title: 净月照相
 icon: photo
 author: Mr.Hope
-time: 2023-09-23T10:52:59.407Z
+time: 2024-08-16T20:57:33.587Z
 shareable: true
 content:
   - tag: title
@@ -10,23 +10,6 @@ content:
   - tag: text
     type: warning
     text: 请注意净月校区目前暂无专业的照相馆。
-
-  - tag: ul
-    text:
-      - 学子图文
-
-  - tag: text
-    heading: 学子图文
-    text:
-      - 又名师大图文，可以进行简单的证件照拍照
-
-  - tag: img
-    src: $img/life/dining2/xuezi1.jpg
-    watermark: true
-
-  - tag: img
-    src: $img/life/dining2/xuezi2.jpg
-    watermark: true
 
   - tag: title
     text: 校外店铺

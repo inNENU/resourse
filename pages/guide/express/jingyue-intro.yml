@@ -1,7 +1,7 @@
 title: 净月校区快递介绍
 icon: about
 author: Mr.Hope
-time: 2023-09-23T08:04:54.200Z
+time: 2024-08-16T20:57:33.493Z
 shareable: true
 content:
   - tag: text
@@ -55,9 +55,17 @@ content:
   - tag: title
     text: 快递中心
 
+  - tag: img
+    src: $img/express/jingyue/map.png
+    watermark: true
+
   - tag: list
     header: false
     items:
       - text: 菜鸟驿站
         icon: cainiao
         path: jingyue-cainiao
+
+      - text: 户外取件点
+        icon: express
+        path: jingyue-out

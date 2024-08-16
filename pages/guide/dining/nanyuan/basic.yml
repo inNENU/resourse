@@ -1,7 +1,7 @@
 title: 南苑基本餐
 icon: dining
 author: Mr.Hope
-time: 2024-01-13T04:17:33.748Z
+time: 2024-08-16T20:57:33.410Z
 shareable: true
 content:
   - tag: title
@@ -38,23 +38,23 @@ content:
       - 受菜品数量限制，晚餐可能提前结束
 
   - tag: img
-    src: $img/dining/nanyuan/basic-dinner0.jpg?v=202311
+    src: $img/dining/nanyuan/basic-dinner0.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic-dinner1.jpg?v=202311
+    src: $img/dining/nanyuan/basic-dinner1.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic-dinner2.jpg?v=202311
+    src: $img/dining/nanyuan/basic-dinner2.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic-dinner3.jpg?v=202311
+    src: $img/dining/nanyuan/basic-dinner3.jpg
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic-dinner4.jpg?v=202311
+    src: $img/dining/nanyuan/basic-dinner4.jpg
     watermark: true
 
   - tag: ul
@@ -62,31 +62,31 @@ content:
       - "相关照片"
 
   - tag: img
-    src: $img/dining/nanyuan/basic1.jpg?v=202311
+    src: $img/dining/nanyuan/basic1.jpg
     desc: 二楼基本餐区西侧入口
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic2.jpg?v=202311
+    src: $img/dining/nanyuan/basic2.jpg
     desc: 西侧餐具
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic3.jpg?v=202311
+    src: $img/dining/nanyuan/basic3.jpg
     desc: 免费汤
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic4.jpg?v=202311
+    src: $img/dining/nanyuan/basic4.jpg
     desc: 眼镜布 (冬季)
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic5.jpg?v=202311
+    src: $img/dining/nanyuan/basic5.jpg
     desc: 二楼基本餐区东侧入口
     watermark: true
 
   - tag: img
-    src: $img/dining/nanyuan/basic6.jpg?v=202311
+    src: $img/dining/nanyuan/basic6.jpg
     desc: 东侧餐具
     watermark: true

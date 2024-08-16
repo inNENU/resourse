@@ -1,7 +1,7 @@
 title: 运动会介绍
 icon: sports
 author: Mr.Hope
-time: 2024-07-28T10:30:18.938Z
+time: 2024-08-16T20:57:32.864Z
 shareable: true
 content:
   - tag: title
@@ -36,6 +36,9 @@ content:
 
   - tag: img
     src: $img/activity/sport-meeting/open5.jpg
+
+  - tag: img
+    src: $img/activity/sport-meeting/open6.jpg
 
   - tag: title
     text: 比赛

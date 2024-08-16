@@ -1,14 +1,15 @@
 title: 网络课程
 icon: network
 author: Mr.Hope
-time: 2023-09-22T16:59:13.468Z
+time: 2024-08-16T20:57:33.328Z
 shareable: true
 content:
   - tag: list
     items:
-      - text: 2023年秋季学期通识教育网络选修课程开课通知
+      # TODO: Update at 2024-09
+      - text: 2024年春季学期通识教育网络选修课程开课通知
         icon: notice
-        url: notice-detail?id=1e01067aa1de4659b1b903e44df8336e&title=关于开展2023年秋季学期通识教育网络选修课程开课的通知
+        url: notice-detail?id=4b15381cfb974f6baf51b65e3f24c7ff&title=关于开展2024年春季学期通识教育网络选修课程开课的通知
 
   - tag: title
     text: 介绍
@@ -36,7 +37,7 @@ content:
     url: $file/course/zhihuishu.pptx
 
   - tag: text
-    heading: 尔雅
+    heading: 学堂在线
 
   - tag: doc
     name: 学堂云使用手册
