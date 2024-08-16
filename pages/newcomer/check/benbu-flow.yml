@@ -1,7 +1,7 @@
 title: 本部报到流程
 icon: flow
 author: Mr.Hope
-time: 2024-08-16T05:53:03.617Z
+time: 2024-08-16T07:15:27.319Z
 shareable: true
 content:
   - tag: text
@@ -67,8 +67,8 @@ content:
       - 前往惟真楼对面对应学院的报到处报到，完成入校登记。
 
   - tag: img
-    src: $img/check/benbu-2023.jpg
-    desc: 本部 2023 年摆台示意图
+    src: $img/check/benbu-2024.png
+    desc: 本部 2024 年摆台示意图
     watermark: true
 
   - tag: text
