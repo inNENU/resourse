@@ -1,0 +1,53 @@
+title: 缓冲区音乐社
+shareable: true
+content:
+  - tag: account
+    name: 缓冲区音乐社
+    # logo: $img/association/astronomy/logo.jpg
+    desc: 东北师范大学缓冲区音乐社
+    # qqcode: $img/media/astronomy-qq-qrcode.png
+
+  # - tag: card
+  #   cover: $img/media/join.png
+  #   name: 缓冲区音乐社
+  #   title: 我们在纳新
+  #   path: astronomy-in
+
+  - tag: title
+    text: 简介
+
+  - tag: tedxt
+    heading: 社团指导单位
+    text:
+      - 民谣团所属于东北师范大学（净月校区）大学生艺术团。
+      - 缓冲区音乐社所属于东北师范大学外国语学院。
+      - (两个社团实际是一个组织)
+
+  - tag: p
+    heading: 社团使命愿景
+    text: 我们致力于丰富校园文化生活，为热爱音乐的学子提供缓解压力的方式，交流学习的平台，展现自我的机会，兼顾学校艺术表演任务，逐步展开歌唱交流比赛等其他活动。
+
+  - tag: text
+    heading: 社团人数
+    text:
+      - 120人
+
+  - tag: ul
+    heading: 代表性活动荣誉
+    text:
+      - 2020年高校音乐节
+      - 2021年参与社区义演
+      - 每年两次举办校内音乐节，社团日常会组织“音乐沙龙”，校园路演，器乐教学，交流团建等丰富多彩的活动。
+
+  - tag: text
+    heading: 经营理念与价值观
+    text:
+      - 音乐，是人们抒发情感的声音艺术，具有其他艺术形式不可替代的直观强烈的审美感受。民谣团正是一片由热烈，自由，美好的灵魂组成的领域，在这里，可以放慢脚步听见青春的躁动，忽略的确幸，生命的意义。
+
+  - tag: ul
+    heading: 社团官方账号
+    text:
+      - |-
+        BiliBili: 东师缓冲区音乐社
+      - |-
+        微信公众号: 缓冲区音乐社
