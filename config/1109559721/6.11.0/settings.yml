@@ -15,6 +15,11 @@ main-presets:
     #   title: 常见问题
     #   path: newcomer/faq/
 
+    - tag: card
+      cover: $img/tab/first-day.png
+      title: 大学第一天
+      path: newcomer/check/first-day
+
     # - tag: card
     #   cover: $img/tab/stream.png
     #   title: 经验分享与答疑
@@ -134,6 +139,11 @@ main-presets:
           path: guide/normal/
 
   newcomer:
+    - tag: card
+      cover: $img/tab/first-day.png
+      title: 大学第一天
+      path: newcomer/check/first-day
+
     - tag: functional-list
       header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
       items:
