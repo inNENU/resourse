@@ -62,6 +62,12 @@ main-presets:
           icon: dining
           path: guide/dining/
 
+        - text: 快递
+          color: olive
+          name: Express
+          icon: express
+          path: guide/express/
+
         - text: 洗浴
           color: red
           name: Bath
@@ -695,7 +701,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1081549 字，其中东师指南部分 333219 字，新生迎新部分 105601 字，东师介绍部分 339481 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39544 字，其他部分 47627 字。
+      - text: 小程序现有字数为 1081545 字，其中东师指南部分 333217 字，新生迎新部分 105599 字，东师介绍部分 339481 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39544 字，其他部分 47627 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about

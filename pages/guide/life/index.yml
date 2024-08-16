@@ -1,7 +1,7 @@
 title: 生活
 icon: life
 author: Mr.Hope
-time: 2024-08-16T06:48:43.752Z
+time: 2024-08-16T21:13:25.110Z
 shareable: true
 content:
   - tag: title
@@ -32,7 +32,8 @@ content:
     items:
       - text: 二食堂生活区介绍
         icon: shop
-        path: dining2-district
+        desc: 装修中
+        # path: dining2-district
 
       - text: 浴池生活区介绍
         icon: bath
