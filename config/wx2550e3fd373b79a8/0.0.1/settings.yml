@@ -143,6 +143,14 @@ main-presets:
           path: intro/grad/
 
   newcomer:
+    - tag: functional-list
+      header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
+      items:
+        - text: 向你的同学们分享小程序
+          icon: share
+          type: button
+          openType: share
+
     - tag: grid
       header: 您可能想关注
       items:
