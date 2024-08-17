@@ -3,7 +3,7 @@ icon: cainiao
 desc: 照片来自王慕梓
 author:
   - Mr.Hope
-time: 2023-09-23T08:04:54.199Z
+time: 2024-08-17T02:18:37.044Z
 shareable: true
 content:
   - tag: title
@@ -38,7 +38,10 @@ content:
       - EMS、邮政以及寄件在里面的左手边人工服务台
       - 京东在最里面中间的人工服务台。
       - 顺丰在最里面右手边的人工服务台。
-      # - 驿站外侧有两个固定的帐篷作为临时取件点，俗称“红色帐篷”和“橙色帐篷”。
+
+  - tag: img
+    src: $img/express/jingyue/map.png
+    watermark: true
 
   - tag: img
     src: $img/express/jingyue/cainiao.jpg

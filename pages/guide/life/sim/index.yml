@@ -1,13 +1,40 @@
 title: 校园卡政策对比
 icon: sim
 author: Mr.Hope
-time: 2023-09-23T10:52:59.414Z
+time: 2024-08-17T02:18:37.137Z
 shareable: true
 content:
   - tag: text
     type: tip
     heading: true
     text: 三大运营商在校内都有自己的营业厅，同时在每年迎新季为吸引新生同学，三大运营商都会推出较为优秀的套餐服务。
+
+  - tag: title
+    text: 电信套餐
+
+  - tag: img
+    src: $img/telecom1.jpg
+
+  - tag: img
+    src: $img/telecom2.jpg
+
+  - tag: title
+    text: 移动套餐
+
+  - tag: img
+    src: $img/mobile1.jpg
+
+  - tag: img
+    src: $img/mobile2.jpg
+
+  - tag: title
+    text: 中国联通
+
+  - tag: img
+    src: $img/unicom1.jpg
+
+  - tag: img
+    src: $img/unicom2.jpg
 
   - tag: text
     type: warning

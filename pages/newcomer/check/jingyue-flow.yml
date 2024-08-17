@@ -1,7 +1,9 @@
 title: 净月报到流程
 icon: flow
-author: Mr.Hope
-time: 2024-08-16T20:57:32.828Z
+author:
+  - Mr.Hope
+  - 王欣越
+time: 2024-08-17T02:18:36.391Z
 shareable: true
 content:
   - tag: text
@@ -76,26 +78,16 @@ content:
 
   - tag: img
     src: $img/check/jingyue-check1.jpg
-    desc: 报到处
-    watermark: true
-
-  - tag: img
-    src: $img/check/jingyue-check2.jpg
-    desc: 报到处
-    watermark: true
-
-  - tag: img
-    src: $img/check/jingyue-check3.jpg
-    desc: 报到处
-    watermark: true
-
-  - tag: img
-    src: $img/check/jingyue-check4.jpg
     desc: 报到现场
     watermark: true
 
   - tag: img
-    src: $img/check/jingyue-check5.jpg
+    src: $img/check/jingyue-check2.jpg
+    desc: 报到现场
+    watermark: true
+
+  - tag: img
+    src: $img/check/jingyue-check3.jpg
     desc: 报到现场
     watermark: true
 

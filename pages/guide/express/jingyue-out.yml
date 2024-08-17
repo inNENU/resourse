@@ -2,7 +2,7 @@ title: 净月户外取件点
 icon: express
 author:
   - Mr.Hope
-time: 2024-08-16T20:57:33.493Z
+time: 2024-08-17T02:18:37.046Z
 shareable: true
 content:
   - tag: title
@@ -13,4 +13,8 @@ content:
 
   - tag: img
     src: $img/express/jingyue/temp.jpg
+    watermark: true
+
+  - tag: img
+    src: $img/express/jingyue/map.png
     watermark: true
