@@ -1,7 +1,7 @@
 title: 净月食堂
 icon: dining
 author: Mr.Hope
-time: 2023-09-22T16:59:13.546Z
+time: 2024-08-17T02:31:30.539Z
 shareable: true
 content:
   - tag: text
@@ -28,6 +28,9 @@ content:
 
       - text: 二食堂
         path: dining2/
+
+      - text: 哈波格汉堡
+        path: haboge
 
   - tag: title
     text: 美食节
