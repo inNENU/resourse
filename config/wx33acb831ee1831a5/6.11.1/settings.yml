@@ -123,7 +123,7 @@ main-presets:
         - text: 校园卡
           color: purple
           name: Network
-          icon: network
+          icon: card
           path: guide/card/
 
         - text: 课程
