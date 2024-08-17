@@ -108,6 +108,18 @@ main-presets:
           icon: bath
           path: guide/bath/
 
+        - text: 校园网
+          color: red
+          name: Network
+          icon: network
+          path: guide/network/
+
+        - text: 校园卡
+          color: purple
+          name: Network
+          icon: network
+          path: guide/card/
+
         - text: 生活
           color: purple
           name: Life

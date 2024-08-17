@@ -114,6 +114,18 @@ main-presets:
           icon: life
           path: guide/life/
 
+        - text: 校园网
+          color: red
+          name: Network
+          icon: network
+          path: guide/network/
+
+        - text: 校园卡
+          color: purple
+          name: Network
+          icon: network
+          path: guide/card/
+
         - text: 课程
           color: orange
           name: Course
