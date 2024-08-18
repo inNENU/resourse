@@ -3,7 +3,13 @@ import { readFileSync } from "node:fs";
 import { getFileList } from "../utils/index.js";
 
 const images = new Set(
-  getFileList("img").filter((link) => !link.endsWith(".drawio")),
+  getFileList("img").filter(
+    (link) =>
+      !link.endsWith(".drawio") &&
+      !link.startsWith("tab/") &&
+      !link.startsWith("weather/") &&
+      !link.startsWith("inNENU"),
+  ),
 );
 
 const ignoreImages = [
@@ -11,8 +17,6 @@ const ignoreImages = [
   "donate/Wechat.jpg",
   "map/benbuMap.jpg",
   "map/jingyueMap.jpg",
-  // TODO: Update image name
-  "404pic.jpg",
 ];
 
 ignoreImages.forEach((image) => images.delete(image));
@@ -32,4 +36,9 @@ const removeExistingImages = (folder: string, path: string): void =>
   ),
 );
 
-console.log(images);
+console.log("Images not in use:\n");
+console.log(
+  Array.from(images)
+    .map((link) => `./img/${link}`)
+    .join("\n"),
+);
