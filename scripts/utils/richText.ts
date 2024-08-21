@@ -1,5 +1,6 @@
+/* eslint-disable @typescript-eslint/no-unsafe-argument */
 /* eslint-disable @typescript-eslint/no-unsafe-enum-comparison */
-import type { AnyNode } from "cheerio";
+import type { AnyNode } from "domhandler";
 
 import { parseHTML } from "./parser.js";
 
@@ -77,7 +78,9 @@ export const getText = (content: string | AnyNode[]): string => {
 
   return nodes
     .map((node) => {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-return, @typescript-eslint/no-unsafe-member-access
       if (node.type === "text") return node.data;
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
       if ("childNodes" in node) return getText(node.childNodes);
 
       return "";

@@ -100,6 +100,7 @@ export interface PickerListComponentItemOptions<T = any>
 
   /** 选择器所改变的变量在本地存储中的名称 */
   key: string;
+
   /**
    * picker 选择器对应的函数名称
    *
@@ -113,14 +114,15 @@ export interface PickerListComponentItemOptions<T = any>
    * 默认为多列选择器
    */
   single?: boolean;
+
   /**
    * 默认为弹出式 picker
    *
    * 设置 `true` 时为嵌入式 picker
    */
   inlay?: boolean;
-  /** picker 选择器对应的值 */
 
+  /** picker 选择器对应的值 */
   value?: T;
 }
 

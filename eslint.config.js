@@ -1,10 +1,9 @@
+/* eslint-disable import-x/no-unresolved */
 import hopeConfig, {
   config,
   globals,
   tsParser,
-  // eslint-disable-next-line import-x/no-unresolved
 } from "eslint-config-mister-hope";
-// eslint-disable-next-line import-x/no-unresolved
 import { vue, vueParser } from "eslint-config-mister-hope/vue";
 
 export default config(

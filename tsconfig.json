@@ -31,7 +31,7 @@
     "strictPropertyInitialization": true,
     "baseUrl": "./",
     "target": "ES2022",
-    "lib": ["ESNext"],
+    "lib": ["DOM", "ESNext"],
     "module": "NodeNext",
     "moduleResolution": "NodeNext"
   },

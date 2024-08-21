@@ -61,6 +61,7 @@
     "@types/markdown-it": "14.1.2",
     "@types/node": "22.4.2",
     "@types/qrcode": "1.5.5",
+    "domhandler": "5.0.3",
     "eslint": "9.9.0",
     "eslint-config-mister-hope": "0.2.3",
     "eslint-plugin-vue": "9.27.0",
