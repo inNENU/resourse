@@ -29,7 +29,7 @@ export const resolveAccount = (
       wxid: ["string", "undefined"],
       wxcode: ["string", "undefined"],
       account: ["string", "undefined"],
-      location: ["object", "undefined"],
+      loc: ["string", "undefined"],
       mail: ["string", "undefined"],
       site: ["string", "undefined"],
       env: ["string[]", "undefined"],
@@ -37,13 +37,12 @@ export const resolveAccount = (
     location,
   );
 
-  // check location
-  if (component.location)
-    checkKeys(
-      component.location,
-      { latitude: "number", longitude: "number" },
-      `${location}.location`,
-    );
+  if (component.loc) {
+    const [latitude, longitude] = component.loc.split(",").map(Number);
+
+    // @ts-expect-error: Backward compatibility
+    component.location = { latitude, longitude };
+  }
 };
 
 export const getAccountMarkdown = (

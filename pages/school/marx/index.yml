@@ -2,7 +2,7 @@ title: 马克思主义学部
 icon: marx
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.103Z
+time: 2024-08-24T13:07:16.940Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: gh_32d2742e1204
 
     account: marx
-    location:
-      latitude: 43.86268
-      longitude: 125.32826
+    loc: 43.86268,125.32826
     site: https://marxism.nenu.edu.cn/
 
   - tag: list

@@ -12,9 +12,7 @@ content:
     wxid: dongshihuayuan
 
     account: chemistry
-    location:
-      latitude: 43.86221
-      longitude: 125.33097
+    loc: 43.86221,125.33097
     mail: chem@nenu.deu.cn
     site: https://chem.nenu.edu.cn/
 

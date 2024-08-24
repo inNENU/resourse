@@ -1,7 +1,7 @@
 title: 净月校区校门
 icon: gate
 author: Mr.Hope
-time: 2024-07-28T10:30:18.907Z
+time: 2024-08-24T13:07:17.176Z
 shareable: true
 content:
   # TODO: Update at 2024-08
@@ -17,8 +17,7 @@ content:
   # - tag: location
   #   title: 正门
   #   points:
-  #     - latitude: 43.82853
-  #       longitude: 125.43107
+  #     - loc: 43.82853,125.43107
   #       detail: 1 号门
 
   # - tag: img
@@ -31,8 +30,7 @@ content:
   - tag: location
     title: 2 号门
     points:
-      - latitude: 43.829133
-        longitude: 125.427097
+      - loc: 43.829133,125.427097
         name: 二号门
         detail: 净月校区二号门
         path: jingyue/gate/gate2
@@ -56,8 +54,7 @@ content:
   - tag: location
     title: 4 号门
     points:
-      - latitude: 43.826572
-        longitude: 125.420067
+      - loc: 43.826572,125.420067
         name: 四号门
         detail: 净月校区四号门
         path: jingyue/gate/gate4

@@ -279,30 +279,21 @@ category: 小程序
 
 介绍组件，用于主体 Logo、网址、媒体号、口号展示。
 
-| 参数     | 必填 |      值类型      | 内容                        |
-| -------- | :--: | :--------------: | --------------------------- |
-| name     |  是  |     `string`     | 主体名称                    |
-| logo     |  是  |     `string`     | 头像图标在线地址            |
-| detail   |  否  |     `string`     | 主体的全称                  |
-| desc     |  否  |     `string`     | 主体描述                    |
-| qq       |  否  |     `number`     | 主体的 QQ 号                |
-| qqid     |  否  |     `string`     | 主体的 QQ Openid            |
-| qqcode   |  否  |     `string`     | 主体的 QQ 二维码地址        |
-| wxid     |  否  |     `string`     | 主体的微信公众号 ID         |
-| wxcode   |  否  |     `string`     | 主体的微信二维码地址        |
-| account  |  否  |     `string`     | 主体的微信公众号配置文件 ID |
-| location |  否  | `LocationConfig` | 主体的地址                  |
-| mail     |  否  |     `string`     | 主体的邮箱地址              |
-| site     |  否  |     `string`     | 主体的网站地址              |
-
-### LocationConfig
-
-地点配置
-
-| 参数      | 必填 |  值类型  | 内容 |
-| --------- | :--: | :------: | ---- |
-| longitude |  是  | `number` | 经度 |
-| latitude  |  是  | `number` | 维度 |
+| 参数    | 必填 |        值类型         | 内容                        | 备注                      |
+| ------- | :--: | :-------------------: | --------------------------- | ------------------------- |
+| name    |  是  |       `string`        | 主体名称                    |                           |
+| logo    |  是  |       `string`        | 头像图标在线地址            |                           |
+| detail  |  否  |       `string`        | 主体的全称                  |                           |
+| desc    |  否  |       `string`        | 主体描述                    |                           |
+| qq      |  否  |       `number`        | 主体的 QQ 号                |                           |
+| qqid    |  否  |       `string`        | 主体的 QQ Openid            |                           |
+| qqcode  |  否  |       `string`        | 主体的 QQ 二维码地址        |                           |
+| wxid    |  否  |       `string`        | 主体的微信公众号 ID         |                           |
+| wxcode  |  否  |       `string`        | 主体的微信二维码地址        |                           |
+| account |  否  |       `string`        | 主体的微信公众号配置文件 ID |                           |
+| loc     |  是  | `${number},${number}` | 位置信息                    | `latitude,longitude` 格式 |
+| mail    |  否  |       `string`        | 主体的邮箱地址              |                           |
+| site    |  否  |       `string`        | 主体的网站地址              |                           |
 
 ## location
 
@@ -318,13 +309,12 @@ category: 小程序
 
 点位配置
 
-| 参数      | 必填 |  值类型  | 内容         | 备注                |
-| --------- | :--: | :------: | ------------ | ------------------- |
-| longitude |  是  | `number` | 经度         |                     |
-| latitude  |  是  | `number` | 维度         |                     |
-| name      |  否  | `string` | 点位名称     | 默认同 `title`      |
-| detail    |  否  | `string` | 点位详情文字 | 默认为 `详情`       |
-| path      |  否  | `string` | 地点详情路径 | 基于 `function/map` |
+| 参数   | 必填 |        值类型         | 内容         | 备注                      |
+| ------ | :--: | :-------------------: | ------------ | ------------------------- |
+| loc    |  是  | `${number},${number}` | 位置信息     | `latitude,longitude` 格式 |
+| name   |  否  |       `string`        | 点位名称     | 默认同 `title`            |
+| detail |  否  |       `string`        | 点位详情文字 | 默认为 `详情`             |
+| path   |  否  |       `string`        | 地点详情路径 | 基于 `function/map`       |
 
 ## carousel
 

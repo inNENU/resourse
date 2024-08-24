@@ -1,7 +1,7 @@
 title: 本部书店
 icon: books
 author: Mr.Hope
-time: 2023-10-31T15:53:48.798Z
+time: 2024-08-24T13:07:18.287Z
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,7 @@ content:
   - tag: location
     title: 本部书店
     points:
-      - latitude: 43.862959
-        longitude: 125.332947
+      - loc: 43.862959,125.332947
         name: 樂读书庄
         detail: 北苑地下一楼北侧
 
@@ -57,8 +56,7 @@ content:
   - tag: location
     title: 校外书店
     points:
-      - latitude: 43.866902
-        longitude: 125.325731
+      - loc: 43.866902,125.325731
         detail: 学人书店
 
   - tag: ul

@@ -10,9 +10,7 @@ content:
     detail: 东北师范大学文学院
     wxid: dongshiwenyuan
     account: chinese
-    location:
-      latitude: 43.85947
-      longitude: 125.32917
+    loc: 43.85947,125.32917
     mail: chinese@nenu.edu.cn
     site: http://chinese.nenu.edu.cn/home
 

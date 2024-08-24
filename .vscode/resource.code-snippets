@@ -143,15 +143,11 @@
     "body": ["  - tag: location", "    title: $1", "    points:", "$0"],
     "description": "inset location",
   },
-  "location item": {
+  "point": {
     "scope": "yaml",
     "prefix": ["point"],
-    "body": [
-      "      - latitude: $1",
-      "        longitude: $2",
-      "${3:        detail: $4}",
-    ],
-    "description": "inset location",
+    "body": ["      - loc: $1", "${2:        detail: $2}"],
+    "description": "inset point",
   },
   "table": {
     "scope": "yaml",

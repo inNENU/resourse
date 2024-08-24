@@ -2,7 +2,7 @@ title: 音乐学院
 icon: music
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.140Z
+time: 2024-08-24T13:07:16.975Z
 shareable: true
 content:
   - tag: account
@@ -11,9 +11,7 @@ content:
     detail: 东北师范大学音乐学院
     wxid: yinwudongshi
     account: music
-    location:
-      latitude: 43.82651
-      longitude: 125.42935
+    loc: 43.82651,125.42935
     mail: yyxy@nenu.edu.cn
     site: https://music.nenu.edu.cn/
 

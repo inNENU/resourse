@@ -9,9 +9,7 @@ content:
     wxid: dongshihuanjing
 
     account: environment
-    location:
-      latitude: 43.825102
-      longitude: 125.426706
+    loc: 43.825102,125.426706
     site: https://hjxy.nenu.edu.cn
 
   - tag: list

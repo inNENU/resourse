@@ -2,7 +2,7 @@ title: 净月研究生寝室安排
 icon: dorm
 desc: 部分图片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2024-08-16T06:48:43.655Z
+time: 2024-08-24T13:07:18.145Z
 shareable: true
 content:
   - tag: title
@@ -16,24 +16,19 @@ content:
   - tag: location
     title: 净月研究生寝室
     points:
-      - latitude: 43.824705
-        longitude: 125.421396
+      - loc: 43.824705,125.421396
         name: 春华公寓
 
-      - latitude: 43.824732
-        longitude: 125.425748
+      - loc: 43.824732,125.425748
         name: 冬华公寓
 
-      - latitude: 43.826905
-        longitude: 125.422825
+      - loc: 43.826905,125.422825
         name: 日华公寓
 
-      - latitude: 43.826839
-        longitude: 125.421734
+      - loc: 43.826839,125.421734
         name: 月华公寓
 
-      - latitude: 43.825932
-        longitude: 125.422803
+      - loc: 43.825932,125.422803
         name: 星华公寓
 
   - tag: title

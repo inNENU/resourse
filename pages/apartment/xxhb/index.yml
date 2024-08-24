@@ -1,7 +1,7 @@
 title: 信息化办
 icon: tech
 author: Mr.Hope
-time: 2023-09-22T15:38:33.365Z
+time: 2024-08-24T13:07:16.697Z
 shareable: true
 content:
   - tag: account
@@ -25,8 +25,7 @@ content:
   - tag: location
     title: 本部信息化办
     points:
-      - latitude: 43.863429
-        longitude: 125.331542
+      - loc: 43.863429,125.331542
         detail: 惟真楼 315 (坐电梯到三楼按指示牌引导)
 
   - tag: ul
@@ -50,8 +49,7 @@ content:
   - tag: location
     title: 净月信息化办
     points:
-      - latitude: 43.824566
-        longitude: 125.425725
+      - loc: 43.824566,125.425725
         detail: 冬华公寓 2 楼，入口在冬华公寓正门左侧
 
   - tag: ul

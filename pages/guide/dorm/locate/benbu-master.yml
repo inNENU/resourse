@@ -2,7 +2,7 @@ title: 本部研究生寝室安排
 icon: dorm
 desc: 部分照片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2024-08-16T06:48:43.651Z
+time: 2024-08-24T13:07:18.139Z
 shareable: true
 content:
   - tag: title
@@ -16,33 +16,27 @@ content:
   - tag: location
     title: 本部研究生寝室
     points:
-      - latitude: 43.86359
-        longitude: 125.33286
+      - loc: 43.86359,125.33286
         name: 二舍
         path: benbu/dorm/dorm2
 
-      - latitude: 43.860830
-        longitude: 125.337208
+      - loc: 43.860830,125.337208
         name: 五舍
         path: benbu/dorm/dorm5
 
-      - latitude: 43.860096
-        longitude: 125.336292
+      - loc: 43.860096,125.336292
         name: 六舍
         path: benbu/dorm/dorm6
 
-      - latitude: 43.85993
-        longitude: 125.334912
+      - loc: 43.85993,125.334912
         name: 七舍
         path: benbu/dorm/dorm7
 
-      - latitude: 43.863105
-        longitude: 125.336730
+      - loc: 43.863105,125.336730
         name: 八舍
         path: benbu/dorm/dorm8
 
-      - latitude: 43.86129
-        longitude: 125.33649
+      - loc: 43.86129,125.33649
         name: 九舍
         path: benbu/dorm/dorm9
 

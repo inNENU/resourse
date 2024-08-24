@@ -13,9 +13,7 @@ content:
     wxid: gh_32d2742e1204
 
     account: marx
-    location:
-      latitude: 43.86268
-      longitude: 125.32826
+    loc: 43.86268,125.32826
     site: https://marxism.nenu.edu.cn/
 
   - tag: list

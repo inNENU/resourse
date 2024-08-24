@@ -1,7 +1,7 @@
 title: 2024 年报到时间地点
 icon: time
 author: Mr.Hope
-time: 2024-08-15T16:53:50.221Z
+time: 2024-08-24T13:07:17.184Z
 shareable: true
 content:
   - tag: title
@@ -74,26 +74,22 @@ content:
   - tag: location
     title: 本部报到校门与报到处
     points:
-      - latitude: 43.86409
-        longitude: 125.33468
+      - loc: 43.86409,125.33468
         name: 东北门
         detail: 东北师范大学东北门
         path: benbu/gate/north-east
 
-      - latitude: 43.86167
-        longitude: 125.325642
+      - loc: 43.86167,125.325642
         name: 西门
         detail: 东北师范大学西门(正门)
         path: benbu/gate/west
 
-      # - latitude: 43.85967
-      #   longitude: 125.33021
+      # - loc: 43.85967,125.33021
       #   name: 南门
       #   detail: 东北师范大学南门
       #   path: benbu/gate/south
 
-      - latitude: 43.863133
-        longitude: 125.331584
+      - loc: 43.863133,125.331584
         name: 报到处
         detail: 2024年本部报到处
 
@@ -105,25 +101,21 @@ content:
   # - tag: location
   #   title: 净月 2 号门
   #   points:
-  #     - latitude: 43.82886
-  #       longitude: 125.42689
+  #     - loc: 43.82886,125.42689
 
   - tag: location
     title: 净月报到校门与报到处
     points:
-      - latitude: 43.829067
-        longitude: 125.427172
+      - loc: 43.829067,125.427172
         name: 二号门
         detail: 净月校区二号门
         path: jingyue/gate/gate2
 
-      - latitude: 43.826572
-        longitude: 125.420067
+      - loc: 43.826572,125.420067
         name: 四号门
         detail: 净月校区四号门
         path: jingyue/gate/gate4
 
-      - latitude: 43.826361
-        longitude: 125.424778
+      - loc: 43.826361,125.424778
         name: 报到处
         detail: 2024年净月校区报到处

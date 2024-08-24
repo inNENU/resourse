@@ -3,7 +3,7 @@ icon: express
 author:
   - Mr.Hope
   - 战俊华
-time: 2024-08-16T05:53:04.304Z
+time: 2024-08-24T13:07:18.192Z
 shareable: true
 content:
   - tag: title
@@ -18,8 +18,7 @@ content:
   - tag: location
     title: 地下车库取件点
     points:
-      - latitude: 43.863823
-        longitude: 125.336528
+      - loc: 43.863823,125.336528
         detail: 三舍 AB 地下车库
 
   - tag: img

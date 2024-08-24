@@ -1,7 +1,7 @@
 title: 食堂
 icon: dining
 author: Mr.Hope
-time: 2024-08-17T02:31:30.537Z
+time: 2024-08-24T13:07:18.056Z
 grey: true
 shareable: true
 content:
@@ -19,13 +19,11 @@ content:
   - tag: location
     title: 本部食堂
     points:
-      - latitude: 43.86273
-        longitude: 125.33338
+      - loc: 43.86273,125.33338
         name: 北苑餐厅
         path: benbu/facility/beiyuan
 
-      - latitude: 43.860001
-        longitude: 125.3327
+      - loc: 43.860001,125.3327
         name: 南苑餐厅
         path: benbu/facility/nanyuan
 
@@ -46,13 +44,11 @@ content:
   - tag: location
     title: 净月食堂
     points:
-      - latitude: 43.82704
-        longitude: 125.42385
+      - loc: 43.82704,125.42385
         name: 一食堂
         path: jingyue/facility/dining1
 
-      - latitude: 43.825301
-        longitude: 125.424682
+      - loc: 43.825301,125.424682
         name: 二食堂
         path: jingyue/facility/dining2
 

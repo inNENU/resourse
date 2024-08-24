@@ -4,8 +4,6 @@ desc: |-
   关注 NENU 东小青，即时获取校园新鲜资讯，东小青带你做最 IN 的东师人! (原名: 东北师范大学东师青年)
 id: nenu-youth
 logo: $img/organization/newspaper/logo.png
-
-authorized: true
 article:
   - cover: https://mmbiz.qpic.cn/mmbiz_jpg/1ia7E117xHHkzkwT2Mn89LQjcibGaDQtS0X4ywpCmOzD8Yk1chjPOxKE3h3z7jOBD7TexhzibbFIOvmgHDpibLGhUA/0?wx_fmt=jpeg
     title: 国庆特刊 | 这个国庆，来一场“country walk”

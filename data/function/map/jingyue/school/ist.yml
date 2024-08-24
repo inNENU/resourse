@@ -9,9 +9,7 @@ content:
     wxid: dsxk2017
 
     account: ist
-    location:
-      latitude: 43.82572
-      longitude: 125.42695
+    loc: 43.82572,125.42695
     site: https://ist.nenu.edu.cn/
 
   - tag: list

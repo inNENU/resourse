@@ -25,6 +25,11 @@
         }
       }
     },
+    "loc": {
+      "description": "位置信息",
+      "type": "string",
+      "pattern": "^\\d{2,3}\\.\\d{3,6},\\d{2,3}\\.\\d{3,6}$"
+    },
     "location": {
       "type": "object",
       "properties": {
@@ -43,14 +48,6 @@
     "point": {
       "type": "object",
       "properties": {
-        "longitude": {
-          "description": "经度",
-          "type": "number"
-        },
-        "latitude": {
-          "description": "纬度",
-          "type": "number"
-        },
         "name": {
           "description": "点位名称",
           "type": "string"
@@ -59,12 +56,16 @@
           "description": "点位详情文字",
           "type": "string"
         },
+        "loc": {
+          "description": "位置信息",
+          "$ref": "#/$defs/loc"
+        },
         "path": {
           "description": "地点详情路径",
           "type": "string"
         }
       },
-      "required": ["longitude", "latitude"],
+      "required": ["loc"],
       "additionalProperties": false
     },
     "base-list-item": {
@@ -783,10 +784,9 @@
           "description": "主体的微信公众号配置文件 ID",
           "type": "string"
         },
-        "location": {
+        "loc": {
           "description": "主体的地址",
-          "type": "object",
-          "$ref": "#/$defs/location"
+          "$ref": "#/$defs/loc"
         },
         "mail": {
           "description": "主体的电子邮件",

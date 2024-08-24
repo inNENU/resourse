@@ -13,9 +13,7 @@ content:
     detail: 东北师范大学生命科学学院
     wxid: skyxxxczx2015
     account: biology
-    location:
-      latitude: 43.859984
-      longitude: 125.328941
+    loc: 43.859984,125.328941
     mail: sky@nenu.edu.cn
     site: https://sky.nenu.edu.cn/
 

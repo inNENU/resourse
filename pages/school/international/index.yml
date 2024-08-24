@@ -2,7 +2,7 @@ title: 国际汉学院
 icon: school
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.082Z
+time: 2024-08-24T13:07:16.917Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: nenuscs
 
     account: international
-    location:
-      latitude: 43.825102
-      longitude: 125.426706
+    loc: 43.825102,125.426706
     site: https://scs.nenu.edu.cn/
 
   - tag: list

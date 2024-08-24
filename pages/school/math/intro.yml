@@ -2,7 +2,7 @@ title: 数学与统计学院
 icon: about
 desc: |-
   来源: 2024 年本科招生指南
-time: 2024-06-22T19:16:14.251Z
+time: 2024-08-24T13:07:16.952Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -14,9 +14,7 @@ content:
     wxid: gh_83fa6f6e7577
 
     account: math
-    location:
-      latitude: 43.86014
-      longitude: 125.32797
+    loc: 43.86014,125.32797
     site: https://math.nenu.edu.cn/
 
   - tag: carousel

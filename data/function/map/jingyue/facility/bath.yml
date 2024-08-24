@@ -20,8 +20,7 @@ content:
   - tag: location
     title: 净月浴池
     points:
-      - latitude: 43.826263
-        longitude: 125.420696
+      - loc: 43.826263,125.420696
 
   - tag: text
     text:

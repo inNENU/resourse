@@ -1,7 +1,7 @@
 title: 本部食堂
 icon: dining
 author: Mr.Hope
-time: 2023-09-22T16:59:13.543Z
+time: 2024-08-24T13:07:18.053Z
 shareable: true
 content:
   - tag: text
@@ -10,13 +10,11 @@ content:
   - tag: location
     title: 本部食堂
     points:
-      - latitude: 43.86273
-        longitude: 125.33338
+      - loc: 43.86273,125.33338
         name: 北苑餐厅
         path: benbu/facility/beiyuan
 
-      - latitude: 43.860001
-        longitude: 125.3327
+      - loc: 43.860001,125.3327
         name: 南苑餐厅
         path: benbu/facility/nanyuan
 

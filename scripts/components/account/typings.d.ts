@@ -25,10 +25,7 @@ export interface AccountComponentOptions extends BaseComponentOptions {
   account?: string;
 
   /** 位置  */
-  location?: {
-    latitude: number;
-    longitude: number;
-  };
+  loc: `${number},${number}`;
   /** 邮箱地址 */
   mail?: string;
   /** 网站地址 */

@@ -1,7 +1,7 @@
 title: 净月打印复印
 icon: print
 author: Mr.Hope
-time: 2024-08-16T20:57:33.590Z
+time: 2024-08-24T13:07:18.352Z
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,7 @@ content:
   - tag: location
     title: 净月打印复印
     points:
-      - latitude: 43.826056
-        longitude: 125.420767
+      - loc: 43.826056,125.420767
         name: 云印社
 
   - tag: text

@@ -3,7 +3,7 @@ icon: cainiao
 desc: 照片来自王慕梓
 author:
   - Mr.Hope
-time: 2024-08-17T02:18:37.044Z
+time: 2024-08-24T13:07:18.200Z
 shareable: true
 content:
   - tag: title
@@ -16,8 +16,7 @@ content:
   - tag: location
     title: 菜鸟驿站
     points:
-      - latitude: 43.82504
-        longitude: 125.424923
+      - loc: 43.82504,125.424923
         detail: 二食堂东南角
 
   - tag: title

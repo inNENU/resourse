@@ -1,7 +1,7 @@
 title: 净月本科寝室安排
 icon: dorm
 author: Mr.Hope
-time: 2024-08-16T06:48:43.656Z
+time: 2024-08-24T13:07:18.146Z
 shareable: true
 content:
   - tag: text
@@ -12,24 +12,19 @@ content:
   - tag: location
     title: 净月本科生寝室
     points:
-      - latitude: 43.824705
-        longitude: 125.421396
+      - loc: 43.824705,125.421396
         name: 春华公寓
 
-      - latitude: 43.825324
-        longitude: 125.423039
+      - loc: 43.825324,125.423039
         name: 夏华公寓
 
-      - latitude: 43.824910
-        longitude: 125.423892
+      - loc: 43.824910,125.423892
         name: 秋华公寓
 
-      - latitude: 43.826905
-        longitude: 125.422825
+      - loc: 43.826905,125.422825
         name: 日华公寓
 
-      - latitude: 43.825486
-        longitude: 125.421076
+      - loc: 43.825486,125.421076
         name: 光华公寓
 
   - tag: title

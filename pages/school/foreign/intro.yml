@@ -2,7 +2,7 @@ title: 外国语学院
 icon: about
 desc: |-
   来源: 2024 年本科招生指南
-time: 2024-07-03T08:50:13.432Z
+time: 2024-08-24T13:07:16.872Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -14,9 +14,7 @@ content:
     wxid: nenuwgy
 
     account: foreign
-    location:
-      latitude: 43.8611
-      longitude: 125.32707
+    loc: 43.8611,125.32707
     mail: wy@nenu.edu.cn
     site: https://wy.nenu.edu.cn/
 

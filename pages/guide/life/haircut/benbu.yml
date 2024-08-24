@@ -1,7 +1,7 @@
 title: 本部理发/美甲
 icon: haircut
 author: Mr.Hope
-time: 2024-08-15T16:53:51.529Z
+time: 2024-08-24T13:07:18.310Z
 shareable: true
 content:
   - tag: title
@@ -17,13 +17,11 @@ content:
   - tag: location
     title: 本部理发店
     points:
-      - latitude: 43.862628
-        longitude: 125.333041
+      - loc: 43.862628,125.333041
         name: 艺美 MT 造型
         detail: 北苑地下一楼东南角
 
-      - latitude: 43.862922
-        longitude: 125.332618
+      - loc: 43.862922,125.332618
         name: 喜宝美甲美睫皮肤管理
         detail: 北苑地下一楼西北角
 

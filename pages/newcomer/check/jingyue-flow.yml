@@ -3,7 +3,7 @@ icon: flow
 author:
   - Mr.Hope
   - 王欣越
-time: 2024-08-17T02:18:36.391Z
+time: 2024-08-24T13:07:17.174Z
 shareable: true
 content:
   - tag: text
@@ -17,20 +17,17 @@ content:
   - tag: location
     title: 净月报到校门与报到处
     points:
-      - latitude: 43.829067
-        longitude: 125.427172
+      - loc: 43.829067,125.427172
         name: 二号门
         detail: 净月校区二号门
         path: jingyue/gate/gate2
 
-      - latitude: 43.826572
-        longitude: 125.420067
+      - loc: 43.826572,125.420067
         name: 四号门
         detail: 净月校区四号门
         path: jingyue/gate/gate4
 
-      - latitude: 43.826361
-        longitude: 125.424778
+      - loc: 43.826361,125.424778
         name: 报到处
         detail: 2024年净月校区报到处
 
@@ -61,7 +58,7 @@ content:
       - 前往图书馆门口对应学院的报到处报到，完成入校登记。
 
   - tag: img
-    src: $img/check/jingyue-check-2024.png
+    src: $img/check/jingyue-2024.png
     desc: 净月 2024 年摆台示意图
     watermark: true
 

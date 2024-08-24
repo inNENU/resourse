@@ -2,7 +2,7 @@ title: 环境学院
 icon: environment
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.028Z
+time: 2024-08-24T13:07:16.858Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: dongshihuanjing
 
     account: environment
-    location:
-      latitude: 43.825095
-      longitude: 125.426731
+    loc: 43.825095,125.426731
     site: https://hjxy.nenu.edu.cn
 
   - tag: list

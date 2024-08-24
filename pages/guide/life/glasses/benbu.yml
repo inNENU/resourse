@@ -2,7 +2,7 @@ title: 本部眼镜店
 icon: glasses
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2023-09-23T10:52:59.368Z
+time: 2024-08-24T13:07:18.306Z
 shareable: true
 content:
   - tag: title
@@ -16,8 +16,7 @@ content:
   - tag: location
     title: 本部眼镜店
     points:
-      - latitude: 43.862525
-        longitude: 125.337083
+      - loc: 43.862525,125.337083
         name: 镜舍
         detail: 浴池正门里右转
 

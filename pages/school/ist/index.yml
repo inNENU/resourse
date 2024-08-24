@@ -2,7 +2,7 @@ title: 信息科学与技术学院
 icon: ist
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.089Z
+time: 2024-08-24T13:07:16.925Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: dsxk2017
 
     account: ist
-    location:
-      latitude: 43.825714
-      longitude: 125.426986
+    loc: 43.825714,125.426986
     site: https://ist.nenu.edu.cn/
 
   - tag: list

@@ -1,7 +1,7 @@
 title: 净月洗衣店
 icon: washer
 author: Mr.Hope
-time: 2023-09-23T10:52:59.417Z
+time: 2024-08-24T13:07:18.359Z
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,7 @@ content:
   - tag: location
     title: 净月洗衣店
     points:
-      - latitude: 43.826169
-        longitude: 125.421143
+      - loc: 43.826169,125.421143
         name: 糖果洗衣
         detail: 浴池后侧
 

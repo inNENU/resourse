@@ -11,9 +11,7 @@ content:
     wxid: nenuscs
 
     account: international
-    location:
-      latitude: 43.825102
-      longitude: 125.426706
+    loc: 43.825102,125.426706
     site: https://scs.nenu.edu.cn/
 
   - tag: list

@@ -2,7 +2,7 @@ title: 物理学院介绍
 icon: about
 desc: |-
   来源: 2024 年本科招生指南
-time: 2024-06-22T19:16:14.281Z
+time: 2024-08-24T13:07:16.999Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -14,9 +14,7 @@ content:
     wxid: nenuphy
 
     account: phy
-    location:
-      latitude: 43.86133
-      longitude: 125.33095
+    loc: 43.86133,125.33095
     site: http://www.phy.nenu.edu.cn/
 
   - tag: carousel

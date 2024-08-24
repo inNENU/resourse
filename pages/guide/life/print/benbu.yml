@@ -1,7 +1,7 @@
 title: 本部打印复印
 icon: print
 author: Mr.Hope
-time: 2023-10-29T15:45:39.745Z
+time: 2024-08-24T13:07:18.349Z
 shareable: true
 content:
   - tag: title
@@ -26,33 +26,27 @@ content:
   - tag: location
     title: 本部打印复印
     points:
-      - latitude: 43.862054
-        longitude: 125.336108
+      - loc: 43.862054,125.336108
         name: 好又快图文店
         detail: 新浴池正门右侧
 
-      - latitude: 43.862576
-        longitude: 125.332823
+      - loc: 43.862576,125.332823
         name: 北苑复印店
         detail: 北苑地下一楼南侧
 
-      - latitude: 43.862576
-        longitude: 125.332830
+      - loc: 43.862576,125.332830
         name: 云印空间
         detail: 北苑地下一楼南侧
 
-      - latitude: 43.860107
-        longitude: 125.333552
+      - loc: 43.860107,125.333552
         name: 南苑复印店
         detail: 南苑餐厅东门
 
-      - latitude: 43.861629
-        longitude: 125.328177
+      - loc: 43.861629,125.328177
         name: 春辉图文
         detail: 图书馆一楼右侧
 
-      - latitude: 43.861814
-        longitude: 125.328197
+      - loc: 43.861814,125.328197
         name: 图书馆电子阅览室
 
   - tag: text

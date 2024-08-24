@@ -1,7 +1,7 @@
 title: 入学体检
 icon: medical-exam
 author: Mr.Hope
-time: 2024-08-05T08:53:15.717Z
+time: 2024-08-24T13:07:17.186Z
 shareable: true
 content:
   - tag: title
@@ -40,13 +40,11 @@ content:
   - tag: location
     title: 本部
     points:
-      - latitude: 43.862803
-        longitude: 125.325728
+      - loc: 43.862803,125.325728
         name: 校医院
 
   - tag: location
     title: 净月
     points:
-      - latitude: 43.8257228
-        longitude: 125.4244387
+      - loc: 43.8257228,125.4244387
         name: 校医院

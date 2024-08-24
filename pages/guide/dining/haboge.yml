@@ -3,7 +3,7 @@ icon: hamburger
 author:
   - Mr.Hope
   - 王霞
-time: 2024-08-17T02:31:30.536Z
+time: 2024-08-24T13:07:18.054Z
 shareable: true
 content:
   - tag: text
@@ -12,8 +12,7 @@ content:
   - tag: location
     title: 哈波格汉堡
     points:
-      - latitude: 43.826128
-        longitude: 125.420734
+      - loc: 43.826128,125.420734
 
   - tag: img
     src: $img/dining/haboge.jpg

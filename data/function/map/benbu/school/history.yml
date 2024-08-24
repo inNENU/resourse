@@ -14,9 +14,7 @@ content:
     wxid: dssyxl
 
     account: history
-    location:
-      latitude: 43.8603
-      longitude: 125.3304
+    loc: 43.8603,125.3304
     mail: sohac@nenu.edu.cn
     site: https://sohac.nenu.edu.cn/
 

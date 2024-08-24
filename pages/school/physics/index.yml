@@ -1,7 +1,7 @@
 title: 物理学院
 icon: physics
 author: Mr.Hope
-time: 2023-10-29T17:18:50.163Z
+time: 2024-08-24T13:07:16.998Z
 shareable: true
 content:
   - tag: account
@@ -11,9 +11,7 @@ content:
     wxid: nenuphy
 
     account: phy
-    location:
-      latitude: 43.86133
-      longitude: 125.33095
+    loc: 43.86133,125.33095
     site: http://www.phy.nenu.edu.cn/
 
   - tag: list

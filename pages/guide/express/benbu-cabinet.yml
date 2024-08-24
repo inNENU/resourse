@@ -4,7 +4,7 @@ author:
   - Mr.Hope
   - 战俊华
   - 小源
-time: 2024-08-15T16:53:51.426Z
+time: 2024-08-24T13:07:18.188Z
 shareable: true
 content:
   - tag: title
@@ -22,8 +22,7 @@ content:
   - tag: location
     title: 本部快递柜
     points:
-      - latitude: 43.863654
-        longitude: 125.336322
+      - loc: 43.863654,125.336322
 
   - tag: img
     src: $img/express/benbu/cabinet.jpg

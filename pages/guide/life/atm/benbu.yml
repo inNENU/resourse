@@ -2,7 +2,7 @@ title: 本部存取款
 icon: atm
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2023-09-23T10:52:59.344Z
+time: 2024-08-24T13:07:18.279Z
 shareable: true
 content:
   - tag: title
@@ -11,8 +11,7 @@ content:
   - tag: location
     title: ATM 位置
     points:
-      - latitude: 43.862596
-        longitude: 125.333357
+      - loc: 43.862596,125.333357
         detail: 北苑大厅东南角
 
   - tag: text
@@ -34,20 +33,16 @@ content:
   - tag: location
     title: 校外银行
     points:
-      - latitude: 43.863856
-        longitude: 125.327805
+      - loc: 43.863856,125.327805
         name: 交通银行
 
-      - latitude: 43.863774
-        longitude: 125.327014
+      - loc: 43.863774,125.327014
         name: 中国银行
 
-      - latitude: 43.865864
-        longitude: 125.325717
+      - loc: 43.865864,125.325717
         name: 中国工商银行
 
-      - latitude: 43.865182
-        longitude: 125.325864
+      - loc: 43.865182,125.325864
         name: 华夏银行
 
   - tag: text

@@ -2,7 +2,7 @@ title: 生命科学学院介绍
 icon: about
 desc: |-
   来源: 2024 年本科招生指
-time: 2024-06-22T19:16:14.137Z
+time: 2024-08-24T13:07:16.771Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -14,9 +14,7 @@ content:
     wxid: skyxxxczx2015
 
     account: biology
-    location:
-      latitude: 43.859984
-      longitude: 125.328941
+    loc: 43.859984,125.328941
     mail: sky@nenu.edu.cn
     site: https://sky.nenu.edu.cn/
 

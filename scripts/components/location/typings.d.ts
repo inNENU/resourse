@@ -1,14 +1,12 @@
 import type { BaseComponentOptions } from "../common.js";
 
 export interface LocationConfig {
+  /** 位置信息 */
+  loc: `${number},${number}`;
   /** 地点名称 */
   name?: string;
   /** 地点详情 */
   detail?: string;
-  /** 维度 */
-  latitude: number;
-  /** 经度 */
-  longitude: number;
   /** 地图模块中的路径 */
   path?: string;
 }

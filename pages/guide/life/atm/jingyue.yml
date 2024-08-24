@@ -1,7 +1,7 @@
 title: 净月存取款
 icon: atm
 author: Mr.Hope
-time: 2024-08-16T05:53:04.366Z
+time: 2024-08-24T13:07:18.281Z
 shareable: true
 content:
   - tag: title
@@ -10,8 +10,7 @@ content:
   - tag: location
     title: ATM 位置
     points:
-      - latitude: 43.82737
-        longitude: 125.423382
+      - loc: 43.82737,125.423382
 
   - tag: text
     text:
@@ -31,10 +30,8 @@ content:
   - tag: location
     title: 校外银行
     points:
-      - latitude: 43.827252
-        longitude: 125.435045
+      - loc: 43.827252,125.435045
         name: 交通银行
 
-      - latitude: 43.827027
-        longitude: 125.43547
+      - loc: 43.827027,125.43547
         name: 邮政储蓄银行

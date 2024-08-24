@@ -1,7 +1,7 @@
 title: 本部本科寝室安排
 icon: dorm
 author: Mr.Hope
-time: 2024-08-16T06:48:43.652Z
+time: 2024-08-24T13:07:18.141Z
 shareable: true
 content:
   - tag: text
@@ -15,27 +15,22 @@ content:
   - tag: location
     title: 本部本科生寝室
     points:
-      - latitude: 43.86359
-        longitude: 125.337491
+      - loc: 43.86359,125.337491
         name: 三舍 A
         path: benbu/dorm/dorm3A
 
-      - latitude: 43.86354
-        longitude: 125.336986
+      - loc: 43.86354,125.336986
         name: 三舍 B
         path: benbu/dorm/dorm3B
 
-      - latitude: 43.863549
-        longitude: 125.335808
+      - loc: 43.863549,125.335808
         name: 三舍 C
         path: benbu/dorm/dorm3C
 
-      - latitude: 43.863553
-        longitude: 125.335019
+      - loc: 43.863553,125.335019
         name: 留学生公寓
 
-      - latitude: 43.859127
-        longitude: 125.326921
+      - loc: 43.859127,125.326921
         name: 体育宿舍
         path: benbu/dorm/pe
 

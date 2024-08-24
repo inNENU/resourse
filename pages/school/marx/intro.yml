@@ -2,7 +2,7 @@ title: 马克思主义学部
 icon: about
 desc: |-
   来源: 2024 年本科招生指南
-time: 2024-06-22T19:16:14.245Z
+time: 2024-08-24T13:07:16.943Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -14,9 +14,7 @@ content:
     wxid: gh_32d2742e1204
 
     account: marx
-    location:
-      latitude: 43.86268
-      longitude: 125.32826
+    loc: 43.86268,125.32826
     site: https://marxism.nenu.edu.cn/
 
   - tag: carousel

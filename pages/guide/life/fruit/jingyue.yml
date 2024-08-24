@@ -1,7 +1,7 @@
 title: 净月水果店
 icon: fruit
 author: Mr.Hope
-time: 2024-08-16T20:57:33.560Z
+time: 2024-08-24T13:07:18.304Z
 shareable: true
 content:
   - tag: title
@@ -19,18 +19,15 @@ content:
   - tag: location
     title: 净月水果店
     points:
-      - latitude: 43.826136
-        longitude: 125.420682
+      - loc: 43.826136,125.420682
         name: 天猫校园鲜果小铺
         detail: 浴池正门左侧
 
-      - latitude: 43.825084
-        longitude: 125.42468
+      - loc: 43.825084,125.42468
         name: 平价水果超市
         detail: 二食堂二楼基本餐楼层
 
-      - latitude: 43.827058
-        longitude: 125.42359
+      - loc: 43.827058,125.42359
         name: Sandwich
         detail: 一食堂二楼售餐亭
 

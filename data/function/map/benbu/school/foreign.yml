@@ -14,9 +14,7 @@ content:
     wxid: nenuwgy
 
     account: foreign
-    location:
-      latitude: 43.8611
-      longitude: 125.32707
+    loc: 43.8611,125.32707
     mail: wy@nenu.edu.cn
     site: https://wy.nenu.edu.cn/
 

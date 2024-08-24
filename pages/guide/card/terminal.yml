@@ -1,7 +1,7 @@
 title: 自助终端机
 icon: atm
 author: Mr.Hope
-time: 2023-09-22T16:59:13.432Z
+time: 2024-08-24T13:07:17.978Z
 shareable: true
 content:
   - tag: title
@@ -24,20 +24,16 @@ content:
   - tag: location
     title: 本部校区
     points:
-      - latitude: 43.859975
-        longitude: 125.332744
+      - loc: 43.859975,125.332744
         name: 南苑食堂一楼
 
-      - latitude: 43.862779
-        longitude: 125.334076
+      - loc: 43.862779,125.334076
         name: 北苑食堂一楼
 
-      - latitude: 43.861796
-        longitude: 125.32812
+      - loc: 43.861796,125.32812
         name: 图书馆总还书台
 
-      - latitude: 43.863429
-        longitude: 125.331542
+      - loc: 43.863429,125.331542
         detail: 惟真楼 315 (坐电梯到三楼按指示牌引导)
 
   - tag: ul
@@ -51,12 +47,10 @@ content:
   - tag: location
     title: 净月校区
     points:
-      - latitude: 43.825137
-        longitude: 125.424728
+      - loc: 43.825137,125.424728
         name: 第二食堂一楼东南位置
 
-      - latitude: 43.824557
-        longitude: 125.425655
+      - loc: 43.824557,125.425655
         name: 冬华公寓二楼
 
   - tag: title

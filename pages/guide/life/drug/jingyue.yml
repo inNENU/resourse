@@ -1,7 +1,7 @@
 title: 净月药店
 icon: drug
 author: Mr.Hope
-time: 2023-09-23T10:52:59.363Z
+time: 2024-08-24T13:07:18.300Z
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,7 @@ content:
   - tag: location
     title: 净月药店
     points:
-      - latitude: 43.826196
-        longitude: 125.421112
+      - loc: 43.826196,125.421112
         name: 季康大药房
         detail: 学生浴池正门右侧
 

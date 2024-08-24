@@ -2,7 +2,7 @@ title: 本部水果店
 icon: fruit
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2023-10-29T15:45:39.691Z
+time: 2024-08-24T13:07:18.301Z
 shareable: true
 content:
   - tag: title
@@ -20,18 +20,15 @@ content:
   - tag: location
     title: 本部水果店
     points:
-      - latitude: 43.8627
-        longitude: 125.332943
+      - loc: 43.8627,125.332943
         name: 葱蜂鲜果
         detail: 北苑地下一楼东南角
 
-      - latitude: 43.86267
-        longitude: 125.332541
+      - loc: 43.86267,125.332541
         name: 精品水果捞
         detail: 北苑地下一楼西南角
 
-      - latitude: 43.86256
-        longitude: 125.33705
+      - loc: 43.86256,125.33705
         name: 心随果动
         detail: 浴池正门左侧
 

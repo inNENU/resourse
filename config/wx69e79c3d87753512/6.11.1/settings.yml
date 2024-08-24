@@ -20,10 +20,10 @@ main-presets:
     #   title: 经验分享与答疑
     #   path: newcomer/activity/streaming
 
-    - tag: card
-      cover: $img/tab/first-day.png
-      title: 大学第一天
-      path: newcomer/check/first-day
+    # - tag: card
+    #   cover: $img/tab/first-day.png
+    #   title: 大学第一天
+    #   path: newcomer/check/first-day
 
     - tag: list
       items:
@@ -145,10 +145,10 @@ main-presets:
           path: guide/normal/
 
   newcomer:
-    - tag: card
-      cover: $img/tab/first-day.png
-      title: 大学第一天
-      path: newcomer/check/first-day
+    # - tag: card
+    #   cover: $img/tab/first-day.png
+    #   title: 大学第一天
+    #   path: newcomer/check/first-day
 
     - tag: functional-list
       header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
@@ -632,7 +632,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1081683 字，其中东师指南部分 333371 字，新生迎新部分 105583 字，东师介绍部分 339481 字，机构介绍部分 70759 字，学院介绍部分 145318 字，功能大厅部分 39544 字，其他部分 47627 字。
+      - text: 小程序现有字数为 1081502 字，其中东师指南部分 333458 字，新生迎新部分 105602 字，东师介绍部分 339481 字，机构介绍部分 70763 字，学院介绍部分 145359 字，功能大厅部分 39212 字，其他部分 47627 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about

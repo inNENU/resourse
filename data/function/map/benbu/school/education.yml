@@ -10,9 +10,7 @@ content:
     detail: 东北师范大学教育学部
     wxid: edunenu
     account: education
-    location:
-      latitude: 43.8617
-      longitude: 125.32983
+    loc: 43.8617,125.32983
     mail: fed@nenu.edu.cn
     site: https://edu.nenu.edu.cn/
 

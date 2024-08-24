@@ -1,11 +1,9 @@
 /** 标记点 */
 export interface Marker {
-  /** 经度 */
-  latitude: number;
-  /** 纬度 */
-  longitude: number;
   /** 地点名称 */
   name: string;
+  /** 位置信息 */
+  loc: `${number},${number}`;
   /** 地点详细名称 */
   detail: string;
   /** 地点介绍路径 */
@@ -85,8 +83,6 @@ export interface WechatConfig {
   id: string;
   /** 二维码地址 */
   qrcode: string;
-  /** 是否关联 */
-  authorized?: boolean;
   /** 关注链接 */
   follow?: string;
   /** 图文列表 */

@@ -1,18 +1,16 @@
 title: 净月校外超市
 icon: shop
 author: Mr.Hope
-time: 2023-09-23T10:52:59.526Z
+time: 2024-08-24T13:07:18.516Z
 shareable: true
 content:
   - tag: location
     title: 校外超市
     points:
-      - latitude: 43.820977
-        longitude: 125.418449
+      - loc: 43.820977,125.418449
         detail: 沃尔玛
 
-      - latitude: 43.825306
-        longitude: 125.417298
+      - loc: 43.825306,125.417298
         detail: 新天地 (博硕路店)
 
   - tag: title

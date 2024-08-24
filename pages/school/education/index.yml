@@ -2,7 +2,7 @@ title: 教育学部
 icon: education
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.012Z
+time: 2024-08-24T13:07:16.842Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: edunenu
 
     account: education
-    location:
-      latitude: 43.8617
-      longitude: 125.32983
+    loc: 43.8617,125.32983
     mail: fed@nenu.edu.cn
     site: https://edu.nenu.edu.cn/
 

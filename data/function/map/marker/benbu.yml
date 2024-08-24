@@ -1,8 +1,7 @@
 general:
   name: 校区
   content:
-    - latitude: 43.86188
-      longitude: 125.33137
+    - loc: 43.86188,125.33137
       name: 自由校区
       detail: 吉林省长春市南关区人民大街 5268 号
       path: index
@@ -10,32 +9,27 @@ general:
 gate:
   name: 校门
   content:
-    - latitude: 43.861712
-      longitude: 125.32564242
+    - loc: 43.861712,125.325642
       name: 西门
       detail: 东北师范大学西门(正门)
       path: west
 
-    - latitude: 43.85967
-      longitude: 125.33021
+    - loc: 43.85967,125.33021
       name: 南门
       detail: 东北师范大学南门
       path: south
 
-    - latitude: 43.864067
-      longitude: 125.330073
+    - loc: 43.864067,125.330073
       name: 北门
       detail: 东北师范大学北门
       path: north
 
-    - latitude: 43.86409
-      longitude: 125.33468
+    - loc: 43.86409,125.33468
       name: 东北门
       detail: 东北师范大学东北门
       path: north-east
 
-    - latitude: 43.862573
-      longitude: 125.32564203
+    - loc: 43.862573,125.325642
       name: 校医院西门
       detail: 东北师范大学校医院西门
       path: hospital-west
@@ -43,74 +37,62 @@ gate:
 dorm:
   name: 寝室
   content:
-    - latitude: 43.86359
-      longitude: 125.33286
+    - loc: 43.86359,125.33286
       name: 二舍
       detail: 东北师范大学二舍
       path: dorm2
 
-    - latitude: 43.86359
-      longitude: 125.337491
+    - loc: 43.86359,125.337491
       name: 三舍 A
       detail: 东北师范大学学生三舍 A
       path: dorm3A
 
-    - latitude: 43.86354
-      longitude: 125.336986
+    - loc: 43.86354,125.336986
       name: 三舍 B
       detail: 东北师范大学学生三舍 B
       path: dorm3B
 
-    - latitude: 43.863549
-      longitude: 125.335808
+    - loc: 43.863549,125.335808
       name: 三舍 C
       detail: 东北师范大学学生三舍 C
       path: dorm3C
 
-    - latitude: 43.863553
-      longitude: 125.335019
+    - loc: 43.863553,125.335019
       name: 留学生公寓
       detail: 东北师范大学留学生公寓
       path: dorm3D
 
-    - latitude: 43.860663
-      longitude: 125.336694
+    - loc: 43.860663,125.336694
       name: 四舍
       detail: 东北师范大学学生四舍
       path: dorm4
 
-    - latitude: 43.860830
-      longitude: 125.337208
+    - loc: 43.860830,125.337208
       name: 五舍
       detail: 东北师范大学学生五舍
       path: dorm5
 
-    - latitude: 43.860096
-      longitude: 125.336292
+    - loc: 43.860096,125.336292
       name: 六舍
       detail: 东北师范大学学生六舍
       path: dorm6
 
-    - latitude: 43.85993
-      longitude: 125.334912
+    - loc: 43.85993,125.334912
       name: 七舍
       detail: 东北师范大学学生七舍
       path: dorm7
 
-    - latitude: 43.863105
-      longitude: 125.336730
+    - loc: 43.863105,125.336730
       name: 八舍
       detail: 东北师范大学学生八舍
       path: dorm8
 
-    - latitude: 43.86129
-      longitude: 125.33649
+    - loc: 43.86129,125.33649
       name: 九舍
       detail: 东北师范大学学生九舍
       path: dorm9
 
-    - latitude: 43.859127
-      longitude: 125.326921
+    - loc: 43.859127,125.326921
       name: 体育宿舍
       detail: 东北师范大学体育学院宿舍
       path: pe
@@ -118,80 +100,67 @@ dorm:
 school:
   name: 学院
   content:
-    - latitude: 43.86133
-      longitude: 125.33095
+    - loc: 43.86133,125.33095
       name: 物理学院
       detail: 东北师范大学物理学院
       path: physics
 
-    - latitude: 43.86221
-      longitude: 125.33097
+    - loc: 43.86221,125.33097
       name: 化学学院
       detail: 东北师范大学化学学院
       path: chemistry
 
-    - latitude: 43.863147
-      longitude: 125.328065
+    - loc: 43.863147,125.328065
       name: 心理学院
       detail: 东北师范大学心理学院
       path: psychology
 
-    - latitude: 43.86268
-      longitude: 125.32826
+    - loc: 43.86268,125.32826
       name: 马克思主义学部
       detail: 东北师范大学马克思主义学部
       path: marx
 
-    - latitude: 43.859984
-      longitude: 125.328941
+    - loc: 43.859984,125.328941
       name: 生命科学学院
       detail: 东北师范大学生命科学学院
       path: biology
 
-    - latitude: 43.8603
-      longitude: 125.3304
+    - loc: 43.8603,125.3304
       name: 历史文化学院
       detail: 东北师范大学历史文化学院
       path: history
 
-    - latitude: 43.859888
-      longitude: 125.331184
+    - loc: 43.859888,125.331184
       name: 国际汉学院
       detail: 东北师范大学国际汉学院
       path: international
 
-    - latitude: 43.8611
-      longitude: 125.32707
+    - loc: 43.8611,125.32707
       name: 外国语学院
       detail: 东北师范大学外国语学院
       path: foreign
 
-    - latitude: 43.85841
-      longitude: 125.32668
+    - loc: 43.85841,125.32668
       name: 体育学院
       detail: 东北师范大学体育学院
       path: PE
 
-    - latitude: 43.860084
-      longitude: 125.332240
+    - loc: 43.860084,125.332240
       name: 文学院
       detail: 东北师范大学文学院
       path: chinese
 
-    - latitude: 43.862984
-      longitude: 125.330532
+    - loc: 43.862984,125.330532
       name: 地理科学学院
       detail: 东北师范大学地理科学学院
       path: geography
 
-    - latitude: 43.86014
-      longitude: 125.32797
+    - loc: 43.86014,125.32797
       name: 数学与统计学院
       detail: 东北师范大学数学与统计学院
       path: math
 
-    - latitude: 43.8617
-      longitude: 125.32983
+    - loc: 43.8617,125.32983
       name: 教育学部
       detail: 东北师范大学教育学部
       path: education
@@ -199,195 +168,163 @@ school:
 building:
   name: 建筑
   content:
-    - latitude: 43.861692
-      longitude: 125.328062
+    - loc: 43.861692,125.328062
       name: 图书馆
       detail: 东北师范大学图书馆
       path: library
 
-    - latitude: 43.862221
-      longitude: 125.328998
+    - loc: 43.862221,125.328998
       name: 逸夫教学楼
       detail: 东北师范大学逸夫教学楼
       path: yifu
 
-    - latitude: 43.863651
-      longitude: 125.331524
+    - loc: 43.863651,125.331524
       name: 惟真楼
       detail: 东北师范大学惟真楼
       path: vision
 
-    - latitude: 43.861761
-      longitude: 125.332185
+    - loc: 43.861761,125.332185
       name: 逸夫科学馆
       detail: 东北师范大学逸夫科学馆
       path: yifu-science
 
-    - latitude: 43.862163
-      longitude: 125.327024
+    - loc: 43.862163,125.327024
       name: 行政楼
       detail: 东北师范大学行政楼
       path: administration
 
-    - latitude: 43.859888
-      longitude: 125.331184
+    - loc: 43.859888,125.331184
       name: 研究生教学楼
       detail: 东北师范大学研究生教学楼
 
-    - latitude: 43.86111
-      longitude: 125.32752
+    - loc: 43.86111,125.32752
       name: 研究生多媒体教室
       detail: 东北师范大学研究生多媒体教室
       path: multi-media
 
-    - latitude: 43.860177
-      longitude: 125.329633
+    - loc: 43.860177,125.329633
       name: 综合实验楼
       detail: 东北师范大学综合实验楼
       path: experiment
 
-    - latitude: 43.861867
-      longitude: 125.336215
+    - loc: 43.861867,125.336215
       name: 园长大楼
       detail: 教育部幼儿园园长培训中心
       path: garden
 
-    - latitude: 43.862732
-      longitude: 125.326995
+    - loc: 43.862732,125.326995
       name: 校车候车室
       detail: 东北师范大学校车候车室
       path: history
 
-    - latitude: 43.862656
-      longitude: 125.327356
+    - loc: 43.862656,125.327356
       name: 就业指导中心
       detail: 东北师范大学就业指导中心
       path: career
 
-    - latitude: 43.863553
-      longitude: 125.333851
+    - loc: 43.863553,125.333851
       name: 师训大楼
       detail: 东北师范大学国际学术交流服务中心 / 师训大楼
       path: shixun
 
-    - latitude: 43.862526
-      longitude: 125.334165
+    - loc: 43.862526,125.334165
       name: 学生心理健康中心
       detail: 东北师范大学学生心理健康中心
       path: psychology
 
-    - latitude: 43.86361
-      longitude: 125.329865
+    - loc: 43.86361,125.329865
       name: 附属幼儿园
       detail: 东北师范大学附属幼儿园
 
 facility:
   name: 设施
   content:
-    - latitude: 43.86273
-      longitude: 125.33338
+    - loc: 43.86273,125.33338
       name: 北苑餐厅
       detail: 东北师范大学北苑餐厅
       path: beiyuan
 
-    - latitude: 43.860001
-      longitude: 125.3327
+    - loc: 43.860001,125.3327
       name: 南苑餐厅
       detail: 东北师范大学南苑餐厅
       path: nanyuan
 
-    - latitude: 43.863854899
-      longitude: 125.3354591131
+    - loc: 43.863855,125.335459
       name: 保卫科
       detail: 自由校区保卫科
       path: defend
 
-    - latitude: 43.862803
-      longitude: 125.325728
+    - loc: 43.862803,125.325728
       name: 校医院
       detail: 东北师范大学社区医院
       path: hospital
 
-    - latitude: 43.862016
-      longitude: 125.33606
+    - loc: 43.862016,125.33606
       name: 浴池
       detail: 自由校区学生浴池
       path: bath
 
-    - latitude: 43.86365
-      longitude: 125.33315
+    - loc: 43.86365,125.33315
       name: 菜鸟驿站
       detail: 菜鸟驿站东北师范大学综合服务中心
       path: cainiao
 
-    - latitude: 43.863654
-      longitude: 125.336322
+    - loc: 43.863654,125.336322
       name: 快递柜
       path: express-cabinet
 
-    - latitude: 43.862596
-      longitude: 125.333357
+    - loc: 43.862596,125.333357
       name: ATM
       detail: 北苑大厅东南角
       path: atm
 
-    - latitude: 43.861814
-      longitude: 125.328197
+    - loc: 43.861814,125.328197
       name: 图书馆电子阅览室
 
 sports:
   name: 运动场地
   content:
-    - latitude: 43.86171
-      longitude: 125.33335
+    - loc: 43.86171,125.33335
       name: 足球场
       detail: 自由校区足球场
       path: football
 
-    - latitude: 43.86124
-      longitude: 125.33381
+    - loc: 43.86124,125.33381
       name: 健身器材
       detail: 健身器材
       path: fitness
 
-    - latitude: 43.861626
-      longitude: 125.332537
+    - loc: 43.861626,125.332537
       name: 篮球场
       detail: 自由校区篮球场
       path: basketball
 
-    - latitude: 43.862515
-      longitude: 125.331806
+    - loc: 43.862515,125.331806
       name: 排球场
       detail: 自由校区排球场
       path: volleyball
 
-    - latitude: 43.86128
-      longitude: 125.33292
+    - loc: 43.86128,125.33292
       name: 轮滑场
       detail: 自由校区轮滑场
       path: roller-skating
 
-    - latitude: 43.86105
-      longitude: 125.332755
+    - loc: 43.86105,125.332755
       name: 网球场
       detail: 自由校区网球场
       path: tennis
 
-    - latitude: 43.86277
-      longitude: 125.33278
+    - loc: 43.86277,125.33278
       name: 室内篮球、排球、乒乓球、健美操馆
       detail: 自由校区室内篮球、排球、乒乓球、健美操馆
       path: indoor
 
-    - latitude: 43.861079
-      longitude: 125.334132
+    - loc: 43.861079,125.334132
       name: 田径场
       detail: 自由校区田径场
       path: sport-field
 
-    - latitude: 43.86028
-      longitude: 125.32612
+    - loc: 43.86028,125.32612
       name: 体育馆
       detail: 东北师范大学体育馆
       path: gym
@@ -395,132 +332,107 @@ sports:
 store:
   name: 店铺
   content:
-    - latitude: 43.862959
-      longitude: 125.332947
+    - loc: 43.862959,125.332947
       name: 樂读书庄
       detail: 北苑地下一楼北侧
 
-    - latitude: 43.86296
-      longitude: 125.332922
+    - loc: 43.86296,125.332922
       name: 瑞幸咖啡
       detail: 北苑地下一楼北侧书店内
 
-    - latitude: 43.862932
-      longitude: 125.332507
+    - loc: 43.862932,125.332507
       name: 多巴胺甜品烘焙
       detail: 北苑地下一楼西北角
 
-    - latitude: 43.862922
-      longitude: 125.332618
+    - loc: 43.862922,125.332618
       name: 喜宝美甲美睫皮肤管理
       detail: 北苑地下一楼西北角
 
-    - latitude: 43.862849
-      longitude: 125.332504
+    - loc: 43.862849,125.332504
       name: 星巴克
       detail: 北苑地下一楼西北角
 
-    - latitude: 43.862723
-      longitude: 125.332519
+    - loc: 43.862723,125.332519
       name: 蜜雪冰城
       detail: 北苑地下一楼西南角
 
-    - latitude: 43.862662
-      longitude: 125.332519
+    - loc: 43.862662,125.332519
       name: 精品水果捞
       detail: 北苑地下一楼西南角
 
-    - latitude: 43.862582
-      longitude: 125.332711
+    - loc: 43.862582,125.332711
       name: 杂货店
       detail: 北苑地下一楼西南角
 
-    - latitude: 43.862579
-      longitude: 125.332761
+    - loc: 43.862579,125.332761
       name: 中国移动营业厅
       detail: 北苑地下一楼南侧
 
-    - latitude: 43.862579
-      longitude: 125.332811
+    - loc: 43.862579,125.332811
       name: 北苑复印店
       detail: 北苑地下一楼南侧
 
-    - latitude: 43.862579
-      longitude: 125.332861
+    - loc: 43.862579,125.332861
       name: 电信营业厅
       detail: 北苑地下一楼南侧
 
-    - latitude: 43.862579
-      longitude: 125.332911
+    - loc: 43.862579,125.332911
       name: 北苑洗衣店
       detail: 北苑地下一楼南侧
 
-    - latitude: 43.862579
-      longitude: 125.332961
+    - loc: 43.862579,125.332961
       name: 云印空间
       detail: 北苑地下一楼东南角
 
-    - latitude: 43.862579
-      longitude: 125.333011
+    - loc: 43.862579,125.333011
       name: 艺美 MT 造型
       detail: 北苑地下一楼东南角
 
-    - latitude: 43.86268
-      longitude: 125.333011
+    - loc: 43.86268,125.333011
       name: 葱蜂鲜果
       detail: 北苑地下一楼东南角
 
-    - latitude: 43.86268
-      longitude: 125.333011
+    - loc: 43.86268,125.333011
       name: 刘浏美味小屋
       detail: 北苑地下一楼东南角
 
-    - latitude: 43.862757
-      longitude: 125.333011
+    - loc: 43.862757,125.333011
       name: 小姑娘冰激凌
       detail: 北苑地下一楼东侧
 
-    - latitude: 43.863625
-      longitude: 125.337262
+    - loc: 43.863625,125.337262
       name: 亓嘉咖啡
       detail: 三舍 AB 大厅
 
-    - latitude: 43.862765
-      longitude: 125.333539
+    - loc: 43.862765,125.333539
       name: 木子鐡饮品店
       detail: 北苑一楼
 
-    - latitude: 43.860105
-      longitude: 125.332866
+    - loc: 43.860105,125.332866
       name: 南苑维修店
       detail: 南苑二楼西侧
 
-    - latitude: 43.859935
-      longitude: 125.332861
+    - loc: 43.859935,125.332861
       name: 贡茶
       detail: 南苑一楼
 
-    - latitude: 43.860107
-      longitude: 125.333552
+    - loc: 43.860107,125.333552
       name: 南苑复印店
       detail: 南苑餐厅东门
 
-    - latitude: 43.861629
-      longitude: 125.328177
+    - loc: 43.861629,125.328177
       name: 春辉图文
       detail: 图书馆一楼右侧
 
 scenery:
   name: 风景
   content:
-    - latitude: 43.86063
-      longitude: 125.328954
+    - loc: 43.86063,125.328954
       name: 生命广场
       detail: 东北师范大学生命广场
       path: life
 
-    - latitude: 43.86194
-      longitude: 125.3349
+    - loc: 43.86194,125.3349
       name: 静湖
       detail: 东北师范大学静湖
       path: lake

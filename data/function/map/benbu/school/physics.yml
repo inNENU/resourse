@@ -12,9 +12,7 @@ content:
     wxid: nenuphy
 
     account: phy
-    location:
-      latitude: 43.86133
-      longitude: 125.33095
+    loc: 43.86133,125.33095
     site: http://www.phy.nenu.edu.cn/
 
   - tag: list

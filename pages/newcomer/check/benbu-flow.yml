@@ -1,7 +1,7 @@
 title: 本部报到流程
 icon: flow
 author: Mr.Hope
-time: 2024-08-16T07:15:27.319Z
+time: 2024-08-24T13:07:17.157Z
 shareable: true
 content:
   - tag: text
@@ -16,26 +16,22 @@ content:
   - tag: location
     title: 本部报到校门与报到处
     points:
-      - latitude: 43.86409
-        longitude: 125.33468
+      - loc: 43.86409,125.33468
         name: 东北门
         detail: 东北师范大学东北门
         path: benbu/gate/north-east
 
-      - latitude: 43.86167
-        longitude: 125.325642
+      - loc: 43.86167,125.325642
         name: 西门
         detail: 东北师范大学西门(正门)
         path: benbu/gate/west
 
-      # - latitude: 43.85967
-      #   longitude: 125.33021
+      # - loc: 43.85967,125.33021
       #   name: 南门
       #   detail: 东北师范大学南门
       #   path: benbu/gate/south
 
-      - latitude: 43.863133
-        longitude: 125.331584
+      - loc: 43.863133,125.331584
         name: 报到处
         detail: 2024年本部报到处
 

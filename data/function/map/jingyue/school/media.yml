@@ -9,9 +9,7 @@ content:
     wxid: nenu_media
 
     account: media
-    location:
-      latitude: 43.82637
-      longitude: 125.42704
+    loc: 43.82637,125.42704
     mail: chuanmei@nenu.edu.cn
     site: https://chuanmei.nenu.edu.cn/
 

@@ -3,7 +3,7 @@ icon: cainiao
 author:
   - Mr.Hope
   - 战俊华
-time: 2023-09-23T08:04:54.189Z
+time: 2024-08-24T13:07:18.190Z
 shareable: true
 content:
   - tag: title
@@ -16,8 +16,7 @@ content:
   - tag: location
     title: 菜鸟驿站
     points:
-      - latitude: 43.86365
-        longitude: 125.33315
+      - loc: 43.86365,125.33315
         detail: 学生二舍东侧
 
   - tag: img

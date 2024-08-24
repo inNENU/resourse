@@ -2,7 +2,7 @@ title: 美术学院
 icon: art
 grey: true
 author: Mr.Hope
-time: 2023-09-23T12:19:58.939Z
+time: 2024-08-24T13:07:16.753Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: gh_d633652739f9
 
     account: art
-    location:
-      latitude: 43.82571
-      longitude: 125.428207
+    loc: 43.82571,125.428207
     mail: nenuart@nenu.edu.cn
     site: https://fineart.nenu.edu.cn/
 

@@ -2,7 +2,7 @@ title: 净月饮品店
 icon: drink
 desc: 库迪咖啡照片由刘鑫硕拍摄
 author: Mr.Hope
-time: 2024-08-16T20:57:33.556Z
+time: 2024-08-24T13:07:18.297Z
 shareable: true
 content:
   - tag: title
@@ -20,18 +20,15 @@ content:
   - tag: location
     title: 净月饮品店
     points:
-      - latitude: 43.827024
-        longitude: 125.423912
+      - loc: 43.827024,125.423912
         name: 獴大咖
         detail: 一食堂一楼
 
-      - latitude: 43.826849
-        longitude: 125.423778
+      - loc: 43.826849,125.423778
         name: 鲜榨果汁
         detail: 一食堂二楼
 
-      - latitude: 43.825531
-        longitude: 125.424621
+      - loc: 43.825531,125.424621
         name: 菓碰茶
         detail: 二食堂三楼西北侧
 

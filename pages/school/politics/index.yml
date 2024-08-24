@@ -1,7 +1,7 @@
 title: 政法学院
 icon: politics
 author: Mr.Hope
-time: 2023-10-29T17:18:50.178Z
+time: 2024-08-24T13:07:17.012Z
 shareable: true
 content:
   - tag: account
@@ -10,9 +10,7 @@ content:
     detail: 东北师范大学政法学院
     wxid: lovezhengfa
     account: politics
-    location:
-      latitude: 43.827099
-      longitude: 125.42591
+    loc: 43.827099,125.42591
     site: https://zf.nenu.edu.cn/
 
   - tag: title

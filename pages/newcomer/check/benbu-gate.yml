@@ -1,7 +1,7 @@
 title: 本部校区校门
 icon: gate
 author: Mr.Hope
-time: 2024-08-15T16:53:50.202Z
+time: 2024-08-24T13:07:17.160Z
 shareable: true
 content:
   # TODO: Update at 2024-08
@@ -22,8 +22,7 @@ content:
   - tag: location
     title: 东北门
     points:
-      - latitude: 43.86409
-        longitude: 125.33468
+      - loc: 43.86409,125.33468
         name: 东北门
         detail: 东北师范大学东北门
         path: benbu/gate/north-east
@@ -55,8 +54,7 @@ content:
   - tag: location
     title: 正门
     points:
-      - latitude: 43.86167
-        longitude: 125.325642
+      - loc: 43.86167,125.325642
         name: 西门
         detail: 东北师范大学西门(正门)
         path: benbu/gate/west
@@ -79,8 +77,7 @@ content:
   # - tag: location
   #   title: 南门
   #   points:
-  #     - latitude: 43.85967
-  #       longitude: 125.33021
+  #     - loc: 43.85967,125.33021
   #       name: 南门
   #       detail: 东北师范大学南门
   #       path: benbu/gate/south
@@ -95,8 +92,7 @@ content:
   # - tag: location
   #   title: 北门
   #   points:
-  #     - latitude: 43.86393
-  #       longitude: 125.33015
+  #     - loc: 43.86393,125.33015
 
   # - tag: img
   #   src: $img/scenery/benbu/gate/north-west.jpg

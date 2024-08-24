@@ -22,12 +22,20 @@ export const resolveLocation = (
 
   component.points.forEach((item) => {
     checkKeys(item, {
-      latitude: "number",
-      longitude: "number",
+      loc: "string",
       name: ["string", "undefined"],
       detail: ["string", "undefined"],
       path: ["string", "undefined"],
     });
+
+    if (item.loc) {
+      const [latitude, longitude] = item.loc.split(",").map(Number);
+
+      // @ts-expect-error: Backward compatibility
+      item.latitude = latitude;
+      // @ts-expect-error: Backward compatibility
+      item.longitude = longitude;
+    }
 
     if (item.path) {
       const path = resolvePath(item.path);
@@ -56,8 +64,8 @@ ${
     // maximum 4 points
     .slice(0, 4)
     .map(
-      ({ latitude, longitude, name = "位置", detail = "详情" }) =>
-        `coord:${latitude},${longitude};title:${encodeURIComponent(
+      ({ loc, name = "位置", detail = "详情" }) =>
+        `coord:${loc};title:${encodeURIComponent(
           name,
         )};addr:${encodeURIComponent(detail)}`,
     )

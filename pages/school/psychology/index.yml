@@ -2,7 +2,7 @@ title: 心理学院
 icon: psychology
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.196Z
+time: 2024-08-24T13:07:17.029Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: gh_b8263d1e2906
 
     account: psychology
-    location:
-      latitude: 43.863147
-      longitude: 125.328065
+    loc: 43.863147,125.328065
     mail: psy@nenu.edu.cn
     site: https://psy.nenu.edu.cn/
 

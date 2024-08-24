@@ -2,7 +2,7 @@ title: 地理科学学院
 icon: geography
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.058Z
+time: 2024-08-24T13:07:16.891Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: geonenu
 
     account: geo
-    location:
-      latitude: 43.86294
-      longitude: 125.33052
+    loc: 43.86294,125.33052
     mail: dili@nenu.edu.cn
     site: https://geo.nenu.edu.cn/
 

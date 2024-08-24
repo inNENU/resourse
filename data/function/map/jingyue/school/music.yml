@@ -9,9 +9,7 @@ content:
     wxid: yinwudongshi
 
     account: music
-    location:
-      latitude: 43.82651
-      longitude: 125.42935
+    loc: 43.82651,125.42935
     mail: yyxy@nenu.edu.cn
     site: https://music.nenu.edu.cn/
 

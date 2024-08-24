@@ -2,7 +2,7 @@ title: 经济与管理学院
 icon: economy
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:49.998Z
+time: 2024-08-24T13:07:16.827Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: nenubs
 
     account: economy
-    location:
-      latitude: 43.827634
-      longitude: 125.427246
+    loc: 43.827634,125.427246
     site: https://bs.nenu.edu.cn/
 
   - tag: list

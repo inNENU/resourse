@@ -2,7 +2,7 @@ title: 净月理发/美甲
 icon: haircut
 desc: 特别鸣谢小艺学长提供部分照片
 author: Mr.Hope
-time: 2024-08-16T20:57:33.565Z
+time: 2024-08-24T13:07:18.313Z
 shareable: true
 content:
   - tag: title
@@ -16,8 +16,7 @@ content:
   - tag: location
     title: 净月理发店
     points:
-      - latitude: 43.826169
-        longitude: 125.420948
+      - loc: 43.826169,125.420948
         name: DL 发型设计
         detail: 学生浴池正门右侧
 

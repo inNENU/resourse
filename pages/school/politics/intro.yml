@@ -2,7 +2,7 @@ title: 政法学院介绍
 icon: about
 desc: |-
   来源: 2024 年本科招生指南
-time: 2024-06-22T19:16:14.290Z
+time: 2024-08-24T13:07:17.014Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -12,11 +12,8 @@ content:
     logo: $img/media/politics.png
     detail: 东北师范大学政法学院
     wxid: lovezhengfa
-
     account: politics
-    location:
-      latitude: 43.82714
-      longitude: 125.42598
+    loc: 43.82714,125.42598
     site: https://zf.nenu.edu.cn/
 
   - tag: title

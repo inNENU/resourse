@@ -13,9 +13,7 @@ content:
     wxid: gh_d633652739f9
 
     account: art
-    location:
-      latitude: 43.82564
-      longitude: 125.42814
+    loc: 43.82564,125.42814
     mail: nenuart@nenu.edu.cn
     site: https://fineart.nenu.edu.cn/
 

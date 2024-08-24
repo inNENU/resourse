@@ -2,7 +2,7 @@ title: 文学院介绍
 icon: about
 desc: |-
   来源: 2024 年本科招生指南
-time: 2024-06-22T19:16:14.156Z
+time: 2024-08-24T13:07:16.810Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -14,9 +14,7 @@ content:
     wxid: dongshiwenyuan
 
     account: chinese
-    location:
-      latitude: 43.85947
-      longitude: 125.32917
+    loc: 43.85947,125.32917
     mail: chinese@nenu.edu.cn
     site: http://chinese.nenu.edu.cn/home
 

@@ -2,7 +2,7 @@ title: 研究生院
 icon: degree
 grey: true
 author: Mr.Hope
-time: 2023-09-22T15:38:33.147Z
+time: 2024-08-24T13:07:16.615Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: gh_1d4eec902259
 
     account: graduate
-    location:
-      latitude: 43.862163
-      longitude: 125.327024
+    loc: 43.862163,125.327024
     site: https://yjsy.nenu.edu.cn/
 
   - tag: list

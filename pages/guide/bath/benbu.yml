@@ -1,7 +1,7 @@
 title: 本部浴池
 icon: bath
 author: Mr.Hope
-time: 2024-08-05T08:53:16.160Z
+time: 2024-08-24T13:07:17.956Z
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,7 @@ content:
   - tag: location
     title: 本部浴池
     points:
-      - latitude: 43.862016
-        longitude: 125.33606
+      - loc: 43.862016,125.33606
 
   - tag: img
     src: $img/bath/benbu-main-1.jpg

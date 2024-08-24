@@ -2,7 +2,7 @@ title: 净月浴池
 icon: bath
 desc: 特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2023-09-22T16:59:13.411Z
+time: 2024-08-24T13:07:17.963Z
 shareable: true
 content:
   - tag: title
@@ -15,8 +15,7 @@ content:
   - tag: location
     title: 净月浴池
     points:
-      - latitude: 43.826294
-        longitude: 125.420678
+      - loc: 43.826294,125.420678
 
   - tag: text
     text:

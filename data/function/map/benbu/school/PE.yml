@@ -14,9 +14,7 @@ content:
     wxid: nenupetw
 
     account: pe
-    location:
-      latitude: 43.85841
-      longitude: 125.32668
+    loc: 43.85841,125.32668
     mail: pe@nenu.edu.cn
     site: https://pe.nenu.edu.cn/
 

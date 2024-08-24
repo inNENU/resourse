@@ -2,7 +2,7 @@ title: 化学学院
 icon: chemistry
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:49.968Z
+time: 2024-08-24T13:07:16.788Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: dongshihuayuan
 
     account: chemistry
-    location:
-      latitude: 43.86221
-      longitude: 125.33097
+    loc: 43.86221,125.33097
     mail: chem@nenu.deu.cn
     site: https://chem.nenu.edu.cn/
 

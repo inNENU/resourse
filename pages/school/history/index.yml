@@ -2,7 +2,7 @@ title: 历史文化学院
 icon: history
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.070Z
+time: 2024-08-24T13:07:16.906Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: dssyxl
 
     account: history
-    location:
-      latitude: 43.8603
-      longitude: 125.3304
+    loc: 43.8603,125.3304
     mail: sohac@nenu.edu.cn
     site: https://sohac.nenu.edu.cn/
 

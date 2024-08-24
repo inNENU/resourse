@@ -2,7 +2,7 @@ title: 本部饮品店
 icon: drink
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2024-08-15T16:53:51.517Z
+time: 2024-08-24T13:07:18.294Z
 shareable: true
 content:
   - tag: title
@@ -26,33 +26,27 @@ content:
   - tag: location
     title: 本部饮品店
     points:
-      - latitude: 43.863625
-        longitude: 125.337262
+      - loc: 43.863625,125.337262
         name: 亓嘉咖啡
         detail: 三舍 AB 大厅
 
-      - latitude: 43.862765
-        longitude: 125.333539
+      - loc: 43.862765,125.333539
         name: 木子鐡饮品店
         detail: 北苑一楼
 
-      - latitude: 43.862849
-        longitude: 125.332504
+      - loc: 43.862849,125.332504
         name: 星巴克
         detail: 北苑地下一楼西北角
 
-      - latitude: 43.862723
-        longitude: 125.332519
+      - loc: 43.862723,125.332519
         name: 蜜雪冰城
         detail: 北苑地下一楼西南角
 
-      - latitude: 43.86296
-        longitude: 125.332922
+      - loc: 43.86296,125.332922
         name: 瑞幸咖啡
         detail: 北苑地下一楼北侧书店内
 
-      - latitude: 43.859935
-        longitude: 125.332861
+      - loc: 43.859935,125.332861
         name: 贡茶
         detail: 南苑一楼
 

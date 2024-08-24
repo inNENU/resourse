@@ -2,7 +2,7 @@ title: 传媒科学学院
 icon: media
 grey: true
 author: Mr.Hope
-time: 2023-10-29T17:18:50.131Z
+time: 2024-08-24T13:07:16.966Z
 shareable: true
 content:
   - tag: account
@@ -12,9 +12,7 @@ content:
     wxid: nenu_media
 
     account: media
-    location:
-      latitude: 43.82637
-      longitude: 125.42704
+    loc: 43.82637,125.42704
     mail: chuanmei@nenu.edu.cn
     site: https://chuanmei.nenu.edu.cn/
 

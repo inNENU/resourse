@@ -9,9 +9,7 @@ content:
     wxid: lovezhengfa
 
     account: politics
-    location:
-      latitude: 43.82714
-      longitude: 125.42598
+    loc: 43.82714,125.42598
     site: https://zf.nenu.edu.cn/
 
   - tag: title

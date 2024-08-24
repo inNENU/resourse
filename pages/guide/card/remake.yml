@@ -1,7 +1,7 @@
 title: 校园卡补办
 icon: add
 author: Mr.Hope
-time: 2024-08-16T05:53:04.122Z
+time: 2024-08-24T13:07:17.976Z
 shareable: true
 content:
   - tag: text
@@ -16,12 +16,10 @@ content:
   - tag: location
     title: 自助补卡终端机位置
     points:
-      - latitude: 43.862774
-        longitude: 125.334059
+      - loc: 43.862774,125.334059
         detail: 北苑食堂一楼
 
-      - latitude: 43.824568
-        longitude: 125.425673
+      - loc: 43.824568,125.425673
         detail: 冬华公寓门口二楼
 
   - tag: ul

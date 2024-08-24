@@ -4,7 +4,7 @@ desc: |-
   来源: 2024 年本科招生指
   来源: 东北师范大学地理科学学院官网，更新于: 2021 年 5 月 27 日
 
-time: 2024-06-22T19:16:14.218Z
+time: 2024-08-24T13:07:16.894Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
 shareable: true
@@ -16,9 +16,7 @@ content:
     wxid: geonenu
 
     account: geo
-    location:
-      latitude: 43.86294
-      longitude: 125.33052
+    loc: 43.86294,125.33052
     mail: dili@nenu.edu.cn
     site: https://geo.nenu.edu.cn/
 

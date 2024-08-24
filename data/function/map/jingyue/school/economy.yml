@@ -12,9 +12,7 @@ content:
     wxid: nenubs
 
     account: economy
-    location:
-      latitude: 43.82776
-      longitude: 125.42727
+    loc: 43.82776,125.42727
     site: https://bs.nenu.edu.cn/
 
   - tag: list

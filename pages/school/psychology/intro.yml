@@ -3,7 +3,7 @@ icon: about
 desc: |-
   来源: 2024 年本科招生指南
 author: Mr.Hope
-time: 2024-06-22T19:16:14.301Z
+time: 2024-08-24T13:07:17.031Z
 cite:
   - https://book.eol.cn/books/ipnj/mobile/index.html
   - https://psy.nenu.edu.cn/xygk/xyjj.htm
@@ -16,9 +16,7 @@ content:
     wxid: gh_b8263d1e2906
 
     account: psychology
-    location:
-      latitude: 43.863147
-      longitude: 125.328065
+    loc: 43.863147,125.328065
     mail: psy@nenu.edu.cn
     site: https://psy.nenu.edu.cn/
 
