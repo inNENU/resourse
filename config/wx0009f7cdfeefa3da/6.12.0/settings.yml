@@ -247,13 +247,13 @@ main-presets:
           color: grey
           name: Course
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 成绩查询
           color: orange
           name: Grade
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 学校通知
           color: red
@@ -413,13 +413,13 @@ function-presets:
           color: grey
           name: Course
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 成绩查询
           color: orange
           name: Grade
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 选课系统
           color: blue
@@ -437,7 +437,7 @@ function-presets:
           color: red
           name: SpecialExam
           icon: test
-          url: grade-special
+          url: under-grade-special
 
         - text: 学籍注册查看
           color: purple
