@@ -207,11 +207,11 @@ guide-page:
       - life
       - study
       - enjoy
-      - newcomer
+      # - newcomer
     more:
       # - account
       # - service
-      - tip
+      # - tip
       - graduate
 
   "2023":
@@ -221,8 +221,8 @@ guide-page:
       - enjoy
       # - service
       - study
-      - tip
-      - newcomer
+      # - tip
+      # - newcomer
     more:
       - graduate
 
