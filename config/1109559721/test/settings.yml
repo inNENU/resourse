@@ -272,11 +272,11 @@ main-presets:
           icon: course-table
           url: under-course-table
 
-        - text: 成绩查询
+        - text: 本科成绩查询
           color: orange
           name: Grade
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 学校通知
           color: red
@@ -583,11 +583,11 @@ function-presets:
           icon: course-table
           url: under-course-table
 
-        - text: 成绩查询
+        - text: 本科成绩查询
           color: orange
           name: Grade
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 选课系统
           color: blue
@@ -825,7 +825,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1081502 字，其中东师指南部分 333458 字，新生迎新部分 105602 字，东师介绍部分 339481 字，机构介绍部分 70763 字，学院介绍部分 145359 字，功能大厅部分 39212 字，其他部分 47627 字。
+      - text: 小程序现有字数为 1081512 字，其中东师指南部分 333458 字，新生迎新部分 105602 字，东师介绍部分 339481 字，机构介绍部分 70763 字，学院介绍部分 145359 字，功能大厅部分 39222 字，其他部分 47627 字。
 
       # - text: Hope Studio 介绍
       #   url: info?path=Ohope-studio/about

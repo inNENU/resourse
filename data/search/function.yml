@@ -87,9 +87,9 @@
     - 课表
     - 上课
 
-- text: 成绩查询
+- text: 本科成绩查询
   icon: grade
-  url: grade
+  url: under-grade
   tags:
     - 查成绩
     - 期末成绩
