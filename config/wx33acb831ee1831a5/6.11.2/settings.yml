@@ -78,11 +78,11 @@ main-presets:
     - tag: grid
       header: 您可能想关注
       items:
-        - text: 课程表
+        - text: 本科课程表
           color: grey
           name: Course
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 选课系统
           color: blue
@@ -132,11 +132,11 @@ main-presets:
     - tag: grid
       header: 功能
       items:
-        - text: 课程表
+        - text: 本科课程表
           color: grey
           name: Course
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 成绩查询
           color: orange
@@ -425,11 +425,11 @@ function-presets:
     - tag: grid
       header: 教务系统
       items:
-        - text: 课程表
+        - text: 本科课程表
           color: grey
           name: Course
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 成绩查询
           color: orange

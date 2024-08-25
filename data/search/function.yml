@@ -69,20 +69,20 @@
   url: weather
 
 # 教务系统
-- text: 建立学籍
-  icon: archive
-  url: under-archive-create
+# - text: 建立学籍
+#   icon: archive
+#   url: under-archive-create
 
-- text: 查看学籍
-  icon: archive
-  url: under-archive-view
-  tags:
-    - 注册学籍
-    - 学籍注册
+# - text: 查看学籍
+#   icon: archive
+#   url: under-archive-view
+#   tags:
+#     - 注册学籍
+#     - 学籍注册
 
-- text: 课程表
+- text: 本科课程表
   icon: course-table
-  url: course-table
+  url: under-course-table
   tags:
     - 课表
     - 上课
@@ -196,11 +196,10 @@
     - 登录
     - 账户
     - 统一身份认证
-
-- text: 密码重置
-  icon: change
-  url: account-reset
-  tags:
-    - 重置密码
-    - 找回密码
-    - 忘记密码
+# - text: 密码重置
+#   icon: change
+#   url: account-reset
+#   tags:
+#     - 重置密码
+#     - 找回密码
+#     - 忘记密码
