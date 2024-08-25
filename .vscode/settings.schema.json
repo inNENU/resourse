@@ -212,6 +212,10 @@
           "description": "本科生教务系统登录检查",
           "$ref": "#/$defs/service-status"
         },
+        "under-course-table": {
+          "description": "本科生课程表",
+          "$ref": "#/$defs/service-status"
+        },
         "under-commentary": {
           "description": "本科生评教",
           "$ref": "#/$defs/service-status"

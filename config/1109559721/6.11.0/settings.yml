@@ -644,9 +644,6 @@ about:
 
       - text: 小程序现有字数为 1081512 字，其中东师指南部分 333458 字，新生迎新部分 105602 字，东师介绍部分 339481 字，机构介绍部分 70763 字，学院介绍部分 145359 字，功能大厅部分 39222 字，其他部分 47627 字。
 
-      # - text: Hope Studio 介绍
-      #   url: info?path=Ohope-studio/about
-
       - text: Mr.Hope 个人介绍
         url: info?path=Oabout/mrhope
 
