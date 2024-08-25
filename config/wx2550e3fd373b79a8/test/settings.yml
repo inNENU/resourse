@@ -471,7 +471,7 @@ function-presets:
           url: library
 
     - tag: grid
-      header: 教务系统
+      header: 本科教务系统
       items:
         - text: 本科课程表
           color: grey
