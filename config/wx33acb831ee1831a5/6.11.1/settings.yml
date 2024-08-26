@@ -1,8 +1,8 @@
 main-page:
-  # guest: guest
-  # "2024": newcomer
-  # default: at-school
-  default: wenenu
+  guest: guest
+  "2024": newcomer
+  default: at-school
+  # default: wenenu
 
 main-presets:
   wenenu:
@@ -17,24 +17,9 @@ main-presets:
 
   guest:
     # - tag: card
-    #   cover: $img/tab/activate.jpg
-    #   title: 账号激活
-    #   url: account-activate
-
-    # - tag: card
-    #   cover: $img/tab/faq.png
-    #   title: 常见问题
-    #   path: newcomer/faq/
-
-    # - tag: card
     #   cover: $img/tab/stream.png
     #   title: 经验分享与答疑
     #   path: newcomer/activity/streaming
-
-    # - tag: card
-    #   cover: $img/tab/first-day.png
-    #   title: 大学第一天
-    #   path: newcomer/check/first-day
 
     - tag: list
       items:
@@ -168,11 +153,6 @@ main-presets:
           path: guide/normal/
 
   newcomer:
-    # - tag: card
-    #   cover: $img/tab/first-day.png
-    #   title: 大学第一天
-    #   path: newcomer/check/first-day
-
     - tag: functional-list
       header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
       items:
@@ -382,88 +362,88 @@ main-presets:
       footer: 更多内容请详见下方其他 Tab 页
 
 intro-page:
-  # guest:
-  #   items:
-  #     - under-enroll
-  #     - grad-enroll
-  #     - about
-  #     - school
-  #   more:
-  #     - apartment
-
-  # default:
-  #   items:
-  #     - about
-  #     - school
-  #     - apartment
-  #   more:
-  #     - under-enroll
-  #     - grad-enroll
+  guest:
+    items:
+      - under-enroll
+      - grad-enroll
+      - about
+      - school
+    more:
+      - apartment
 
   default:
-    items: []
-    more: []
+    items:
+      - about
+      - school
+      - apartment
+    more:
+      - under-enroll
+      - grad-enroll
+
+  # default:
+  #   items: []
+  #   more: []
 
 guide-page:
-  # guest:
-  #   items:
-  #     - newcomer
-  #     - life
-  #     - study
-  #     - enjoy
-  #     - normal
-  #   more:
-  #     - account
-  #     - service
-  #     - tip
-  #     - graduate
+  guest:
+    items:
+      - newcomer
+      - life
+      - study
+      - enjoy
+      - normal
+    more:
+      - account
+      - service
+      - tip
+      - graduate
 
-  # "2024":
-  #   items:
-  #     - newcomer
-  #     - life
-  #     - study
-  #     - normal
-  #     - enjoy
-  #     - service
-  #     - account
-  #     - tip
-  #   more:
-  #     - graduate
+  "2024":
+    items:
+      - newcomer
+      - life
+      - study
+      - normal
+      - enjoy
+      - service
+      - account
+      - tip
+    more:
+      - graduate
 
-  # "2020":
-  #   items:
-  #     - graduate
-  #     - study
-  #     - service
-  #     - account
-  #   more:
-  #     - life
-  #     - tip
-  #     - enjoy
-  #     - newcomer
-
-  # default:
-  #   items:
-  #     - service
-  #     - study
-  #     - life
-  #     - account
-  #   more:
-  #     - normal
-  #     - tip
-  #     - enjoy
-  #     - newcomer
-  #     - graduate
+  "2020":
+    items:
+      - graduate
+      - study
+      - service
+      - account
+    more:
+      - life
+      - tip
+      - enjoy
+      - newcomer
 
   default:
-    items: []
-    more: []
+    items:
+      - service
+      - study
+      - life
+      - account
+    more:
+      - normal
+      - tip
+      - enjoy
+      - newcomer
+      - graduate
+
+  # default:
+  #   items: []
+  #   more: []
 
 function-page:
-  # guest: guest
-  # default: at-school
-  default: wenenu
+  guest: guest
+  default: at-school
+  # default: wenenu
 
 function-presets:
   wenenu: []
@@ -601,53 +581,53 @@ function-presets:
     - grad-enroll
 
 user:
-  []
-  # - tag: list
-  #   items:
-  #     - text: 使用指南
-  #       icon: idea
-  #       url: info?path=Oguide/
+  # []
+  - tag: list
+    items:
+      - text: 使用指南
+        icon: idea
+        url: info?path=Oguide/
 
-  #     - text: 更新日志
-  #       icon: log
-  #       url: info?path=Olog/
+      - text: 更新日志
+        icon: log
+        url: info?path=Olog/
 
-  #     - text: 隐私说明
-  #       icon: privacy
-  #       url: privacy
+      - text: 隐私说明
+        icon: privacy
+        url: privacy
 
-  #     - text: 关于
-  #       icon: about
-  #       url: about
+      - text: 关于
+        icon: about
+        url: about
 
-  # - tag: p
-  #   heading: " "
-  #   text:
-  #     - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-  #     - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
-  #   style: "color: #888; font-size: 14px"
+  - tag: p
+    heading: " "
+    text:
+      - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+    style: "color: #888; font-size: 14px"
 
-  # - tag: functional-list
-  #   items:
-  #     - text: 分享小程序
-  #       icon: share
-  #       type: button
-  #       openType: share
+  - tag: functional-list
+    items:
+      - text: 分享小程序
+        icon: share
+        type: button
+        openType: share
 
-  #     - text: 查看 inNENU 微信视频号
-  #       icon: wechat
-  #       type: button
-  #       handler: openChannel
+      - text: 查看 inNENU 微信视频号
+        icon: wechat
+        type: button
+        handler: openChannel
 
-  #     - text: 联系 Mr.Hope
-  #       icon: contact
-  #       type: button
-  #       openType: contact
-  #       handler: reportInfo
+      - text: 联系 Mr.Hope
+        icon: contact
+        type: button
+        openType: contact
+        handler: reportInfo
 
-  #     - text: 评价小程序
-  #       icon: star
-  #       url: action?action=rate
+      - text: 评价小程序
+        icon: star
+        url: action?action=rate
 
 about:
   - tag: list
