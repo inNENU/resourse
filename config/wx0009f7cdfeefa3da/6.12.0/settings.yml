@@ -640,7 +640,7 @@ service:
 notice:
   app:
     title: 暂停服务公告
-    content: 自 8 月 26 日 11:38 分起，App 受到不知名用户的高频攻击，为避免产生高额账单，App 被迫暂停服务。
+    content: 自 8 月 26 日 11:38 分起，App 受到匿名攻击者的高频攻击，为避免产生高额账单，App 被迫暂停服务。
     force: true
 
   main:
