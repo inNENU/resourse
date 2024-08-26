@@ -15,10 +15,11 @@ export const resolveAudio = (
     {
       tag: "string",
       src: "string",
-      loop: ["boolean", "undefined"],
-      controls: ["boolean", "undefined"],
       name: ["string", "undefined"],
       author: ["string", "undefined"],
+      poster: ["string", "undefined"],
+      autoplay: ["boolean", "undefined"],
+      loop: ["boolean", "undefined"],
       env: ["string[]", "undefined"],
     },
     location,
