@@ -2,7 +2,7 @@ title: 净月浴池
 icon: bath
 desc: 特别鸣谢苏凛提供相关照片和信息
 author: Mr.Hope
-time: 2024-08-24T13:07:17.963Z
+time: 2024-08-27T09:40:29.173Z
 shareable: true
 content:
   - tag: title
@@ -32,7 +32,11 @@ content:
     heading: 开放时间
     text:
       - 8:00🕗 - 22:00🕙
-      - "检修时间: 每月第二周星期三"
+
+  - tag: phone
+    header: 净月浴池反馈电话
+    fName: 净月浴池反馈电话
+    num: 15058615356
 
   - tag: img
     src: $img/bath/jingyue-entrance.jpg
@@ -40,7 +44,7 @@ content:
     watermark: true
 
   - tag: text
-    text: 入门后左侧为男浴区与休息室(休息室为男女共用)，还有奶茶店通道；右侧为女浴区。浴池内配有吹风机。浴池为单间浴池，单间内带有衣帽柜。由于学校男女比例原因，净月校区浴池女浴区经常需要排队(男浴区较少出现排队情况)。
+    text: 入门后左侧为男浴区与休息室 (休息室为男女共用)；右侧为女浴区。浴池内配有吹风机。浴池为单间浴池，单间内带有衣帽柜。由于学校男女比例原因，净月校区浴池女浴区经常需要排队 (男浴区较少出现排队情况)。
 
   - tag: img
     src: $img/bath/jingyue-bath.jpg

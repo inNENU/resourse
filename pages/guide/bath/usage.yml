@@ -1,7 +1,7 @@
 title: 洗浴方式
 icon: bath
 author: Mr.Hope
-time: 2023-09-22T16:59:13.414Z
+time: 2024-08-27T09:40:29.176Z
 shareable: true
 content:
   - tag: title
@@ -9,11 +9,23 @@ content:
 
   - tag: text
     text:
-      - 每个浴池单间中配备一个控制终端。
-      - 终端最简单的使用方式是通过密码，推荐同学们设置。
+      - 每个浴池单间的墙面上配备一个智能控制终端，支持通过消费密码或手机微信扫码使用。
+      - 您可以通过终端控制淋浴头的启停，同时终端会自动根据您在洗浴过程中的用水量完成扣费。
+      - 终端最为简单的使用方式是通过密码，推荐同学们自行设置并使用。
+
+  - tag: text
+    type: note
+    text: 您需要先关注微信公众号“台州博诚”，并完成初始化设置。
+
+  - tag: list
+    header: false
+    items:
+      - text: 浴池账户与计费
+        icon: account
+        path: account
 
   - tag: title
-    text: 设置洗浴密码 (每次洗浴之前)
+    text: 设置洗浴密码
 
   - tag: text
     text: 点击公众号内“密码账户”菜单并选择自己的校区
@@ -39,8 +51,7 @@ content:
   - tag: text
     type: warning
     text:
-      - 密码需要牢记，如果忘记，请重新生成。
-      - 每天只有三次生成机会。
+      - 密码需要牢记，如果忘记，请重新生成，另外每天只有三次生成机会。
 
   - tag: title
     text: 使用终端
@@ -70,5 +81,5 @@ content:
     type: warning
     heading: 结束洗浴
     text:
-      - 结束洗浴即完成本次消费。这意味着你需要重新扫码或者生成新的消费密码输入以再次使用。
+      - 结束洗浴即完成本次消费。这意味着你需要重新输入消费密码或重新扫码以再次使用。
       - 建议确定使用完笼头要离开的时候再下线。

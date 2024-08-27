@@ -1,14 +1,14 @@
 title: 浴池提现
 icon: money
 author: Mr.Hope
-time: 2023-09-22T16:59:13.406Z
+time: 2024-08-27T09:40:29.168Z
 shareable: true
 content:
   - tag: title
     text: 钱包金额提现
 
   - tag: text
-    text: 仍然点击公众号内“钱包充值”菜单并选择自己的校区，但这次点击充值页面的“提现”按钮
+    text: 点击公众号内“钱包充值”菜单并选择自己的校区，之后点击充值页面的“提现”按钮。
 
   - tag: img
     src: $img/bath/charge-pay.jpg
@@ -30,14 +30,17 @@ content:
 
   - tag: img
     src: $img/bath/return-wait.jpg
-    desc: 此时只是发起提现申请，提现未成功需要等候通知
+    desc: 此时只是发起提现申请，提现未成功需要等待后续通知并手动领取！
     watermark: true
 
   - tag: text
     type: tip
+    heading: 友情提示
     text:
       - 满一元提现是微信的要求。
-      - 另外克扣是由于微信在充值时会收取 0.06% 的渠道费，不是服务商昧下了
+      - 由于微信支付会收取 0.06% 的手续费，因此退款时会将这一部分扣除。
 
   - tag: text
-    text: 24 小时后，微信会通知提现成功并自动将退款退回微信余额。
+    text:
+      - 24 小时内，浴池服务商系统通过退款审批后，申请人微信会收到一条来自于【卡博士】的通知。
+      - 此时需要手动点击打开通知并领取红包，才能领取退款。
