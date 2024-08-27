@@ -73,10 +73,10 @@ YAML 是专门用来写配置文件的语言，非常简洁和强大，其设计
 
 inNENU 服务器文件结构如下:
 
-- 文件存放在 `https://mp.innenu.com/file/` 下
-- 图片存放在 `https://mp.innenu.com/img/` 下
-- 页面 YAML 存放在 `https://mp.innenu.com/pages/` 下
-- 图标存放在 `https://mp.innenu.com/data/icon/` 下
+- 文件存放在 `https://assets.innenu.com/file/` 下
+- 图片存放在 `https://assets.innenu.com/img/` 下
+- 页面 YAML 存放在 `https://res.innenu.com/pages/` 下
+- 图标存放在 `https://res.innenu.com/data/icon/` 下
 
 ::: info
 

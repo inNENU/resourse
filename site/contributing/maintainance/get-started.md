@@ -13,11 +13,11 @@ category: 小程序
 假定您已经获得以下材料:
 
 - 统一身份认证登录
-  ![统一身份认证登录](https://mp.innenu.com/img/account/authserver.jpg)
+  ![统一身份认证登录](https://assets.innenu.com/img/account/authserver.jpg)
 - 修改密码页面截图
-  ![修改密码页面截图](https://mp.innenu.com/img/account/reset-password.jpg)
+  ![修改密码页面截图](https://assets.innenu.com/img/account/reset-password.jpg)
 - 别名管理页面截图
-  ![别名管理页面截图](https://mp.innenu.com/img/account/email-address.jpg)
+  ![别名管理页面截图](https://assets.innenu.com/img/account/email-address.jpg)
 
 ::: details 相关材料
 
@@ -239,10 +239,10 @@ content:
 
 inNENU 服务器文件结构如下:
 
-- 文件: 存放在 `https://mp.innenu.com/file/`，可以用 `$file` 索引
-- 图片: 存放在 `https://mp.innenu.com/img/`，可以用 `$img` 索引
-- 页面 YAML: 存放在 `https://mp.innenu.com/pages/`
-- 图标: 存放在 `https://mp.innenu.com/data/icon/`
+- 文件: 存放在 `https://assets.innenu.com/file/`，可以用 `$file` 索引
+- 图片: 存放在 `https://assets.innenu.com/img/`，可以用 `$img` 索引
+- 页面 YAML: 存放在 `https://assets.innenu.com/pages/`
+- 图标: 存放在 `https://assets.innenu.com/data/icon/`
 
 ::: info
 

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-07/schema",
-  "$ref": "https://mp.innenu.com/.vscode/components.schema.json",
+  "$ref": "https://res.innenu.com/.vscode/components.schema.json",
   "properties": {
     "title": {
       "description": "导航栏标题",

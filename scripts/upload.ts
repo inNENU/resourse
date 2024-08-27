@@ -5,7 +5,7 @@ config();
 
 // 连接客户端
 client.connect({
-  host: "mp.innenu.com",
+  host: "res.innenu.com",
   user: process.env.FTP_USERNAME,
   password: process.env.FTP_PASSWORD,
 });

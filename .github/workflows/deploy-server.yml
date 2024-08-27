@@ -31,12 +31,11 @@ jobs:
           mkdir -p ~/.ssh/
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan mp.innenu.com >> ~/.ssh/known_hosts
+          ssh-keyscan res.innenu.com >> ~/.ssh/known_hosts
           git config --global user.name 'Mr.Hope'
           git config --global user.email 'mister-hope@outlook.com'
 
       - name: Deploy
         run: |
-          ssh git@mp.innenu.com "git config --global --add safe.directory '*'"
-          git push -f git@mp.innenu.com:/www/wwwroot/mp main
-          ssh git@mp.innenu.com "cd /www/wwwroot/mp && git reset --hard HEAD"
+          git push -f git@res.innenu.com:/www/wwwroot/innenu-res main
+          ssh git@res.innenu.com "cd /www/wwwroot/innenu-res && git reset --hard HEAD"

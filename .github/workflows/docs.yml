@@ -70,6 +70,5 @@ jobs:
 
       - name: Deploy
         run: |
-          ssh git@innenu.com "git config --global --add safe.directory '*'"
-          git push -f git@innenu.com:/www/wwwroot/innenu-docs gh-pages
-          ssh git@innenu.com "cd /www/wwwroot/innenu-docs && git reset --hard HEAD"
+          git push -f git@innenu.com:/www/wwwroot/innenu gh-pages
+          ssh git@innenu.com "cd /www/wwwroot/innenu && git reset --hard HEAD"
