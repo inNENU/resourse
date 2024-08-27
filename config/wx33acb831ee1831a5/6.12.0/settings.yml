@@ -108,24 +108,6 @@ main-presets:
           icon: notice
           url: notice-list
 
-        - text: 学生组织
-          color: blue
-          name: Organization
-          icon: student-org
-          path: guide/org/
-
-        - text: 社团
-          color: orange
-          name: Association
-          icon: association
-          path: guide/association/
-
-        - text: 校园媒体
-          color: grey
-          name: Accounts
-          icon: account
-          url: school-media
-
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
