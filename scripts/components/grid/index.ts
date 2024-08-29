@@ -12,7 +12,7 @@ export const resolveGrid = (
 ): void => {
   element.items?.forEach((gridItem) => {
     // 处理路径
-    if (gridItem.path)
+    if ("path" in gridItem && !("appId" in gridItem))
       if (gridItem.path.startsWith("/")) {
         const path = resolvePath(gridItem.path);
 
@@ -50,6 +50,12 @@ export const resolveGrid = (
         base64Icon: ["string", "undefined"],
         path: ["string", "undefined"],
         url: ["string", "undefined"],
+        appId: ["string", "undefined"],
+        extraData: ["Record<string, any>", "undefined"],
+        versionType: {
+          type: ["string", "undefined"],
+          enum: ["develop", "trial", "release", undefined],
+        },
         env: ["string[]", "undefined"],
       },
       `${location}.content`,

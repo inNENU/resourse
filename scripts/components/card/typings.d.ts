@@ -22,6 +22,8 @@ export interface NormalCardComponentOptions extends BaseCardComponentOptions {
 export interface PageCardComponentOptions extends BaseCardComponentOptions {
   /** 跳转的文件名称 */
   path: string;
+  /** 处理后的路径 */
+  url?: string;
 }
 
 export interface MiniprogramCardComponentOptions

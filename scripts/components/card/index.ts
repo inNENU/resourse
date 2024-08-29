@@ -57,14 +57,13 @@ export const resolveCard = (
       desc: ["string", "undefined"],
       logo: ["string", "undefined"],
       name: ["string", "undefined"],
-      options: ["object", "undefined"],
-      env: ["string[]", "undefined"],
       appId: ["string", "undefined"],
       extraData: ["Record<string, any>", "undefined"],
       versionType: {
         type: ["string", "undefined"],
         enum: ["develop", "trial", "release", undefined],
       },
+      env: ["string[]", "undefined"],
     },
     location,
   );
