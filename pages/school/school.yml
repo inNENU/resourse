@@ -2,127 +2,87 @@ title: 学院介绍
 icon: school
 grey: true
 author: Mr.Hope
-time: 2024-07-21T14:45:01.222Z
+time: 2024-08-29T09:00:55.060Z
 shareable: true
 content:
   - tag: grid
     items:
       - text: 教育学部
-        color: blue
-        name: Education
         icon: education
         path: education/intro
 
       - text: 心理学院
-        color: orange
-        name: Psychology
         icon: psychology
         path: psychology/intro
 
       - text: 政法学院
-        color: red
-        name: Politics
         icon: politics
         path: politics/intro
 
       - text: 经济与管理学院
-        color: purple
-        name: Economy
         icon: economy
         path: economy/intro
 
       - text: 文学院
-        color: cyan
-        name: Chinese
         icon: chinese
         path: chinese/intro
 
       - text: 历史文化学院
-        color: olive
-        name: History
         icon: history
         path: history/intro
 
       - text: 外国语学院
-        color: mauve
-        name: Foreign
         icon: foreign
         path: foreign/intro
 
       - text: 音乐学院
-        color: blue
-        name: Music
         icon: music
         path: music/intro
 
       - text: 美术学院
-        color: orange
-        name: Art
         icon: art
         path: art/intro
 
       - text: 马克思主义学部
-        color: red
-        name: Marx
         icon: marx
         path: marx/intro
 
       - text: 数学与统计学院
-        color: purple
-        name: Math
         icon: math
         path: math/intro
 
       - text: 信息科学与技术学院
-        color: cyan
-        name: Politic
         icon: ist
         path: ist/intro
 
       - text: 物理学院
-        color: olive
-        name: Physics
         icon: physics
         path: physics/intro
 
       - text: 化学学院
-        color: mauve
-        name: Chemistry
         icon: chemistry
         path: chemistry/intro
 
       - text: 生命科学学院
-        color: blue
-        name: Biology
         icon: biology
         path: biology/intro
 
       - text: 地理科学学院
-        color: orange
-        name: Geography
         icon: geography
         path: geography/intro
 
       - text: 环境学院
-        color: red
-        name: Env
         icon: environment
         path: environment/intro
 
       - text: 体育学院
-        color: purple
-        name: PE
         icon: basketball
         path: pe/intro
 
       - text: 传媒科学学院
-        color: cyan
-        name: Media
         icon: media
         path: media/intro
 
       - text: 纽瓦克学院
-        color: grey
-        name: Newark
         icon: activity
         path: newark/intro

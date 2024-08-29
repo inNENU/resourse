@@ -1,7 +1,7 @@
 title: 智慧团建小程序操作流程
 icon: miniapp
 author: Mr.Hope
-time: 2024-08-16T05:53:03.696Z
+time: 2024-08-29T09:00:55.310Z
 shareable: true
 content:
   - tag: title
@@ -15,9 +15,8 @@ content:
 
   - tag: card
     title: 智慧团建
-    options:
-      appId: wx88263d1ad6c5ea60
-      path: pages/login/accountLogin
+    appId: wx88263d1ad6c5ea60
+    path: pages/login/accountLogin
     env:
       - wx
 

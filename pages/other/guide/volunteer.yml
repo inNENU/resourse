@@ -1,6 +1,6 @@
 title: inNENU 志愿者招募
 author: Mr.Hope
-time: 2023-12-20T06:56:43.937Z
+time: 2024-08-29T09:00:56.161Z
 shareable: true
 content:
   - tag: title
@@ -20,9 +20,8 @@ content:
 
   - tag: card
     title: inNENU 计划表
-    options:
-      appId: wxd45c635d754dbf59
-      path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH
+    appId: wxd45c635d754dbf59
+    path: pages/detail/detail?url=https%3A%2F%2Fdocs.qq.com%2Fsheet%2FDYnJRZ2RpenJ3WGFH
     env:
       - wx
 

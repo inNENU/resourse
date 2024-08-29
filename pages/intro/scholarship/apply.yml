@@ -1,7 +1,7 @@
 title: 奖学金申请
 icon: apply
 author: Mr.Hope
-time: 2023-09-23T11:16:45.572Z
+time: 2024-08-29T09:00:55.456Z
 shareable: true
 content:
   - tag: title
@@ -12,9 +12,8 @@ content:
 
   - tag: card
     title: 奖学宝
-    options:
-      appId: wx1a044b87a35bfdef
-      path: pages/index/index
+    appId: wx1a044b87a35bfdef
+    path: pages/index/index
     env:
       - wx
 

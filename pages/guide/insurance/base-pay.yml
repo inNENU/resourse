@@ -1,7 +1,7 @@
 title: 城乡居民基本医疗保险缴费
 icon: money
 author: Mr.Hope
-time: 2024-08-16T05:53:04.315Z
+time: 2024-08-29T09:00:55.761Z
 shareable: true
 content:
   - tag: text
@@ -62,9 +62,8 @@ content:
 
   - tag: card
     title: 城乡居民医保缴费
-    options:
-      appId: wx2bd3e1deb552a91c
-      path: pages/index/index
+    appId: wx2bd3e1deb552a91c
+    path: pages/index/index
     env:
       - wx
 

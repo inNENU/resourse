@@ -327,24 +327,6 @@
           "description": "网格项目图标",
           "type": "string"
         },
-        "color": {
-          "description": "网格颜色",
-          "type": "string",
-          "enum": [
-            "red",
-            "blue",
-            "purple",
-            "orange",
-            "grey",
-            "mauve",
-            "olive",
-            "cyan"
-          ]
-        },
-        "name": {
-          "description": "网格项目英文名称",
-          "type": "string"
-        },
         "path": {
           "description": "网格项目路径",
           "type": "string"
@@ -963,19 +945,9 @@
           "description": "卡片 Logo 名称",
           "type": "string"
         },
-        "options": {
-          "description": "卡片额外参数",
-          "type": "object",
-          "properties": {
-            "appId": {
-              "description": "跳转小程序 ID",
-              "type": "string"
-            },
-            "path": {
-              "description": "跳转小程序路径",
-              "type": "string"
-            }
-          }
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
         },
         "env": {
           "$ref": "#/$defs/env"

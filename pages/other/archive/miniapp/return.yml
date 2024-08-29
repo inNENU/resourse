@@ -1,6 +1,6 @@
 title: 返校申请
 author: Mr.Hope
-time: 2024-08-16T05:53:04.724Z
+time: 2024-08-29T09:00:56.152Z
 shareable: true
 content:
   - tag: title
@@ -14,9 +14,8 @@ content:
   - tag: card
     title: 返校登记
     desc: 东师 e 起战疫
-    options:
-      appId: wxa9de818af2c7f9ab
-      path: pages/back/back/back
+    appId: wxa9de818af2c7f9ab
+    path: pages/back/back/back
     env:
       - wx
 

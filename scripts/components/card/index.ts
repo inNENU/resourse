@@ -24,7 +24,7 @@ export const resolveCard = (
   if (component.cover)
     component.cover = resolveAlias(component.cover, "Image", location);
 
-  if ("path" in component) {
+  if ("path" in component && !("appId" in component)) {
     if (component.path.startsWith("/")) {
       const path = resolvePath(component.path);
 
@@ -59,26 +59,26 @@ export const resolveCard = (
       name: ["string", "undefined"],
       options: ["object", "undefined"],
       env: ["string[]", "undefined"],
+      appId: ["string", "undefined"],
+      extraData: ["Record<string, any>", "undefined"],
+      versionType: {
+        type: ["string", "undefined"],
+        enum: ["develop", "trial", "release", undefined],
+      },
     },
     location,
   );
 
-  // check options
-  if ("options" in component)
-    checkKeys(
-      component.options,
-      {
-        appId: "string",
-        envVersion: {
-          type: ["string", "undefined"],
-          enum: ["develop", "trial", "release", undefined],
-        },
-        extraData: ["Record<string, any>", "undefined"],
-        path: ["string", "undefined"],
-        shortLink: ["string", "undefined"],
-      },
-      `${location}.options`,
-    );
+  // FIXME:
+  if ("appId" in component) {
+    // @ts-expect-error: legacy code
+    component.options = {
+      appId: component.appId,
+      ...(component.path ? { path: component.path } : {}),
+      ...(component.extraData ? { extraData: component.extraData } : {}),
+      ...(component.versionType ? { envVersion: component.versionType } : {}),
+    };
+  }
 };
 
 export const getCardMarkdown = (component: CardComponentOptions): string => {
@@ -89,7 +89,7 @@ export const getCardMarkdown = (component: CardComponentOptions): string => {
     : null;
   const cover = component.cover ? resolveAlias(component.cover) : null;
 
-  if ("options" in component) return "";
+  if ("appId" in component) return "";
 
   const { name, desc, title } = component;
 

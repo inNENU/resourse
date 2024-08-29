@@ -48,8 +48,6 @@ export const resolveGrid = (
         text: "string",
         icon: "string",
         base64Icon: ["string", "undefined"],
-        color: "string",
-        name: "string",
         path: ["string", "undefined"],
         url: ["string", "undefined"],
         env: ["string[]", "undefined"],

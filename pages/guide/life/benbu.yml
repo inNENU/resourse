@@ -1,7 +1,7 @@
 title: 本部生活分板块介绍
 icon: life
 author: Mr.Hope
-time: 2024-08-16T06:48:43.747Z
+time: 2024-08-29T09:00:55.798Z
 shareable: true
 content:
   - tag: title
@@ -25,14 +25,10 @@ content:
     header: 衣
     items:
       - text: 洗衣店
-        name: Washing
-        color: red
         icon: washer
         path: washing/benbu
 
       - text: 眼镜店
-        name: Glasses
-        color: blue
         icon: glasses
         path: glasses/benbu
 
@@ -40,26 +36,18 @@ content:
     header: 食
     items:
       - text: 食堂
-        name: Dining
-        color: mauve
         icon: dining
         path: /guide/dining/benbu
 
       - text: 水果
-        name: Fruit
-        color: cyan
         icon: fruit
         path: fruit/benbu
 
       - text: 烘焙坊
-        name: Bake
-        color: purple
         icon: bake
         path: bake/benbu
 
       - text: 饮品店
-        name: Drink
-        color: olive
         icon: drink
         path: drink/benbu
 
@@ -67,50 +55,34 @@ content:
     header: 住
     items:
       - text: 寝室
-        name: Dorm
-        color: blue
         icon: dorm
         path: /guide/dorm/
 
       - text: 浴池
-        name: Bath
-        color: red
         icon: bath
         path: /guide/bath/benbu
 
       - text: 理发
-        name: Haircut
-        color: mauve
         icon: haircut
         path: haircut/benbu
 
       - text: 照相
-        name: Photo
-        color: cyan
         icon: photo
         path: photo/benbu
 
       - text: 打印复印
-        name: Print
-        color: purple
         icon: print
         path: print/benbu
 
       - text: 数码电子
-        name: Digital
-        color: olive
         icon: digital
         path: digital/benbu
 
       - text: 书店
-        name: Book
-        color: grey
         icon: books
         path: book/benbu
 
       - text: 营业厅
-        name: SIM
-        color: grey
         icon: sim
         path: sim/
 
@@ -118,25 +90,17 @@ content:
     header: 行
     items:
       - text: 交通出行
-        name: Traffic
-        color: blue
         icon: traffic
         path: /guide/traffic/
 
       - text: 存取款
-        name: ATM
-        color: red
         icon: atm
         path: atm/benbu
 
       - text: 就医
-        name: Hospital
-        color: cyan
         icon: hospital
         path: hostpital/benbu
 
       - text: 校园周边
-        name: Nearby
-        color: purple
         icon: nearby
         path: nearby/benbu

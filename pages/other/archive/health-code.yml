@@ -1,6 +1,6 @@
 title: 国家防疫健康信息码
 author: Mr.Hope
-time: 2023-08-04T13:58:24.175Z
+time: 2024-08-29T09:00:56.132Z
 shareable: true
 cite: https://gjzwfw.www.gov.cn/col/col994/index.html
 content:
@@ -21,8 +21,7 @@ content:
 
   - tag: card
     title: 防疫健康信息码服务
-    options:
-      appId: wx2eec5fb00157a603
-      path: fangkongfuwu/pages/healthCode/step_1/index
+    appId: wx2eec5fb00157a603
+    path: fangkongfuwu/pages/healthCode/step_1/index
     env:
       - wx

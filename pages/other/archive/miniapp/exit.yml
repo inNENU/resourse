@@ -1,14 +1,13 @@
 title: 出校申请
 author: Mr.Hope
-time: 2024-08-16T05:53:04.718Z
+time: 2024-08-29T09:00:56.146Z
 shareable: true
 content:
   - tag: card
     title: 出校申请
     desc: 东师 e 起战疫
-    options:
-      appId: wxa9de818af2c7f9ab
-      path: pages/out/out/out
+    appId: wxa9de818af2c7f9ab
+    path: pages/out/out/out
     env:
       - wx
 

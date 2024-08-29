@@ -1,6 +1,6 @@
 title: 吉祥码
 author: Mr.Hope
-time: 2024-08-16T05:53:04.713Z
+time: 2024-08-29T09:00:56.141Z
 grey: true
 shareable: true
 cite: http://jl.gov.cn/jxm/
@@ -10,9 +10,8 @@ content:
     desc: 快速打开吉祥码
     logo: $img/epidemic/jixiang-code-icon.png
     name: 吉事办
-    options:
-      appId: wx5f0c843a23b032cc
-      path: package1/pages/qrcode/index
+    appId: wx5f0c843a23b032cc
+    path: package1/pages/qrcode/index
     env:
       - wx
 

@@ -34,50 +34,34 @@ main-presets:
       header: 报到相关
       items:
         - text: 到校路线
-          color: grey
-          name: Arrival
           icon: locate
           path: newcomer/arrival/
 
         - text: 新生报到
-          color: orange
-          name: Check
           icon: check
           path: newcomer/check/
 
         - text: 新生群
-          color: olive
-          name: Contact
           icon: qq-group
           path: newcomer/contact/
 
         - text: 需带物品
-          color: olive
-          name: Necessity
           icon: necessity
           path: newcomer/necessity/
 
         - text: 军训
-          color: blue
-          name: Military
           icon: military
           path: newcomer/activity/military/
 
         - text: 入学活动
-          color: purple
-          name: Activity
           icon: activity
           path: newcomer/activity/
 
         - text: 防盗防骗
-          color: olive
-          name: Safety
           icon: safe
           path: newcomer/safety/
 
         - text: 校园地图
-          color: orange
-          name: Map
           icon: map
           url: map
 
@@ -85,74 +69,50 @@ main-presets:
       header: 您可能想关注
       items:
         - text: 寝室
-          color: blue
-          name: Dorm
           icon: dorm
           path: guide/dorm/
 
         - text: 食堂
-          color: orange
-          name: Dining
           icon: dining
           path: guide/dining/
 
         - text: 快递
-          color: olive
-          name: Express
           icon: express
           path: guide/express/
 
         - text: 洗浴
-          color: red
-          name: Bath
           icon: bath
           path: guide/bath/
 
         - text: 校园网
-          color: red
-          name: Network
           icon: network
           path: guide/network/
 
         - text: 校园卡
-          color: purple
-          name: Network
           icon: card
           path: guide/card/
 
         - text: 生活
-          color: purple
-          name: Life
           icon: life
           path: guide/life/
 
         - text: 课程
-          color: orange
-          name: Course
           icon: content
           path: guide/course/
 
         - text: 学习
-          color: mauve
-          name: Study
           icon: study
           path: guide/study/
 
         - text: 奖学金
-          color: purple
-          name: Scholarship
           icon: metal
           path: intro/scholarship/
 
         - text: 转专业
-          color: red
-          name: Change Major
           icon: change
           path: guide/change-major/
 
         - text: 师范生
-          color: purple
-          name: Normal
           icon: teacher
           path: guide/normal/
 
@@ -174,50 +134,34 @@ main-presets:
       header: 报到相关
       items:
         - text: 入学准备
-          color: red
-          name: Prepare
           icon: prepare
           path: newcomer/prepare/
 
         - text: 到校路线
-          color: grey
-          name: Arrival
           icon: locate
           path: newcomer/arrival/
 
         - text: 新生报到
-          color: orange
-          name: Check
           icon: check
           path: newcomer/check/
 
         - text: 新生群
-          color: olive
-          name: Contact
           icon: qq-group
           path: newcomer/contact/
 
         - text: 需带物品
-          color: olive
-          name: Necessity
           icon: necessity
           path: newcomer/necessity/
 
         - text: 入学活动
-          color: purple
-          name: Activity
           icon: activity
           path: newcomer/activity/
 
         - text: 防盗防骗
-          color: olive
-          name: Safety
           icon: safe
           path: newcomer/safety/
 
         - text: 校园地图
-          color: orange
-          name: Map
           icon: map
           url: map
 
@@ -225,92 +169,62 @@ main-presets:
       header: 校园介绍
       items:
         - text: 寝室
-          color: blue
-          name: Dorm
           icon: dorm
           path: guide/dorm/
 
         - text: 食堂
-          color: orange
-          name: Dining
           icon: dining
           path: guide/dining/
 
         - text: 快递
-          color: olive
-          name: Express
           icon: express
           path: guide/express/
 
         - text: 洗浴
-          color: red
-          name: Bath
           icon: bath
           path: guide/bath/
 
         - text: 生活
-          color: purple
-          name: Life
           icon: life
           path: guide/life/
 
         - text: 课程
-          color: orange
-          name: Course
           icon: content
           path: guide/course/
 
         - text: 学习
-          color: mauve
-          name: Study
           icon: study
           path: guide/study/
 
         - text: 奖学金
-          color: purple
-          name: Scholarship
           icon: metal
           path: intro/scholarship/
 
         - text: 转专业
-          color: red
-          name: Change Major
           icon: change
           path: guide/change-major/
 
         - text: 师范生
-          color: purple
-          name: Normal
           icon: teacher
           path: guide/normal/
 
         - text: 专业介绍
-          color: mauve
-          name: Major
           icon: study
           path: school/major
 
         - text: 学校通知
-          color: red
-          name: Notice
           icon: notice
           url: notice-list
 
         - text: 校园媒体
-          color: grey
-          name: Accounts
           icon: account
           url: school-media
 
         - text: 学生组织
-          color: blue
-          name: Organization
           icon: student-org
           path: guide/org/
 
         - text: 社团
-          color: orange
-          name: Association
           icon: association
           path: guide/association/
 
@@ -321,50 +235,34 @@ main-presets:
       header: 功能
       items:
         - text: 课程表
-          color: grey
-          name: Course
           icon: course-table
           url: course-table
 
         - text: 成绩查询
-          color: orange
-          name: Grade
           icon: grade
           url: grade
 
         - text: 学校通知
-          color: red
-          name: Notice
           icon: notice
           url: notice-list
 
         - text: 学校新闻
-          color: cyan
-          name: News
           icon: news
           url: notice-list?type=news
 
         - text: 校园邮箱
-          color: purple
-          name: Email
           icon: email
           url: email-recent
 
         - text: 图书馆
-          color: purple
-          name: Library
           icon: library
           url: library
 
         - text: 校历
-          color: mauve
-          name: Calendar
           icon: calendar
           url: calendar
 
         - text: 转专业计划
-          color: red
-          name: Change major
           icon: change
           url: change-major
 
@@ -451,14 +349,10 @@ function-presets:
       header: 账号激活
       items:
         - text: 账号激活
-          color: grey
-          name: Activate
           icon: authorize
           url: account-activate
 
         # - text: 密码重置
-        #   color: grey
-        #   name: Reset
         #   icon: reset
         #   url: account-reset
 
@@ -487,56 +381,38 @@ function-presets:
       header: 本科教务系统
       items:
         - text: 课程表
-          color: grey
-          name: Course
           icon: course-table
           url: course-table
 
         - text: 成绩查询
-          color: orange
-          name: Grade
           icon: grade
           url: grade
 
         - text: 选课系统
-          color: blue
-          name: Select
           icon: select
           url: under-select
 
         - text: 考场查询
-          color: grey
-          name: Exam
           icon: test
           url: exam-place
 
         - text: 专项考试成绩
-          color: red
-          name: SpecialExam
           icon: test
           url: grade-special
 
         - text: 学籍注册查看
-          color: purple
-          name: Study Archive
           icon: archive
           url: under-archive-view
 
         - text: 建立学籍
-          color: purple
-          name: Create Archive
           icon: archive
           url: under-archive-create
 
         - text: 转专业计划
-          color: red
-          name: Change major
           icon: change
           url: change-major
 
         - text: 课程评价
-          color: grey
-          name: Commentary
           icon: heart
           url: under-commentary
 
@@ -550,26 +426,18 @@ function-presets:
       header: 账号相关
       items:
         - text: 账号激活
-          color: grey
-          name: Activate
           icon: authorize
           url: account-activate
 
         - text: 校园邮箱邮件
-          color: purple
-          name: Email
           icon: email
           url: email-recent
 
         # - text: 密码重置
-        #   color: grey
-        #   name: Reset
         #   icon: reset
         #   url: account-reset
 
         # - text: 邮箱申请
-        #   color: purple
-        #   name: Email
         #   icon: email
         #   url: email-apply
 
@@ -642,7 +510,7 @@ about:
     items:
       - text: 小程序全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1081582 字，其中东师指南部分 333570 字，新生迎新部分 105560 字，东师介绍部分 339481 字，机构介绍部分 70763 字，学院介绍部分 145359 字，功能大厅部分 39222 字，其他部分 47627 字。
+      - text: 小程序现有字数为 1081042 字，其中东师指南部分 333362 字，新生迎新部分 105635 字，东师介绍部分 339460 字，机构介绍部分 70731 字，学院介绍部分 145237 字，功能大厅部分 38963 字，其他部分 47654 字。
 
       - text: Mr.Hope 个人介绍
         url: info?path=Oabout/mrhope

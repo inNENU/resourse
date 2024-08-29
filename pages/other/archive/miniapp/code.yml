@@ -1,14 +1,13 @@
 title: 返校码介绍
 author: Mr.Hope
-time: 2023-08-04T13:58:24.189Z
+time: 2024-08-29T09:00:56.145Z
 shareable: true
 content:
   - tag: card
     title: 返校健康码
     desc: 快速打开返校健康码
-    options:
-      appId: wxa9de818af2c7f9ab
-      path: pages/code/code/code
+    appId: wxa9de818af2c7f9ab
+    path: pages/code/code/code
     env:
       - wx
 

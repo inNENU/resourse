@@ -5,43 +5,29 @@ content:
   - tag: grid
     items:
       - text: 统一身份认证
-        color: blue
-        name: Identify
         icon: authorize
         path: account/authorize/
 
       - text: 校园邮箱
-        color: red
-        name: Email
         icon: email
         path: account/mail/
 
       - text: 校园卡
-        color: red
-        name: Card
         icon: card
         path: card/
 
       - text: 校园网
-        color: purple
-        name: Network
         icon: network
         path: network/
 
       - text: 企业号
-        color: blue
-        name: Wechat
         icon: wechat
         path: account/wechat/
 
       - text: 教务系统
-        color: purple
-        name: System
         icon: system
         path: system/
 
       - text: 选课系统
-        color: olive
-        name: Select
         icon: select
         path: select/system/

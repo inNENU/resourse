@@ -5,25 +5,17 @@ content:
   - tag: grid
     items:
       - text: 学校概况
-        color: red
-        name: Description
         icon: about
         path: about/
 
       - text: 学科建设
-        color: olive
-        name: Subject
         icon: content
         path: subject/
 
       - text: 学生就业
-        color: cyan
-        name: Job
         icon: job
         path: job/
 
       - text: 资助
-        color: purple
-        name: Subsidize
         icon: subsidize
         path: subsidize/

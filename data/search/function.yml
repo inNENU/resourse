@@ -146,14 +146,10 @@
   url: official-info-list
 
 - text: 学校新闻
-  color: cyan
-  name: News
   icon: news
   url: official-info-list?type=news
 
 - text: 学术预告
-  color: cyan
-  name: News
   icon: study
   url: official-info-list?type=academic
   tags:

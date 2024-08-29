@@ -1,6 +1,6 @@
 title: Mr.Hope 个人简介
 author: Mr.Hope
-time: 2024-08-15T16:54:16.553Z
+time: 2024-08-29T09:00:56.084Z
 shareable: true
 content:
   - tag: account
@@ -31,8 +31,6 @@ content:
     items:
       - text: GitHub
         icon: github
-        name: GitHub
-        color: olive
         url: web?url=https://github.com/Mister-Hope
         env:
           - app
@@ -40,8 +38,6 @@ content:
 
       - text: QQ 空间
         icon: qzone
-        name: Qzone
-        color: red
         url: web?url=https://1178522294.qzone.qq.com/
         env:
           - app
@@ -49,8 +45,6 @@ content:
 
       - text: 知乎
         icon: zhihu
-        name: Zhihu
-        color: blue
         url: web?url=https://www.zhihu.com/people/mister-hope
         env:
           - app
@@ -58,8 +52,6 @@ content:
 
       - text: B 站
         icon: bilibili
-        name: BiliBili
-        color: grey
         url: web?url=https://space.bilibili.com/630395917
         env:
           - app
@@ -67,8 +59,6 @@ content:
 
       - text: Steam
         icon: steam
-        name: Steam
-        color: blue
         url: web?url=https://steamcommunity.com/id/Mr-Hope/
         env:
           - app
@@ -76,8 +66,6 @@ content:
 
       - text: 微博
         icon: weibo
-        name: Weibo
-        color: orange
         url: web?url=https://weibo.com/u/5253461473
         env:
           - app

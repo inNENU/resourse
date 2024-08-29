@@ -5,67 +5,45 @@ content:
   - tag: grid
     items:
       - text: 学位
-        color: blue
-        name: Course
         icon: degree
         path: degree/
 
       - text: 转专业
-        color: red
-        name: Change Major
         icon: change
         path: change-major/
 
       - text: 师范生
-        color: purple
-        name: Normal
         icon: teacher
         path: normal/
 
       - text: 课程
-        color: orange
-        name: Course
         icon: content
         path: course/
 
       - text: 学习
-        color: mauve
-        name: Study
         icon: study
         path: study/
 
       - text: 选课
-        color: cyan
-        name: Select
         icon: select
         path: select/
 
       - text: 图书馆
-        color: blue
-        name: Library
         icon: library
         path: /apartment/library/
 
       - text: 校内考试
-        color: olive
-        name: Test
         icon: test
         path: test/
 
       - text: 国家考试
-        color: cyan
-        name: Exam
         icon: test
         path: exam/
 
       - text: 考研/保研
-        color: red
-        name: Postgraduate
         icon: study
         path: /intro/grad/
 
       - text: 优秀毕业生建议
-        color: purple
-        name: Advice
         icon: idea
         path: /newcomer/advice/

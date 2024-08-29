@@ -12,25 +12,17 @@ content:
     header: 机构介绍
     items:
       - text: 学校办公室
-        color: red
-        name: Office
         icon: office
         path: /apartment/office/
 
       - text: 教务处
-        color: blue
-        name: Course
         icon: jwc
         path: /apartment/course/
 
       - text: 招生办公室
-        color: orange
-        name: Enroll
         icon: enroll
         path: /apartment/enroll/
 
       - text: 党委学生工作部
-        color: blue
-        name: Student
         icon: student
         path: /apartment/student/

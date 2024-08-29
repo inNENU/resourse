@@ -1,6 +1,6 @@
 title: “吉祥码”注册
 author: Mr.Hope
-time: 2024-08-16T05:53:04.715Z
+time: 2024-08-29T09:00:56.143Z
 shareable: true
 content:
   - tag: title
@@ -9,9 +9,8 @@ content:
   - tag: card
     title: 吉事办
     cover: $img/epidemic/jixiang-code.jpg
-    options:
-      appId: wx5f0c843a23b032cc
-      path: pages/index/index
+    appId: wx5f0c843a23b032cc
+    path: pages/index/index
     env:
       - wx
 
@@ -86,9 +85,8 @@ content:
     desc: 如未登录需进行人脸识别登录
     logo: $img/epidemic/jixiang-code-icon.png
     name: 吉事办
-    options:
-      appId: wx5f0c843a23b032cc
-      path: package1/pages/qrcode/index
+    appId: wx5f0c843a23b032cc
+    path: package1/pages/qrcode/index
     env:
       - wx
 
@@ -100,9 +98,8 @@ content:
     desc: 如未登录需进行人脸识别登录
     logo: $img/epidemic/jixiang-code-icon.png
     name: 吉事办
-    options:
-      appId: wx5f0c843a23b032cc
-      path: package1/pages/health_report/index
+    appId: wx5f0c843a23b032cc
+    path: package1/pages/health_report/index
     env:
       - wx
 

@@ -1,6 +1,6 @@
 title: 东师 e 起战疫登录
 author: Mr.Hope
-time: 2024-08-16T05:53:04.721Z
+time: 2024-08-29T09:00:56.150Z
 shareable: true
 content:
   - tag: title
@@ -40,9 +40,8 @@ content:
   - tag: card
     title: 登录
     desc: 东师 e 起战疫
-    options:
-      appId: wxa9de818af2c7f9ab
-      path: pages/mine/mine
+    appId: wxa9de818af2c7f9ab
+    path: pages/mine/mine
     env:
       - wx
 
