@@ -1,9 +1,15 @@
 title: DET
 icon: english
 author: Mr.Hope
-time: 2024-07-14T15:54:42.459Z
+time: 2024-08-29T12:44:45.843Z
 shareable: true
 content:
+  - tag: list
+    items:
+      - text: 2024年9月大学英语水平测试报名通知
+        icon: notice
+        url: notice-detail?id=ca863ae098d2421888d20d675d208adf&title=关于024年9月大学英语水平测试报名的通知
+
   - tag: text
     type: info
     text: DET，全称东北师范大学英语水平测试。根据《东北师范大学外语教学计划》 (2015版) 以及《东北师范大学大学外语人才培养方案》 (2020版) 要求，本科生在读期间，需通过“东北师范大学英语水平测试”(DET)(普通类、术科类)，否则无法获得东北师范大学学士学位证书。
@@ -22,13 +28,13 @@ content:
       - |-
         大学英语水平测试 (术科类) 主体测试对象: 术科类专业以及民族班的学生。
 
-  # TODO: Update at 2024-09
+  # TODO: Update at 2025-03 2025-09
   - tag: text
     type: info
     heading: 2024 年秋季开学 DET 考试时间
     text:
       - |-
-        暂未通知，2023 年时间安排为 9 月 9 日 9:00 - 11:20。
+        9 月 7 日 9:00 - 11:20。
 
   - tag: ol
     type: info
