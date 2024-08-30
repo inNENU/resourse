@@ -3,7 +3,7 @@ icon: flow
 author:
   - Mr.Hope
   - 王欣越
-time: 2024-08-24T13:07:17.174Z
+time: 2024-08-30T15:58:21.915Z
 shareable: true
 content:
   - tag: text
@@ -15,7 +15,7 @@ content:
     text: 前往净月 2 号门或 4 号门 (雕塑门、西北门)
 
   - tag: location
-    title: 净月报到校门与报到处
+    header: 净月报到校门与报到处
     points:
       - loc: 43.829067,125.427172
         name: 二号门

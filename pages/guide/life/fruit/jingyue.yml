@@ -1,7 +1,7 @@
 title: 净月水果店
 icon: fruit
 author: Mr.Hope
-time: 2024-08-24T13:07:18.304Z
+time: 2024-08-30T15:58:22.322Z
 shareable: true
 content:
   - tag: title
@@ -17,7 +17,7 @@ content:
         Sandwich: 一食堂二楼售餐亭
 
   - tag: location
-    title: 净月水果店
+    header: 净月水果店
     points:
       - loc: 43.826136,125.420682
         name: 天猫校园鲜果小铺

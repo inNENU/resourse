@@ -3,7 +3,7 @@ icon: cainiao
 desc: 照片来自王慕梓
 author:
   - Mr.Hope
-time: 2024-08-24T13:07:18.200Z
+time: 2024-08-30T15:58:22.283Z
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
       - 净月驿站是学校为便捷师生收发快递设立的快递信件派发点。
 
   - tag: location
-    title: 菜鸟驿站
+    header: 菜鸟驿站
     points:
       - loc: 43.82504,125.424923
         detail: 二食堂东南角

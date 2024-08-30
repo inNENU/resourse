@@ -1,7 +1,7 @@
 title: 本部电子维修
 icon: digital
 author: Mr.Hope
-time: 2024-08-24T13:07:18.290Z
+time: 2024-08-30T15:58:22.315Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
         南苑维修店: 南苑二楼西侧
 
   - tag: location
-    title: 本部电子维修
+    header: 本部电子维修
     points:
       - loc: 43.860105,125.332866
         name: 南苑维修店

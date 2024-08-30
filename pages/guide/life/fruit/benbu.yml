@@ -2,7 +2,7 @@ title: 本部水果店
 icon: fruit
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2024-08-24T13:07:18.301Z
+time: 2024-08-30T15:58:22.321Z
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
         心随果动: 浴池正门左侧
 
   - tag: location
-    title: 本部水果店
+    header: 本部水果店
     points:
       - loc: 43.8627,125.332943
         name: 葱蜂鲜果

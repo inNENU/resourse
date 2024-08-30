@@ -1,7 +1,7 @@
 title: 本部报到流程
 icon: flow
 author: Mr.Hope
-time: 2024-08-24T13:07:17.157Z
+time: 2024-08-30T15:58:21.911Z
 shareable: true
 content:
   - tag: text
@@ -14,7 +14,7 @@ content:
     text: 前往本部西门、南门或东北门
 
   - tag: location
-    title: 本部报到校门与报到处
+    header: 本部报到校门与报到处
     points:
       - loc: 43.86409,125.33468
         name: 东北门

@@ -2,7 +2,7 @@ title: 净月饮品店
 icon: drink
 desc: 库迪咖啡照片由刘鑫硕拍摄
 author: Mr.Hope
-time: 2024-08-24T13:07:18.297Z
+time: 2024-08-30T15:58:22.319Z
 shareable: true
 content:
   - tag: title
@@ -18,7 +18,7 @@ content:
         菓碰茶: 二食堂三楼西北侧
 
   - tag: location
-    title: 净月饮品店
+    header: 净月饮品店
     points:
       - loc: 43.827024,125.423912
         name: 獴大咖

@@ -4,7 +4,7 @@ author:
   - Mr.Hope
   - 战俊华
   - 小源
-time: 2024-08-24T13:07:18.188Z
+time: 2024-08-30T15:58:22.277Z
 shareable: true
 content:
   - tag: title
@@ -20,7 +20,7 @@ content:
     watermark: true
 
   - tag: location
-    title: 本部快递柜
+    header: 本部快递柜
     points:
       - loc: 43.863654,125.336322
 

@@ -265,7 +265,7 @@
   account:
     - name: 苏东吴NENU物管家
       desc: |-
-      苏东吴东北师大物业服务驿站: 主动、热情、优质、高效，我们是东吴物业。
+        苏东吴东北师大物业服务驿站: 主动、热情、优质、高效，我们是东吴物业。
       logo: $img/media/sudonghao.png
       path: donghao
 

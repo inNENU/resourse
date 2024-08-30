@@ -2,7 +2,7 @@ title: 本部眼镜店
 icon: glasses
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2024-08-24T13:07:18.306Z
+time: 2024-08-30T15:58:22.323Z
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
         镜舍: 浴池正门里右转
 
   - tag: location
-    title: 本部眼镜店
+    header: 本部眼镜店
     points:
       - loc: 43.862525,125.337083
         name: 镜舍

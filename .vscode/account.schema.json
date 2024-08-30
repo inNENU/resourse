@@ -48,7 +48,7 @@
       "type": "string"
     },
     "logo": {
-      "description": "账户图表",
+      "description": "账户图标",
       "type": "string",
       "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
     },

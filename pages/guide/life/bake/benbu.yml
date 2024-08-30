@@ -1,7 +1,7 @@
 title: 本部烘焙坊
 icon: bake
 author: Mr.Hope
-time: 2024-08-24T13:07:18.283Z
+time: 2024-08-30T15:58:22.312Z
 shareable: true
 content:
   - tag: title
@@ -15,7 +15,7 @@ content:
     text: 校外店铺
 
   - tag: location
-    title: 校外蛋糕店
+    header: 校外蛋糕店
     points:
       - loc: 43.860055,125.341138
         name: 点典面包房

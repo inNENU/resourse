@@ -2,7 +2,7 @@ title: 净月研究生寝室安排
 icon: dorm
 desc: 部分图片来自东北师范大学招生办微信公众号
 author: Mr.Hope
-time: 2024-08-24T13:07:18.145Z
+time: 2024-08-30T15:58:22.259Z
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
     path: data
 
   - tag: location
-    title: 净月研究生寝室
+    header: 净月研究生寝室
     points:
       - loc: 43.824705,125.421396
         name: 春华公寓

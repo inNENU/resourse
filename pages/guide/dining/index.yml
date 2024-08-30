@@ -1,7 +1,7 @@
 title: 食堂
 icon: dining
 author: Mr.Hope
-time: 2024-08-24T13:07:18.056Z
+time: 2024-08-30T15:58:22.222Z
 grey: true
 shareable: true
 content:
@@ -17,7 +17,7 @@ content:
         path: nanyuan/
 
   - tag: location
-    title: 本部食堂
+    header: 本部食堂
     points:
       - loc: 43.86273,125.33338
         name: 北苑餐厅
@@ -42,7 +42,7 @@ content:
         path: haboge
 
   - tag: location
-    title: 净月食堂
+    header: 净月食堂
     points:
       - loc: 43.82704,125.42385
         name: 一食堂

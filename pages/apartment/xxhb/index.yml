@@ -1,7 +1,7 @@
 title: 信息化办
 icon: tech
 author: Mr.Hope
-time: 2024-08-24T13:07:16.697Z
+time: 2024-08-30T15:58:21.727Z
 shareable: true
 content:
   - tag: account
@@ -23,7 +23,7 @@ content:
       - 惟真楼 315 (坐电梯到三楼按指示牌引导)
 
   - tag: location
-    title: 本部信息化办
+    header: 本部信息化办
     points:
       - loc: 43.863429,125.331542
         detail: 惟真楼 315 (坐电梯到三楼按指示牌引导)
@@ -47,7 +47,7 @@ content:
       - 冬华公寓 2 楼，入口在冬华公寓正门左侧
 
   - tag: location
-    title: 净月信息化办
+    header: 净月信息化办
     points:
       - loc: 43.824566,125.425725
         detail: 冬华公寓 2 楼，入口在冬华公寓正门左侧

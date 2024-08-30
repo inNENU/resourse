@@ -1,7 +1,7 @@
 title: 本部校区校门
 icon: gate
 author: Mr.Hope
-time: 2024-08-24T13:07:17.160Z
+time: 2024-08-30T15:58:21.912Z
 shareable: true
 content:
   # TODO: Update at 2024-08
@@ -20,7 +20,7 @@ content:
     text: 本部东北门(动植物园对面)
 
   - tag: location
-    title: 东北门
+    header: 东北门
     points:
       - loc: 43.86409,125.33468
         name: 东北门
@@ -52,7 +52,7 @@ content:
     text: 本部正门
 
   - tag: location
-    title: 正门
+    header: 正门
     points:
       - loc: 43.86167,125.325642
         name: 西门

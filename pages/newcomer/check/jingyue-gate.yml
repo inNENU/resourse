@@ -1,7 +1,7 @@
 title: 净月校区校门
 icon: gate
 author: Mr.Hope
-time: 2024-08-24T13:07:17.176Z
+time: 2024-08-30T15:58:21.916Z
 shareable: true
 content:
   # TODO: Update at 2024-08
@@ -28,7 +28,7 @@ content:
     text: 净月 2 号门 (雕塑门)
 
   - tag: location
-    title: 2 号门
+    header: 2 号门
     points:
       - loc: 43.829133,125.427097
         name: 二号门
@@ -52,7 +52,7 @@ content:
     watermark: true
 
   - tag: location
-    title: 4 号门
+    header: 4 号门
     points:
       - loc: 43.826572,125.420067
         name: 四号门

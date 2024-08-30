@@ -2,11 +2,9 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, relative, resolve } from "node:path";
 
 import { deleteSync } from "del";
+import { getFileList, getPageMarkdown } from "innenu-generator";
+import type { PageConfig } from "innenu-generator/typings";
 import { load } from "js-yaml";
-
-import { getMarkdown } from "../components/markdown.js";
-import type { PageConfig } from "../components/typings.js";
-import { getFileList } from "../utils/index.js";
 
 // 删除旧的文件
 deleteSync([
@@ -63,7 +61,7 @@ const convertYml2Md = <T = any>(
 ["apartment", "school", "newcomer", "intro", "guide", "other"].forEach(
   (folder) => {
     convertYml2Md(`./pages/${folder}`, `./site/${folder}`, (data: PageConfig) =>
-      getMarkdown(data),
+      getPageMarkdown(data),
     );
   },
 );

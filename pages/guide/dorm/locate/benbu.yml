@@ -1,7 +1,7 @@
 title: 本部本科寝室安排
 icon: dorm
 author: Mr.Hope
-time: 2024-08-24T13:07:18.141Z
+time: 2024-08-30T15:58:22.257Z
 shareable: true
 content:
   - tag: text
@@ -13,7 +13,7 @@ content:
       - 体育公寓位于体育学院内部。
 
   - tag: location
-    title: 本部本科生寝室
+    header: 本部本科生寝室
     points:
       - loc: 43.86359,125.337491
         name: 三舍 A

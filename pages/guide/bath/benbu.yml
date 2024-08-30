@@ -1,7 +1,7 @@
 title: 本部浴池
 icon: bath
 author: Mr.Hope
-time: 2024-08-27T09:40:29.165Z
+time: 2024-08-30T15:58:22.161Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
       - 新浴池附近同时包含眼镜店、水果店、打字社、理发店等店铺。
 
   - tag: location
-    title: 本部浴池
+    header: 本部浴池
     points:
       - loc: 43.862016,125.33606
 

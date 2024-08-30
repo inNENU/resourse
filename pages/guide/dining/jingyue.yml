@@ -1,14 +1,14 @@
 title: 净月食堂
 icon: dining
 author: Mr.Hope
-time: 2024-08-24T13:07:18.057Z
+time: 2024-08-30T15:58:22.222Z
 shareable: true
 content:
   - tag: text
     text: 净月校区有两个食堂，分别为一食堂和二食堂，一食堂有三层、二食堂有两层。
 
   - tag: location
-    title: 净月食堂
+    header: 净月食堂
     points:
       - loc: 43.82704,125.42385
         name: 一食堂

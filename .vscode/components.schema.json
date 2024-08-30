@@ -507,9 +507,6 @@
         "src": {
           "$ref": "#/$defs/image-link"
         },
-        "res": {
-          "$ref": "#/$defs/image-link"
-        },
         "desc": {
           "description": "图片描述",
           "type": "string"
@@ -797,7 +794,7 @@
           "description": "标签名称",
           "const": "location"
         },
-        "title": {
+        "header": {
           "description": "位置展示的内容",
           "type": "string"
         },
@@ -816,7 +813,7 @@
           "$ref": "#/$defs/env"
         }
       },
-      "required": ["tag", "title", "points"],
+      "required": ["tag", "header", "points"],
       "default": { "tag": "location", "content": "" },
       "additionalProperties": false
     },

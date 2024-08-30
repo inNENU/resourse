@@ -7,7 +7,7 @@ import {
 } from "node:fs";
 import { dirname, resolve } from "node:path";
 
-import { getFileList } from "../utils/index.js";
+import { getFileList } from "innenu-generator";
 
 /** SVG 转换 */
 export const convertCSSSVG = (content: string): string =>

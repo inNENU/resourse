@@ -1,7 +1,7 @@
 title: 专业所在校区
 icon: locate
 author: Mr.Hope
-time: 2024-08-24T13:07:17.182Z
+time: 2024-08-30T15:58:21.918Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
       - 您可以根据录取通知书上的学院找到相应的校区。
 
   - tag: location
-    title: 两校区
+    header: 两校区
     points:
       - loc: 43.86188,125.33137
         name: 本部

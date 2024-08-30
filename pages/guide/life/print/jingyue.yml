@@ -1,7 +1,7 @@
 title: 净月打印复印
 icon: print
 author: Mr.Hope
-time: 2024-08-24T13:07:18.352Z
+time: 2024-08-30T15:58:22.349Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
         云印社: 位于学生浴池正门左侧
 
   - tag: location
-    title: 净月打印复印
+    header: 净月打印复印
     points:
       - loc: 43.826056,125.420767
         name: 云印社

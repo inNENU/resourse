@@ -1,7 +1,7 @@
 title: 本部洗衣店
 icon: washer
 author: Mr.Hope
-time: 2024-08-24T13:07:18.357Z
+time: 2024-08-30T15:58:22.355Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
         北苑洗衣店: 北苑地下一楼南侧
 
   - tag: location
-    title: 本部洗衣店
+    header: 本部洗衣店
     points:
       - loc: 43.862562,125.332911
         name: 北苑洗衣店

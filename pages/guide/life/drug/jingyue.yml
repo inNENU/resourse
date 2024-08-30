@@ -1,7 +1,7 @@
 title: 净月药店
 icon: drug
 author: Mr.Hope
-time: 2024-08-24T13:07:18.300Z
+time: 2024-08-30T15:58:22.320Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
         季康大药房: 浴池正门右侧
 
   - tag: location
-    title: 净月药店
+    header: 净月药店
     points:
       - loc: 43.826196,125.421112
         name: 季康大药房

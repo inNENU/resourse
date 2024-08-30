@@ -2,7 +2,7 @@ title: 本部饮品店
 icon: drink
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2024-08-24T13:07:18.294Z
+time: 2024-08-30T15:58:22.318Z
 shareable: true
 content:
   - tag: title
@@ -24,7 +24,7 @@ content:
         贡茶: 南苑一楼
 
   - tag: location
-    title: 本部饮品店
+    header: 本部饮品店
     points:
       - loc: 43.863625,125.337262
         name: 亓嘉咖啡

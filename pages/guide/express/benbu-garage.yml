@@ -3,7 +3,7 @@ icon: express
 author:
   - Mr.Hope
   - 战俊华
-time: 2024-08-24T13:07:18.192Z
+time: 2024-08-30T15:58:22.279Z
 shareable: true
 content:
   - tag: title
@@ -16,7 +16,7 @@ content:
       - 取件时需告知工作人员取件人姓名和手机尾号，由工作人员手动扫码出库。
 
   - tag: location
-    title: 地下车库取件点
+    header: 地下车库取件点
     points:
       - loc: 43.863823,125.336528
         detail: 三舍 AB 地下车库

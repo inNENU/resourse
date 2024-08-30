@@ -1,8 +1,11 @@
-/* eslint-disable @typescript-eslint/no-unsafe-argument */
 /* eslint-disable @typescript-eslint/no-unsafe-enum-comparison */
+import { load } from "cheerio";
 import type { AnyNode } from "domhandler";
 
-import { parseHTML } from "./parser.js";
+const $ = load("");
+
+export const parseHTML = (content: string): AnyNode[] =>
+  $.parseHTML(content) || [];
 
 export const ALLOWED_TAGS: [tag: string, allowedAttrs?: string[]][] = [
   ["a"],
@@ -78,9 +81,8 @@ export const getText = (content: string | AnyNode[]): string => {
 
   return nodes
     .map((node) => {
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-return, @typescript-eslint/no-unsafe-member-access
       if (node.type === "text") return node.data;
-      // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
+
       if ("childNodes" in node) return getText(node.childNodes);
 
       return "";

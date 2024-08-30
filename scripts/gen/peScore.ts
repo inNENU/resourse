@@ -15,7 +15,7 @@ export interface PEConfig {
   longRun: string[] | number[];
 }
 
-export const genPEScore = (config: PEConfig): PEConfig => {
+export const generatePEScore = (config: PEConfig): PEConfig => {
   /*
    * 读取相应配置文件
    * 转换长跑时间

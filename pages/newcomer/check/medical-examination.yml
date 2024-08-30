@@ -1,7 +1,7 @@
 title: 入学体检
 icon: medical-exam
 author: Mr.Hope
-time: 2024-08-24T13:07:17.186Z
+time: 2024-08-30T15:58:21.920Z
 shareable: true
 content:
   - tag: title
@@ -38,13 +38,13 @@ content:
     text: 体检地点
 
   - tag: location
-    title: 本部
+    header: 本部
     points:
       - loc: 43.862803,125.325728
         name: 校医院
 
   - tag: location
-    title: 净月
+    header: 净月
     points:
       - loc: 43.8257228,125.4244387
         name: 校医院

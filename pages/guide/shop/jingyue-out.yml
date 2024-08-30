@@ -1,11 +1,11 @@
 title: 净月校外超市
 icon: shop
 author: Mr.Hope
-time: 2024-08-24T13:07:18.516Z
+time: 2024-08-30T15:58:22.441Z
 shareable: true
 content:
   - tag: location
-    title: 校外超市
+    header: 校外超市
     points:
       - loc: 43.820977,125.418449
         detail: 沃尔玛

@@ -2,14 +2,14 @@ title: 本部存取款
 icon: atm
 desc: 感谢晴子提供照片
 author: Mr.Hope
-time: 2024-08-24T13:07:18.279Z
+time: 2024-08-30T15:58:22.310Z
 shareable: true
 content:
   - tag: title
     text: 校内 ATM
 
   - tag: location
-    title: ATM 位置
+    header: ATM 位置
     points:
       - loc: 43.862596,125.333357
         detail: 北苑大厅东南角
@@ -31,7 +31,7 @@ content:
     text: 校外银行
 
   - tag: location
-    title: 校外银行
+    header: 校外银行
     points:
       - loc: 43.863856,125.327805
         name: 交通银行

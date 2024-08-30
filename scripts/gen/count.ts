@@ -1,53 +1,16 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
-import type { PageData } from "../components/typings.js";
-import { getFileList, getWordNumber } from "../utils/index.js";
-
-export const getJSONValue = (content: unknown): string => {
-  if (typeof content === "number") return content.toString();
-  if (typeof content === "string") return content;
-  if (typeof content === "object") {
-    if (Array.isArray(content)) return content.map(getJSONValue).join(" ");
-    else if (content) {
-      let result = "";
-
-      for (const key in content)
-        result += ` ${getJSONValue((content as Record<string, unknown>)[key])}`;
-
-      return result;
-    }
-  }
-
-  return "";
-};
-
-export const getWords = (path: string): number => {
-  let words = 0;
-
-  getFileList(path, ".json").forEach((filePath) => {
-    const pageContent = JSON.parse(
-      readFileSync(resolve(path, filePath), {
-        encoding: "utf-8",
-      }),
-    ) as PageData;
-
-    const content = getJSONValue(pageContent);
-
-    words += getWordNumber(content);
-  });
-
-  return words;
-};
+import { getFileList, getJSONWordCount } from "innenu-generator";
 
 export const count = (): void => {
-  const apartmentWords = getWords("./d/apartment");
-  const functionWords = getWords("./d/function");
-  const guideWords = getWords("./d/guide");
-  const introWords = getWords("./d/intro");
-  const otherWords = getWords("./d/other");
-  const newcomerWords = getWords("./d/newcomer");
-  const schoolWords = getWords("./d/school");
+  const apartmentWords = getJSONWordCount("./d/apartment");
+  const functionWords = getJSONWordCount("./d/function");
+  const guideWords = getJSONWordCount("./d/guide");
+  const introWords = getJSONWordCount("./d/intro");
+  const otherWords = getJSONWordCount("./d/other");
+  const newcomerWords = getJSONWordCount("./d/newcomer");
+  const schoolWords = getJSONWordCount("./d/school");
   const wordsTip = `现有字数为 ${
     apartmentWords +
     functionWords +

@@ -1,7 +1,7 @@
 title: 自助终端机
 icon: atm
 author: Mr.Hope
-time: 2024-08-24T13:07:17.978Z
+time: 2024-08-30T15:58:22.173Z
 shareable: true
 content:
   - tag: title
@@ -22,7 +22,7 @@ content:
       - 惟真楼 315
 
   - tag: location
-    title: 本部校区
+    header: 本部校区
     points:
       - loc: 43.859975,125.332744
         name: 南苑食堂一楼
@@ -45,7 +45,7 @@ content:
       - 冬华公寓二楼
 
   - tag: location
-    title: 净月校区
+    header: 净月校区
     points:
       - loc: 43.825137,125.424728
         name: 第二食堂一楼东南位置

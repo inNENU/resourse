@@ -1,9 +1,10 @@
 import { readFileSync, writeFileSync } from "node:fs";
 
 import { frontmatterPlugin } from "@mdit-vue/plugin-frontmatter";
+import { getFileList } from "innenu-generator";
 import MarkdownIt from "markdown-it";
 
-import { getFileList, getRichTextNodes } from "../utils/index.js";
+import { getRichTextNodes } from "../utils/index.js";
 
 const markdownIt = new MarkdownIt().use(frontmatterPlugin);
 

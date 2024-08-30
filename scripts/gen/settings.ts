@@ -1,12 +1,11 @@
 import { readFileSync } from "node:fs";
 
-import { load } from "js-yaml";
-
-import { resolvePageContent } from "../components/page.js";
+import { getPageContent } from "innenu-generator";
 import type {
   ComponentOptions,
   GridComponentItemOptions,
-} from "../components/typings.js";
+} from "innenu-generator/typings";
+import { load } from "js-yaml";
 
 const itemConfig = load(
   readFileSync("./config/item.yml", { encoding: "utf-8" }),
@@ -32,7 +31,7 @@ export const generateSettings = (data: unknown): unknown => {
   const convertedFunctionPresets = Object.fromEntries(
     Object.entries(functionPresets).map(([key, value]) => [
       key,
-      resolvePageContent(
+      getPageContent(
         // @ts-expect-error: TS can't infer the type of `value`
         value.map((component) => {
           const config =
@@ -60,11 +59,11 @@ export const generateSettings = (data: unknown): unknown => {
     "main-presets": Object.fromEntries(
       Object.entries(mainPresets).map(([key, value]) => [
         key,
-        resolvePageContent(value, `settings.main-presets.${key}`, "pages"),
+        getPageContent(value, `settings.main-presets.${key}`, "pages"),
       ]),
     ),
     // eslint-disable-next-line @typescript-eslint/naming-convention
     "function-presets": convertedFunctionPresets,
-    about: resolvePageContent(about, "settings.about", "pages"),
+    about: getPageContent(about, "settings.about", "pages"),
   };
 };

@@ -1,7 +1,7 @@
 title: 净月本科寝室安排
 icon: dorm
 author: Mr.Hope
-time: 2024-08-24T13:07:18.146Z
+time: 2024-08-30T15:58:22.260Z
 shareable: true
 content:
   - tag: text
@@ -10,7 +10,7 @@ content:
     text: 净月校区公寓大多集中在图书馆、食堂的后面。由于楼层最高为 6 层，没有电梯。
 
   - tag: location
-    title: 净月本科生寝室
+    header: 净月本科生寝室
     points:
       - loc: 43.824705,125.421396
         name: 春华公寓

@@ -1,7 +1,7 @@
 title: 净月洗衣店
 icon: washer
 author: Mr.Hope
-time: 2024-08-24T13:07:18.359Z
+time: 2024-08-30T15:58:22.356Z
 shareable: true
 content:
   - tag: title
@@ -13,7 +13,7 @@ content:
         糖果洗衣: 浴池后侧
 
   - tag: location
-    title: 净月洗衣店
+    header: 净月洗衣店
     points:
       - loc: 43.826169,125.421143
         name: 糖果洗衣

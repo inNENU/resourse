@@ -3,7 +3,7 @@ icon: cainiao
 author:
   - Mr.Hope
   - 战俊华
-time: 2024-08-24T13:07:18.190Z
+time: 2024-08-30T15:58:22.278Z
 shareable: true
 content:
   - tag: title
@@ -14,7 +14,7 @@ content:
       - 菜鸟驿站是学校为便捷师生收发快递设立的快递信件派发点。目前进驻的快递服务公司有申通、韵达、圆通、极兔、优速、顺丰、京东、当当黄马甲。部分小型 EMS 邮件也会由菜鸟驿站代理签收。
 
   - tag: location
-    title: 菜鸟驿站
+    header: 菜鸟驿站
     points:
       - loc: 43.86365,125.33315
         detail: 学生二舍东侧

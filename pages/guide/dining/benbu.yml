@@ -1,14 +1,14 @@
 title: 本部食堂
 icon: dining
 author: Mr.Hope
-time: 2024-08-24T13:07:18.053Z
+time: 2024-08-30T15:58:22.219Z
 shareable: true
 content:
   - tag: text
     text: 本部校区有北苑餐厅和南苑餐厅两个食堂。北苑餐厅共两层，南苑餐厅共三层。
 
   - tag: location
-    title: 本部食堂
+    header: 本部食堂
     points:
       - loc: 43.86273,125.33338
         name: 北苑餐厅

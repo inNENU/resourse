@@ -1,7 +1,7 @@
 title: 2024 年报到时间地点
 icon: time
 author: Mr.Hope
-time: 2024-08-24T13:07:17.184Z
+time: 2024-08-30T15:58:21.919Z
 shareable: true
 content:
   - tag: title
@@ -72,7 +72,7 @@ content:
       - 本部校区在惟真楼对面。
 
   - tag: location
-    title: 本部报到校门与报到处
+    header: 本部报到校门与报到处
     points:
       - loc: 43.86409,125.33468
         name: 东北门
@@ -104,7 +104,7 @@ content:
   #     - loc: 43.82886,125.42689
 
   - tag: location
-    title: 净月报到校门与报到处
+    header: 净月报到校门与报到处
     points:
       - loc: 43.829067,125.427172
         name: 二号门
