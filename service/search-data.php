@@ -136,10 +136,13 @@ function create_search_map(string $folder): array
 
 function create_search_data(string $file): array
 {
+  $functionSearchMap = [];
+
+  if (!file_exists($file)) return $functionSearchMap;
+
   $fileContent = file_get_contents($file);
 
   $content = json_decode($fileContent, true);
-  $functionSearchMap = [];
 
   foreach ($content as $item) {
     if (isset($item['tags'])) {
