@@ -96,11 +96,14 @@ const syncOSS = async (): Promise<void> => {
     "x-oss-object-acl": "private",
   };
 
-  const putFile = async (filePath: string): Promise<void> => {
+  const putFile = async (
+    filePath: string,
+    onlinePath = filePath,
+  ): Promise<void> => {
     try {
       console.debug(`Putting file ${filePath}`);
       const result = await client.put(
-        filePath,
+        onlinePath,
         path.normalize(path.join(__dirname, filePath)),
         { headers },
       );
@@ -128,7 +131,7 @@ const syncOSS = async (): Promise<void> => {
   await deleteFiles(deletedFiles);
   await Promise.all([
     ...addedFiles.map((item) => putFile(item)),
-    ...updateZipFiles.map((item) => putFile(`.oss/${item}.zip`)),
+    ...updateZipFiles.map((item) => putFile(`.oss/${item}.zip`, `${item}.zip`)),
   ]);
 };
 
