@@ -125,5 +125,7 @@ generateResource();
 cpx.copySync("./data/icon/**", "./.resource/icons");
 // 复制服务
 cpx.copySync("./service/**", "./.resource/service");
+// 复制 schema 配置
+cpx.copySync("./.vscode/**", "./.resource/.vscode");
 
 console.info("All completed");
