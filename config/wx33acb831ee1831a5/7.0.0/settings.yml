@@ -71,7 +71,7 @@ guide-page:
       # - account
       # - tip
       - enjoy
-      - newcomer
+      # - newcomer
       - graduate
 
 function-page:
