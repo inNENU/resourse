@@ -5,69 +5,37 @@ main-page:
 
 main-presets:
   guest:
-    # - tag: card
-    #   cover: $img/tab/activate.jpg
-    #   title: 账号激活
-    #   url: account-activate
-
-    # - tag: card
-    #   cover: $img/tab/faq.png
-    #   title: 常见问题
-    #   path: newcomer/faq/
-
-    # - tag: card
-    #   cover: $img/tab/first-day.png
-    #   title: 大学第一天
-    #   path: newcomer/check/first-day
-
-    # - tag: card
-    #   cover: $img/tab/stream.png
-    #   title: 经验分享与答疑
-    #   path: newcomer/activity/streaming
-
-    - tag: list
-      items:
-        - text: 登录开启海量校园功能
-          url: account-login
-
-    - tag: grid
-      header: 报到相关
-      items:
-        - text: 到校路线
-          icon: locate
-          path: newcomer/arrival/
-
-        - text: 新生报到
-          icon: check
-          path: newcomer/check/
-
-        - text: 新生群
-          icon: qq-group
-          path: newcomer/contact/
-
-        - text: 需带物品
-          icon: necessity
-          path: newcomer/necessity/
-
-        - text: 军训
-          icon: military
-          path: newcomer/activity/military/
-
-        - text: 入学活动
-          icon: activity
-          path: newcomer/activity/
-
-        - text: 防盗防骗
-          icon: safe
-          path: newcomer/safety/
-
-        - text: 校园地图
-          icon: map
-          url: map
-
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 学校概况
+          icon: about
+          path: intro/about/
+
+        - text: 学科建设
+          icon: content
+          path: intro/subject/
+
+        - text: 学生就业
+          icon: job
+          path: intro/job/
+
+        - text: 资助
+          icon: subsidize
+          path: intro/subsidize/
+
+        - text: 招生
+          icon: enroll
+          path: intro/enroll/
+
+        - text: 学院介绍
+          icon: school
+          path: school/
+
+        - text: 学校机构
+          icon: apartment
+          path: apartment/
+
         - text: 寝室
           icon: dorm
           path: guide/dorm/
@@ -84,17 +52,17 @@ main-presets:
           icon: bath
           path: guide/bath/
 
-        - text: 校园网
-          icon: network
-          path: guide/network/
-
-        - text: 校园卡
-          icon: card
-          path: guide/card/
-
         - text: 生活
           icon: life
           path: guide/life/
+
+        - text: 转专业
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          icon: teacher
+          path: guide/normal/
 
         - text: 课程
           icon: content
@@ -108,117 +76,69 @@ main-presets:
           icon: metal
           path: intro/scholarship/
 
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
+        - text: 图书馆
+          icon: library
+          path: apartment/library/
 
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
+        - text: 考研/保研
+          icon: study
+          path: intro/grad/
 
   newcomer:
-    # - tag: card
-    #   cover: $img/tab/first-day.png
-    #   title: 大学第一天
-    #   path: newcomer/check/first-day
-
-    - tag: functional-list
-      header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
-      items:
-        - text: 向你的同学们分享小程序
-          icon: share
-          type: button
-          openType: share
-
     - tag: grid
-      header: 报到相关
+      header: 您可能想关注
       items:
-        - text: 入学准备
-          icon: prepare
-          path: newcomer/prepare/
-
-        - text: 到校路线
-          icon: locate
-          path: newcomer/arrival/
-
-        - text: 新生报到
-          icon: check
-          path: newcomer/check/
-
-        - text: 新生群
-          icon: qq-group
-          path: newcomer/contact/
-
-        - text: 需带物品
-          icon: necessity
-          path: newcomer/necessity/
-
-        - text: 入学活动
-          icon: activity
-          path: newcomer/activity/
-
-        - text: 防盗防骗
-          icon: safe
-          path: newcomer/safety/
-
-        - text: 校园地图
-          icon: map
-          url: map
-
-    - tag: grid
-      header: 校园介绍
-      items:
-        - text: 寝室
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          icon: dining
-          path: guide/dining/
-
-        - text: 快递
-          icon: express
-          path: guide/express/
-
-        - text: 洗浴
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          icon: life
-          path: guide/life/
-
-        - text: 课程
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
-
         - text: 专业介绍
           icon: study
           path: school/major
 
+        - text: 寝室
+          icon: dorm
+          path: guide/dorm/
+
+        - text: 食堂
+          icon: dining
+          path: guide/dining/
+
+        - text: 快递
+          icon: express
+          path: guide/express/
+
+        - text: 洗浴
+          icon: bath
+          path: guide/bath/
+
+        - text: 生活
+          icon: life
+          path: guide/life/
+
+        - text: 转专业
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          icon: teacher
+          path: guide/normal/
+
+        - text: 课程
+          icon: content
+          path: guide/course/
+
+        - text: 学习
+          icon: study
+          path: guide/study/
+
+        - text: 奖学金
+          icon: metal
+          path: intro/scholarship/
+
+        - text: 校园地图
+          icon: map
+          url: map
+
         - text: 学校通知
           icon: notice
           url: notice-list
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
 
         - text: 学生组织
           icon: student-org
@@ -227,6 +147,10 @@ main-presets:
         - text: 社团
           icon: association
           path: guide/association/
+
+        - text: 校园媒体
+          icon: account
+          url: school-media
 
       footer: 更多内容请详见下方其他 Tab 页
 
@@ -238,9 +162,9 @@ main-presets:
           icon: course-table
           url: course-table
 
-        - text: 成绩查询
+        - text: 本科成绩查询
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 学校通知
           icon: notice
@@ -271,10 +195,10 @@ main-presets:
 intro-page:
   guest:
     items:
-      - under-enroll
-      - grad-enroll
+      # - under-enroll
+      # - grad-enroll
       - about
-      - school
+      # - school
     more:
       - apartment
 
@@ -294,10 +218,9 @@ guide-page:
       - life
       - study
       - enjoy
-      - normal
     more:
-      - account
-      - service
+      # - account
+      # - service
       - tip
       - graduate
 
@@ -306,20 +229,19 @@ guide-page:
       - newcomer
       - life
       - study
-      - normal
       - enjoy
-      - service
-      - account
       - tip
     more:
+      # - account
+      # - service
       - graduate
 
   "2020":
     items:
       - graduate
       - study
-      - service
-      - account
+      # - service
+      # - account
     more:
       - life
       - tip
@@ -328,12 +250,11 @@ guide-page:
 
   default:
     items:
-      - service
+      # - service
       - study
       - life
-      - account
     more:
-      - normal
+      # - account
       - tip
       - enjoy
       - newcomer
@@ -352,21 +273,65 @@ function-presets:
           icon: authorize
           url: account-activate
 
-        # - text: 密码重置
-        #   icon: reset
-        #   url: account-reset
+    - tag: grid
+      header: 东师风采
+      items:
+        - text: 校园地图
+          icon: map
+          url: map
 
-    - media
+        - text: 校园媒体
+          icon: account
+          url: school-media
 
-    - official
+    - tag: grid
+      header: 信息查询
+      items:
+        - text: 校历
+          icon: calendar
+          url: calendar
 
-    - info
+        - text: 本科人才培养计划
+          icon: rule
+          url: under-major-plan
 
-    - tool
+        - text: 校史
+          icon: history
+          url: calendar-history
 
-    - under-enroll
+        - text: 东师网站
+          icon: network
+          url: website
 
-    - grad-enroll
+        - text: 师大黄页
+          icon: phone
+          url: phone
+
+    - tag: grid
+      header: 工具
+      items:
+        - text: 体测计算器
+          icon: calculate
+          url: pe-calculator
+
+        - text: 东师天气
+          icon: sun
+          url: weather
+
+    - tag: grid
+      header: 本科招生
+      items:
+        - text: 招生简章
+          icon: rule
+          path: intro/enroll/under/rule/
+
+        - text: 招生计划
+          icon: enroll
+          url: under-enroll-plan
+
+        - text: 历史分数
+          icon: time
+          url: under-enroll-score
 
     - tag: list
       items:
@@ -375,7 +340,20 @@ function-presets:
       footer: " "
 
   at-school:
-    - action
+    - tag: grid
+      header: 融合门户
+      items:
+        - text: 学校通知
+          icon: notice
+          url: notice-list
+
+        - text: 学校新闻
+          icon: news
+          url: notice-list?type=news
+
+        - text: 图书馆
+          icon: library
+          url: library
 
     - tag: grid
       header: 本科教务系统
@@ -384,9 +362,9 @@ function-presets:
           icon: course-table
           url: course-table
 
-        - text: 成绩查询
+        - text: 本科成绩查询
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 选课系统
           icon: select
@@ -416,11 +394,35 @@ function-presets:
           icon: heart
           url: under-commentary
 
-    - media
+    - tag: grid
+      header: 东师风采
+      items:
+        - text: 校园地图
+          icon: map
+          url: map
 
-    - official
+        - text: 校园媒体
+          icon: account
+          url: school-media
 
-    - info
+    - tag: grid
+      header: 信息查询
+      items:
+        - text: 校园邮箱邮件
+          icon: email
+          url: email-recent
+
+        - text: 校历
+          icon: calendar
+          url: calendar
+
+        - text: 东师网站
+          icon: network
+          url: website
+
+        - text: 师大黄页
+          icon: phone
+          url: phone
 
     - tag: grid
       header: 账号相关
@@ -429,23 +431,22 @@ function-presets:
           icon: authorize
           url: account-activate
 
-        - text: 校园邮箱邮件
+        - text: 邮箱申请
           icon: email
-          url: email-recent
+          url: email-apply
 
-        # - text: 密码重置
-        #   icon: reset
-        #   url: account-reset
+    - tag: grid
+      header: 工具
+      items:
+        - text: 体测计算器
+          icon: calculate
+          url: pe-calculator
 
-        # - text: 邮箱申请
-        #   icon: email
-        #   url: email-apply
+        - text: 东师天气
+          icon: sun
+          url: weather
 
-    - tool
-
-    - under-enroll
-
-    - grad-enroll
+      footer: " "
 
 user:
   - tag: list
@@ -470,7 +471,7 @@ user:
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字。
     style: "color: #888; font-size: 14px"
 
   - tag: functional-list
@@ -491,13 +492,6 @@ user:
         type: button
         openType: openGuildProfile
         guildId: "5684461640601496"
-
-      - text: 添加 inNENU 媒体号
-        icon: qq
-        type: button
-        openType: addFriend
-        openId: 41D0ED9AEDD96C611B0E679EF3ED67F9
-        handler: reportInfo
 
       - text: 添加到桌面
         icon: send
@@ -528,18 +522,6 @@ about:
       - text: 致谢名单
         url: info?path=Oabout/thanks
 
-  - tag: functional-list
-    header: 支持小程序
-    items:
-      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
-
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: addFriend
-        openId: 868D7B2F0C609B4285698EAB77A47BA1
-        handler: reportInfo
-
   - tag: text
     heading: 小程序内容
     text:
@@ -557,47 +539,35 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  # 新版统一身份登录存在 Referrer 问题
-  auth-init-info: online
-  auth-init: online
-  auth-login: online
-  auth-captcha: online
-  re-auth: online
-  action-login: online
-  auth-center-login: online
-  my-login: online
-  under-study-login: online
-  under-system-login: online
-  # 本科教务系统全部存在 Referrer 问题
-  under-study-check: online
-  under-commentary: online
-  under-grade-detail: online
-  under-grade-list: online
-  under-special-exam: online
-  under-select-category: online
-  under-select-class: online
-  under-select-info: online
-  under-select-process: online
-  under-select-search: online
-  under-select-selected: online
+  # grad-system-login: online
+  # under-study-check: online
+  # under-commentary: online
+  # under-grade-detail: online
+  # under-grade-list: online
+  # under-special-exam: online
+  # under-select-category: online
+  # under-select-class: online
+  # under-select-info: online
+  # under-select-process: online
+  # under-select-search: online
+  # under-select-selected: online
+  forceOnline: true
 
 notice:
-  app:
-    title: 遭受攻击通知
-    content: 自 8 月 26 日 11:38 分起，小程序受到高频攻击，小程序昨日受到攻击后至 27 日 9:00 均运行缓慢并频发故障，现已恢复。
-
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
 
   account-activate:
-    title: 提示
-    content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
-    force: true
+    title: 2024级本科生账号暂不可激活
+    content: 由于本科生尚未完成录取，2024年新生统一身份认证账户暂不可激活。根据去年经验，预计开放时间不早于 2024 年 8 月。请耐心等待官方正式通知。
+    # title: 手机验证码
+    # content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
 
-  course-table:
-    title: 暂未适配
-    content: 请使用 weNENU 微信小程序查看新学期课表。
+  under-select:
+    title: 公测中
+    content: 新版本科选课系统已初步适配，现面向全体用户发起公测。特别提示：当前选课系统已完整内测阶段，所需功能基本可用，但 Mr.Hope 不保证当前公测版系统没有问题，也不会对公测版系统引发的问题负责。继续使用即代表您已知晓并接受此风险。
+    force: true
 
 update:
   force: true

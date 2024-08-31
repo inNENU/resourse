@@ -10,64 +10,47 @@ main-presets:
     #   title: 账号激活
     #   url: account-activate
 
-    # - tag: card
-    #   cover: $img/tab/faq.png
-    #   title: 常见问题
-    #   path: newcomer/faq/
-
-    # - tag: card
-    #   cover: $img/tab/first-day.png
-    #   title: 大学第一天
-    #   path: newcomer/check/first-day
+    - tag: card
+      cover: $img/tab/faq.png
+      title: 常见问题
+      path: newcomer/faq/
 
     # - tag: card
     #   cover: $img/tab/stream.png
     #   title: 经验分享与答疑
     #   path: newcomer/activity/streaming
 
-    - tag: list
-      items:
-        - text: 登录开启海量校园功能
-          url: account-login
-
-    - tag: grid
-      header: 报到相关
-      items:
-        - text: 到校路线
-          icon: locate
-          path: newcomer/arrival/
-
-        - text: 新生报到
-          icon: check
-          path: newcomer/check/
-
-        - text: 新生群
-          icon: qq-group
-          path: newcomer/contact/
-
-        - text: 需带物品
-          icon: necessity
-          path: newcomer/necessity/
-
-        - text: 军训
-          icon: military
-          path: newcomer/activity/military/
-
-        - text: 入学活动
-          icon: activity
-          path: newcomer/activity/
-
-        - text: 防盗防骗
-          icon: safe
-          path: newcomer/safety/
-
-        - text: 校园地图
-          icon: map
-          url: map
-
     - tag: grid
       header: 您可能想关注
       items:
+        - text: 学校概况
+          icon: about
+          path: intro/about/
+
+        - text: 学科建设
+          icon: content
+          path: intro/subject/
+
+        - text: 学生就业
+          icon: job
+          path: intro/job/
+
+        - text: 资助
+          icon: subsidize
+          path: intro/subsidize/
+
+        - text: 招生
+          icon: enroll
+          path: intro/enroll/
+
+        - text: 学院介绍
+          icon: school
+          path: school/
+
+        - text: 学校机构
+          icon: apartment
+          path: apartment/
+
         - text: 寝室
           icon: dorm
           path: guide/dorm/
@@ -84,17 +67,17 @@ main-presets:
           icon: bath
           path: guide/bath/
 
-        - text: 校园网
-          icon: network
-          path: guide/network/
-
-        - text: 校园卡
-          icon: card
-          path: guide/card/
-
         - text: 生活
           icon: life
           path: guide/life/
+
+        - text: 转专业
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          icon: teacher
+          path: guide/normal/
 
         - text: 课程
           icon: content
@@ -108,117 +91,69 @@ main-presets:
           icon: metal
           path: intro/scholarship/
 
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
+        - text: 图书馆
+          icon: library
+          path: apartment/library/
 
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
+        - text: 考研/保研
+          icon: study
+          path: intro/grad/
 
   newcomer:
-    # - tag: card
-    #   cover: $img/tab/first-day.png
-    #   title: 大学第一天
-    #   path: newcomer/check/first-day
-
-    - tag: functional-list
-      header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
-      items:
-        - text: 向你的同学们分享小程序
-          icon: share
-          type: button
-          openType: share
-
     - tag: grid
-      header: 报到相关
+      header: 您可能想关注
       items:
-        - text: 入学准备
-          icon: prepare
-          path: newcomer/prepare/
-
-        - text: 到校路线
-          icon: locate
-          path: newcomer/arrival/
-
-        - text: 新生报到
-          icon: check
-          path: newcomer/check/
-
-        - text: 新生群
-          icon: qq-group
-          path: newcomer/contact/
-
-        - text: 需带物品
-          icon: necessity
-          path: newcomer/necessity/
-
-        - text: 入学活动
-          icon: activity
-          path: newcomer/activity/
-
-        - text: 防盗防骗
-          icon: safe
-          path: newcomer/safety/
-
-        - text: 校园地图
-          icon: map
-          url: map
-
-    - tag: grid
-      header: 校园介绍
-      items:
-        - text: 寝室
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          icon: dining
-          path: guide/dining/
-
-        - text: 快递
-          icon: express
-          path: guide/express/
-
-        - text: 洗浴
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          icon: life
-          path: guide/life/
-
-        - text: 课程
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
-
         - text: 专业介绍
           icon: study
           path: school/major
 
+        - text: 寝室
+          icon: dorm
+          path: guide/dorm/
+
+        - text: 食堂
+          icon: dining
+          path: guide/dining/
+
+        - text: 快递
+          icon: express
+          path: guide/express/
+
+        - text: 洗浴
+          icon: bath
+          path: guide/bath/
+
+        - text: 生活
+          icon: life
+          path: guide/life/
+
+        - text: 转专业
+          icon: change
+          path: guide/change-major/
+
+        - text: 师范生
+          icon: teacher
+          path: guide/normal/
+
+        - text: 课程
+          icon: content
+          path: guide/course/
+
+        - text: 学习
+          icon: study
+          path: guide/study/
+
+        - text: 奖学金
+          icon: metal
+          path: intro/scholarship/
+
+        - text: 校园地图
+          icon: map
+          url: map
+
         - text: 学校通知
           icon: notice
           url: notice-list
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
 
         - text: 学生组织
           icon: student-org
@@ -228,6 +163,10 @@ main-presets:
           icon: association
           path: guide/association/
 
+        - text: 校园媒体
+          icon: account
+          url: school-media
+
       footer: 更多内容请详见下方其他 Tab 页
 
   at-school:
@@ -236,11 +175,11 @@ main-presets:
       items:
         - text: 课程表
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 成绩查询
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 学校通知
           icon: notice
@@ -382,11 +321,11 @@ function-presets:
       items:
         - text: 课程表
           icon: course-table
-          url: course-table
+          url: under-course-table
 
         - text: 成绩查询
           icon: grade
-          url: grade
+          url: under-grade
 
         - text: 选课系统
           icon: select
@@ -398,7 +337,7 @@ function-presets:
 
         - text: 专项考试成绩
           icon: test
-          url: grade-special
+          url: under-grade-special
 
         - text: 学籍注册查看
           icon: archive
@@ -433,6 +372,10 @@ function-presets:
           icon: email
           url: email-recent
 
+        - text: 校外服务
+          icon: contact
+          url: info?path=/other/action/out
+
         # - text: 密码重置
         #   icon: reset
         #   url: account-reset
@@ -440,6 +383,25 @@ function-presets:
         # - text: 邮箱申请
         #   icon: email
         #   url: email-apply
+
+    - tag: grid
+      header: 管理系统
+      items:
+        - text: 统一身份认证
+          icon: account
+          url: web?url=https://authserver.nenu.edu.cn/authserver/login
+
+        - text: 网上服务大厅
+          icon: network
+          url: web?url=http://my.nenu.edu.cn/
+
+        - text: 故障报修
+          icon: repair
+          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
+
+        - text: 宿舍系统
+          icon: system
+          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
 
     - tool
 
@@ -469,48 +431,17 @@ user:
   - tag: p
     heading: " "
     text:
-      - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+      - 如果看过 App 后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
+      - App 为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字，同时 App 服务器每年会产生开销。如果您觉得 App 很有帮助，欢迎您给予支持。
     style: "color: #888; font-size: 14px"
-
-  - tag: functional-list
-    items:
-      - text: 分享小程序
-        icon: share
-        type: button
-        openType: share
-
-      - text: 加入 inNENU 咨询群
-        icon: qq-group
-        type: button
-        openType: openGroupProfile
-        groupId: "1139044856"
-
-      - text: 加入东北师大频道
-        icon: qq-group
-        type: button
-        openType: openGuildProfile
-        guildId: "5684461640601496"
-
-      - text: 添加 inNENU 媒体号
-        icon: qq
-        type: button
-        openType: addFriend
-        openId: 41D0ED9AEDD96C611B0E679EF3ED67F9
-        handler: reportInfo
-
-      - text: 添加到桌面
-        icon: send
-        type: button
-        handler: addToDesktop
 
 about:
   - tag: list
-    header: 小程序介绍
+    header: App 介绍
     items:
-      - text: 小程序全部内容均由 Mr.Hope 独立开发。
+      - text: App 全部内容均由 Mr.Hope 独立开发。
 
-      - text: 小程序现有字数为 1043241 字，其中东师指南部分 330563 字，新生迎新部分 90391 字，东师介绍部分 339346 字，机构介绍部分 58671 字，学院介绍部分 138569 字，功能大厅部分 38218 字，其他部分 47483 字。
+      - text: App 现有字数为 1043241 字，其中东师指南部分 330563 字，新生迎新部分 90391 字，东师介绍部分 339346 字，机构介绍部分 58671 字，学院介绍部分 138569 字，功能大厅部分 38218 字，其他部分 47483 字。
 
       - text: Mr.Hope 个人介绍
         url: info?path=Oabout/mrhope
@@ -529,21 +460,20 @@ about:
         url: info?path=Oabout/thanks
 
   - tag: functional-list
-    header: 支持小程序
+    header: 支持 App
     items:
-      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
+      - text: 为保证 App 运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
 
       - text: 联系 Mr.Hope
         icon: contact
         type: button
-        openType: addFriend
-        openId: 868D7B2F0C609B4285698EAB77A47BA1
+        openType: contact
         handler: reportInfo
 
   - tag: text
-    heading: 小程序内容
+    heading: App 内容
     text:
-      - 小程序页面内容仓库在 GitHub 上开源。如您愿意对小程序提供帮助，欢迎您点击下方链接为该仓库做贡献。您可以帮助扩充或编辑小程序的页面文字、图片以及相关文件。
+      - App 页面内容仓库在 GitHub 上开源。如您愿意对 App 提供帮助，欢迎您点击下方链接为该仓库做贡献。您可以帮助扩充或编辑 App 的页面文字、图片以及相关文件。
 
   - tag: action
     content: https://github.com/inNENU/resource
@@ -584,21 +514,17 @@ service:
 notice:
   app:
     title: 遭受攻击通知
-    content: 自 8 月 26 日 11:38 分起，小程序受到高频攻击，小程序昨日受到攻击后至 27 日 9:00 均运行缓慢并频发故障，现已恢复。
+    content: 自 8 月 26 日 11:38 分起，App 受到高频攻击，App 昨日受到攻击后至 27 日 9:00 均运行缓慢并频发故障，现已恢复。
 
   main:
     title: 欢迎使用 inNENU
-    content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
+    content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方App，内含 108 万字的新生攻略。希望大家能够通过 App 摆脱对大学的迷茫。
 
   account-activate:
     title: 提示
     content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
     force: true
 
-  course-table:
-    title: 暂未适配
-    content: 请使用 weNENU 微信小程序查看新学期课表。
-
 update:
-  force: true
+  force: false
   reset: false
