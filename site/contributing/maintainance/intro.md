@@ -76,7 +76,7 @@ inNENU 服务器文件结构如下:
 - 文件存放在 `https://assets.innenu.com/file/` 下
 - 图片存放在 `https://assets.innenu.com/img/` 下
 - 页面 YAML 存放在 `https://res.innenu.com/pages/` 下
-- 图标存放在 `https://res.innenu.com/data/icon/` 下
+- 图标存放在 `https://res.innenu.com/icons/` 下
 
 ::: info
 
