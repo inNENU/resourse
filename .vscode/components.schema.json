@@ -286,7 +286,8 @@
           "type": "string"
         },
         "handler": {
-          "$ref": "#/$defs/handler"
+          "description": "按钮对应的函数名称",
+          "type": "string"
         },
         "openType": {
           "description": "开放能力",

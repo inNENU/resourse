@@ -1,11 +1,11 @@
-# enroll
+# ==== enroll =====
 
 admission:
   text: 高考录取查询
   icon: letter
   url: admission?type=search
 
-# info
+# ==== info =====
 
 calendar:
   text: 校历
@@ -32,7 +32,7 @@ website:
   icon: network
   url: website
 
-# Tool
+# ==== tools =====
 
 pe-calculator:
   text: 体测计算器
