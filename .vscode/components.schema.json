@@ -12,12 +12,14 @@
       "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)(?:\\?v=\\d+)?$"
     },
     "env": {
+      "description": "环境",
       "type": "array",
       "items": {
         "enum": ["app", "qq", "wx", "web"]
       }
     },
     "style-object": {
+      "description": "样式对象",
       "type": "object",
       "patternProperties": {
         "^.+$": {
@@ -29,21 +31,6 @@
       "description": "位置信息",
       "type": "string",
       "pattern": "^\\d{2,3}\\.\\d{3,6},\\d{2,3}\\.\\d{3,6}$"
-    },
-    "location": {
-      "type": "object",
-      "properties": {
-        "longitude": {
-          "description": "经度",
-          "type": "number"
-        },
-        "latitude": {
-          "description": "纬度",
-          "type": "number"
-        }
-      },
-      "required": ["longitude", "latitude"],
-      "additionalProperties": false
     },
     "point": {
       "type": "object",
@@ -57,7 +44,6 @@
           "type": "string"
         },
         "loc": {
-          "description": "位置信息",
           "$ref": "#/$defs/loc"
         },
         "path": {
@@ -66,7 +52,26 @@
         }
       },
       "required": ["loc"],
+      "default": { "loc": "" },
       "additionalProperties": false
+    },
+    "img-mode": {
+      "description": "图片填充模式",
+      "enum": [
+        "widthFix",
+        "scaleToFill",
+        "aspectFit",
+        "aspectFill",
+        "top",
+        "bottom",
+        "center",
+        "left",
+        "right",
+        "top left",
+        "top right",
+        "bottom left",
+        "bottom right"
+      ]
     },
     "base-list-item": {
       "type": "object",
@@ -91,6 +96,10 @@
           "description": "列表项目地址",
           "type": "string"
         },
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
+        },
         "env": {
           "$ref": "#/$defs/env"
         }
@@ -103,6 +112,7 @@
       "type": "object",
       "properties": {
         "type": {
+          "description": "列表项目类型",
           "const": "navigator"
         },
         "text": {
@@ -138,6 +148,7 @@
       "type": "object",
       "properties": {
         "type": {
+          "description": "列表项目类型",
           "const": "switch"
         },
         "text": {
@@ -173,6 +184,7 @@
       "type": "object",
       "properties": {
         "type": {
+          "description": "列表项目类型",
           "const": "picker"
         },
         "text": {
@@ -196,7 +208,7 @@
           "type": "string"
         },
         "handler": {
-          "description": "开关对应的函数名称",
+          "description": "选择器对应的函数名称",
           "type": "string"
         },
         "single": {
@@ -235,7 +247,7 @@
           "type": "string"
         },
         "handler": {
-          "description": "开关对应的函数名称",
+          "description": "滑块对应的函数名称",
           "type": "string"
         },
         "min": {
@@ -274,8 +286,7 @@
           "type": "string"
         },
         "handler": {
-          "description": "开关对应的函数名称",
-          "type": "string"
+          "$ref": "#/$defs/handler"
         },
         "openType": {
           "description": "开放能力",
@@ -333,6 +344,10 @@
         },
         "url": {
           "description": "网格项目地址",
+          "type": "string"
+        },
+        "appId": {
+          "description": "跳转小程序 ID",
           "type": "string"
         },
         "env": {
@@ -446,6 +461,10 @@
           "description": "跳转页面",
           "type": "string"
         },
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
+        },
         "align": {
           "description": "文字块对齐",
           "enum": ["left", "right", "center", "justify"]
@@ -516,23 +535,7 @@
           "type": "boolean"
         },
         "imgMode": {
-          "description": "图片填充模式",
-          "type": "string",
-          "enum": [
-            "widthFix",
-            "scaleToFill",
-            "aspectFit",
-            "aspectFill",
-            "top",
-            "bottom",
-            "center",
-            "left",
-            "right",
-            "top left",
-            "top right",
-            "bottom left",
-            "bottom right"
-          ]
+          "$ref": "#/$defs/img-mode"
         },
         "env": {
           "$ref": "#/$defs/env"
@@ -865,25 +868,6 @@
           "description": "滑动方向是否纵向",
           "type": "number"
         },
-        "imgMode": {
-          "description": "carousel 中图片的显示模式",
-          "type": "string",
-          "enum": [
-            "widthFix",
-            "scaleToFill",
-            "aspectFit",
-            "aspectFill",
-            "top",
-            "bottom",
-            "center",
-            "left",
-            "right",
-            "top left",
-            "top right",
-            "bottom left",
-            "bottom right"
-          ]
-        },
         "class": {
           "description": "carousel 项目的类名",
           "type": "string"
@@ -891,6 +875,9 @@
         "style": {
           "description": "carousel 项目的样式 ",
           "type": "string"
+        },
+        "imgMode": {
+          "$ref": "#/$defs/img-mode"
         },
         "env": {
           "$ref": "#/$defs/env"
