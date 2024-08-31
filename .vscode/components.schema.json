@@ -1101,27 +1101,31 @@
       "default": { "tag": "functional-list", "items": [] },
       "additionalProperties": false
     },
-    "components": {
+    "component": {
       "description": "组件",
+      "oneOf": [
+        { "$ref": "#/$defs/title-component" },
+        { "$ref": "#/$defs/table-component" },
+        { "$ref": "#/$defs/text-component" },
+        { "$ref": "#/$defs/list-component" },
+        { "$ref": "#/$defs/img-component" },
+        { "$ref": "#/$defs/doc-component" },
+        { "$ref": "#/$defs/phone-component" },
+        { "$ref": "#/$defs/action-component" },
+        { "$ref": "#/$defs/account-component" },
+        { "$ref": "#/$defs/location-component" },
+        { "$ref": "#/$defs/carousel-component" },
+        { "$ref": "#/$defs/card-component" },
+        { "$ref": "#/$defs/grid-component" },
+        { "$ref": "#/$defs/media-component" },
+        { "$ref": "#/$defs/functional-list-component" }
+      ]
+    },
+    "components": {
+      "description": "组件列表",
       "type": "array",
       "items": {
-        "oneOf": [
-          { "$ref": "#/$defs/title-component" },
-          { "$ref": "#/$defs/table-component" },
-          { "$ref": "#/$defs/text-component" },
-          { "$ref": "#/$defs/list-component" },
-          { "$ref": "#/$defs/img-component" },
-          { "$ref": "#/$defs/doc-component" },
-          { "$ref": "#/$defs/phone-component" },
-          { "$ref": "#/$defs/action-component" },
-          { "$ref": "#/$defs/account-component" },
-          { "$ref": "#/$defs/location-component" },
-          { "$ref": "#/$defs/carousel-component" },
-          { "$ref": "#/$defs/card-component" },
-          { "$ref": "#/$defs/grid-component" },
-          { "$ref": "#/$defs/media-component" },
-          { "$ref": "#/$defs/functional-list-component" }
-        ]
+        "$ref": "#/$defs/component"
       },
       "additionalItems": false
     }
