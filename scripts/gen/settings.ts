@@ -59,7 +59,27 @@ export const generateSettings = (data: unknown): unknown => {
     "main-presets": Object.fromEntries(
       Object.entries(mainPresets).map(([key, value]) => [
         key,
-        getPageContent(value, `settings.main-presets.${key}`, "pages"),
+        getPageContent(
+          // @ts-expect-error: TS can't infer the type of `value`
+          value.map((component) => {
+            const config =
+              typeof component === "string"
+                ? groupConfig[component]
+                : component;
+
+            if ("items" in config)
+              return {
+                ...config,
+                items: config.items.map((item) =>
+                  typeof item === "string" ? itemConfig[item] : item,
+                ),
+              };
+
+            return config;
+          }),
+          `settings.main-presets.${key}`,
+          "pages",
+        ),
       ]),
     ),
     // eslint-disable-next-line @typescript-eslint/naming-convention

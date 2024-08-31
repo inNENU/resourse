@@ -1,183 +1,22 @@
 main-page:
   guest: guest
-  "2023": newcomer
+  "2024": newcomer
   default: at-school
 
 main-presets:
   guest:
-    - tag: grid
-      header: 本科招生
+    - tag: list
       items:
-        - text: 招生简章
-          icon: rule
-          path: intro/enroll/under/rule/
+        - text: 登录开启海量校园功能
+          url: account-login
 
-        - text: 招生计划
-          icon: enroll
-          url: under-enroll-plan
-
-        - text: 历史分数线
-          icon: time
-          url: under-enroll-score
-
-        - text: 更多
-          icon: more
-          path: intro/enroll/under/
-
-    - tag: grid
-      header: 您可能想关注
-      items:
-        - text: 学校概况
-          icon: about
-          path: intro/about/
-
-        - text: 学科建设
-          icon: content
-          path: intro/subject/
-
-        - text: 学生就业
-          icon: job
-          path: intro/job/
-
-        - text: 资助
-          icon: subsidize
-          path: intro/subsidize/
-
-        - text: 招生
-          icon: enroll
-          path: intro/enroll/
-
-        - text: 学院介绍
-          icon: school
-          path: school/
-
-        - text: 学校机构
-          icon: apartment
-          path: apartment/
-
-        - text: 寝室
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          icon: dining
-          path: guide/dining/
-
-        - text: 快递
-          icon: express
-          path: guide/express/
-
-        - text: 洗浴
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          icon: life
-          path: guide/life/
-
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
-
-        - text: 课程
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 图书馆
-          icon: library
-          path: apartment/library/
-
-        - text: 考研/保研
-          icon: study
-          path: intro/grad/
+    - basic-info
 
   newcomer:
-    - tag: grid
-      header: 您可能想关注
-      items:
-        - text: 本科课程表
-          icon: course-table
-          url: under-course-table
-
-        - text: 选课系统
-          icon: select
-          url: under-select
-
-        - text: 专项考试成绩
-          icon: test
-          url: grade-special
-
-        - text: 校园地图
-          icon: map
-          url: map
-
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学生组织
-          icon: student-org
-          path: guide/org/
-
-        - text: 社团
-          icon: association
-          path: guide/association/
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
-      footer: 更多内容请详见下方其他 Tab 页
+    - basic-info
 
   at-school:
-    - tag: grid
-      header: 功能
-      items:
-        - text: 本科课程表
-          icon: course-table
-          url: under-course-table
-
-        - text: 本科成绩查询
-          icon: grade
-          url: under-grade
-
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          icon: news
-          url: notice-list?type=news
-
-        - text: 校园邮箱
-          icon: email
-          url: email-recent
-
-        - text: 图书馆
-          icon: library
-          url: library
-
-        - text: 校历
-          icon: calendar
-          url: calendar
-
-        - text: 转专业计划
-          icon: change
-          url: change-major
-
-      footer: 更多内容请详见下方其他 Tab 页
+    - common
 
 intro-page:
   guest:
@@ -192,38 +31,40 @@ intro-page:
   default:
     items:
       - about
+      - school
       - apartment
     more:
-      - school
       - under-enroll
       - grad-enroll
 
 guide-page:
   guest:
     items:
+      - newcomer
       - life
       - study
       - enjoy
-      - newcomer
+      - normal
     more:
       - account
       - service
       - tip
       - graduate
 
-  "2023":
+  "2024":
     items:
+      - newcomer
       - life
-      - account
+      - study
+      - normal
       - enjoy
       - service
-      - study
+      - account
       - tip
-      - newcomer
     more:
       - graduate
 
-  "2020":
+  "2021":
     items:
       - graduate
       - study
@@ -240,8 +81,9 @@ guide-page:
       - service
       - study
       - life
-    more:
       - account
+    more:
+      - normal
       - tip
       - enjoy
       - newcomer
@@ -253,267 +95,23 @@ function-page:
 
 function-presets:
   guest:
-    - tag: grid
-      header: 本科招生
-      items:
-        - text: 招生简章
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        - text: 招生计划
-          icon: enroll
-          url: under-enroll-plan
-
-        - text: 历史分数线
-          icon: time
-          url: under-enroll-score
-
-        - text: 录取查询
-          icon: letter
-          url: admission?type=search
-
-    - tag: grid
-      header: 东师风采
-      items:
-        - text: 校园地图
-          icon: map
-          url: map
-
-        - text: 音悦东师
-          icon: cd
-          url: music
-
-        - text: 影约东师
-          icon: media
-          url: video?type=video
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          icon: notice
-          url: official-notice-list
-
-        - text: 要闻速递
-          icon: news
-          url: official-info-list?type=news
-
-        - text: 媒体师大
-          icon: media
-          url: official-info-list?type=media
-
-        - text: 人文社科
-          icon: marx
-          url: official-info-list?type=social
-
-        - text: 自然科学
-          icon: chemistry
-          url: official-info-list?type=science
-
-        - text: 学术预告
-          icon: study
-          url: official-academic-list
-
-    - tag: grid
-      header: 账号激活
-      items:
-        - text: 账号激活
-          icon: authorize
-          url: account-activate
-
-    - tag: grid
-      header: 信息查询
-      items:
-        - text: 校历
-          icon: calendar
-          url: calendar
-
-        - text: 校外服务
-          icon: contact
-          url: info?path=/other/action/out
-
-        - text: 国家考试
-          icon: test
-          url: info?path=/other/action/test
-
-        - text: 东师网站
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          icon: phone
-          url: phone
-
-    - tag: grid
-      header: 管理系统
-      items:
-        - text: 统一身份认证
-          icon: account
-          url: web?url=https://authserver.nenu.edu.cn/authserver/login
-
-        - text: 网上服务大厅
-          icon: network
-          url: web?url=http://my.nenu.edu.cn/
-
-        - text: 故障报修
-          icon: repair
-          url: web?url=http://gyglxt.nenu.edu.cn/repair/redirect/website/index
-
-        - text: 宿舍系统
-          icon: system
-          url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          icon: sun
-          url: weather
-
-    - tag: list
-      items:
-        - text: 登录开启海量校园功能
-          url: account-login
-      footer: " "
+    - account
+    - media
+    - official
+    - info
+    - tool
+    - under-enroll
+    - grad-enroll
 
   at-school:
-    - tag: grid
-      header: 融合门户
-      items:
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          icon: news
-          url: notice-list?type=news
-
-        - text: 图书馆
-          icon: library
-          url: library
-
-    - tag: grid
-      header: 本科教务系统
-      items:
-        - text: 本科课程表
-          icon: course-table
-          url: under-course-table
-
-        - text: 本科成绩查询
-          icon: grade
-          url: under-grade
-
-        - text: 选课系统
-          icon: select
-          url: under-select
-
-        - text: 考场查询
-          icon: test
-          url: exam-place
-
-        - text: 专项考试成绩
-          icon: test
-          url: grade-special
-
-        - text: 学籍
-          icon: archive
-          url: under-archive-view
-
-        - text: 转专业计划
-          icon: change
-          url: change-major
-
-    - tag: grid
-      header: 东师风采
-      items:
-        - text: 校园地图
-          icon: map
-          url: map
-
-        - text: 音悦东师
-          icon: cd
-          url: music
-
-        - text: 影约东师
-          icon: media
-          url: video?type=video
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
-    - tag: grid
-      header: 学校动态
-      items:
-        - text: 通知公告
-          icon: notice
-          url: official-notice-list
-
-        - text: 要闻速递
-          icon: news
-          url: official-info-list?type=news
-
-        - text: 媒体师大
-          icon: media
-          url: official-info-list?type=media
-
-        - text: 人文社科
-          icon: marx
-          url: official-info-list?type=social
-
-        - text: 自然科学
-          icon: chemistry
-          url: official-info-list?type=science
-
-        - text: 学术预告
-          icon: study
-          url: official-academic-list
-
-    - tag: grid
-      header: 信息查询
-      items:
-        - text: 校园邮箱邮件
-          icon: email
-          url: email-recent
-
-        - text: 校历
-          icon: calendar
-          url: calendar
-
-        - text: 校外服务
-          icon: contact
-          url: info?path=/other/action/out
-
-        - text: 东师网站
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          icon: phone
-          url: phone
-
-    - tag: grid
-      header: 账号相关
-      items:
-        - text: 账号激活
-          icon: authorize
-          url: account-activate
-
-        - text: 密码重置
-          icon: reset
-          url: account-reset
-
-        # - text: 邮箱申请
-        #   icon: email
-        #   url: email-apply
+    - action
+    - under-study
+    - media
+    - official
+    - info
+    - tool
+    - under-enroll
+    - grad-enroll
 
     - tag: grid
       header: 管理系统
@@ -533,19 +131,6 @@ function-presets:
         - text: 宿舍系统
           icon: system
           url: web?url=http://gyglxt.nenu.edu.cn/?sid=http://gyglxt.nenu.edu.cn
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          icon: sun
-          url: weather
-
-      footer: " "
 
 user:
   - tag: list
@@ -632,6 +217,7 @@ service:
   auth-captcha: online
   re-auth: online
   action-login: online
+  auth-center-login: online
   my-login: online
   under-study-login: online
   under-system-login: online
@@ -652,10 +238,12 @@ notice:
   main:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方 App ，内含 108 万字的新生攻略。希望大家能够通过 App 摆脱对大学的迷茫。
-  activate:
-    title: 手机验证码
-    content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
+
+  account-activate:
+    title: 提示
+    content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
+    force: true
 
 update:
-  force: false
+  force: true
   reset: false

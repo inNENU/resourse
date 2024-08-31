@@ -5,192 +5,13 @@ main-page:
 
 main-presets:
   guest:
-    - tag: grid
-      header: 您可能想关注
-      items:
-        - text: 学校概况
-          icon: about
-          path: intro/about/
-
-        - text: 学科建设
-          icon: content
-          path: intro/subject/
-
-        - text: 学生就业
-          icon: job
-          path: intro/job/
-
-        - text: 资助
-          icon: subsidize
-          path: intro/subsidize/
-
-        - text: 招生
-          icon: enroll
-          path: intro/enroll/
-
-        - text: 学院介绍
-          icon: school
-          path: school/
-
-        - text: 学校机构
-          icon: apartment
-          path: apartment/
-
-        - text: 寝室
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          icon: dining
-          path: guide/dining/
-
-        - text: 快递
-          icon: express
-          path: guide/express/
-
-        - text: 洗浴
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          icon: life
-          path: guide/life/
-
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
-
-        - text: 课程
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 图书馆
-          icon: library
-          path: apartment/library/
-
-        - text: 考研/保研
-          icon: study
-          path: intro/grad/
+    - basic-info
 
   newcomer:
-    - tag: grid
-      header: 您可能想关注
-      items:
-        - text: 专业介绍
-          icon: study
-          path: school/major
-
-        - text: 寝室
-          icon: dorm
-          path: guide/dorm/
-
-        - text: 食堂
-          icon: dining
-          path: guide/dining/
-
-        - text: 快递
-          icon: express
-          path: guide/express/
-
-        - text: 洗浴
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          icon: life
-          path: guide/life/
-
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
-
-        - text: 课程
-          icon: content
-          path: guide/course/
-
-        - text: 学习
-          icon: study
-          path: guide/study/
-
-        - text: 奖学金
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 校园地图
-          icon: map
-          url: map
-
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学生组织
-          icon: student-org
-          path: guide/org/
-
-        - text: 社团
-          icon: association
-          path: guide/association/
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
-      footer: 更多内容请详见下方其他 Tab 页
+    - basic-info
 
   at-school:
-    - tag: grid
-      header: 功能
-      items:
-        - text: 课程表
-          icon: course-table
-          url: course-table
-
-        - text: 本科成绩查询
-          icon: grade
-          url: under-grade
-
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          icon: news
-          url: notice-list?type=news
-
-        - text: 校园邮箱
-          icon: email
-          url: email-recent
-
-        - text: 图书馆
-          icon: library
-          url: library
-
-        - text: 校历
-          icon: calendar
-          url: calendar
-
-        - text: 转专业计划
-          icon: change
-          url: change-major
-
-      footer: 更多内容请详见下方其他 Tab 页
+    - common
 
 intro-page:
   guest:
@@ -236,7 +57,7 @@ guide-page:
       # - service
       - graduate
 
-  "2020":
+  "2021":
     items:
       - graduate
       - study
@@ -266,12 +87,7 @@ function-page:
 
 function-presets:
   guest:
-    - tag: grid
-      header: 账号激活
-      items:
-        - text: 账号激活
-          icon: authorize
-          url: account-activate
+    - account
 
     - tag: grid
       header: 东师风采
@@ -280,10 +96,6 @@ function-presets:
           icon: map
           url: map
 
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
     - tag: grid
       header: 信息查询
       items:
@@ -291,40 +103,11 @@ function-presets:
           icon: calendar
           url: calendar
 
-        - text: 本科人才培养计划
-          icon: rule
-          url: under-major-plan
-
-        - text: 校史
-          icon: history
-          url: calendar-history
-
-        - text: 东师网站
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          icon: phone
-          url: phone
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          icon: sun
-          url: weather
+    - tool
 
     - tag: grid
       header: 本科招生
       items:
-        - text: 招生简章
-          icon: rule
-          path: intro/enroll/under/rule/
-
         - text: 招生计划
           icon: enroll
           url: under-enroll-plan
@@ -340,59 +123,8 @@ function-presets:
       footer: " "
 
   at-school:
-    - tag: grid
-      header: 融合门户
-      items:
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          icon: news
-          url: notice-list?type=news
-
-        - text: 图书馆
-          icon: library
-          url: library
-
-    - tag: grid
-      header: 本科教务系统
-      items:
-        - text: 课程表
-          icon: course-table
-          url: course-table
-
-        - text: 本科成绩查询
-          icon: grade
-          url: under-grade
-
-        - text: 选课系统
-          icon: select
-          url: under-select
-
-        - text: 考场查询
-          icon: test
-          url: exam-place
-
-        - text: 专项考试成绩
-          icon: test
-          url: grade-special
-
-        - text: 学籍注册查看
-          icon: archive
-          url: under-archive-view
-
-        # - text: 建立学籍
-        #   icon: archive
-        #   url: under-archive-create
-
-        - text: 转专业计划
-          icon: change
-          url: change-major
-
-        - text: 课程评价
-          icon: heart
-          url: under-commentary
+    - action
+    - under-study
 
     - tag: grid
       header: 东师风采
@@ -401,17 +133,9 @@ function-presets:
           icon: map
           url: map
 
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
     - tag: grid
       header: 信息查询
       items:
-        - text: 校园邮箱邮件
-          icon: email
-          url: email-recent
-
         - text: 校历
           icon: calendar
           url: calendar
@@ -424,29 +148,7 @@ function-presets:
           icon: phone
           url: phone
 
-    - tag: grid
-      header: 账号相关
-      items:
-        - text: 账号激活
-          icon: authorize
-          url: account-activate
-
-        - text: 邮箱申请
-          icon: email
-          url: email-apply
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          icon: sun
-          url: weather
-
-      footer: " "
+    - tool
 
 user:
   - tag: list
@@ -539,18 +241,6 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  # grad-system-login: online
-  # under-study-check: online
-  # under-commentary: online
-  # under-grade-detail: online
-  # under-grade-list: online
-  # under-special-exam: online
-  # under-select-category: online
-  # under-select-class: online
-  # under-select-info: online
-  # under-select-process: online
-  # under-select-search: online
-  # under-select-selected: online
   forceOnline: true
 
 notice:
@@ -559,14 +249,8 @@ notice:
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
 
   account-activate:
-    title: 2024级本科生账号暂不可激活
-    content: 由于本科生尚未完成录取，2024年新生统一身份认证账户暂不可激活。根据去年经验，预计开放时间不早于 2024 年 8 月。请耐心等待官方正式通知。
-    # title: 手机验证码
-    # content: 学校的短信验证服务发送验证码有较高延迟，请耐心等待。另外部分手机号可能收不到验证码，遇到此情况可更换家人号码尝试激活。
-
-  under-select:
-    title: 公测中
-    content: 新版本科选课系统已初步适配，现面向全体用户发起公测。特别提示：当前选课系统已完整内测阶段，所需功能基本可用，但 Mr.Hope 不保证当前公测版系统没有问题，也不会对公测版系统引发的问题负责。继续使用即代表您已知晓并接受此风险。
+    title: 提示
+    content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
     force: true
 
 update:

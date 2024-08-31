@@ -85,9 +85,11 @@ export const generateResource = (): void => {
   });
 
   // 写入版本信息
-  writeFileSync("./data/version.json", JSON.stringify(versionInfo, null, 2), {
-    encoding: "utf-8",
-  });
+  writeFileSync(
+    "./data/version.json",
+    `${JSON.stringify(versionInfo, null, 2)}\n`,
+    { encoding: "utf-8" },
+  );
   writeFileSync("./.resource/version.json", JSON.stringify(versionInfo), {
     encoding: "utf-8",
   });

@@ -1,6 +1,5 @@
 main-page:
   guest: guest
-  "2023": newcomer
   default: at-school
 
 main-presets:
@@ -20,22 +19,6 @@ main-presets:
           icon: express
           path: guide/express/
 
-        - text: 洗浴
-          icon: bath
-          path: guide/bath/
-
-        - text: 生活
-          icon: life
-          path: guide/life/
-
-        - text: 转专业
-          icon: change
-          path: guide/change-major/
-
-        - text: 师范生
-          icon: teacher
-          path: guide/normal/
-
         - text: 课程
           icon: content
           path: guide/course/
@@ -44,77 +27,8 @@ main-presets:
           icon: study
           path: guide/study/
 
-        - text: 奖学金
-          icon: metal
-          path: intro/scholarship/
-
-        - text: 考研/保研
-          icon: study
-          path: intro/grad/
-
-  newcomer:
-    - tag: grid
-      header: 您可能想关注
-      items:
-        - text: 本科课程表
-          icon: course-table
-          url: under-course-table
-
-        - text: 选课系统
-          icon: select
-          url: under-select
-
-        - text: 专项考试成绩
-          icon: test
-          url: grade-special
-
-        - text: 校园地图
-          icon: map
-          url: map
-
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-      footer: 更多内容请详见下方其他 Tab 页
-
   at-school:
-    - tag: grid
-      header: 功能
-      items:
-        - text: 本科课程表
-          icon: course-table
-          url: under-course-table
-
-        - text: 本科成绩查询
-          icon: grade
-          url: under-grade
-
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          icon: news
-          url: notice-list?type=news
-
-        - text: 校园邮箱
-          icon: email
-          url: email-recent
-
-        - text: 图书馆
-          icon: library
-          url: library
-
-        - text: 校历
-          icon: calendar
-          url: calendar
-
-        - text: 转专业计划
-          icon: change
-          url: change-major
-
-      footer: 更多内容请详见下方其他 Tab 页
+    - common
 
 intro-page:
   guest:
@@ -138,48 +52,24 @@ intro-page:
 guide-page:
   guest:
     items:
-      - life
+      # - newcomer
+      # - life
       - study
       - enjoy
-      # - newcomer
     more:
       # - account
       # - service
       # - tip
       - graduate
-
-  "2023":
-    items:
-      - life
-      - account
-      - enjoy
-      # - service
-      - study
-      # - tip
-      # - newcomer
-    more:
-      - graduate
-
-  "2020":
-    items:
-      - graduate
-      - study
-      # - service
-      # - account
-    more:
-      - life
-      - tip
-      - enjoy
-      - newcomer
 
   default:
     items:
       # - service
       - study
-      - life
+      # - life
     more:
       # - account
-      - tip
+      # - tip
       - enjoy
       - newcomer
       - graduate
@@ -190,12 +80,7 @@ function-page:
 
 function-presets:
   guest:
-    - tag: grid
-      header: 账号激活
-      items:
-        - text: 账号激活
-          icon: authorize
-          url: account-activate
+    - account
 
     - tag: grid
       header: 东师风采
@@ -204,45 +89,6 @@ function-presets:
           icon: map
           url: map
 
-        # - text: 音悦东师
-        #   icon: cd
-        #   url: music
-
-        # - text: 影约东师
-        #   icon: media
-        #   url: video?type=video
-
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
-    # - tag: grid
-    #   header: 学校动态
-    #   items:
-    #     - text: 通知公告
-    #       icon: notice
-    #       url: official-notice-list
-
-    #     - text: 要闻速递
-    #       icon: news
-    #       url: official-info-list?type=news
-
-    #     - text: 媒体师大
-    #       icon: media
-    #       url: official-info-list?type=media
-
-    #     - text: 人文社科
-    #       icon: marx
-    #       url: official-info-list?type=social
-
-    #     - text: 自然科学
-    #       icon: chemistry
-    #       url: official-info-list?type=science
-
-    #     - text: 学术预告
-    #       icon: study
-    #       url: official-academic-list
-
     - tag: grid
       header: 信息查询
       items:
@@ -250,43 +96,18 @@ function-presets:
           icon: calendar
           url: calendar
 
-        - text: 东师网站
-          icon: network
-          url: website
-
-        - text: 师大黄页
-          icon: phone
-          url: phone
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          icon: sun
-          url: weather
+    - tool
 
     - tag: grid
       header: 本科招生
       items:
-        - text: 2024 年招生简章
-          icon: rule
-          path: intro/enroll/under/rule/
-
-        - text: 2024 年招生计划
+        - text: 招生计划
           icon: enroll
           url: under-enroll-plan
 
-        - text: 历史分数线
+        - text: 历史分数
           icon: time
           url: under-enroll-score
-
-        # - text: 录取查询
-        #   icon: letter
-        #   url: admission?type=search
 
     - tag: list
       items:
@@ -295,59 +116,8 @@ function-presets:
       footer: " "
 
   at-school:
-    - tag: grid
-      header: 融合门户
-      items:
-        - text: 学校通知
-          icon: notice
-          url: notice-list
-
-        - text: 学校新闻
-          icon: news
-          url: notice-list?type=news
-
-        - text: 图书馆
-          icon: library
-          url: library
-
-    - tag: grid
-      header: 本科教务系统
-      items:
-        - text: 本科课程表
-          icon: course-table
-          url: under-course-table
-
-        - text: 本科成绩查询
-          icon: grade
-          url: under-grade
-
-        - text: 选课系统
-          icon: select
-          url: under-select
-
-        - text: 考场查询
-          icon: test
-          url: exam-place
-
-        - text: 专项考试成绩
-          icon: test
-          url: grade-special
-
-        - text: 学籍注册查看
-          icon: archive
-          url: under-archive-view
-
-        # - text: 建立学籍
-        #   icon: archive
-        #   url: under-archive-create
-
-        - text: 转专业计划
-          icon: change
-          url: change-major
-
-        - text: 课程评价
-          icon: heart
-          url: under-commentary
+    - action
+    - under-study
 
     - tag: grid
       header: 东师风采
@@ -356,17 +126,9 @@ function-presets:
           icon: map
           url: map
 
-        - text: 校园媒体
-          icon: account
-          url: school-media
-
     - tag: grid
       header: 信息查询
       items:
-        - text: 校园邮箱邮件
-          icon: email
-          url: email-recent
-
         - text: 校历
           icon: calendar
           url: calendar
@@ -379,29 +141,7 @@ function-presets:
           icon: phone
           url: phone
 
-    - tag: grid
-      header: 账号相关
-      items:
-        - text: 账号激活
-          icon: authorize
-          url: account-activate
-
-        - text: 邮箱申请
-          icon: email
-          url: email-apply
-
-    - tag: grid
-      header: 工具
-      items:
-        - text: 体测计算器
-          icon: calculate
-          url: pe-calculator
-
-        - text: 东师天气
-          icon: sun
-          url: weather
-
-      footer: " "
+    - tool
 
 user:
   - tag: list
@@ -494,6 +234,11 @@ notice:
     title: 欢迎使用 inNENU
     content: 欢迎使用 inNENU。这是一个由 Mr.Hope 个人制作的非官方小程序，内含 108 万字的新生攻略。希望大家能够通过小程序摆脱对大学的迷茫。
 
+  account-activate:
+    title: 提示
+    content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
+    force: true
+
 update:
-  force: false
+  force: true
   reset: false

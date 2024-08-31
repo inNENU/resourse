@@ -1,3 +1,163 @@
+activate-card:
+  tag: card
+  cover: $img/tab/activate.jpg
+  title: 账号激活
+  url: account-activate
+
+faq-card:
+  tag: card
+  cover: $img/tab/faq.png
+  title: 常见问题
+  path: newcomer/faq/
+
+stream-card:
+  tag: card
+  cover: $img/tab/stream.png
+  title: 经验分享与答疑
+  path: newcomer/activity/streaming
+
+check:
+  tag: grid
+  header: 报到相关
+  items:
+    - text: 入学准备
+      icon: prepare
+      path: newcomer/prepare/
+
+    - text: 新生群
+      icon: qq-group
+      path: newcomer/contact/
+
+    - text: 到校路线
+      icon: locate
+      path: newcomer/arrival/
+
+    - text: 新生报到
+      icon: check
+      path: newcomer/check/
+
+    - text: 需带物品
+      icon: necessity
+      path: newcomer/necessity/
+
+    - text: 军训
+      icon: military
+      path: newcomer/activity/military/
+
+    - text: 入学活动
+      icon: activity
+      path: newcomer/activity/
+
+    - text: 防盗防骗
+      icon: safe
+      path: newcomer/safety/
+
+basic-info:
+  tag: grid
+  header: 您可能想关注
+  items:
+    - text: 寝室
+      icon: dorm
+      path: guide/dorm/
+
+    - text: 食堂
+      icon: dining
+      path: guide/dining/
+
+    - text: 快递
+      icon: express
+      path: guide/express/
+
+    - text: 洗浴
+      icon: bath
+      path: guide/bath/
+
+    - text: 生活
+      icon: life
+      path: guide/life/
+
+    - text: 校园网
+      icon: network
+      path: guide/network/
+
+    - text: 校园卡
+      icon: card
+      path: guide/card/
+
+    - text: 课程
+      icon: content
+      path: guide/course/
+
+    - text: 学习
+      icon: study
+      path: guide/study/
+
+    - text: 奖学金
+      icon: metal
+      path: intro/scholarship/
+
+    - text: 转专业
+      icon: change
+      path: guide/change-major/
+
+    - text: 师范生
+      icon: teacher
+      path: guide/normal/
+
+    - text: 校园地图
+      icon: map
+      url: map
+
+    - text: 校园媒体
+      icon: account
+      url: school-media
+
+    - text: 学生组织
+      icon: student-org
+      path: guide/org/
+
+    - text: 社团
+      icon: association
+      path: guide/association/
+
+common:
+  tag: grid
+  header: 功能
+  items:
+    - text: 课程表
+      icon: course-table
+      url: course-table
+
+    - text: 成绩查询
+      icon: grade
+      url: grade
+
+    - text: 学校通知
+      icon: notice
+      url: notice-list
+
+    - text: 校园邮箱
+      icon: email
+      url: email-recent
+
+    - text: 校历
+      icon: calendar
+      url: calendar
+
+  footer: 更多内容请详见下方其他 Tab 页
+
+account:
+  tag: grid
+  header: 账号
+  items:
+    - text: 账号激活
+      icon: authorize
+      url: account-activate
+
+    - text: 账号登录
+      icon: account
+      url: account-login
+
 action:
   tag: grid
   header: 融合门户
@@ -9,6 +169,10 @@ action:
     - text: 学校新闻
       icon: news
       url: notice-list?type=news
+
+    - text: 校园邮箱邮件
+      icon: email
+      url: email-recent
 
     - text: 图书馆
       icon: library
@@ -112,3 +276,43 @@ under-enroll:
     - text: 历史分数
       icon: time
       url: under-enroll-score
+
+under-study:
+  tag: grid
+  header: 本科教务系统
+  items:
+    - text: 课程表
+      icon: course-table
+      url: course-table
+
+    - text: 成绩查询
+      icon: grade
+      url: grade
+
+    - text: 选课系统
+      icon: select
+      url: under-select
+
+    - text: 考场查询
+      icon: test
+      url: exam-place
+
+    - text: 专项考试成绩
+      icon: test
+      url: grade-special
+
+    # - text: 学籍注册查看
+    #   icon: archive
+    #   url: under-archive-view
+
+    # - text: 建立学籍
+    #   icon: archive
+    #   url: under-archive-create
+
+    # - text: 转专业计划
+    #   icon: change
+    #   url: change-major
+
+    - text: 课程评价
+      icon: heart
+      url: under-commentary
