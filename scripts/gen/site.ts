@@ -1,20 +1,16 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, relative, resolve } from "node:path";
 
+import cpx from "cpx2";
 import { deleteSync } from "del";
 import { getFileList, getPageMarkdown } from "innenu-generator";
 import type { PageConfig } from "innenu-generator/typings";
 import { load } from "js-yaml";
 
+import "../env.js";
+
 // 删除旧的文件
-deleteSync([
-  "./site/**",
-  "!./site/.vuepress/**",
-  "!./site/README.md",
-  "!./site/about/**",
-  "!./site/contributing/**",
-  "!./site/tool/**",
-]);
+deleteSync([".site/**"]);
 
 // 生成对应的 Markdown
 
@@ -58,10 +54,15 @@ const convertYml2Md = <T = any>(
   });
 };
 
+cpx.copySync("./site/**", "./.site/");
+cpx.copySync("./site/.vuepress/**", "./.site/.vuepress");
+
 ["apartment", "school", "newcomer", "intro", "guide", "other"].forEach(
   (folder) => {
-    convertYml2Md(`./pages/${folder}`, `./site/${folder}`, (data: PageConfig) =>
-      getPageMarkdown(data),
+    convertYml2Md(
+      `./pages/${folder}`,
+      `./.site/${folder}`,
+      (data: PageConfig) => getPageMarkdown(data),
     );
   },
 );

@@ -1,23 +1,28 @@
 import { execSync } from "node:child_process";
-import { existsSync, readFileSync, statSync, writeFileSync } from "node:fs";
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  statSync,
+  writeFileSync,
+} from "node:fs";
 import { type } from "node:os";
 
 import { deleteSync } from "del";
 
-export const zipFile = (folderLocation: string, folderName: string): void => {
+export const zipFile = (folderName: string): void => {
   /** 文件名 */
-
-  deleteSync(`./temp/${folderName}.zip`);
+  deleteSync(`./oss/${folderName}.zip`);
 
   // 压缩文件
-  if (type() === "Linux" || type() === "Darwin")
+  if (type() === "Linux" || type() === "Darwin") {
+    execSync(`zip -r ./.resource/${folderName}.zip ./resource/${folderName}`);
+    execSync(`mv .resource/${folderName}.zip .oss/`);
+  } else if (type() === "Windows_NT") {
     execSync(
-      `zip -r ${folderLocation}/${folderName}.zip ${folderLocation}/${folderName}`,
+      `cd ./.resource && "../assets/lib/7za" a -r ${folderName}.zip "${folderName}/" && cd ..`,
     );
-  else if (type() === "Windows_NT") {
-    execSync(
-      `cd ./${folderLocation} && "../assets/lib/7za" a -r ${folderName}.zip ${`"${folderName}/"`} && cd ..`,
-    );
+    execSync(`move .resource\\${folderName}.zip .oss\\`);
   }
 };
 
@@ -32,13 +37,16 @@ export const resourceList = [
 ];
 
 export const generateResource = (): void => {
-  /** 资源列表 */
+  if (!existsSync("./.oss")) mkdirSync("./.oss");
+
   /** 差异列表 */
   const diffResult = execSync("git status -s").toString();
 
   /** 版本信息 */
-  const versionInfo = existsSync("./d/version.json")
-    ? (JSON.parse(readFileSync("./d/version.json", { encoding: "utf-8" })) as {
+  const versionInfo = existsSync("./data/version.json")
+    ? (JSON.parse(
+        readFileSync("./data/version.json", { encoding: "utf-8" }),
+      ) as {
         version: Record<string, number>;
         size: Record<string, number>;
       })
@@ -61,26 +69,29 @@ export const generateResource = (): void => {
     if (
       diffResult
         .split("\n")
-        .some((item) => item.substring(3).startsWith(`d/${name}/`)) ||
-      !existsSync(`./d/${name}.zip`)
+        .some((item) => item.substring(3).startsWith(`.resource/${name}/`)) ||
+      !existsSync(`./.oss/${name}.zip`)
     ) {
       // 更新版本号
       updateList.push(name);
       versionInfo.version[name] += 1;
 
       // 压缩文件
-      zipFile("d", name);
+      zipFile(name);
       versionInfo.size[name] = Math.round(
-        statSync(`./d/${name}.zip`).size / 1024,
+        statSync(`./.oss/${name}.zip`).size / 1024,
       );
     }
   });
 
   // 写入版本信息
-  writeFileSync("./d/version.json", JSON.stringify(versionInfo), {
+  writeFileSync("./data/version.json", JSON.stringify(versionInfo, null, 2), {
     encoding: "utf-8",
   });
-  writeFileSync("./d/oss-update", updateList.join("\n"), {
+  writeFileSync("./.resource/version.json", JSON.stringify(versionInfo), {
+    encoding: "utf-8",
+  });
+  writeFileSync("./.oss/oss-update", updateList.join("\n"), {
     encoding: "utf-8",
   });
 };

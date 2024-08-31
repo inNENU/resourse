@@ -1,32 +1,11 @@
 # Node modules
 node_modules/
-
-# dist
-d/oss-update
-d/*.zip
-
-# Site
-site/**/*.md
-!site/.vuepress/**
-!site/README.md
-!site/about/**
-!site/contributing/**
-!site/tool/**
-
-# Vuepress Cache
-**/.vuepress/.cache/**
-# Vuepress Temp
-**/.vuepress/.temp/**
-# Vuepress Output
-**/.vuepress/dist/**
-
-
-# Backup files
-other/bak/
-
-# Server Info
-service/info/
-
-.env
-
 pnpm-lock.yaml
+
+# Generated
+.oss/
+.resource/
+.site/
+
+# env files
+.env

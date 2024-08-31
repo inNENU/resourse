@@ -19,7 +19,7 @@ const syncOSS = async (): Promise<void> => {
   if (currentBranch !== "main") return;
 
   const finalDiffResult = execSync("git status").toString();
-  const updateZipFileInfo = readFileSync("./d/oss-update", {
+  const updateZipFileInfo = readFileSync("./.oss/oss-update", {
     encoding: "utf-8",
   });
   const updateZipFiles = updateZipFileInfo.split("\n").filter((item) => item);
@@ -80,6 +80,7 @@ const syncOSS = async (): Promise<void> => {
         ),
     )
     .map((item) => item.remove);
+
   const client = new OSS({
     region: "oss-cn-beijing",
     accessKeyId: process.env.OSS_KEY_ID!,
@@ -124,10 +125,10 @@ const syncOSS = async (): Promise<void> => {
     }
   };
 
+  await deleteFiles(deletedFiles);
   await Promise.all([
-    ...updateZipFiles.map((item) => putFile(`d/${item}.zip`)),
     ...addedFiles.map((item) => putFile(item)),
-    deleteFiles(deletedFiles),
+    ...updateZipFiles.map((item) => putFile(`.oss/${item}.zip`)),
   ]);
 };
 

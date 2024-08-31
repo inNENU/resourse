@@ -23,7 +23,7 @@ export const generateLicense = (): Promise<void[]> => {
       const nodes = await getRichTextNodes(markdownIt.render(content, env));
 
       writeFileSync(
-        `./d/config/${file.replace(/\.md$/, "-data.json")}`,
+        `./.resource/config/${file.replace(/\.md$/, "-data.json")}`,
         JSON.stringify({ nodes, ...env.frontmatter }),
         "utf-8",
       );

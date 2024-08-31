@@ -1,20 +1,12 @@
-name: Generate and deploy docs
+name: Deploy resource to server
 
 on:
   push:
     branches:
       - main
-    paths:
-      - "data/**"
-      - "pages/**"
-      - "scripts/**"
-      - "site/**"
-
-permissions:
-  contents: write
 
 jobs:
-  deploy-gh-pages:
+  generate-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -34,41 +26,37 @@ jobs:
           node-version: 20
           cache: pnpm
 
-      - name: Generate Site
-        run: pnpm generate:site
+      - name: Generate resource
+        run: |
+          pnpm generate:resource
 
-      - name: Build Site
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
-        run: pnpm build:site
-
-      - name: Deploy to gh pages
+      - name: Deploy to resource branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
-          folder: .site/.vuepress/dist
+          branch: resource
+          folder: .resource
           single-commit: true
 
   deploy-server:
     runs-on: ubuntu-latest
-    needs: deploy-gh-pages
+    needs: generate-data
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: gh-pages
+          ref: resource
           fetch-depth: 0
 
-      - name: Configuration environment
+      - name: Config environment
         run: |
           mkdir -p ~/.ssh/
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan innenu.com >> ~/.ssh/known_hosts
+          ssh-keyscan res.innenu.com >> ~/.ssh/known_hosts
           git config --global user.name 'Mr.Hope'
           git config --global user.email 'mister-hope@outlook.com'
 
       - name: Deploy
         run: |
-          git push -f git@innenu.com:/www/wwwroot/innenu gh-pages
-          ssh git@innenu.com "cd /www/wwwroot/innenu && git reset --hard HEAD"
+          git push -f git@res.innenu.com:/www/wwwroot/innenu-res main
+          ssh git@res.innenu.com "cd /www/wwwroot/innenu-res && git reset --hard HEAD"

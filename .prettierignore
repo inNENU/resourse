@@ -1,15 +1,15 @@
-d/
-r/
-site/
-!site/README.md
-!site/about/
-!site/contributing/
-!site/.vuepress/
-site/.vuepress/.cache/
-site/.vuepress/.temp/
-site/.vuepress/dist/
+# Node modules
+node_modules/
+pnpm-lock.yaml
 
+# Generated
+.oss/
+.resource/
+.site/
+
+# env files
+.env
+
+# Composer
 service/vendor/
 service/composer.lock
-
-pnpm-lock.yaml

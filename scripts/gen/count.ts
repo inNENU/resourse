@@ -4,13 +4,13 @@ import { resolve } from "node:path";
 import { getFileList, getJSONWordCount } from "innenu-generator";
 
 export const count = (): void => {
-  const apartmentWords = getJSONWordCount("./d/apartment");
-  const functionWords = getJSONWordCount("./d/function");
-  const guideWords = getJSONWordCount("./d/guide");
-  const introWords = getJSONWordCount("./d/intro");
-  const otherWords = getJSONWordCount("./d/other");
-  const newcomerWords = getJSONWordCount("./d/newcomer");
-  const schoolWords = getJSONWordCount("./d/school");
+  const apartmentWords = getJSONWordCount("./.resource/apartment");
+  const functionWords = getJSONWordCount("./.resource/function");
+  const guideWords = getJSONWordCount("./.resource/guide");
+  const introWords = getJSONWordCount("./.resource/intro");
+  const otherWords = getJSONWordCount("./.resource/other");
+  const newcomerWords = getJSONWordCount("./.resource/newcomer");
+  const schoolWords = getJSONWordCount("./.resource/school");
   const wordsTip = `现有字数为 ${
     apartmentWords +
     functionWords +

@@ -17,7 +17,7 @@ declare(strict_types=1);
 
 require_once 'header/post-json.php';
 
-chdir("../d/account/");
+chdir("../account/");
 
 $data = json_decode(file_get_contents('php://input'));
 

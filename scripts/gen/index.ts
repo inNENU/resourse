@@ -29,26 +29,21 @@ import { generateLicense } from "./license.js";
 import type { PEConfig } from "./peScore.js";
 import { generatePEScore } from "./peScore.js";
 import { generateResource } from "./resource.js";
+import { copyService } from "./service.js";
 import { generateSettings } from "./settings.js";
 
 import "../env.js";
 
 // 删除旧的文件
-deleteSync([
-  "./d/function/**",
-  "./d/icon/**",
-  "./d/guide/**",
-  "./d/intro/**",
-  "./d/other/**",
-]);
+deleteSync(["./.resource/**"]);
 
 // 转换账号
-convertYml2Json("./data/account", "./d/account", (data, filePath) =>
+convertYml2Json("./data/account", "./.resource/account", (data, filePath) =>
   getWechatJSON(data as WechatAccountConfig, filePath),
 );
 
 // 功能大厅
-convertYml2Json("./data/function", "./d/function", (data, filePath) =>
+convertYml2Json("./data/function", "./.resource/function", (data, filePath) =>
   /map\/marker\/benbu/u.exec(filePath)
     ? getMarkersJSON(data as MarkersConfig, "benbu")
     : /map\/marker\/jingyue/u.exec(filePath)
@@ -70,7 +65,7 @@ convertYml2Json("./data/function", "./d/function", (data, filePath) =>
 // 转换搜索
 convertYml2Json(
   "./data/search",
-  "./d/search",
+  "./.resource/search",
   (data: unknown): unknown => data,
 );
 
@@ -79,8 +74,11 @@ const diffResult = execSync("git status -s").toString();
 
 ["apartment", "school", "newcomer", "intro", "guide", "other"].forEach(
   (folder) => {
-    convertYml2Json(`./pages/${folder}`, `./d/${folder}`, (data, filePath) =>
-      getPageJSON(data as PageConfig, `${folder}/${filePath}`, diffResult),
+    convertYml2Json(
+      `./pages/${folder}`,
+      `./.resource/${folder}`,
+      (data, filePath) =>
+        getPageJSON(data as PageConfig, `${folder}/${filePath}`, diffResult),
     );
   },
 );
@@ -89,11 +87,13 @@ const diffResult = execSync("git status -s").toString();
 genIcon();
 
 // 生成歌词
-generateLyrics("./data/function/music", "./d/function/music");
+generateLyrics("./data/function/music", "./.resource/function/music");
 
 // 生成捐赠
-convertYml2Json("./config/donate", "./d/other/donate", (data, filePath) =>
-  generateDonate(data as Donate, filePath),
+convertYml2Json(
+  "./config/donate",
+  "./.resource/other/donate",
+  (data, filePath) => generateDonate(data as Donate, filePath),
 );
 
 // 生成 Sitemap
@@ -101,12 +101,14 @@ convertYml2Json("./config/donate", "./d/other/donate", (data, filePath) =>
 count();
 
 // 重新生成 guide
-convertYml2Json("./pages/other/guide", "./d/other/guide", (data, filePath) =>
-  getPageJSON(data as PageConfig, filePath),
+convertYml2Json(
+  "./pages/other/guide",
+  "./.resource/other/guide",
+  (data, filePath) => getPageJSON(data as PageConfig, filePath),
 );
 
 // 生成 tab 页
-convertYml2Json("./config", "./d/config", (data, filePath) => {
+convertYml2Json("./config", "./.resource/config", (data, filePath) => {
   if (/item$/u.exec(filePath) || /group$/u.exec(filePath)) return null;
 
   if (/settings$/u.exec(filePath)) return generateSettings(data);
@@ -118,5 +120,8 @@ await generateLicense();
 
 // 生成资源
 generateResource();
+
+// 复制服务
+copyService();
 
 console.info("All completed");

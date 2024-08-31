@@ -17,7 +17,7 @@ declare(strict_types=1);
 
 require_once 'header/post-json.php';
 
-chdir("../d/");
+chdir("../");
 
 $handle = @fopen("version.json", "r");
 if ($handle) {

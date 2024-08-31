@@ -166,7 +166,7 @@ function create_search_data(string $file): array
 
 
 if ($_SERVER['REQUEST_METHOD'] !== 'OPTIONS') {
-  chdir("../d/");
+  chdir("../");
 
   $data = json_decode(file_get_contents('php://input'));
 
