@@ -26,10 +26,8 @@
     "lint:eslint": "eslint .",
     "lint:prettier": "prettier --check .",
     "prepare": "husky",
-    "test": "vitest",
     "push": "tsx ./scripts/push.ts",
-    "sync:oss": "tsx ./scripts/oss.ts",
-    "upload": "tsx ./scripts/upload.ts"
+    "sync:oss": "tsx ./scripts/oss.ts"
   },
   "dependencies": {
     "@mdit-vue/plugin-frontmatter": "2.1.3",

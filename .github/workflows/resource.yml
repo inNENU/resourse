@@ -61,5 +61,5 @@ jobs:
 
       - name: Deploy
         run: |
-          git push -f git@res.innenu.com:/www/wwwroot/innenu-res main
+          git push -f git@res.innenu.com:/www/wwwroot/innenu-res resource
           ssh git@res.innenu.com "cd /www/wwwroot/innenu-res && git reset --hard HEAD"
