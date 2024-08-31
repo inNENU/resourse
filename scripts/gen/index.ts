@@ -1,5 +1,6 @@
 import { execSync } from "node:child_process";
 
+import cpx from "cpx2";
 import { deleteSync } from "del";
 import type {
   MapPageConfig,
@@ -29,7 +30,6 @@ import { generateLicense } from "./license.js";
 import type { PEConfig } from "./peScore.js";
 import { generatePEScore } from "./peScore.js";
 import { generateResource } from "./resource.js";
-import { copyService } from "./service.js";
 import { generateSettings } from "./settings.js";
 
 import "../env.js";
@@ -121,7 +121,9 @@ await generateLicense();
 // 生成资源
 generateResource();
 
+// 复制图标
+cpx.copySync("./data/icon/**", "./.resource/icons");
 // 复制服务
-copyService();
+cpx.copySync("./service/**", "./.resource/service");
 
 console.info("All completed");
