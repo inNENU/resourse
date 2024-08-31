@@ -1,39 +1,31 @@
 main-page:
-  # guest: guest
-  # "2024": newcomer
-  # default: at-school
-  default: wenenu
+  guest: guest
+  default: at-school
 
 main-presets:
-  wenenu:
-    - tag: card
-      cover: $img/tab/wenenu.png
-      title: weNENU —— 我们的东师
-      desc: 隆重推出 weNENU 小程序
-      logo: $img/weNENU.png
-      appId: wx2550e3fd373b79a8
-      path: pages/main/main
-
   guest:
-    - tag: list
+    - tag: grid
+      header: 您可能想关注
       items:
-        - text: 登录开启海量校园功能
-          url: account-login
+        - text: 寝室
+          icon: dorm
+          path: guide/dorm/
 
-    - basic-info
+        - text: 食堂
+          icon: dining
+          path: guide/dining/
 
-  newcomer:
-    - tag: functional-list
-      header: 如果你觉得 inNENU 对你有帮助，欢迎分享！
-      items:
-        - text: 向你的同学们分享小程序
-          icon: share
-          type: button
-          openType: share
+        - text: 快递
+          icon: express
+          path: guide/express/
 
-    # - check
+        - text: 课程
+          icon: content
+          path: guide/course/
 
-    - basic-info
+        - text: 学习
+          icon: study
+          path: guide/study/
 
   at-school:
     - common
@@ -41,17 +33,17 @@ main-presets:
 intro-page:
   guest:
     items:
-      - under-enroll
-      - grad-enroll
-      - about
-      - school
-    more:
+      # - under-enroll
+      # - grad-enroll
+      # - about
+      # - school
       - apartment
+    more: []
 
   default:
     items:
-      - about
-      - school
+      # - about
+      # - school
       - apartment
     more:
       - under-enroll
@@ -60,53 +52,26 @@ intro-page:
 guide-page:
   guest:
     items:
-      - newcomer
-      - life
+      # - newcomer
+      # - life
       - study
       - enjoy
-      - normal
     more:
-      - account
-      - service
-      - tip
+      # - account
+      # - service
+      # - tip
       - graduate
-
-  "2024":
-    items:
-      - newcomer
-      - life
-      - study
-      - normal
-      - enjoy
-      - service
-      - account
-      - tip
-    more:
-      - graduate
-
-  "2021":
-    items:
-      - graduate
-      - study
-      - service
-      - account
-    more:
-      - life
-      - tip
-      - enjoy
-      - newcomer
 
   default:
     items:
-      - service
+      # - service
       - study
-      - life
-      - account
+      # - life
     more:
-      - normal
-      - tip
+      # - account
+      # - tip
       - enjoy
-      - newcomer
+      # - newcomer
       - graduate
 
 function-page:
@@ -116,22 +81,67 @@ function-page:
 function-presets:
   guest:
     - account
-    - media
-    - official
-    - info
+
+    - tag: grid
+      header: 东师风采
+      items:
+        - text: 校园地图
+          icon: map
+          url: map
+
+    - tag: grid
+      header: 信息查询
+      items:
+        - text: 校历
+          icon: calendar
+          url: calendar
+
     - tool
-    - under-enroll
-    - grad-enroll
+
+    - tag: grid
+      header: 本科招生
+      items:
+        - text: 招生计划
+          icon: enroll
+          url: under-enroll-plan
+
+        - text: 历史分数
+          icon: time
+          url: under-enroll-score
+
+    - tag: list
+      items:
+        - text: 登录开启海量校园功能
+          url: account-login
+      footer: " "
 
   at-school:
     - action
     - under-study
-    - media
-    - official
-    - info
+
+    - tag: grid
+      header: 东师风采
+      items:
+        - text: 校园地图
+          icon: map
+          url: map
+
+    - tag: grid
+      header: 信息查询
+      items:
+        - text: 校历
+          icon: calendar
+          url: calendar
+
+        - text: 东师网站
+          icon: network
+          url: website
+
+        - text: 师大黄页
+          icon: phone
+          url: phone
+
     - tool
-    - under-enroll
-    - grad-enroll
 
 user:
   - tag: list
@@ -156,7 +166,7 @@ user:
     heading: " "
     text:
       - 如果看过小程序后您还有疑问，欢迎加入 inNENU 咨询群 (1139044856) 进行咨询。
-      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字，同时小程序服务器每年会产生开销。如果您觉得小程序很有帮助，欢迎您给予支持。
+      - 小程序为 Mr.Hope 个人独自开发编写，现已花费 Mr.Hope 超 3300 小时，文字数量超过 108 万字。
     style: "color: #888; font-size: 14px"
 
   - tag: functional-list
@@ -166,20 +176,15 @@ user:
         type: button
         openType: share
 
-      - text: 查看 inNENU 微信视频号
-        icon: wechat
-        type: button
-        handler: openChannel
+      - text: 评价小程序
+        icon: star
+        url: action?action=rate
 
       - text: 联系 Mr.Hope
         icon: contact
         type: button
         openType: contact
         handler: reportInfo
-
-      - text: 评价小程序
-        icon: star
-        url: action?action=rate
 
 about:
   - tag: list
@@ -205,17 +210,6 @@ about:
       - text: 致谢名单
         url: info?path=Oabout/thanks
 
-  - tag: functional-list
-    header: 支持小程序
-    items:
-      - text: 为保证小程序运行，每年购买维护服务器资源会产生开销。如果您希望帮助 Mr.Hope，欢迎联系 Mr.Hope 施以援手。
-
-      - text: 联系 Mr.Hope
-        icon: contact
-        type: button
-        openType: contact
-        handler: reportInfo
-
   - tag: text
     heading: 小程序内容
     text:
@@ -233,29 +227,7 @@ about:
         url: info?path=Oabout/copyright
 
 service:
-  # 新版统一身份登录存在 Referrer 问题
-  auth-init-info: online
-  auth-init: online
-  auth-login: online
-  auth-captcha: online
-  re-auth: online
-  action-login: online
-  auth-center-login: online
-  my-login: online
-  under-study-login: online
-  under-system-login: online
-  # 本科教务系统全部存在 Referrer 问题
-  under-study-check: online
-  under-commentary: online
-  under-grade-detail: online
-  under-grade-list: online
-  under-special-exam: online
-  under-select-category: online
-  under-select-class: online
-  under-select-info: online
-  under-select-process: online
-  under-select-search: online
-  under-select-selected: online
+  forceOnline: true
 
 notice:
   main:
@@ -265,11 +237,6 @@ notice:
   account-activate:
     title: 提示
     content: 如果你认为你输入了正确的信息但无法激活，请联系我校信息化办公室，电话 0431-85099005。
-    force: true
-
-  course-table:
-    title: 暂未适配
-    content: 请使用 weNENU 微信小程序查看新学期课表。
     force: true
 
 update:
