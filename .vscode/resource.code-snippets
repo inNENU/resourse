@@ -41,12 +41,7 @@
   "text component with title": {
     "scope": "yaml",
     "prefix": ["h", "text"],
-    "body": [
-      "  - tag: text",
-      "${1:    header: $2}",
-      "    text:",
-      "      - $0",
-    ],
+    "body": ["  - tag: text", "${1:    header: $2}", "    text:", "      - $0"],
     "description": "inset texts with title",
   },
   "unordered list component": {
