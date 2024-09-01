@@ -36,6 +36,10 @@ jobs:
           node-version: 20
           cache: pnpm
 
+      - name: Write env files
+        run: |
+          echo "${{ secrets.ENV }}" > .env
+
       - name: Sync OSS
         run: |
           pnpm sync:oss
