@@ -28,7 +28,7 @@ content:
     text: 被褥
 
   - tag: ul
-    heading: 被褥价格
+    header: 被褥价格
     text:
       - 褥子 薄 80左右 厚 150左右
       - 三件套 100 左右

@@ -8,7 +8,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 艺术并重 道器兼修
+    header: 艺术并重 道器兼修
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/2/B7/96/E79E274C3A0CBDEDFD64CC45A85_962B538A_140B5B22.mp4?e=.mp4

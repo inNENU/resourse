@@ -10,6 +10,6 @@ content:
 
   - tag: text
     type: info
-    heading: 开放时间
+    header: 开放时间
     text:
       - 6:00 - 22:00

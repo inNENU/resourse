@@ -4,13 +4,13 @@ time: 2022-08-21
 shareable: true
 content:
   - tag: text
-    heading: 未见到“启动转换”安装器
+    header: 未见到“启动转换”安装器
     text:
       - 如果“启动转换”安装器始终没有打开，请手动打开“启动转换”安装器，并使用它完成“启动转换”的安装。
 
   - tag: ol
     type: info
-    heading: 从“BootCamp”文件夹中打开安装器
+    header: 从“BootCamp”文件夹中打开安装器
     text:
       - 从“文件资源管理器”中，打开“OSXRESERVED”分区，这个分区通常是 D 驱动器
       - 打开“BootCamp”文件夹，然后打开此文件夹下的“Setup”。
@@ -19,7 +19,7 @@ content:
       - 安装完成后，请点按“完成”，然后在系统要求您重新启动 Mac 时点按“是”。
 
   - tag: text
-    heading: 启动转换程序安装失败
+    header: 启动转换程序安装失败
     text:
       - 如果启动转换程序安装失败，请参考下方链接尝试重新下载并安装 Windows 支持软件。
 
@@ -28,7 +28,7 @@ content:
     content: https://support.apple.com/zh-cn/HT204923
 
   - tag: text
-    heading: 更多其它问题
+    header: 更多其它问题
     text:
       - 您也可针对遇到的此类或其他相关问题向 Mr.Hope 寻求帮助。
 

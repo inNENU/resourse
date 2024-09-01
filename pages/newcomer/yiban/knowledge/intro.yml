@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 简介
+    header: 简介
     text:
       - 教育理念是『尊重的教育，创造的教育』
       - 新型人才培养模式是『宽口径，厚基础，精专业，多出路』
@@ -16,7 +16,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 校史
+    header: 校史
     text:
       - 原名『东北大学』
       - 是东北地区第 『1』 所综合性大学
@@ -26,27 +26,27 @@ content:
 
   - tag: text
     type: info
-    heading: 学校领导
+    header: 学校领导
     text:
       - 现任校长是『徐海阳』
     path: /intro/about/leader
 
   - tag: text
     type: info
-    heading: 学校标识
+    header: 学校标识
     text:
       - 校训是『勤奋创新，为人师表』。
     path: /intro/about/sign
 
   - tag: text
     type: info
-    heading: 校情统计
+    header: 校情统计
     text:
       - 已建成『700』平方米的场地用于同学的咨询服务与教育活动。
 
   - tag: ul
     type: info
-    heading: 学生就业
+    header: 学生就业
     text:
       - 从『2015 年』学校开始主办“全国高校毕业生教育人才招聘会”。
       - |-
@@ -61,6 +61,6 @@ content:
 
   - tag: ul
     type: info
-    heading: 创新创业
+    header: 创新创业
     text:
       - 『挑战杯』、『创青春』、『互联网+』 均属于学校为同学们搭建的创新创业训练平台。

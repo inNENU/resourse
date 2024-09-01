@@ -44,11 +44,11 @@ content:
     text: 师资力量
 
   - tag: ul
-    heading: 系主任
+    header: 系主任
     text: 高红阳
 
   - tag: ul
-    heading: 专业教师
+    header: 专业教师
     text:
       - 张淑燕
       - 高红阳

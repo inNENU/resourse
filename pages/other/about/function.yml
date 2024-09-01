@@ -14,7 +14,7 @@ content:
     watermark: true
 
   - tag: ul
-    heading: 腾讯禁止 Mr.Hope
+    header: 腾讯禁止 Mr.Hope
     text:
       - 播放音乐 (个人主体禁止提供音乐服务)
       - 播放视频 (个人主体禁止提供文娱服务)

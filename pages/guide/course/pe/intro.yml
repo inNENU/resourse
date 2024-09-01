@@ -121,7 +121,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 课程安排
+    header: 课程安排
     text:
       # - 对于 2019 级及以上，体育课设置为 体育 1 - 体育 4，每门课程 1 学分，修读时间为 1 - 4 学期。
       - 从 2020 级开始，体育课设置为 体育 1 - 体育 8，每门课程 0.5 学分，修读时间为 1 - 8 学期。
@@ -130,13 +130,13 @@ content:
 
   - tag: text
     type: warning
-    heading: 体测未通过
+    header: 体测未通过
     text:
       - 如果您在学年开学初未通过体育测试，必须选择健康体能班进行学习方可参加 12 月份健康体能班的体质健康补考测试。
 
   - tag: text
     type: warning
-    heading: 体测缓测或免测
+    header: 体测缓测或免测
     text:
       - 如果您申请了体测免测或缓测，必须选择保健班。
 
@@ -162,7 +162,7 @@ content:
         - 20%
 
   - tag: ul
-    heading: 也就是
+    header: 也就是
     text:
       - |-
         体测成绩: 30%

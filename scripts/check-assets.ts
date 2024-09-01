@@ -8,6 +8,7 @@ checkAssets(
     /^img\/tab\//,
     /^img\/weather\//,
     /^img\/inNENU/,
+    /^img\/weNENU/,
     /original/,
     /\b20\d{2}\b/,
     "img/donate/Alipay.jpg",

@@ -12,12 +12,12 @@ content:
     text: 请注意本部校区目前暂无专业的照相馆。
 
   - tag: ul
-    heading: 承接拍照的店铺
+    header: 承接拍照的店铺
     text:
       - 浴池一楼好又快图文
 
   - tag: text
-    heading: 好又快图文店
+    header: 好又快图文店
     text: 位于浴池一楼。
 
   - tag: img

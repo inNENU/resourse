@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: danger
-    heading: 严禁课程买卖
+    header: 严禁课程买卖
     text:
       - 请注意! 学校严厉打击课程买卖，一经发现严肃处理!
       - 如果您发现有“学长学姐”在任何群聊内发送“xx 元出 xx 课”的消息，请您立即向教务处举报。

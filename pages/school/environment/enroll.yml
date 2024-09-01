@@ -8,7 +8,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 以环境生态融合优势培养美丽中国建设人才院景
+    header: 以环境生态融合优势培养美丽中国建设人才院景
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/5/13/DC/7C83033310FF624CA13C4CCB39C_7693119D_1BFEBAEF.mp4?e=.mp4

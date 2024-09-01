@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 杨明昕介绍
+    header: 杨明昕介绍
     text:
       - 音乐学院 2017 级本科生
       - 中国教育学会会员

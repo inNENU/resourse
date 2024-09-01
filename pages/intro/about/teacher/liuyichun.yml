@@ -11,13 +11,13 @@ content:
     text: 刘益春
 
   - tag: text
-    heading: 原东北师范大学校长
+    header: 原东北师范大学校长
 
   - tag: text
-    heading: 中国科学院院士
+    header: 中国科学院院士
 
   - tag: text
-    heading: 博士生导师
+    header: 博士生导师
 
   - tag: p
     text:

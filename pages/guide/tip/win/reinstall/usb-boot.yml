@@ -8,7 +8,7 @@ content:
     text: 在系统设置中选择高级启动
 
   - tag: text
-    heading: Windows 11
+    header: Windows 11
     text: 进入系统设置(快捷键 Win + I)
 
   - tag: img
@@ -20,7 +20,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: Windows 10
+    header: Windows 10
     text: 进入系统设置(快捷键 Win + I)
 
   - tag: img

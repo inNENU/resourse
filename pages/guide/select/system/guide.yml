@@ -8,7 +8,7 @@ content:
     text: 东北师范大学选课系统使用说明
 
   - tag: ul
-    heading: 步骤一
+    header: 步骤一
     text:
       - 进入选课网站
       - 输入用户名和密码登陆系统

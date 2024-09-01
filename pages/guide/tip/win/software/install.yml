@@ -22,7 +22,7 @@ content:
       - 对于小白，我们强烈建议使用应用市场进行下载，以避免您访问了非官方网站，从而下载了恶意软件。
 
   - tag: text
-    heading: 通过应用商店下载
+    header: 通过应用商店下载
     text:
       - Mr.Hope 推荐使用联想应用商店进行下载，联想的应用商店提供网页版，无诱导点击、高下载速度，可以说是非常良心。
 
@@ -31,7 +31,7 @@ content:
     content: https://lestore.lenovo.com/
 
   - tag: text
-    heading: 自行下载
+    header: 自行下载
     text: 请确保前往软件官网进行下载，以避免下载恶意软件。
 
   - tag: p
@@ -41,7 +41,7 @@ content:
 
   - tag: p
     type: warning
-    heading: 远离百度
+    header: 远离百度
     text:
       - 不建议使用百度搜索引擎，因为百度会经常将推广网站战士在搜索结果的最前面。
 

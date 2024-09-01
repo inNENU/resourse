@@ -12,13 +12,13 @@ content:
     text: 重点学科
 
   - tag: ul
-    heading: 省级重点学科
+    header: 省级重点学科
     text:
       - 自然地理学
       - 人文地理学
 
   - tag: ul
-    heading: 学校重点建设学科
+    header: 学校重点建设学科
     text:
       - 全球变化与景观生态重点学科
       - 城市地理学重点学科
@@ -27,7 +27,7 @@ content:
     text: 学术学位授予学科
 
   - tag: ul
-    heading: 硕士学位专业
+    header: 硕士学位专业
     text:
       - 自然地理学
       - 人文地理学
@@ -39,7 +39,7 @@ content:
       - 课程与教学论
 
   - tag: ul
-    heading: 博士学位专业
+    header: 博士学位专业
     text:
       - 人文地理学
       - 自然地理学
@@ -51,6 +51,6 @@ content:
     text: 专业学位授予学科
 
   - tag: ul
-    heading: 硕士学位专业
+    header: 硕士学位专业
     text:
       - 学科教学 (地理)

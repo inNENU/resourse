@@ -6,7 +6,7 @@ cite: https://support.apple.com/zh-cn/HT201468
 content:
   - tag: text
     type: info
-    heading: 硬件要求
+    header: 硬件要求
     text:
       - BootCamp (启动转换助理) 只适用于搭载 Intel 处理器的 MacBook。如果您在使用搭载 Apple 芯片 (M1、M1 Pro) 的 MacBook，您只能使用虚拟机启动 Windows。
 

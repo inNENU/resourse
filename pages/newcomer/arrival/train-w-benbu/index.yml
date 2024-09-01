@@ -42,13 +42,13 @@ content:
 
   - tag: text
     type: tip
-    heading: 地铁
+    header: 地铁
     text: 如果您行李较少，地铁是最快最便捷的方式。
     path: subway
 
   - tag: text
     type: info
-    heading: 出租车/网约车
+    header: 出租车/网约车
     text:
       - 如果您出站时轨道交通已不在运行时间，那么您应该需要打车或呼叫网约车。
       - 在其他情况下，Mr.Hope 推荐您使用轨道交通。
@@ -56,7 +56,7 @@ content:
 
   - tag: text
     type: danger
-    heading: 公交 (不推荐)
+    header: 公交 (不推荐)
     text:
       - 公交比地铁还贵而且慢的多得多，容易找不到座位还容易晕车! 不要坐公交!
     path: bus

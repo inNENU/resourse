@@ -35,7 +35,7 @@ content:
 
   - tag: text
     type: info
-    heading: 发放标准
+    header: 发放标准
     text:
       - 体育专业和舞蹈编导专业学生每月 82.9 元
       - 其他非公费师范专业学生每月 30.9 元。

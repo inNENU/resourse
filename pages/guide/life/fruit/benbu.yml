@@ -33,14 +33,14 @@ content:
         detail: 浴池正门左侧
 
   - tag: text
-    heading: 葱蜂鲜果
+    header: 葱蜂鲜果
 
   - tag: img
     src: $img/life/beiyuan/fruit.jpg
     watermark: true
 
   - tag: text
-    heading: 心随果动
+    header: 心随果动
 
   - tag: img
     src: $img/bath/benbu-shop1.jpg

@@ -26,7 +26,7 @@ content:
     text: 拿到推荐表填写完整后到学院加盖学院就业专用章，之后到学校学生就业指导服务中心盖章。
 
   - tag: text
-    heading: 具体流程
+    header: 具体流程
     align: center
     text:
       - 辅导员标记学生为毕业生

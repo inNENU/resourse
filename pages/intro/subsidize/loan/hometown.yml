@@ -32,7 +32,7 @@ content:
 
   - tag: text
     type: info
-    heading: 家庭经济困难认定
+    header: 家庭经济困难认定
     text:
       - |-
         主要以建档立卡贫困户子女身份、曾获普通高中(中职)国家助学金等为参考依据。符合以下条件之一的优先认定为家庭经济困难:
@@ -91,7 +91,7 @@ content:
 
   - tag: text
     type: note
-    heading: 利率公布方式
+    header: 利率公布方式
     text:
       - 由中国人民银行公布，每年 12 月 21 日调整一次。
 

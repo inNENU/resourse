@@ -21,7 +21,7 @@ content:
         detail: 浴池正门里右转
 
   - tag: text
-    heading: 镜舍位置
+    header: 镜舍位置
     text:
       - 位于浴池一楼正门内。
       - 您需要走进浴池正门，即可在右面看到镜舍的店门。

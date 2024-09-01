@@ -10,7 +10,7 @@ content:
 
   - tag: text
     type: note
-    heading: 研究生寝室分布数据
+    header: 研究生寝室分布数据
     path: data
 
   - tag: location

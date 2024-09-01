@@ -21,6 +21,6 @@ content:
 
   - tag: text
     type: info
-    heading: 中医药大学附属第三临床医院
+    header: 中医药大学附属第三临床医院
     text: 是距离校区最近的医院，属于市三甲。
     path: czdsfy/

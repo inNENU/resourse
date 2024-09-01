@@ -11,7 +11,7 @@ content:
 
   - tag: text
     type: info
-    heading: 重量要求
+    header: 重量要求
     text:
       - |-
         儿童 (含免费儿童) : 10 千克
@@ -22,7 +22,7 @@ content:
 
   - tag: text
     type: info
-    heading: 体积要求
+    header: 体积要求
     text:
       - 每件物品外部尺寸长、宽、高之和不超过 160 厘米，杆状物品不超过 200 厘米，但乘坐动车组列车不超过 130 厘米；重量不超过 20 千克
       - 残疾人代步所用的折叠式轮椅不计入上述范围。

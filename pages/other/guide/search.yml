@@ -9,7 +9,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 搜索介绍
+    header: 搜索介绍
     text:
       - 小程序内含搜索功能，您可以通过 Tab 页上方的搜索框对小程序内容搜索。
       - 小程序目前支持对“东师介绍”和“东师指南”部分进行全文搜索。

@@ -30,12 +30,12 @@ content:
 
   - tag: text
     type: info
-    heading: 水之源超市
+    header: 水之源超市
     text:
       - 学生浴池旁边有一家水之源超市，价格为普通零售价，性质类似于小区食杂店。主要售卖大众食品饮料以及常用生活用品等，东西不全。
 
   - tag: text
-    heading: 校外超市
+    header: 校外超市
 
   - tag: list
     header: false

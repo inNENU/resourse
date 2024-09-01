@@ -18,6 +18,6 @@ content:
     watermark: true
 
   - tag: text
-    heading: 2024 年接站时间
+    header: 2024 年接站时间
     text:
       - 2024 年 8 月 17 日 7:00 - 21:00

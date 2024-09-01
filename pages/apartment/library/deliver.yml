@@ -21,7 +21,7 @@ content:
     text: 服务流程
 
   - tag: text
-    heading: 注册
+    header: 注册
     text:
       - 请点击馆际互借与文献传递系统读者端进行注册，工作人员会在注册信息提交成功后的 1-2 个工作日内完成审核。
 
@@ -33,7 +33,7 @@ content:
       - 请正确填写电话号码及常用电子邮箱，并确保有效；
 
   - tag: text
-    heading: 提交申请
+    header: 提交申请
     text:
       - 登录馆际互借与文献传递系统读者端提交馆际借书申请 (可以通过联合目录检索自动生成表单，也可以手动填写表单) ，工作人员会在3个工作日内进行处理。
 
@@ -54,7 +54,7 @@ content:
     content: http://www.cashl.edu.cn/
 
   - tag: ul
-    heading: 获取文献
+    header: 获取文献
     text:
       - |-
         纸本文献: 工作人员电话通知读者到馆自取。
@@ -87,12 +87,12 @@ content:
     text: 服务时间与联系方式
 
   - tag: text
-    heading: 服务时间
+    header: 服务时间
     text:
       - 周一至周五  上午 8:00-11:30   下午 1:30-5:00
 
   - tag: text
-    heading: 联系方式
+    header: 联系方式
 
   - tag: phone
     fName: 静波

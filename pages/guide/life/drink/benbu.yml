@@ -51,35 +51,35 @@ content:
         detail: 南苑一楼
 
   - tag: text
-    heading: 蜜雪冰城
+    header: 蜜雪冰城
 
   - tag: img
     src: $img/life/beiyuan/mixue.jpg
     watermark: true
 
   - tag: text
-    heading: 甜啦啦
+    header: 甜啦啦
 
   - tag: img
     src: $img/life/beiyuan/tianlala.jpg
     watermark: true
 
   - tag: text
-    heading: 瑞幸咖啡
+    header: 瑞幸咖啡
 
   - tag: img
     src: $img/life/beiyuan/luckin.jpg
     watermark: true
 
   - tag: text
-    heading: 亓嘉咖啡
+    header: 亓嘉咖啡
 
   - tag: img
     src: $img/life/benbu/qijia.jpg
     watermark: true
 
   - tag: text
-    heading: 贡茶
+    header: 贡茶
 
   - tag: img
     src: $img/life/benbu/gong-tea.jpg
@@ -89,7 +89,7 @@ content:
   # TODO: Add 价目表
 
   - tag: text
-    heading: 木子鐡饮品店
+    header: 木子鐡饮品店
 
   - tag: img
     src: $img/life/beiyuan/muzitie.jpg

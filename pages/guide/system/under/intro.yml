@@ -13,7 +13,7 @@ content:
 
   - tag: text
     type: info
-    heading: 本科教学服务系统功能
+    header: 本科教学服务系统功能
     text:
       - 系统提供选课、考试安排、成绩查询、教学评价、免修申请、缓考申请、毕业申请、校外交流成绩认定、转向报名、考试报名、免试报名等功能。
 
@@ -21,14 +21,14 @@ content:
     text: 访问系统
 
   - tag: text
-    heading: 校内访问
+    header: 校内访问
     text: 使用 IE 浏览器访问 http://bkjx.nenu.edu.cn (本科教学缩写)
 
   - tag: action
     content: http://bkjx.nenu.edu.cn
 
   - tag: text
-    heading: 校外访问
+    header: 校外访问
     text: 使用 IE 浏览器访问 https://bkjx.webvpn.nenu.edu.cn 并登录 Web VPN。
 
   - tag: action
@@ -49,7 +49,7 @@ content:
 
   - tag: text
     type: info
-    heading: 忘记密码
+    header: 忘记密码
     text:
       - 如果忘记用户名或密码，请登录统一身份认证系统，点击忘记密码尝试通过手机号、微信等辅助验证方式找回。
       - 如果仍无法找回密码，请本人持卡到学校信息化管理与规划办公室重置密码。

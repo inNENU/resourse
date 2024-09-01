@@ -17,7 +17,7 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope 提示
+    header: Mr.Hope 提示
     text:
       - 户口的性质是集体户口，大部分人无需也不应迁移户口至学校。
 
@@ -41,7 +41,7 @@ content:
 
   - tag: ol
     type: info
-    heading: 省外学生所需材料
+    header: 省外学生所需材料
     text:
       - 《户口迁移证》原件
       - 《录取通知书》复印件
@@ -49,7 +49,7 @@ content:
 
   - tag: ol
     type: info
-    heading: 省内学生所需材料
+    header: 省内学生所需材料
     text:
       - 户口本原件
       - 《录取通知书》复印件
@@ -80,7 +80,7 @@ content:
 
   - tag: text
     type: info
-    heading: 本部
+    header: 本部
     text: 吉林省长春市南关区南岭街派出所
 
   - tag: phone
@@ -95,7 +95,7 @@ content:
 
   - tag: text
     type: info
-    heading: 净月
+    header: 净月
     text: 吉林省长春市南关区净月大街 2555 号东北师范大学
 
   - tag: phone

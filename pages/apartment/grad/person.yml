@@ -10,7 +10,7 @@ content:
     text: 院长
 
   - tag: ul
-    heading: 魏民
+    header: 魏民
     text:
       - |-
         职务职称: 党委常委、副校长，研究生院院长 (兼)  教授 (博士生导师)
@@ -23,7 +23,7 @@ content:
         主持研究生院全面工作
 
   - tag: ul
-    heading: 刘志
+    header: 刘志
     text:
       - |-
         职务职称: 副院长、教授(博士生导师)
@@ -36,7 +36,7 @@ content:
         分管研究生管理和教育工作，分管研究生院行政工作
 
   - tag: ul
-    heading: 孙伟
+    header: 孙伟
     text:
       - |-
         职务职称: 副院长、学位办公室主任、教授(博士生导师)
@@ -49,7 +49,7 @@ content:
         分管研究生学位工作
 
   - tag: ul
-    heading: 秦春生
+    header: 秦春生
     text:
       - |-
         职务职称: 副院长、研究员
@@ -67,7 +67,7 @@ content:
     text: 综合办公室
 
   - tag: ul
-    heading: 刘继红
+    header: 刘继红
     text:
       - |-
         职务职称: 主任
@@ -85,7 +85,7 @@ content:
         4.领导交办的其他工作
 
   - tag: ul
-    heading: 申姗姗
+    header: 申姗姗
     text:
       - |-
         职务职称: 副主任
@@ -103,7 +103,7 @@ content:
         3.负责研究生毕结业管理
 
   - tag: ul
-    heading: 付海月
+    header: 付海月
     text:
       - |-
         职务职称: 职员
@@ -121,7 +121,7 @@ content:
         4.领导交办的其他工作
 
   - tag: ul
-    heading: 周佳云
+    header: 周佳云
     text:
       - |-
         职务职称: 职员
@@ -144,7 +144,7 @@ content:
     text: 研究生招生办公室
 
   - tag: ul
-    heading: 邢蓉
+    header: 邢蓉
     text:
       - |-
         职务职称: 主任
@@ -159,7 +159,7 @@ content:
         负责研究生招生办公室全面工作
 
   - tag: ul
-    heading: 朱烁
+    header: 朱烁
     text:
       - |-
         职务职称: 副主任
@@ -175,7 +175,7 @@ content:
         2.负责研究生招生数据信息处理工作
 
   - tag: ul
-    heading: 朱嘉熹
+    header: 朱嘉熹
     text:
       - |-
         职务职称: 职员
@@ -191,7 +191,7 @@ content:
         2.负责研究生推荐免试工作
 
   - tag: ul
-    heading: 徐健文
+    header: 徐健文
     text:
       - |-
         职务职称: 职员
@@ -210,7 +210,7 @@ content:
     text: 专业学位培养工作办公室
 
   - tag: ul
-    heading: 焦海艳
+    header: 焦海艳
     text:
       - |-
         职务职称: 主任
@@ -227,7 +227,7 @@ content:
         3. 负责研究生教育教学改革与发展研究工作
 
   - tag: ul
-    heading: 张冰妍
+    header: 张冰妍
     text:
       - |-
         职务职称: 副主任
@@ -249,7 +249,7 @@ content:
     text: 教育专业学位研究生管理中心教育硕士管理办公室
 
   - tag: ul
-    heading: 赵守月
+    header: 赵守月
     text:
       - |-
         职务职称: 主任
@@ -271,7 +271,7 @@ content:
     text: 学术学位培养工作办公室
 
   - tag: ul
-    heading: 张俊岩
+    header: 张俊岩
     text:
       - |-
         职务职称: 副主任
@@ -290,7 +290,7 @@ content:
         5. 负责研究生管理系统的建设、运营与维护工作
 
   - tag: ul
-    heading: 周宇
+    header: 周宇
     text:
       - |-
         职务职称: 职员
@@ -309,7 +309,7 @@ content:
         5. 负责研究生教务、考务工作
 
   - tag: ul
-    heading: 严旭
+    header: 严旭
     text:
       - |-
         职务职称: 职员
@@ -331,7 +331,7 @@ content:
     text: 研究生思想政治工作办公室
 
   - tag: ul
-    heading: 赵洺
+    header: 赵洺
     text:
       - |-
         职务职称: 副主任
@@ -354,7 +354,7 @@ content:
     text: 研究生管理工作办公室
 
   - tag: ul
-    heading: 张茂林
+    header: 张茂林
     text:
       - |-
         职务职称: 主任
@@ -371,7 +371,7 @@ content:
         3. 负责研究生心理发展工作
 
   - tag: ul
-    heading: 李雪梅
+    header: 李雪梅
     text:
       - |-
         职务职称: 副主任
@@ -395,7 +395,7 @@ content:
     text: 学位办公室
 
   - tag: ul
-    heading: 孙耀军
+    header: 孙耀军
     text:
       - |-
         职务职称: 副主任
@@ -410,7 +410,7 @@ content:
         负责学位办公室全面工作
 
   - tag: ul
-    heading: 张楠
+    header: 张楠
     text:
       - |-
         职务职称: 质量管理科科长
@@ -426,7 +426,7 @@ content:
         2. 学位授予质量监控
 
   - tag: ul
-    heading: 李烨虹
+    header: 李烨虹
     text:
       - |-
         职务职称: 职员
@@ -442,7 +442,7 @@ content:
         2. 学位授权点评估工作
 
   - tag: ul
-    heading: 刘思彤
+    header: 刘思彤
     text:
       - |-
         职务职称: 职员
@@ -459,7 +459,7 @@ content:
         3. 校学位会组织工作
 
   - tag: ul
-    heading: 肖潇
+    header: 肖潇
     text:
       - |-
         职务职称: 职员

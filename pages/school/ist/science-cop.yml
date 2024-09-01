@@ -18,7 +18,7 @@ content:
     text: 主干课程
 
   - tag: ul
-    heading: 在东北师范大学开设
+    header: 在东北师范大学开设
     text:
       - 高等数学
       - 大学物理
@@ -35,7 +35,7 @@ content:
       - 软件工程
 
   - tag: ul
-    heading: 在肯尼绍州立大学开设
+    header: 在肯尼绍州立大学开设
     text:
       - 编程语言概念
       - 分布式计算

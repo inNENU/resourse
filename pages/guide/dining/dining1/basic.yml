@@ -13,7 +13,7 @@ content:
     text: 二楼进门前侧有基本餐和自选餐。
 
   - tag: ul
-    heading: 基本餐供应时间
+    header: 基本餐供应时间
     text:
       - |-
         早: 6:30 - 8:30
@@ -34,6 +34,6 @@ content:
 
   - tag: text
     type: tip
-    heading: 打折时间
+    header: 打折时间
     text:
       - 12:30 - 13:00 18:30 - 19:00 八折

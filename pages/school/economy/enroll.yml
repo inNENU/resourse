@@ -8,7 +8,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 经世济民 启智创行
+    header: 经世济民 启智创行
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/B/EA/74/7966C160E9B4112E43E3C428718_CFA8B368_205041A1.mp4?e=.mp4

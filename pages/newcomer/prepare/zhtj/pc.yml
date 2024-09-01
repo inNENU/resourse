@@ -22,7 +22,7 @@ content:
 
   - tag: text
     type: info
-    heading: 智慧团建默认密码
+    header: 智慧团建默认密码
     text: 身份证号后八位
 
   - tag: title
@@ -36,7 +36,7 @@ content:
     watermark: true
 
   - tag: ol
-    heading: 按照下列要求填写转接申请
+    header: 按照下列要求填写转接申请
     text:
       - “转入组织是否属于北京／广东／福建” 选择 “否”
       - “转出原因” 选择 “升学”

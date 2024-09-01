@@ -44,7 +44,7 @@ content:
     text: 六、参考资源
 
   - tag: p
-    heading: (一) 网络资源
+    header: (一) 网络资源
 
   - tag: action
     header: 中国教育在线
@@ -63,7 +63,7 @@ content:
     content: https://www.unesco.org/en
 
   - tag: p
-    heading: (二) 参考书目
+    header: (二) 参考书目
 
   - tag: ol
     text:

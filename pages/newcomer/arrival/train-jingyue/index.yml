@@ -37,20 +37,20 @@ content:
 
   - tag: text
     type: tip
-    heading: 轨道交通
+    header: 轨道交通
     text: 如果您行李较少，乘坐轨道交通是最快最便捷的方式，推荐大家选择轨道交通中的 1 号线转 3 号线。
     path: railway
 
   - tag: text
     type: tip
-    heading: 出租车/网约车
+    header: 出租车/网约车
     text:
       - 如果您有太多的行李很难自行搬运，或您出站时轨道交通已不在运行时间，那么您应该需要打车或呼叫网约车。
     path: taxi
 
   - tag: text
     type: danger
-    heading: 公交 (不建议)
+    header: 公交 (不建议)
     text:
       - 乘坐公交比较麻烦，而且很大概率没有座，路途花费的时间也更长。
       - Mr.Hope 不认为任何人会差这 2 元钱! 不要坐公交!

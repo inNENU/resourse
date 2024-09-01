@@ -1,1 +1,1 @@
-pnpm generate:resource && git add config/ data/ pages/ && pnpm nano-staged && pnpm sync:oss
+pnpm resource:generate && git add config/ data/ pages/ && pnpm nano-staged

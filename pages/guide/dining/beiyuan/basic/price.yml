@@ -18,7 +18,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 1 元区
+    header: 1 元区
     text:
       - 萝卜粉
       - 树椒土豆丝
@@ -32,7 +32,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 1.5 元区
+    header: 1.5 元区
     text:
       - 大头菜炒柿子
       - 白菜炒干豆腐
@@ -53,7 +53,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 2 元区
+    header: 2 元区
     text:
       - 圆葱酱鸡蛋
       - 溜肉条
@@ -86,7 +86,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 2.5 元区
+    header: 2.5 元区
     text:
       - 鲜蘑鸡块
       - 肉炒蒜薹
@@ -100,7 +100,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 3 元区
+    header: 3 元区
     text:
       - 菠萝古老肉
       - 鱿鱼炒韭菜
@@ -127,6 +127,6 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope の 提示
+    header: Mr.Hope の 提示
     text:
       - 为了照顾贫困学生，食堂每天都会在基本餐档口推出特价菜品，可以查看基本餐档口内部的 LED 屏幕进行查看，经济拮据的同学可以酌情考虑食用当日特价菜。

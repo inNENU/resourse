@@ -8,7 +8,7 @@ content:
     text: 主任
 
   - tag: ul
-    heading: 洪敬辉
+    header: 洪敬辉
     text:
       - |-
         办公地点: 校本部行政楼 214
@@ -23,7 +23,7 @@ content:
     text: 职员
 
   - tag: ul
-    heading: 林美宇
+    header: 林美宇
     text:
       - |-
         办公地点: 校本部行政楼 214
@@ -35,7 +35,7 @@ content:
         工作职责: 负责学籍数据维护，学籍建立及学期注册，学生证件管理，学历及学位注册，学籍材料及成绩档案立卷存档等工作
 
   - tag: ul
-    heading: 韩莹
+    header: 韩莹
     text:
       - |-
         办公地点: 校本部行政楼 214

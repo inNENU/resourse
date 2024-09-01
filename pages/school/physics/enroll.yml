@@ -48,7 +48,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 格物致知 穷理笃行
+    header: 格物致知 穷理笃行
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/C/24/94/2A315B1C64535B5E1141212D4BB_DA875331_29383347.mp4?e=.mp4

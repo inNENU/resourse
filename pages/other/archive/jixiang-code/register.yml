@@ -15,14 +15,14 @@ content:
       - wx
 
   - tag: p
-    heading: 未注册的用户
+    header: 未注册的用户
     text: 可打开微信“扫一扫”扫描左侧二维码(图 1-1)，进入小程序注册页面。
     env:
       - app
       - qq
 
   - tag: p
-    heading: (二)已注册的用户
+    header: (二)已注册的用户
     text: 可打开微信“扫一扫”扫描右侧二维码(图 1-2)，进入小程序首页。
     env:
       - app
@@ -53,7 +53,7 @@ content:
     text: 登录流程
 
   - tag: ol
-    heading: 账号登录方式
+    header: 账号登录方式
     text:
       - 点击“我的”-“登录”进入登录页面。
       - 进行人脸识别验证即可登录成功。
@@ -67,14 +67,14 @@ content:
     text: 查看吉祥码流程
 
   - tag: text
-    heading: 未登录用户
+    header: 未登录用户
     text: 点击“去登录-查看吉祥码”图标后进入登录页面，执行登录流程(如上文所示)。(图 4-1)
     env:
       - app
       - qq
 
   - tag: text
-    heading: 已登录用户
+    header: 已登录用户
     text: 进入吉事办，选择“吉祥码” (如未登录需进行人脸识别登录)。
     env:
       - app

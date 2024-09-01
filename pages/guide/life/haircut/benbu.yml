@@ -27,19 +27,19 @@ content:
 
   - tag: text
     type: warning
-    heading: 推销烫染焗
+    header: 推销烫染焗
     text:
       - 染发、烫发、焗发是理发店主要的利润来源。所以诸如“觉起造型”之类的理发店，可能会在理发途中，像您不遗余力的推销“做个发型”、“焗个头发”的服务。如果您不想，请委婉 Say No，表达“我不感兴趣”、“我没有计划”、“我没有时间”甚至“我没有钱”即可。
 
   - tag: text
-    heading: 艺美 MT 造型
+    header: 艺美 MT 造型
 
   - tag: img
     src: $img/life/beiyuan/yimei.jpg
     watermark: true
 
   - tag: text
-    heading: 喜宝美甲美睫皮肤管理
+    header: 喜宝美甲美睫皮肤管理
 
   - tag: img
     src: $img/life/beiyuan/xi-bao.jpg

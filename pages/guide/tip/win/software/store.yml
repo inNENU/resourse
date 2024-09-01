@@ -11,7 +11,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 请远离以下软件管家
+    header: 请远离以下软件管家
     text:
       - |-
         某些产品会在使用过程中诱导您下载安装“全家桶”，所以如果您是电脑小白，请不要使用以下产品:

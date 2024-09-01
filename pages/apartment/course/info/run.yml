@@ -8,7 +8,7 @@ content:
     text: 主任
 
   - tag: ul
-    heading: 刘延涛
+    header: 刘延涛
     text:
       - |-
         办公地点: 校本部行政楼 212
@@ -23,7 +23,7 @@ content:
     text: 职员
 
   - tag: ul
-    heading: 胡强
+    header: 胡强
     text:
       - |-
         办公地点: 校本部行政楼 212
@@ -35,7 +35,7 @@ content:
         工作职责: 负责公共教室使用管理、临时调停课、课程考核与巡查、大学外语四六级考试、英语水平测试以及英语听力考试等工作
 
   - tag: ul
-    heading: 邰亮
+    header: 邰亮
     text:
       - |-
         办公地点: 校本部综合行政楼 212

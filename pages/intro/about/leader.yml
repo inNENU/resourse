@@ -11,7 +11,7 @@ content:
     text: 党委
 
   - tag: text
-    heading: 书记
+    header: 书记
     text: 李忠军
 
   - tag: action
@@ -20,11 +20,11 @@ content:
 
   - tag: text
     type: info
-    heading: 个人介绍
+    header: 个人介绍
     path: lizhongjun
 
   - tag: ul
-    heading: 副书记
+    header: 副书记
     text:
       - 徐海阳
       - 王  延
@@ -32,7 +32,7 @@ content:
       - 刘九庆
 
   - tag: ul
-    heading: 常委
+    header: 常委
     text:
       - 李忠军
       - 徐海阳
@@ -50,7 +50,7 @@ content:
     text: 行政
 
   - tag: text
-    heading: 校长
+    header: 校长
     text: 徐海阳
 
   - tag: action
@@ -59,7 +59,7 @@ content:
 
   - tag: text
     type: info
-    heading: 个人介绍
+    header: 个人介绍
     path: xuhaiyang
 
   - tag: phone
@@ -68,7 +68,7 @@ content:
     org: 东北师范大学
 
   - tag: ul
-    heading: 副校长
+    header: 副校长
     text:
       - 常  青
       - 魏  民
@@ -79,5 +79,5 @@ content:
     text: 纪委
 
   - tag: text
-    heading: 书记
+    header: 书记
     text: 刘九庆

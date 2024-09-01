@@ -8,7 +8,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 银行卡充值
+    header: 银行卡充值
     text: 在自助终端机绑定银行卡后(学校发的交行学子卡无需开通网银即可绑定)，可以在自助终端机操作，直接将银行卡余额转入校园卡。
 
   - tag: ul

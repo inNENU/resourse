@@ -11,7 +11,7 @@ content:
     text: 笔试《学科知识与教学能力》科目
 
   - tag: ul
-    heading: 初级中学
+    header: 初级中学
     text:
       - 语文
       - 数学
@@ -30,7 +30,7 @@ content:
       - 科学
 
   - tag: ul
-    heading: 普通高级中学
+    header: 普通高级中学
     text:
       - 语文
       - 数学
@@ -51,11 +51,11 @@ content:
     text: 面试科目
 
   - tag: text
-    heading: 幼儿园教师资格考试
+    header: 幼儿园教师资格考试
     text: 幼儿园教师资格考试面试不分科目。
 
   - tag: ul
-    heading: 小学教师资格考试
+    header: 小学教师资格考试
     text:
       - 小学语文
       - 小学英语

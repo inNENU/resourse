@@ -58,7 +58,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 种类
+    header: 种类
     text:
       - |-
         纯棉内衣: 最传统的单层内衣，轻柔透气，但由于质地较薄，比较适合春秋天穿。

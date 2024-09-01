@@ -48,7 +48,7 @@ content:
 
   - tag: ol
     type: info
-    heading: 卫生要求
+    header: 卫生要求
     text:
       - 白天开窗通风，保持室内空气清新。
       - 桌面、生活用品摆放整齐，不能有违规电器。

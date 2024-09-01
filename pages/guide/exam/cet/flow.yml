@@ -38,6 +38,6 @@ content:
 
   - tag: text
     type: tip
-    heading: 听力考试
+    header: 听力考试
     text:
       - 东北师范大学考点听力考试使用教室扬声器，无需考生自备耳机。

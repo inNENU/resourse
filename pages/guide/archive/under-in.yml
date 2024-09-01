@@ -15,7 +15,7 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope 建议
+    header: Mr.Hope 建议
     text:
       - 支持对公邮寄的可以优先选择对公邮寄。
       - 要求考生自携的，优先选择自携而不是自行寄出。非对公邮寄丢失非常麻烦！
@@ -34,7 +34,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 使用其他方式邮寄或选择到付退回丢失者，后果自负。
+    header: 使用其他方式邮寄或选择到付退回丢失者，后果自负。
 
   - tag: title
     text: 档案接收地址

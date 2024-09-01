@@ -11,7 +11,7 @@ content:
     text: 找到重置选项
 
   - tag: text
-    heading: Windows 11
+    header: Windows 11
     text:
       - 打开系统设置，您可以点击任务栏中的搜索图标搜索“设置”并打开，也可以直接使用 “Win + I” 快捷键
 
@@ -26,7 +26,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: Windows 10
+    header: Windows 10
     text:
       - 打开系统设置，您可以点击任务栏中的搜索图标搜索“设置”并打开，也可以直接使用 “Win + I” 快捷键
 

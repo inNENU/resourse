@@ -18,7 +18,7 @@ content:
     text: 本部校区
 
   - tag: text
-    heading: 地址
+    header: 地址
     text:
       - 惟真楼 315 (坐电梯到三楼按指示牌引导)
 
@@ -29,7 +29,7 @@ content:
         detail: 惟真楼 315 (坐电梯到三楼按指示牌引导)
 
   - tag: ul
-    heading: 工作时间
+    header: 工作时间
     text:
       - "周一到周五: 8:00 - 18:00"
       - "周六到周日: 8:30 - 11:30, 13:30 - 16:30"
@@ -42,7 +42,7 @@ content:
     text: 净月校区
 
   - tag: text
-    heading: 地址
+    header: 地址
     text:
       - 冬华公寓 2 楼，入口在冬华公寓正门左侧
 
@@ -53,7 +53,7 @@ content:
         detail: 冬华公寓 2 楼，入口在冬华公寓正门左侧
 
   - tag: ul
-    heading: 工作时间
+    header: 工作时间
     text:
       - "周一到周五: 8:00 - 16:30"
 
@@ -83,7 +83,7 @@ content:
     site: https://xxhb.nenu.edu.cn/
 
   - tag: ul
-    heading: "其他联系方式"
+    header: "其他联系方式"
     text:
       - "微信公众平台: 东师信息化办"
       - "官方 QQ: 1309969928"

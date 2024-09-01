@@ -14,7 +14,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 例子
+    header: 例子
     text: 体重指数为 29.2 的学生，其体质与健康测试及格分为 56 分
 
   - tag: img

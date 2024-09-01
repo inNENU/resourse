@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: note
-    heading: 净月校区公寓分布
+    header: 净月校区公寓分布
     text: 净月校区公寓大多集中在图书馆、食堂的后面。由于楼层最高为 6 层，没有电梯。
 
   - tag: location

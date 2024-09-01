@@ -20,7 +20,7 @@ content:
         detail: 北苑地下一楼南侧
 
   - tag: text
-    heading: 北苑洗衣店
+    header: 北苑洗衣店
 
   - tag: img
     src: $img/life/beiyuan/wash.jpg

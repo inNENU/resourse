@@ -16,7 +16,7 @@ content:
     text: QQ / 微信问答
 
   - tag: text
-    heading: QQ
+    header: QQ
     text: |-
       周一至周五，上午8: 30--11: 00，下午14: 00--16: 30
 
@@ -25,7 +25,7 @@ content:
     content: "1665466732"
 
   - tag: text
-    heading: 微信
+    header: 微信
 
   - tag: account
     name: 图书馆

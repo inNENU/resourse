@@ -7,7 +7,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 校园邮箱
+    header: 校园邮箱
     text:
       - 学校允许每名同学申请一个终身有效的校园邮箱，以 "@nenu.edu.cn" 后缀结尾。
 

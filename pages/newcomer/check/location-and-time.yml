@@ -9,19 +9,19 @@ content:
 
   - tag: text
     type: info
-    heading: 本科新生报到
+    header: 本科新生报到
     text:
       - 2024 年 8 月 17 日 (星期六)
 
   - tag: text
     type: info
-    heading: 研究生新生报到
+    header: 研究生新生报到
     text:
       - 2024 年 8 月 27 日、28 日 (星期二、星期三)
 
   - tag: text
     type: tip
-    heading: 接站
+    header: 接站
     text:
       - 火车站、机场均将设有新生接待处，但无接站大巴。
     path: /newcomer/arrival/pickup
@@ -38,12 +38,12 @@ content:
 
   - tag: text
     type: warning
-    heading: 可以提前报到么
+    header: 可以提前报到么
     text: 不可以。如实有特殊情况，请联系辅导员。
 
   - tag: text
     type: danger
-    heading: 因故不能按时报到
+    header: 因故不能按时报到
     text:
       - 必须事先向所在学院 (部) 提交书面申请进行请假，请假时间一般不得超过两周。
       - 未请假或逾期不报到者除因不可抗力等正当事由外，视为自动放弃入学资格。
@@ -65,7 +65,7 @@ content:
 
   # - tag: text
   #   type: warning
-  #   heading: 以下为 2023 年安排，2024 年可能有所变动（学校尚未落实 24 年报到工作安排）。
+  #   header: 以下为 2023 年安排，2024 年可能有所变动（学校尚未落实 24 年报到工作安排）。
 
   - tag: text
     text:

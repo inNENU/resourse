@@ -32,7 +32,7 @@ content:
 
   - tag: text
     type: info
-    heading: 动车时刻表
+    header: 动车时刻表
     text:
       - 动车价格便宜，车次频繁，速度快，全程约 15 分钟，每 45 分钟一班。每天大约有 16 趟车。
       - 一定要查好班车时间，提前规划。
@@ -42,7 +42,7 @@ content:
     desc: 吉林-龙嘉-长春 动车时刻表
 
   - tag: ul
-    heading: 动车价格
+    header: 动车价格
     text:
       - |-
         一等座: ￥15

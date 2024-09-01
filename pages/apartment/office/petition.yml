@@ -24,21 +24,21 @@ content:
     mail: xfb@nenu.edu.cn
 
   - tag: text
-    heading: 电子信箱
+    header: 电子信箱
     text: xfb@nenu.edu.cn
 
   - tag: text
-    heading: 通信地址
+    header: 通信地址
     text: |-
       吉林省长春市人民大街 5268 号东北师范大学信访工作办公室
       邮编: 130024
 
   - tag: text
-    heading: 接待地点
+    header: 接待地点
     text: 东北师范大学本部校区综合办公楼一楼 112 室、114 室
 
   - tag: text
-    heading: 接待时间
+    header: 接待时间
     text: 工作日 8:00-11:30；13:30-17:00
 
   - tag: doc

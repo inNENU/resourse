@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 黄技鹏介绍
+    header: 黄技鹏介绍
     text:
       - 壮族，心理学院2018级本科生
       - 东北师范大学第二十二届“理想与成才”年度人物
@@ -26,7 +26,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 大一
+    header: 大一
     text:
       - 生物学
       - 哲学
@@ -38,7 +38,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 大二
+    header: 大二
     text:
       - 心理学史
       - 心理测量学
@@ -51,7 +51,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 大三
+    header: 大三
     text:
       - 心理健康教育
       - 咨询心理学
@@ -62,7 +62,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 大四
+    header: 大四
     text:
       - 应用实践
       - 毕业论文

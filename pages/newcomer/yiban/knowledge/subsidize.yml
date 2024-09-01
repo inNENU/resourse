@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 资助体系介绍
+    header: 资助体系介绍
     text:
       - 我校目前的资助政策体系包括『奖、贷、助、补、勤、减、免』。
       - 我校“四维驱动”发展型资助工作模式主要包括『精准资助』、『信仰资助』、『素质资助』、『人文资助』。
@@ -14,7 +14,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 资助标准
+    header: 资助标准
     text:
       - 励志奖学金包括『国家励志奖学金和『学校励志奖学金』。
       - 国家励志奖学金标准为『5000 元』。
@@ -22,7 +22,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 助学贷款
+    header: 助学贷款
     text:
       - 国家助学贷款分为『生源地信用助学贷款』和『校园地国家助学贷款』，每年最高可贷『8000 元』。
       - 根据国家政策，助学贷款的利息按基准利率执行，现阶段为『4.9%』。
@@ -33,7 +33,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 助学金
+    header: 助学金
     text:
       - 我校的助学金种类包括『国家助学金、学校助学金和社会捐助』。
       - 现阶段国家助学金标准为『2000 - 4000 元』。
@@ -42,7 +42,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 勤工助学
+    header: 勤工助学
     text:
       - |-
         现阶段，我校勤工助学工资为『每小时 12 元』。
@@ -53,7 +53,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 资助对象
+    header: 资助对象
     text:
       - 申请我校资助对象必须是『我校非公费师范专业的全日制在校学生』，『家庭经济困难，难以满足基本学费和生活费』。
       - 我校资助对象分为『一般、重点和特别』。
@@ -61,7 +61,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 资助中心
+    header: 资助中心
     text:
       - 学生资助管理中心的微信公众号是『东师资助』。
     path: /apartment/subsidize/

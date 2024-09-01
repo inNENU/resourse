@@ -31,6 +31,6 @@ content:
 
   - tag: text
     type: danger
-    heading: 乘坐 160 路需注意
+    header: 乘坐 160 路需注意
     text:
       - 下车的站名为动植物公园，千万不要到东北师范大学站才下车，那个是净月校区!!!

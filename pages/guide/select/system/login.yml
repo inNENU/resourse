@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: tip
-    heading: 自研选课系统
+    header: 自研选课系统
     text:
       - Mr.Hope 推荐您使用 Mr.Hope 自主开发的选课系统进行选课，该系统支持手机、平板与 PC。
     path: intro
@@ -15,7 +15,7 @@ content:
     text: 校内进入选课系统
 
   - tag: text
-    heading: 本科生
+    header: 本科生
     text: 打开浏览器输入 http://bkjx.nenu.edu.cn/ ，完成登陆后选择【报名服务】-【选课报名】直接进入选课页面。
 
   - tag: action
@@ -23,7 +23,7 @@ content:
 
   # FIXME: Update link
   - tag: text
-    heading: 研究生
+    header: 研究生
     text: 打开浏览器输入 https://dsyjs.nenu.edu.cn/yjsxk/ 直接进入选课页面。
 
   - tag: action
@@ -57,7 +57,7 @@ content:
 
   - tag: text
     type: info
-    heading: 忘记密码
+    header: 忘记密码
     text:
       - 如果忘记用户名或密码，请登录统一身份认证系统，点击忘记密码尝试通过手机号、微信等辅助验证方式找回。
       - 如果仍无法找回密码，请尽快与学校信息化管理与规划办公室联系，以免耽误选课。

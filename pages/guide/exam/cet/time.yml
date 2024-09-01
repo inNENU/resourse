@@ -7,20 +7,20 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 2024 年上半年报名时间
+    header: 2024 年上半年报名时间
     text:
       - 2024年3月20日13时－3月29日17时
 
   # - tag: text
   #   type: info
-  #   heading: 2022 年下半年打印准考证时间
+  #   header: 2022 年下半年打印准考证时间
   #   text:
   #     - 口语报名成功的考生须于 2022 年 11 月 15 日 9 时起登录进入“个人中心”，下载并打印准考证。
   #     - 笔试报名成功的考生须于 2022 年 12 月 5 日 8 时起登录进入“个人中心”，下载并打印准考证。
 
   - tag: text
     type: info
-    heading: 2024 年上半年口试考试时间
+    header: 2024 年上半年口试考试时间
     text:
       - |-
         英语四级考试 (CET4): 5 月 18 日
@@ -29,7 +29,7 @@ content:
 
   - tag: text
     type: info
-    heading: 2024 年上半年笔试考试时间
+    header: 2024 年上半年笔试考试时间
     text:
       - |-
         英语四级考试 (CET4): 6 月 15 日 9:00 - 11:20

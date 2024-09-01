@@ -19,7 +19,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 运营时间
+    header: 运营时间
     text: 请注意轨道交通的运营时间，其他时间请选择打车去宾馆 (别想着报到了)。
 
   - tag: img
@@ -47,7 +47,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 火车站出站口选择
+    header: 火车站出站口选择
     text:
       - 由于长春站北侧有比较完备的地下换乘中心，建议大家从长春站北出站口出站。
       - 长春站南出站口对应的地铁站点是长春站，进入 1 号线站台没有北侧方便。
@@ -73,7 +73,7 @@ content:
       - 只需搜索小程序打开并绑定自动扣费协议即可，十分方便快捷!
 
   - tag: text
-    heading: 其他方式
+    header: 其他方式
     text:
       - 如果您不方便使用微信，您可以使用人工窗口购票，请自备零钱。
 
@@ -103,7 +103,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 2024 年报到校门
+    header: 2024 年报到校门
     text:
       - 2 号门和 4 号门，博硕路上的最东门和最西门。
 

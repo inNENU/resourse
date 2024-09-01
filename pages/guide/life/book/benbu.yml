@@ -20,7 +20,7 @@ content:
         detail: 北苑地下一楼北侧
 
   - tag: text
-    heading: 樂读书庄
+    header: 樂读书庄
 
   - tag: img
     src: $img/life/beiyuan/ledu1.jpg

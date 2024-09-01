@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 崔秀琳介绍
+    header: 崔秀琳介绍
     text:
       - 生命科学学院生物科学专业 2018 级本科生
       - 第二十二届“理想与成才”报告团年度人物

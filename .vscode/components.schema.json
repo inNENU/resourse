@@ -439,7 +439,7 @@
           "description": "标签名称",
           "enum": ["text", "p", "ol", "ul"]
         },
-        "heading": {
+        "header": {
           "description": "文字块标题",
           "oneOf": [{ "type": "string" }, { "const": true }]
         },

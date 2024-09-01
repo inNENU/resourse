@@ -28,7 +28,7 @@ content:
 
   - tag: text
     type: info
-    heading: 班车激活
+    header: 班车激活
     text:
       - 在自助终端及上点击『自助服务』→"班车激活"，之后刷卡进行确认即可激活。
 
@@ -47,7 +47,7 @@ content:
 
   - tag: text
     type: info
-    heading: 班车激活
+    header: 班车激活
     text:
       - 在自助终端及上点击『自助服务』→"班车激活"，之后刷卡进行确认即可激活。
 

@@ -6,7 +6,7 @@ time: 2023-09-23T10:52:59.424Z
 shareable: true
 content:
   - tag: text
-    heading: 校园网简介
+    header: 校园网简介
     text:
       - 当您在校内时，可以通过校园网来进行上网。
       - 很多系统只针对校园网内部开放，比如图书馆数据库、选课系统、本科教学服务系统等。

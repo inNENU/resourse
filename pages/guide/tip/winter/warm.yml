@@ -25,7 +25,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 热量的传导速率
+    header: 热量的传导速率
     text:
       - 和内外的温差成正比
       - 和导热面积成正比
@@ -70,7 +70,7 @@ content:
 
   - tag: text
     type: info
-    heading: 正经的知识
+    header: 正经的知识
     text:
       - 人体热量大部分从头部散发。
 

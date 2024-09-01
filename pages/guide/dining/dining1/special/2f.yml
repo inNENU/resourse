@@ -13,7 +13,7 @@ content:
     text: 一食堂二楼共有 10 家档口。
 
   - tag: ul
-    heading: 基本餐旁 (北侧)
+    header: 基本餐旁 (北侧)
     text:
       - 艾可奇汉堡
       - 私房焖肉饭
@@ -21,7 +21,7 @@ content:
       - 肉灌饼
 
   - tag: ul
-    heading: 美食厅 (中央)
+    header: 美食厅 (中央)
     text:
       - 板烧厨房
       - 百合饭包
@@ -33,7 +33,7 @@ content:
       - 麻辣香锅
 
   - tag: ul
-    heading: 其他
+    header: 其他
     text:
       - 罗小生小火锅
 

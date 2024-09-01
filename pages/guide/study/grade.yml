@@ -28,7 +28,7 @@ content:
     text: 例子
 
   - tag: ol
-    heading: 假如您依次修读并获得了以下成绩
+    header: 假如您依次修读并获得了以下成绩
     text:
       - 课程 A 期末考试 66 分
       - 课程 B 期末考试 54 分
@@ -41,7 +41,7 @@ content:
       - 课程 D 期末考试(再次修读) 65 分
 
   - tag: ul
-    heading: 成绩单上
+    header: 成绩单上
     text:
       - 课程 A 66
       - 课程 B 54
@@ -54,7 +54,7 @@ content:
       - 课程 D 65△
 
   - tag: ul
-    heading: 成绩档案上
+    header: 成绩档案上
     text:
       - 课程 B 60*
       - 课程 C 81

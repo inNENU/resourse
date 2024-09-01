@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ol
     type: warning
-    heading: 如果校园卡不慎丢失
+    header: 如果校园卡不慎丢失
     text:
       - 请立即通过微信企业号或到自助终端机挂失防止被盗刷。
       - 通过各个途径寻找校园卡。
@@ -21,7 +21,7 @@ content:
     text: 挂失流程
 
   - tag: text
-    heading: 通过自助终端机
+    header: 通过自助终端机
     text:
       - 前往任何一台自助终端机。
 
@@ -49,7 +49,7 @@ content:
     text: 解挂流程
 
   - tag: text
-    heading: 通过自助终端机
+    header: 通过自助终端机
     text:
       - 前往任何一台自助终端机。
 

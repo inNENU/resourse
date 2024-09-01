@@ -8,16 +8,16 @@ content:
     text: 简介
 
   - tag: text
-    heading: 公费医疗
+    header: 公费医疗
     text:
       - 是指国家为保障国家工作人员而实行的、通过医疗卫生部门按规定向享受人员提供免费医疗及预防服务的一项社保制度。2010 年年公费医疗改革将全面施行。
 
   - tag: text
-    heading: 面向对象
+    header: 面向对象
     text: 国家计划内招收的本科生、预科生、硕士生、博士生。
 
   - tag: ul
-    heading: 医疗方式
+    header: 医疗方式
     text:
       - 门诊治疗
       - 住院治疗
@@ -27,7 +27,7 @@ content:
     text: 相关政策
 
   - tag: text
-    heading: 医保待遇
+    header: 医保待遇
     text:
       - |-
         在学校公费医疗报销目录范围内门诊报销比例: 70%左右。
@@ -37,11 +37,11 @@ content:
         报销上限: 6 万元，重大疾病报销需学校特批。
 
   - tag: text
-    heading: 报销材料
+    header: 报销材料
     text: 学生医疗证、转诊单、诊断单、收据、复写处方 (详细介绍请参照校医院发放的《学生医疗手册》)。
 
   - tag: text
-    heading: 报销地点、时间
+    header: 报销地点、时间
     text:
       - |-
         时间: 根据校医院安排，每周五上午到可校医院登记。
@@ -51,13 +51,13 @@ content:
         咨询电话: 0431-85098601
 
   - tag: text
-    heading: 两个报销前提
+    header: 两个报销前提
     text:
       - 门诊经校医院转诊或校外急诊就医 (盖急诊章)
 
   - tag: text
     type: tip
-    heading: Mr.Hope 提示
+    header: Mr.Hope 提示
     text: 因急诊未在校医院提前报备的，请务必记得盖急诊章或确保有其他证明急诊就医的材料。
 
   - tag: title
@@ -70,7 +70,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 不要忘记大学生公费医疗
+    header: 不要忘记大学生公费医疗
     text:
       - 在遇疾病、伤害等需要校外就医时，在病情允许的情况下，建议先去校医院治疗。
       - 如校医院不能治疗则在校医院备案，至校医院转诊至其他医院就医，尽量去三甲医院就医。

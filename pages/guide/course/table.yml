@@ -25,7 +25,7 @@ content:
 
   - tag: text
     type: info
-    heading: 课程表
+    header: 课程表
     text:
       - 课程表是特定专业特定年级在特定学期的“推荐修读安排“，是选课的重要参考。
 
@@ -36,6 +36,6 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope
+    header: Mr.Hope
     text:
       - 如果您没有额外的修读要求 (如三年修读完毕) 或者其他个人情况 (如转专业、休学半年等)，Mr.Hope 建议您按照课程表进行选课。

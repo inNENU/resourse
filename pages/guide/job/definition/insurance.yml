@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 五险
+    header: 五险
     text:
       - 养老保险
       - 医疗保险
@@ -20,5 +20,5 @@ content:
 
   - tag: text
     type: info
-    heading: 一金
+    header: 一金
     text: 住房公积金

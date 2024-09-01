@@ -31,6 +31,6 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope 的建议
+    header: Mr.Hope 的建议
     text:
       - 如果您是基础学科专业且需要补助，建议去当家教，每小时 40 - 120 元，远高于学校的勤工助学。

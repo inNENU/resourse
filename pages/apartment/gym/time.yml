@@ -10,13 +10,13 @@ content:
     text: 开放时段
 
   - tag: ul
-    heading: 星期一至星期五
+    header: 星期一至星期五
     text:
       - 6:00 - 7:30
       - 17:30 - 21:00
 
   - tag: ul
-    heading: 周末、节假日
+    header: 周末、节假日
     text:
       - 9:00 - 17:00
 

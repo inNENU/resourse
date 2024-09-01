@@ -47,9 +47,9 @@ content:
     text: 就业方向
 
   - tag: text
-    heading: 体育教育
+    header: 体育教育
     text: 为高等教育院校及科研院所培养体育教育专门人才，或从事与体育教育相关的工作。
 
   - tag: text
-    heading: 体育教育 (公费师范)
+    header: 体育教育 (公费师范)
     text: 按国家师范生公费教育政策，从事基础教育学校体育工作。

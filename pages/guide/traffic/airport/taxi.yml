@@ -11,11 +11,11 @@ content:
       - 机场为您提供出租车停靠位置，方便您乘坐出租车前往机场或从机场离开。
 
   - tag: text
-    heading: T1 航站楼
+    header: T1 航站楼
     text: 2 号门
 
   - tag: text
-    heading: T2 航站楼
+    header: T2 航站楼
     text: 3 号门
 
   - tag: text

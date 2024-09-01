@@ -8,11 +8,11 @@ content:
     text: 简介
 
   - tag: p
-    heading: 洗衣机
+    header: 洗衣机
     text: 本部洗衣机采用滚动智能化洗衣机，拥有很多功能。每个楼层都有 1 - 2 个洗衣机。
 
   - tag: p
-    heading: 洗衣房
+    header: 洗衣房
     text:
       - 本部部分寝室拥有洗衣房，洗衣房拥有大量洗衣机外，还会拥有烘干机、洗鞋机 (收费) 和熨烫机 (免费) 等功能。
 
@@ -25,7 +25,7 @@ content:
     text: 洗衣机介绍
 
   - tag: ul
-    heading: 主要功能
+    header: 主要功能
     text:
       - 免费桶自洁
       - 支持“羊毛洗、羽绒洗、大件洗、除端洗”等多种洗涤方式
@@ -40,7 +40,7 @@ content:
       - 下载完成后，需要同意用户协议、登录账号并绑定手机。
 
   - tag: ol
-    heading: 洗衣步骤
+    header: 洗衣步骤
     text:
       - 准备好衣物和洗涤剂 (也可使用洗衣机自带的洗涤剂)
       - 打开 “U净” App 选择 “扫一扫”，扫描机身二维码
@@ -110,7 +110,7 @@ content:
 
   - tag: ol
     type: warning
-    heading: 注意事项
+    header: 注意事项
     text:
       - 禁止将潮湿衣物和重物放置顶盖
       - 关门前请确保衣物不要被门夹住
@@ -151,7 +151,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 使用方式
+    header: 使用方式
     text:
       - |-
         第一步: 解下鞋带
@@ -165,7 +165,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 洗鞋机价格
+    header: 洗鞋机价格
     text:
       - |-
         单脱水: 10分钟/1元
@@ -178,7 +178,7 @@ content:
 
   - tag: ol
     type: warning
-    heading: 注意事项
+    header: 注意事项
     text:
       - 设备启动后，不要打开上盖，设备有保护功能，开盖即停。
       - 皮鞋.夏季单网鞋子、翻毛鞋子不建议清晰。如您的鞋子非常昂贵，建议找专人清洗。
@@ -193,7 +193,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 烘干机价格
+    header: 烘干机价格
     text:
       - |-
         普通烘干: 10分钟/0.5元

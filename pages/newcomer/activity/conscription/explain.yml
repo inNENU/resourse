@@ -20,7 +20,7 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope 提示
+    header: Mr.Hope 提示
     text:
       - 对于本科生来说，参军入伍意味着会获得学校 8000 元的补助
       - 在部队立三等功奖 10000 元，获更高荣誉的增加奖金

@@ -17,21 +17,21 @@ content:
         晚: 16:30 - 18:00
 
   - tag: text
-    heading: 早餐
+    header: 早餐
     text:
       - |-
         供应时间为: 6:00 - 8:30
       - 受菜品数量限制，早餐可能提前结束
 
   - tag: text
-    heading: 午餐
+    header: 午餐
     text:
       - |-
         供应时间为: 11:00 - 12:30
       - 受菜品数量限制，午餐可能提前结束
 
   - tag: text
-    heading: 晚餐
+    header: 晚餐
     text:
       - |-
         供应时间为: 16:30 - 18:00

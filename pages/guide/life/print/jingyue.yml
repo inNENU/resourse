@@ -19,7 +19,7 @@ content:
         name: 云印社
 
   - tag: text
-    heading: 云印社
+    header: 云印社
     text: 位于学生浴池旁。
 
     # TODO: 价格表

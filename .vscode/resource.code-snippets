@@ -43,7 +43,7 @@
     "prefix": ["h", "text"],
     "body": [
       "  - tag: text",
-      "${1:    heading: $2}",
+      "${1:    header: $2}",
       "    text:",
       "      - $0",
     ],
@@ -58,13 +58,13 @@
   "unordered list component with title": {
     "scope": "yaml",
     "prefix": "ul",
-    "body": ["  - tag: ul", "${1:    heading: $2}", "    text:", "      - $0"],
+    "body": ["  - tag: ul", "${1:    header: $2}", "    text:", "      - $0"],
     "description": "inset ul",
   },
   "ordered list component": {
     "scope": "yaml",
     "prefix": "ol",
-    "body": ["  - tag: ol", "${1:    heading: $2}", "    text:", "      - $0"],
+    "body": ["  - tag: ol", "${1:    header: $2}", "    text:", "      - $0"],
     "description": "inset ol",
   },
   "ordered list component with title": {
@@ -79,7 +79,7 @@
     "body": [
       "  - tag: ${1|text,p,ul,ol|}",
       "    type: ${2|tip,info,warning,danger,note|}",
-      "${3:    heading: $4}",
+      "${3:    header: $4}",
       "    text:",
       "      - $0",
     ],
@@ -102,7 +102,7 @@
     "prefix": "doc",
     "body": [
       "  - tag: doc",
-      "${1:    heading: $2}",
+      "${1:    header: $2}",
       "    name: $3",
       "    url: \\$file/$0",
     ],

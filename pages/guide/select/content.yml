@@ -36,7 +36,7 @@ content:
 
   - tag: text
     type: info
-    heading: 通识选修课程分类
+    header: 通识选修课程分类
     text:
       - |-
         2021 年培养计划将通识选修课程分为三大类: 思想政治与行为科学、人文与艺术、自然科学。

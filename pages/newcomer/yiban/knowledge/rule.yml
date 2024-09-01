@@ -9,7 +9,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 规章制度
+    header: 规章制度
     text:
       - |-
         《东北师范大学学生违纪惩处办法》规定不能进行以下行为: · 在校内打麻将
@@ -25,7 +25,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 休学
+    header: 休学
     text:
       - |-
         以下情况可以办理休学

@@ -15,7 +15,7 @@ content:
     text: 校园卡是一张 IC 卡，您在日常生活中需要注意保护它。
 
   - tag: ol
-    heading: 注意事项
+    header: 注意事项
     text:
       - 和其他 IC 卡一样，请您将校园卡远离强磁场并避免弯折。
       - |-

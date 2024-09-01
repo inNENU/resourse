@@ -20,15 +20,15 @@ content:
 
   - tag: text
     type: info
-    heading: 秘书处
+    header: 秘书处
     text: 撰写活动策划，处理协会文书工作等。
 
   - tag: text
     type: info
-    heading: 宣传部
+    header: 宣传部
     text: 主要负责活动的 PPT 及数学建模比赛的宣传单、海报制作工作等。
 
   - tag: text
     type: info
-    heading: 赛事部
+    header: 赛事部
     text: 负责数学建模比赛相关事宜，包括统计参赛队员信息、发放获奖证书等。

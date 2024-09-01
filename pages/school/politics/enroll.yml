@@ -52,7 +52,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 逐梦政法 接续最美
+    header: 逐梦政法 接续最美
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/F/16/F4/E1573CA2A03822C16D112128B05_FE97B4C8_37DA6F11.mp4?e=.mp4

@@ -14,38 +14,40 @@
   },
   "type": "module",
   "scripts": {
-    "build:site": "vuepress build .site",
-    "commit:skip": "git commit --no-verify",
-    "check-assets": "tsx ./scripts/gen/assets.ts",
-    "dev:site": "vuepress dev .site",
-    "generate:account": "tsx ./scripts/gen/account.ts",
-    "generate:resource": "tsx ./scripts/gen/index.ts",
-    "generate:site": "tsx ./scripts/gen/site.ts",
-    "lint": "pnpm lint:eslint --fix && pnpm lint:prettier --write",
-    "lint:check": "pnpm lint:eslint && pnpm lint:prettier",
-    "lint:eslint": "eslint .",
-    "lint:prettier": "prettier --check .",
+    "check-assets": "tsx ./scripts/check-assets.ts",
+    "commit:force": "git commit --no-verify",
+    "lint": "eslint . --fix && prettier --check --write .",
+    "lint:check": "eslint . && prettier --check .",
     "prepare": "husky",
-    "push": "tsx ./scripts/push.ts",
-    "sync:oss": "tsx ./scripts/oss.ts"
+    "push-pages": "tsx ./scripts/push-pages.ts",
+    "resource:check": "tsx ./scripts/check-resource.ts",
+    "resource:generate": "tsx ./scripts/generate-resource.ts",
+    "site:build": "vuepress build .site",
+    "site:dev": "vuepress dev .site",
+    "site:generate": "tsx ./scripts/generate-site.ts",
+    "sync:account": "tsx ./scripts/sync-account.ts",
+    "sync:oss": "tsx ./scripts/sync-oss.ts"
+  },
+  "nano-staged": {
+    "**/*": "prettier --write -u",
+    "*.{js,ts}": "eslint --fix"
   },
   "dependencies": {
+    "@alicloud/cdn20180510": "4.0.0",
     "@mdit-vue/plugin-frontmatter": "2.1.3",
     "@vuepress/bundler-vite": "2.0.0-rc.14",
     "@vuepress/plugin-feed": "2.0.0-rc.39",
     "@vueuse/core": "10.11.1",
-    "ali-oss": "6.21.0",
     "cheerio": "1.0.0",
     "cpx2": "7.0.1",
     "del": "7.1.0",
     "dotenv": "16.4.5",
-    "innenu-generator": "0.0.11",
+    "innenu-generator": "0.0.19",
     "js-yaml": "4.1.0",
     "markdown-it": "14.1.0",
     "nodejs-jieba": "0.1.2",
     "svgo": "3.3.2",
     "vidstack": "1.12.9",
-    "qrcode": "1.5.4",
     "vue": "3.4.38",
     "vuepress": "2.0.0-rc.14",
     "vuepress-plugin-search-pro": "2.0.0-rc.52",
@@ -53,11 +55,9 @@
     "vuepress-theme-hope": "2.0.0-rc.52"
   },
   "devDependencies": {
-    "@types/ali-oss": "6.16.11",
     "@types/js-yaml": "4.0.9",
     "@types/markdown-it": "14.1.2",
     "@types/node": "22.5.1",
-    "@types/qrcode": "1.5.5",
     "domhandler": "5.0.3",
     "eslint": "9.9.1",
     "eslint-config-mister-hope": "0.2.3",
@@ -69,9 +69,5 @@
     "typescript": "5.5.4",
     "vitest": "2.0.5"
   },
-  "packageManager": "pnpm@9.9.0",
-  "nano-staged": {
-    "**/*": "prettier --write -u",
-    "*.{js,ts}": "eslint --fix"
-  }
+  "packageManager": "pnpm@9.9.0"
 }

@@ -37,20 +37,20 @@ content:
 
   - tag: text
     type: tip
-    heading: 地铁
+    header: 地铁
     text: 地铁是成本最低并且白天最快的方式。
     path: subway
 
   - tag: text
     type: info
-    heading: 网约车/出租车
+    header: 网约车/出租车
     text:
       - 如果您有太多的行李很难自行搬运，或您出站时轨道交通已不在运行时间，那么您应该需要打车或呼叫网约车。
     path: taxi
 
   - tag: text
     type: danger
-    heading: 公交 (不建议)
+    header: 公交 (不建议)
     text:
       - 公交和地铁是同等价位的，只慢不快还折腾! 不要坐公交!
     path: bus

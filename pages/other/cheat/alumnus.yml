@@ -5,7 +5,7 @@ shareable: true
 content:
   - tag: text
     type: danger
-    heading: Mr.Hope 的忠告
+    header: Mr.Hope 的忠告
     text:
       - 此类群的管理层全部并非东师学生，其目的是将您引流至他们的课程公众号或者课程群。
 

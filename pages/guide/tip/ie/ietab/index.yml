@@ -46,7 +46,7 @@ content:
     text: 功能描述
 
   - tag: text
-    heading: 选项面板
+    header: 选项面板
     text:
       - 右键单击 IE Tab 扩展程序图标并选择“选项”可以查看查看所有选项。
       - 或者您可以直接访问如下网址。
@@ -60,7 +60,7 @@ content:
     content: chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/options.html
 
   - tag: text
-    heading: Auto URL
+    header: Auto URL
     text:
       - Auto URL 是 IE Tab 最重要的功能之一，Auto URL 使您能够指定应在 IE 选项卡中自动打开哪些页面，而不必手动单击 IE 选项卡图标。
       - 您通常只需要使用 IE Tab 来访问学校的教务系统，所以 Mr.Hope 推荐您将以下几个网站添加至 Auto URL 中。
@@ -78,7 +78,7 @@ content:
     content: https://dsyjs.nenu.edu.cn/*
 
   - tag: text
-    heading: IE Compatibility Mode
+    header: IE Compatibility Mode
     text:
       - IE Compatibility Mode 在选项页面的最下方，它允许您设置扩展程序的模拟的内核版本及模式，Mr.Hope 推荐您选择 "IE 11 Force Standard Mode"。
       - 当部分网站需要低版本 IE 时(如教师资格证报名系统要求 IE10)，您可以手动切换以模拟对应版本。

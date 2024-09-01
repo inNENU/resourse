@@ -6,7 +6,7 @@ cite: https://support.apple.com/zh-cn/HT211814
 content:
   - tag: text
     type: info
-    heading: 搭载 Apple 芯片的 Mac 电脑
+    header: 搭载 Apple 芯片的 Mac 电脑
     text: 从 2020 年末推出的某些机型开始，Apple 启动了 Mac 电脑从 Intel 处理器到 Apple 芯片的过渡。
 
   - tag: title

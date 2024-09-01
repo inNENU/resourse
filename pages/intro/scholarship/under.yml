@@ -14,11 +14,11 @@ content:
     text: 评定时间
 
   - tag: ul
-    heading: 9 月
+    header: 9 月
     text: 宝钢奖学金
 
   - tag: ul
-    heading: 10 月
+    header: 10 月
     text:
       - 国家奖学金
       - 学年奖学金(包括校长奖学金、一等奖学金、二等奖学金、三等奖学金)
@@ -26,11 +26,11 @@ content:
       - 国家励志奖学金
 
   - tag: text
-    heading: 次年 3 月
+    header: 次年 3 月
     text: 明德奖学金
 
   - tag: text
-    heading: 次年 5月末或 6月初
+    header: 次年 5月末或 6月初
     text:
       - 田家炳优秀师范生(针对师范专业应届毕业生)
       - 学年奖学金(针对毕业生)

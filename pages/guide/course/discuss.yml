@@ -18,7 +18,7 @@ content:
 
   - tag: p
     type: tip
-    heading: Mr.Hope の 解释
+    header: Mr.Hope の 解释
     text: 简单说来就是尽快让大家了解大学的课程、学习状态应该是什么样的。培养自主学习能力。
 
   - tag: title
@@ -35,5 +35,5 @@ content:
 
   - tag: p
     type: tip
-    heading: Mr.Hope の 解释
+    header: Mr.Hope の 解释
     text: 简单说来要么 pass 要么挂科，考试的形式完全由报名的教师决定，所以务必挑选靠谱的老师。

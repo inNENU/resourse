@@ -30,7 +30,7 @@ content:
     watermark: true
 
   - tag: ol
-    heading: 洗涤方式
+    header: 洗涤方式
     text:
       - 准备好衣物和洗涤剂 (也可使用洗衣机自带的洗涤剂)
       - 使用 App 或微信扫描二维码选择洗衣时长并支付
@@ -43,7 +43,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 扫码支付
+    header: 扫码支付
     text:
       - 使用微信扫描二维码会直接跳转到微信小程序，无需下载 App。
       - 初次使用需要输入手机号并接收验证码完成注册。
@@ -133,7 +133,7 @@ content:
     text: 挂烫机
 
   - tag: ol
-    heading: 使用方法
+    header: 使用方法
     text:
       - 使用前请检查水箱是否有水。
       - 打开开关键，等待10-20s，喷头出蒸汽
@@ -142,7 +142,7 @@ content:
 
   - tag: ol
     type: info
-    heading: 档位选择
+    header: 档位选择
     text:
       - 娟料
       - 丝绸
@@ -156,7 +156,7 @@ content:
 
   - tag: ol
     type: warning
-    heading: 注意事项
+    header: 注意事项
     text:
       - 等待出气的过程中，切勿将喷头对准人脸方向，以防烫伤。
       - 如果挂烫机不出蒸汽，关闭开关键，停止使用，避免干烧导致内部零件损坏,

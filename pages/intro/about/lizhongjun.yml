@@ -12,7 +12,7 @@ content:
     text: 李忠军
 
   - tag: text
-    heading: 东北师范大学党委书记
+    header: 东北师范大学党委书记
 
   - tag: img
     src: $img/about/lizhongjun.jpg

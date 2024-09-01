@@ -8,11 +8,11 @@ content:
     text: 恒客隆
 
   - tag: text
-    heading: 简介
+    header: 简介
     text: 一家大型的、东西比较全的超市，东西价格大多为正常零售价(和校内超市差不多)。
 
   - tag: ul
-    heading: 营业时间
+    header: 营业时间
     text:
       - |-
         冬季: 8:30-21:00
@@ -20,7 +20,7 @@ content:
         夏季: 8:30-21:30
 
   - tag: ul
-    heading: 到达方式
+    header: 到达方式
     text:
       - |-
         从三舍旁的校门出发(动植物园公园对面):
@@ -40,7 +40,7 @@ content:
     text: 京东超市
 
   - tag: p
-    heading: (一家有着京东超市字样的小食杂店)
+    header: (一家有着京东超市字样的小食杂店)
     text:
       - |-
         位置: 在校园北侧的自由大路南侧。
@@ -58,5 +58,5 @@ content:
       - 用到它一般都是出去文昌路这边吃饭，回寝室并不路过北苑超市、顺路才会买点回去的。
 
   - tag: text
-    heading: 价格
+    header: 价格
     text: 零售价

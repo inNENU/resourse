@@ -8,15 +8,15 @@ content:
     text: 无法正常使用生活用水
 
   - tag: text
-    heading: 常见原因
+    header: 常见原因
     text: 生活用水激活信息失效
 
   - tag: text
-    heading: 解决办法
+    header: 解决办法
     text: 请您到生活用水补助机器上重新激活。
 
   - tag: text
-    heading: 地点
+    header: 地点
     text:
       - 各寝室楼一楼入口处墙上
 
@@ -26,14 +26,14 @@ content:
     watermark: true
 
   - tag: text
-    heading: 其他情况
+    header: 其他情况
     text: 请您咨询信息化办。
 
   - tag: title
     text: 无法正常使用直饮水机
 
   - tag: ul
-    heading: 根据错误代码选择解决方案
+    header: 根据错误代码选择解决方案
     text:
       - |-
         E-01: 感应不上，请清洁卡重刷或考虑消磁。
@@ -52,7 +52,7 @@ content:
     text: 无法在食堂或超市刷卡
 
   - tag: ol
-    heading: 问题原因
+    header: 问题原因
     text:
       - 日消费超出卡限额，请您告诉食堂工作人员密码或者自己在超市划卡机器上输入密码。
       - 卡消磁，请您到信息化办对卡重新初始化或补办新卡。

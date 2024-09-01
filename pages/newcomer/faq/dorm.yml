@@ -16,28 +16,28 @@ content:
 
   - tag: text
     type: info
-    heading: 东师是几人间
+    header: 东师是几人间
     text:
       - 本科生 6 人寝室。
       - 研究生 尽量安排 4 人寝室，4 人寝室不足的，安排至 6 人寝。
 
   - tag: text
     type: info
-    heading: 寝室都是上床下桌么?
+    header: 寝室都是上床下桌么?
     text:
       - 本科生全部寝室均为上床下桌。
       - 研究生绝大部分寝室都是上床下桌。受往年疫情扩招影响，部分男研究生寝室改为为 6 人间，为上下铺。(如本部七舍部分寝室)
 
   - tag: text
     type: info
-    heading: 有寝室照片么?
+    header: 有寝室照片么?
     text:
       - 有，寝室实拍照片请详见“寝室环境”。
     path: /guide/dorm/detail/env
 
   - tag: text
     type: info
-    heading: 寝室床多大?
+    header: 寝室床多大?
     text:
       - |-
         床铺尺寸: 长 1.9m - 2m，宽 0.85m - 0.9m (研究生部分寝室床铺可能厂家不同尺寸有差异)
@@ -49,7 +49,7 @@ content:
 
   - tag: text
     type: info
-    heading: 是否需要自备床上用品?
+    header: 是否需要自备床上用品?
     text:
       - 寝室只提供一个军绿色的薄垫子，可以根据需求额外加一个床垫。开学两校区超市会以接近批发价售卖床上用品。 (数量有限卖完为止)
       - 其他所有床上用品均需自备，包括枕头、被子、床单。学校对样式无要求，只要不是特别奇怪 (如黄色、暴力、恐怖、血腥) 就没人管。
@@ -58,7 +58,7 @@ content:
 
   - tag: text
     type: info
-    heading: 寝室有空调或者电扇么?
+    header: 寝室有空调或者电扇么?
     text:
       - 寝室无空调或电扇。寝室夜间断电，所以本科生如有需求，可以购买 USB 接口的小风扇接充电宝。研究生因寝室全天供电，可考虑电风扇或空调扇。
       - |-
@@ -66,27 +66,27 @@ content:
 
   - tag: text
     type: info
-    heading: 寝室有独卫么
+    header: 寝室有独卫么
     text:
       - 没有，只有公共卫生间。有阿姨每天定期打扫 (一天几次)，非常整洁。
     path: /guide/dorm/detail/toilet
 
   - tag: text
     type: info
-    heading: 寝室有独立浴室么
+    header: 寝室有独立浴室么
     text: 没有，只有公共浴池。公共浴池有隔间，洗一次澡约 3 - 5 元。
     path: /guide/bath/
 
   - tag: text
     type: info
-    heading: 寝室可以养宠物么?
+    header: 寝室可以养宠物么?
     text:
       - 不可以，规定上什么都不能养，但可以养花草。
       - 如果实在想养，几条小金鱼通常是安全的。
 
   - tag: text
     type: info
-    heading: 寝室有蚊子么? 如何驱蚊?
+    header: 寝室有蚊子么? 如何驱蚊?
     text:
       - 寝室有没有蚊子取决于寝室的地理位置，一般低楼层、窗外有植被的蚊子会多一些，反之少一些。
       - 所有寝室窗户均安装了纱窗，但是蚊子可能通过大门、部分有缝的窗户进来，并经楼梯间或电梯进入到各个楼层。
@@ -96,14 +96,14 @@ content:
 
   - tag: text
     type: info
-    heading: 寝室可以悬挂蚊帐么?
+    header: 寝室可以悬挂蚊帐么?
     text:
       - 夜间是可以悬挂的，但保卫处防火科不让白天悬挂，而且有的辅导员的确会管。
       - 可以考虑买四个大一点的挂钩粘在天花板的四个角上，钩超外。这样每天晚上就可以掏出蚊帐挂上，早上可以很方便的摘下来。
 
   - tag: text
     type: info
-    heading: 寝室可以悬挂床帘么?
+    header: 寝室可以悬挂床帘么?
     text:
       - |-
         不允许。《东北师范大学学生公寓管理办法》『第六章 卫生管理』第三十七条 (三): 起床后要叠被、整理床铺，个人物品摆放整齐，禁止悬挂床帘、吊椅；

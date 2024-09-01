@@ -9,7 +9,7 @@ content:
   - tag: text
     type: info
     # FIXME: 确认考试的名字
-    heading: 2024 年英语分班考试时间
+    header: 2024 年英语分班考试时间
     text:
       - 9 月 7 日 9:00 - 11:30
 
@@ -63,7 +63,7 @@ content:
 
   - tag: p
     type: tip
-    heading: Mr.Hope の提示
+    header: Mr.Hope の提示
     text: 因为如果分班考试成绩高于 80 分的话，可以直接申请大一一整学年的英语免修，在别的小伙伴还在上课、做 U 校园练习、写英语作文的时候，免修的同学们就可以做自己的事情了，这可以节约大量的时间。所以对于英语好的同学，如果有空的话一定要在假期刷一刷四级题，争取免修。
 
   - tag: title

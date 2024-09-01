@@ -12,7 +12,7 @@ content:
 
   - tag: text
     type: info
-    heading: 如何访问本科教学服务系统
+    header: 如何访问本科教学服务系统
     path: intro
 
   - tag: title

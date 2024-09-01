@@ -3,7 +3,7 @@ author: Mr.Hope
 content:
   - tag: text
     type: tip
-    heading: 关注公众号
+    header: 关注公众号
     text:
       - 强烈建议关注微信公众号 inNENU 以第一时间获取小程序相关通知。
 
@@ -31,7 +31,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 上述出现异常的，联系开发者是无效操作，因为开发者并不能让崩掉的学校系统运行起来。
+    header: 上述出现异常的，联系开发者是无效操作，因为开发者并不能让崩掉的学校系统运行起来。
 
   - tag: phone
     header: 信息化办报修

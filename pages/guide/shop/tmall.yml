@@ -38,7 +38,7 @@ content:
     text: 支付方式
 
   - tag: text
-    heading: 自动付款 (支付宝、微信)
+    header: 自动付款 (支付宝、微信)
     text:
       - 需要自行将商品扫码，并使用支付宝扫码或刷脸/微信扫码进行支付
 
@@ -48,7 +48,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 人工
+    header: 人工
     text:
       - 如使用现金需要使用人工付款。
 
@@ -62,7 +62,7 @@ content:
     text: 超市图片
 
   - tag: text
-    heading: 食品区
+    header: 食品区
 
   - tag: img
     src: $img/shop/tmall/food1.jpg
@@ -92,7 +92,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 生活用品区
+    header: 生活用品区
 
   - tag: img
     src: $img/shop/tmall/life1.jpg
@@ -111,7 +111,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 新生用品
+    header: 新生用品
 
   - tag: img
     src: $img/shop/tmall/newcomer1.jpg

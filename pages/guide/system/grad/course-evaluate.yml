@@ -7,7 +7,7 @@ content:
     text: 操作步骤
 
   - tag: text
-    heading: 登录系统
+    header: 登录系统
 
   - tag: text
     text: 使用现代浏览器访问 https://math127.nenu.edu.cn/HProg/yjsy/index_pc.php
@@ -24,7 +24,7 @@ content:
       - 系统通过统一认证服务登录
 
   - tag: text
-    heading: 进行评价
+    header: 进行评价
 
   - tag: img
     src: $img/system/post/course-evaluate.png

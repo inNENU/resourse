@@ -19,7 +19,7 @@ content:
 
   - tag: text
     type: info
-    heading: 运营时间
+    header: 运营时间
     text:
       - 开往天工路方向的轻轨运营时间是 6:00 - 21:00
       - 开往长影世纪城方向的轻轨运营时间是 6:00 - 21:00
@@ -48,7 +48,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 火车站出站口选择
+    header: 火车站出站口选择
     text:
       - 想要乘坐 4 号线，必须从长春站北出站口出站。
       - 所以请大家进入出站地道后，向北出站口方向行进。
@@ -57,10 +57,10 @@ content:
     text: 前往地铁站
 
   - tag: text
-    heading: 识别出站口
+    header: 识别出站口
 
   - tag: text
-    heading: 识别出站口
+    header: 识别出站口
     text:
       - 长春站在站台西侧和东侧各有两条出站通道。出站通道共有南北两个方向。
       - 西侧出站口北面是出站口 4，南侧是出站口 1；东侧出站口北面是出站口 5，南侧是出站口 3。
@@ -71,25 +71,25 @@ content:
       - 请您从出站口 4、5 中就近选择出站。
 
   - tag: text
-    heading: 概述
+    header: 概述
     text:
       - 从地下一层北出站口出站后(此时您面朝北)，您身处的地点是地下一楼。
       - 您需要继续向北行进前往地下二楼的综合换乘中心乘坐地铁。
 
   - tag: ul
-    heading: 详情
+    header: 详情
     text:
       - 如果您从出站口 4 出站，您可以在右前方找到前往地下二层的楼梯与电梯。
       - 如果您从出站口 5 出站，您需要左转直行，直行途中会在右手边找到前往地下二层的楼梯与电梯。
 
   - tag: text
-    heading: 地铁口位置
+    header: 地铁口位置
     text:
       - 进入地下二层后，您可以在地上和墙上找到非常醒目的 4 号线位置提示，请跟着箭头方向行进即可。
 
   - tag: text
     type: warning
-    heading: 请注意不要走错到地铁 1 号线。
+    header: 请注意不要走错到地铁 1 号线。
 
   - tag: title
     text: 购票相关
@@ -99,13 +99,13 @@ content:
 
   - tag: text
     type: tip
-    heading: 扫码乘车
+    header: 扫码乘车
     text:
       - 长春轨道交通支持微信和支付宝扫码乘车。强烈推荐使用小程序扫码进出站，方便快捷无需买票! 相关内容详见“扫码乘车”。
     path: /guide/traffic/railway/scan
 
   - tag: text
-    heading: 其他方式
+    header: 其他方式
     text:
       - 如果您不方便使用微信，您可以使用人工窗口购票，请自备零钱。
 
@@ -139,7 +139,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 2024 年报到校门
+    header: 2024 年报到校门
     text:
       - 2 号门和 4 号门，博硕路上的最东门和最西门。
 

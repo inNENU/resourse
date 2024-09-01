@@ -37,6 +37,8 @@ export const generateSettings = (data: unknown): unknown => {
           const config =
             typeof component === "string" ? groupConfig[component] : component;
 
+          if (!config) console.error("config is not found:", component);
+
           if ("items" in config)
             return {
               ...config,
@@ -66,6 +68,8 @@ export const generateSettings = (data: unknown): unknown => {
               typeof component === "string"
                 ? groupConfig[component]
                 : component;
+
+            if (!config) console.error("config is not found:", component);
 
             if ("items" in config)
               return {

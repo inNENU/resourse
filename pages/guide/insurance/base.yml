@@ -23,7 +23,7 @@ content:
 
   - tag: text
     type: info
-    heading: 缴纳地点
+    header: 缴纳地点
     text:
       - 参保学生需拥有教育部门登记在册的学籍。
       - 吉林省范围内的全日制在籍学生统一在学籍地参保。
@@ -42,7 +42,7 @@ content:
 
   - tag: text
     type: info
-    heading: 2023 年度收费标准
+    header: 2023 年度收费标准
     text:
       - 320 元/人/年
 
@@ -60,7 +60,7 @@ content:
     text: 保险生效时间
 
   - tag: ul
-    heading: 2023 年度城乡居民基本医疗保险
+    header: 2023 年度城乡居民基本医疗保险
     text:
       - 在集中预缴费期内缴纳个人医保费的参保人员 (含新参保人员) ，享受 2023 年 1 月 1 日至 2023 年 12 月 31 日一个自然年度的医保待遇。
       - 在集中预缴费期外补缴个人医保费的参保人员 (含新参保人员) ，医保部门将设置 3 个月的等待期，等待期内不享受医保待遇。
@@ -70,5 +70,5 @@ content:
 
   - tag: text
     type: info
-    heading: 请参见长春市城乡居民基本医疗保险报销
+    header: 请参见长春市城乡居民基本医疗保险报销
     path: reimburse

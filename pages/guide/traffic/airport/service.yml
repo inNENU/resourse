@@ -13,22 +13,22 @@ content:
 
   - tag: text
     type: info
-    heading: 轮椅使用服务
+    header: 轮椅使用服务
     text: 为行动不便且未申请航空公司特服的旅客提供免费的轮椅使用
 
   - tag: text
     type: info
-    heading: 无人陪伴服务
+    header: 无人陪伴服务
     text: 为 70 岁以上(含)单独出行的老人和 5-12 周岁的无成人陪伴儿童提供进、出港流程全程陪送服务
 
   - tag: text
     type: info
-    heading: 特殊旅客优先登机服务
+    header: 特殊旅客优先登机服务
     text: 在登机口，对老弱病残孕及抱小孩的特殊群体旅客，工作人员会引导其优先登机
 
   - tag: text
     type: info
-    heading: 空铁联运服务
+    header: 空铁联运服务
     text: 长春机场“金达莱”服务组与长春铁路客运站“轮椅姐”朱立红班组组成空铁联运服务伙伴，宗旨是为重点、特殊群体旅客的出行提供便捷的换乘服务。
 
   - tag: title

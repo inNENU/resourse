@@ -9,7 +9,7 @@ content:
 
   - tag: text
     type: info
-    heading: QQ 群
+    header: QQ 群
     text:
       - 如使用 QQ 或者愿意为孩子使用 QQ 建议加入 QQ 群。
       - 所有消息都会在 QQ 群发布，微信群未必会同步所有消息。
@@ -46,7 +46,7 @@ content:
 
   - tag: ul
     type: tip
-    heading: 请各位家长
+    header: 请各位家长
     text:
       - 友善交流学校相关内容
       - 咨询 inNENU 小程序未涉及到的内容
@@ -54,7 +54,7 @@ content:
 
   - tag: ul
     type: danger
-    heading: 不要
+    header: 不要
     text:
       - 打广告
       - 分享拼多多、公众号之类的第三方链接
@@ -63,7 +63,7 @@ content:
 
   - tag: ul
     type: tip
-    heading: Mr.Hope 会
+    header: Mr.Hope 会
     text:
       - 在群内转发学校各渠道发送的重要公告与新闻(尤其是放假开学相关)
       - 发送学校大型活动的新闻或图文，供各位家长了解学生在校活动
@@ -71,7 +71,7 @@ content:
 
   - tag: ul
     type: warning
-    heading: 最后
+    header: 最后
     text:
       - 本群面向家长，如在校生误入，请添加微信号“in-NENU”加入面向同学的咨询群。
       - 学校没公布或者说确定的事情问我是没用的，我也不会算卦或者预言🌚重要的通知我都会在群里发。

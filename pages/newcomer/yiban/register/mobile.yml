@@ -16,7 +16,7 @@ content:
     content: https://apps.apple.com/cn/app/yi-ban/id914927889
 
   - tag: ul
-    heading: 注册流程
+    header: 注册流程
     text: 点击『新用户注册』进行注册。
 
   - tag: img

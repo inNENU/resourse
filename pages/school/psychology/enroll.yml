@@ -40,7 +40,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 心理世界 奥妙万千
+    header: 心理世界 奥妙万千
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/4/7F/D1/5F2FFE994F26F77806FB5533BFA_DDC58E5E_263AE510.mp4?e=.mp4
@@ -49,7 +49,7 @@ content:
     text: 研究生专业
 
   - tag: ul
-    heading: 硕士
+    header: 硕士
     text:
       - 基础心理学专业，为学术学位，授予教育学硕士学位。
       - 发展与教育心理学专业，为学术学位，授予教育学硕士学位。
@@ -58,13 +58,13 @@ content:
       - 应用心理专业，为专业学位，授予心理学硕士专业学位。
 
   - tag: ul
-    heading: 博士
+    header: 博士
     text:
       - 基础心理学专业，为学术学位，授予教育学博士学位。
       - 发展与教育心理学专业，为学术学位，授予教育学博士学位。
 
   - tag: text
-    heading: 硕士研究生招生概况
+    header: 硕士研究生招生概况
 
   - tag: list
     header: false
@@ -85,7 +85,7 @@ content:
     mail: bic537@nenu.edu.cn
 
   - tag: text
-    heading: 相关文件
+    header: 相关文件
 
   - tag: doc
     name: 基础心理学培养方案

@@ -17,11 +17,11 @@ content:
     site: https://zsb.nenu.edu.cn/
 
   - tag: text
-    heading: 地址
+    header: 地址
     text: 吉林省长春市人民大街 5268 号本部校区综合行政楼 225 室
 
   - tag: text
-    heading: 邮编
+    header: 邮编
     text: "130024"
 
   - tag: phone
@@ -34,7 +34,7 @@ content:
     site: https://zsb.nenu.edu.cn
 
   - tag: text
-    heading: 传真
+    header: 传真
     text: 0431-85687511
 
   - tag: action
@@ -50,5 +50,5 @@ content:
     content: https://zsb.nenu.edu.cn/lyb.jsp?urltype=tree.TreeTempUrl&wbtreeid=1123
 
   - tag: text
-    heading: 办公时间
+    header: 办公时间
     text: 办公时间为周一至周五 8:00 - 11:30，13:30 - 17:00，法定节假日除外。

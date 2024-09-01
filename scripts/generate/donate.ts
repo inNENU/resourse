@@ -49,7 +49,7 @@ export const generateDonate = (data: Donate, filePath: string): PageData => {
       },
       {
         tag: "ul",
-        heading: "年度统计",
+        header: "年度统计",
         text: [
           `总支出: ${data.all}元`,
           `总支持: ${donateAmount.toFixed(2)}元`,

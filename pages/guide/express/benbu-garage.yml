@@ -27,7 +27,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 开放时间
+    header: 开放时间
     text: 8:30 - 21:30
 
   - tag: img

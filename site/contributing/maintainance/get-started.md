@@ -315,7 +315,7 @@ content:
 
   - tag: text
     type: info
-    heading: 默认密码
+    header: 默认密码
     text: Nenu + 身份证后六位，X 用 1 代替
 
   - tag: img
@@ -339,7 +339,7 @@ content:
 
   - tag: ul
     type: tip
-    heading: Mr.Hope の 友情提示
+    header: Mr.Hope の 友情提示
     text:
       - 为了您找回密码时的便捷，建议您在个人资料处绑定其他邮箱或绑定手机，便于密码遗忘后自助找回。
       - 由于身份证号可能被他人获得，为了您的资金、消费以及课程成绩安全🔐，⚠请您务必更换默认密码🔑。

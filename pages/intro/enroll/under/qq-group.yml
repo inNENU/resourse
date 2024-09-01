@@ -22,7 +22,7 @@ content:
 
   - tag: text
     type: info
-    heading: 学院招生咨询时间
+    header: 学院招生咨询时间
     text:
       - 各学院招生咨询于 6 月 13 日开始到 7 月 7 日截止。
 

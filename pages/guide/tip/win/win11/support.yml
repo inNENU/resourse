@@ -20,7 +20,7 @@ content:
     text: Windows 11 支持
 
   - tag: ul
-    heading: 主要要求
+    header: 主要要求
     text:
       - Intel 8 代或 AMD Ryzen 2 代或更新的 CPU
       - TPM 2.0

@@ -5,7 +5,7 @@ shareable: true
 content:
   - tag: text
     type: danger
-    heading: 请注意
+    header: 请注意
     text:
       - 我校官方可能会开展投票活动，但一定会在主体为”东北师范大学“的官方账号上正式宣布活动细则，同时评比或投票内容一定不与金钱挂钩!
 

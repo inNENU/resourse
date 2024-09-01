@@ -14,7 +14,7 @@ content:
 
   # TODO: Check
   - tag: text
-    heading: 营业时间
+    header: 营业时间
     text: 6:00 - 22:00
 
   # TODO: Add 麻辣烫
@@ -28,7 +28,7 @@ content:
       - 二食堂三楼环境也还可以，提供插座可以充电，或者在人少时自习。
 
   - tag: ul
-    heading: 西南侧
+    header: 西南侧
     text:
       - 麻辣汇
 
@@ -44,7 +44,7 @@ content:
         path: 3f-sw
 
   - tag: ul
-    heading: 东南侧
+    header: 东南侧
     text:
       - 三川里脊烤饼
       - 台北私房菜
@@ -74,7 +74,7 @@ content:
       - $img/dining/dining2/special10.jpg
 
   - tag: ul
-    heading: 东北侧
+    header: 东北侧
     text:
       - 水煮肉片
       - 烤肉木桶饭
@@ -93,7 +93,7 @@ content:
       - $img/dining/dining2/special12.jpg
 
   - tag: ul
-    heading: 西北侧
+    header: 西北侧
     text:
       - 不二格米粉
       - 菓碰茶

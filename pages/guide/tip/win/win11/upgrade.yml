@@ -9,7 +9,7 @@ content:
 
   - tag: text
     type: note
-    heading: 查看电脑是否支持
+    header: 查看电脑是否支持
     text:
       - Windows 11 相对于 Windows 10 对处理器以及 TPM 芯片版本提出了额外要求。
       - 请参阅“Windows 11 支持”确认在自己电脑是否支持 Windows 11。

@@ -5,7 +5,7 @@ time: 2023-09-23T10:52:59.432Z
 shareable: true
 content:
   - tag: text
-    heading: 企业号
+    header: 企业号
     text: 您可以在东北师范大学微信企业号——『校园卡』栏目进行缴费。
 
   - tag: img

@@ -12,7 +12,7 @@ content:
     text: 报到时不需交学费和住宿费。请大家警惕谨防被骗!!!!
 
   - tag: text
-    heading: 2023 年缴费时间
+    header: 2023 年缴费时间
     text:
       - 2023年9月4日起。
 
@@ -54,7 +54,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 申请助学贷款缴费
+    header: 申请助学贷款缴费
     path: /intro/subsidize/
     text:
       - 家庭经济困难学生可通过国家助学贷款 (校园地国家助学贷款或生源地信用助学贷款) 及时缴纳学费和住宿费。

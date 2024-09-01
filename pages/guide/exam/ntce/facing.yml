@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 参加面试报名基本条件
+    header: 参加面试报名基本条件
     text:
       - 考生参加中小学教师资格考试，所报类别笔试各科成绩均合格，且成绩在有效期内者，方可参加面试报名。
 
@@ -28,18 +28,18 @@ content:
 
   - tag: text
     type: info
-    heading: 幼儿园
+    header: 幼儿园
     text:
       - 幼儿园教师资格考试面试不分科目。
 
   - tag: text
     type: info
-    heading: 小学
+    header: 小学
     text: 小学教师资格考试面试科目分为小学语文、小学英语、小学社会、小学数学、小学科学、小学音乐、小学体育、小学美术、*小学信息技术、*小学心理健康教育、*小学全科。
 
   - tag: text
     type: info
-    heading: 中学
+    header: 中学
     text: 初级中学、普通高级中学、中职文化课类别教师资格考试面试科目，与笔试科目三“学科知识与教学能力”相同。报考“*日语”、“*俄语”、“*心理健康教育”3 科考生，该类别笔试科目一、科目二合格即可进行面试报名。
 
   - tag: text
@@ -59,7 +59,7 @@ content:
 
   - tag: text
     type: info
-    heading: 参加考试时间
+    header: 参加考试时间
     text: 考生面试应按照《准考证》上规定的时间到达候考室，在截止进入候考室时间 15 分钟后迟到的考生，不得参加面试。
 
   - tag: title

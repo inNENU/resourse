@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 兵役登记
+    header: 兵役登记
     text:
       - 当年12月31日前年满18岁的男性公民，应当按照法律规定履行兵役登记义务。
 

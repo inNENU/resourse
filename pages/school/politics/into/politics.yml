@@ -47,7 +47,7 @@ content:
     text: 六、参考资源
 
   - tag: p
-    heading: 选修课程建议
+    header: 选修课程建议
 
   - tag: ol
     text:
@@ -57,7 +57,7 @@ content:
       - 比较政治制度
 
   - tag: text
-    heading: 参考书目
+    header: 参考书目
 
   - tag: ol
     text:

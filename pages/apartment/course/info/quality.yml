@@ -8,7 +8,7 @@ content:
     text: 主任
 
   - tag: ul
-    heading: 王松
+    header: 王松
     text:
       - |-
         办公地点: 校本部行政楼 228
@@ -23,7 +23,7 @@ content:
     text: 职员
 
   - tag: ul
-    heading: 郭梦琪
+    header: 郭梦琪
     text:
       - |-
         办公地点: 校本部行政楼 228
@@ -35,7 +35,7 @@ content:
         工作职责: 负责师范类专业认证、高校本科教学基本状态数据库填报、本科教学质量报告、教学质量数据分析
 
   - tag: ul
-    heading: 曹帅
+    header: 曹帅
     text:
       - |-
         办公地点: 校本部综合行政楼 228

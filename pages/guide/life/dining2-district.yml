@@ -25,7 +25,7 @@ content:
     text: 店铺详情
 
   - tag: text
-    heading: 平价水果超市
+    header: 平价水果超市
     text:
       - 位于二食堂二楼
 

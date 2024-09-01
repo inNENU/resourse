@@ -32,7 +32,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 自动审批
+    header: 自动审批
     text:
       - 满足以下情况的市内出行申请会被系统自动审批。
       - |-

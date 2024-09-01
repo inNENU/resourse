@@ -21,7 +21,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 已选课程
+    header: 已选课程
     text:
       - 已选课程会显示当前您已经选择的课程。您可以点击课程查看课程详情。
 
@@ -33,7 +33,7 @@ content:
     text: 在这页面您可以退选已选课程，并选择其他同名课程。
 
   - tag: text
-    heading: 课程列表
+    header: 课程列表
     text:
       - 您可以在课程列表中搜索、筛选全部课程。
 
@@ -50,6 +50,6 @@ content:
       - 我们还提供一键替换同名课程的操作。
 
   - tag: text
-    heading: 个人信息
+    header: 个人信息
     text:
       - 在个人信息板块中，您可以核对当前登录的用户姓名、选课学期、选课阶段以及已选学分。

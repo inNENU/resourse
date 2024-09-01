@@ -8,7 +8,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 是否可以自主选择寝室
+    header: 是否可以自主选择寝室
     text: 不可以
 
   - tag: title
@@ -22,7 +22,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 寝室调整
+    header: 寝室调整
     text:
       - 因研究生毕业时间不一，很多新生会入住已有寝室的空床位。如果自己组内师兄师姐寝室有空床位，可以在入住数据确定前和导员联系进行调整。
 
@@ -56,7 +56,7 @@ content:
 
   - tag: text
     type: info
-    heading: 六人寝
+    header: 六人寝
     align: center
     text:
       - 窗
@@ -67,7 +67,7 @@ content:
 
   - tag: text
     type: info
-    heading: 四人寝
+    header: 四人寝
     align: center
     text:
       - 窗

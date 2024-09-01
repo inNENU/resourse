@@ -50,7 +50,7 @@ content:
         name: 图书馆电子阅览室
 
   - tag: text
-    heading: 好又快图文店
+    header: 好又快图文店
     text: 位于浴池一楼。
 
   - tag: img
@@ -69,7 +69,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 北苑复印店
+    header: 北苑复印店
     text:
       - 北苑地下一楼、超市南侧
 
@@ -78,7 +78,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 云印空间
+    header: 云印空间
     text:
       - 北苑地下一楼、超市南侧
 
@@ -88,7 +88,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 南苑复印店
+    header: 南苑复印店
     text: 位于南苑东门北侧
 
   - tag: img
@@ -100,7 +100,7 @@ content:
     text: 校外位置
 
   - tag: text
-    heading: 东师文昌路数码图文快印
+    header: 东师文昌路数码图文快印
     text:
       - |-
         地址: 东师文昌路小南门东行 30 米绿园餐厅楼上中门二楼

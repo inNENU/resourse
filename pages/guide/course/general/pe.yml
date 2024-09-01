@@ -11,7 +11,7 @@ content:
     text: 6 学分
 
   - tag: text
-    heading: 体育课程
+    header: 体育课程
     text:
       - 共设 4 学分。
       - |-
@@ -20,7 +20,7 @@ content:
         2020 级及以前: 必修课程 2 学分，选修课程 2 学分。
 
   - tag: text
-    heading: 国防教育课程
+    header: 国防教育课程
     text:
       - 共设 2 学分。
       - 包括军训和军事理论教育两个部分，各 1 学分。
@@ -44,7 +44,7 @@ content:
     text: 课程与对应的教材、学期与学分
 
   - tag: ul
-    heading: 2020 级及以后
+    header: 2020 级及以后
     text:
       - |-
         体育 1: 自选 大一上 0.5 学分
@@ -68,7 +68,7 @@ content:
         军事理论: 无 大一上/大一下 1 学分
 
   # - tag: ul
-  #   heading: 2019 级及以前
+  #   header: 2019 级及以前
   #   text:
   #     - |-
   #       体育 1: 自选 大一上 1 学分

@@ -5,7 +5,7 @@ time: 2023-09-23T08:04:54.247Z
 shareable: true
 content:
   - tag: text
-    heading: 跨省就业
+    header: 跨省就业
     align: center
     text:
       - |-
@@ -24,7 +24,7 @@ content:
     text: 公费师范生与生源省教育厅办理跨省就业业务前，可按学校网上签约流程办理签约业务。签约后，如未能成功办理跨省就业业务，将无法按签约协议进行派遣。
 
   - tag: text
-    heading: 彻底违约 (放弃公费师范生身份)
+    header: 彻底违约 (放弃公费师范生身份)
     align: center
     text:
       - 学生在生源省教育厅官网下载违约申请表，根据生源省教育厅要求，逐级审核盖章

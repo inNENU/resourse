@@ -14,13 +14,13 @@ content:
   # TODO: Update at 2024-09
   - tag: text
     type: info
-    heading: 2024 年秋季学期时间安排
+    header: 2024 年秋季学期时间安排
     text:
       - 暂未通知，2023 年时间为 9 月 13 日 16:00 至 9 月 15 日 22:00。
 
   - tag: text
     type: info
-    heading: 2024 年春季学期时间安排
+    header: 2024 年春季学期时间安排
     text:
       - 3 月 13 日 10:00 至 3 月 15 日 16:00
 

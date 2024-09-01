@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 王文辛介绍
+    header: 王文辛介绍
     text:
       - 东师奖章获得者
       - 东师《优秀毕业生》

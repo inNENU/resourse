@@ -31,7 +31,7 @@ content:
 
   - tag: text
     type: info
-    heading: 吉林大学白求恩第一医院
+    header: 吉林大学白求恩第一医院
     path: zhongri/
     text:
       - 是吉林省内非常出名的医院，患者很多。除了夜间急诊之外，白天就诊需要在线使用微信公众号提前挂号。
@@ -39,7 +39,7 @@ content:
 
   - tag: p
     type: info
-    heading: 中心医院
+    header: 中心医院
     path: center/
     text:
       - 长春市三甲，患者相对比较少，医生会更加耐心一些。
@@ -47,7 +47,7 @@ content:
 
   - tag: p
     type: info
-    heading: 中日联谊医院
+    header: 中日联谊医院
     path: zhongri/
     text:
       - 长春市三甲，离学校比较近

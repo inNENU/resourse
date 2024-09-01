@@ -35,7 +35,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 秘书处
+    header: 秘书处
     text:
       - 负责学会的日常工作，如会议记录，活动考勤，文件资料整理、发布各种通知公告等；
       - 协调学会各部门的工作，协助会长、副会长处理日常工作以及参与制定学会重大决策；
@@ -44,7 +44,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 理论学习部
+    header: 理论学习部
     text:
       - 负责组织开展马克思主义理论、党的路线方针政策、时事热点等理论学习和研讨工作；
       - 负责学会的理论课题研究工作；
@@ -52,7 +52,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 社会实践部
+    header: 社会实践部
     text:
       - 负责学会的寒暑期社会调查工作；
       - 负责学会社会调查基地建设的相关工作；
@@ -60,7 +60,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 宣传部
+    header: 宣传部
     text:
       - 负责学会相关活动的宣传工作，包括学会会刊建设、网络宣传等；
       - 负责学会理论宣讲团组建工作；

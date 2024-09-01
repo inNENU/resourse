@@ -17,14 +17,14 @@ content:
     text: 获得身份码
 
   - tag: ol
-    heading: 菜鸟 App
+    header: 菜鸟 App
     text:
       - 可以在各大应用商店搜索并下载“菜鸟”
       - 通过淘宝/支付宝/手机号登录，并完成实名认证
       - 在首页找到并使用身份码。
 
   - tag: ol
-    heading: 淘宝 App
+    header: 淘宝 App
     text:
       - 点击“我的淘宝”，下滑并找到“我的快递”
       - 在首页找到并使用身份码

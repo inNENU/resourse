@@ -11,13 +11,13 @@ content:
 
   - tag: text
     type: info
-    heading: 着装
+    header: 着装
     text:
       - 工作日必须穿院服。
 
   - tag: text
     type: info
-    heading: 早操
+    header: 早操
     text:
       - 周一升旗，天暖和的时候 6:15 在图书馆前国旗台升旗，升旗结束可以直接去吃饭。冬天特别冷的时候在体院田径馆内升旗，但升旗结束还要接着早操，下操后才可以吃饭。
       - 周二至周五 6:15 出早操，具体内容不定。6:50 下操后，集体前往本部食堂就餐。
@@ -27,7 +27,7 @@ content:
 
   - tag: ol
     type: info
-    heading: 早操内容
+    header: 早操内容
     text:
       - 有段时间在本部校园内跑步，绕学校跑一圈左右。
       - 有段时间在田径馆内进行队列队形练习，比如原地三转，齐步走正步走跑步走这些类似于军训的内容。
@@ -38,7 +38,7 @@ content:
 
   - tag: text
     type: info
-    heading: 查寝
+    header: 查寝
     path: /guide/dorm/locate/pe
     text:
       - 体育学院有更为严格的查寝要求，详见体育学院寝室介绍。
@@ -48,13 +48,13 @@ content:
 
   - tag: text
     type: info
-    heading: 概况
+    header: 概况
     text:
       - 体院院内有 1 个足球场，1 个轮滑场，1 个网球场，1 个篮球场 (有 4 个篮架) ，还有田径馆。
       - 体育学院有一个 5 层教学楼，教学楼有校园网。
 
   - tag: text
-    heading: 田径馆
+    header: 田径馆
     text:
       - 一楼内有 200 米跑道，羽毛球场 5 个，网球场 3 个，跳高场地 1 个，跳远场地 1 个，攀岩墙 1 面，跑步机卧推架等健身设备若干。
       - 二楼为乒乓球室。

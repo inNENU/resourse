@@ -12,13 +12,13 @@ content:
     text: 徐海阳
 
   - tag: text
-    heading: 东北师范大学校长
+    header: 东北师范大学校长
 
   - tag: text
-    heading: 国家杰出青年科学基金获得者
+    header: 国家杰出青年科学基金获得者
 
   - tag: text
-    heading: 博士生导师
+    header: 博士生导师
 
   - tag: img
     src: $img/about/xuhaiyang.jpg

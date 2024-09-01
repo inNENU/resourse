@@ -39,7 +39,7 @@ content:
     text: 常见问题
 
   - tag: text
-    heading: 无法使用网银或绑定支付宝与微信
+    header: 无法使用网银或绑定支付宝与微信
     text: 请按照如下步骤绑定手机短信安全码作为安全工具。
 
   - tag: text

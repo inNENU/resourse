@@ -29,22 +29,22 @@ content:
 
   - tag: text
     type: info
-    heading: 秘书处
+    header: 秘书处
     text: 作为支教团的中枢系统，秘书处主要负责协调各个部门日常的工作与运转，统筹整理并及时传达各类信息。
 
   - tag: text
     type: info
-    heading: 活动部
+    header: 活动部
     text: 作为支教团的搞事担当，活动部主要负责素质拓展、团建等活动的安排与准备；除此之外，支教前期的磨课活动、志愿教师的学科分配与教技培训也属于活动部的职责范围之内。
 
   - tag: text
     type: info
-    heading: 宣传部
+    header: 宣传部
     text: 作为支教团的流量担当，宣传部主要负责运营萤火支教团官方微信平台，制作活动海报，剪辑活动视频；除此之外，宣传部有支教项目申请以及策划与材料总结的任务。
 
   - tag: text
     type: info
-    heading: 财务部
+    header: 财务部
     text: 作为支教团财政大权的执掌者，财务部主要负责平时活动以及支教期间物品的购置与管理、经费的统计等。
 
   - tag: title
@@ -52,7 +52,7 @@ content:
 
   - tag: text
     type: info
-    heading: 七点青春
+    header: 七点青春
     text: 在春暖花开的季节里，团队成员们相聚在七点的春天里，一起晨跑，做游戏，在这个过程中彼此相识相知，与此同时，团队也会因该活动更具有凝聚力；
 
   - tag: img
@@ -60,7 +60,7 @@ content:
 
   - tag: text
     type: info
-    heading: 萤火日历
+    header: 萤火日历
     text: 萤火日历记录了每个“萤火虫”的生日与成长，在他们生日来临之际，“萤火虫”们会为过生日的“萤火虫”带来温暖与祝福。
 
   - tag: img

@@ -1,6 +1,6 @@
 import { getFileList } from "innenu-generator";
 
-import { appIDInfo } from "./info.js";
+import { appIDInfo } from "./config/index.js";
 
 const appidList = Object.keys(appIDInfo);
 

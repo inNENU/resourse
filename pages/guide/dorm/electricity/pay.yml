@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 电费缴纳
+    header: 电费缴纳
     text:
       - 只有本部的同学需要缴纳电费，净月的同学不需要。
 
@@ -42,7 +42,7 @@ content:
     text: 工作时间
 
   - tag: ul
-    heading: 工作日
+    header: 工作日
     text:
       - 8:00 - 11:30
       - 13:30 - 16:00

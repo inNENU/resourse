@@ -8,7 +8,7 @@ shareable: true
 content:
   - tag: text
     type: warning
-    heading: 雕塑专业为 5 年学制。
+    header: 雕塑专业为 5 年学制。
 
   - tag: title
     text: 专业简介

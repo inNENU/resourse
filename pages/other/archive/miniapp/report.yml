@@ -38,7 +38,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 打卡时段
+    header: 打卡时段
     text:
       - |-
         早间打卡时间: 6:30 - 12:00

@@ -20,12 +20,12 @@ content:
     text: 账户管理
 
   - tag: text
-    heading: 账户名
+    header: 账户名
     text:
       - 统一身份认证的账户名是学号，学号是 10 位数字，您收到的录取通知书证书编号和日后发放的校园卡💳卡号即是学号。
 
   - tag: text
-    heading: 账户创建
+    header: 账户创建
     text:
       - 在信息化办公室完成新生信息地址录入后，新生需要自行通过统一身份认证系统的账号激活功能校验个人信息后，设置密码与密保，完成账号激活。
 
@@ -50,7 +50,7 @@ content:
 
   # TODO: Need update
   - tag: text
-    heading: 功能
+    header: 功能
     text:
       - 在“个人资料中”设置登陆别名 (登录用户名)。
       - 更新绑定手机。

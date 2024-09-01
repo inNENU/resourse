@@ -35,12 +35,12 @@ jobs:
           cache: pnpm
 
       - name: Generate Site
-        run: pnpm generate:site
+        run: pnpm site:generate
 
       - name: Build Site
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-        run: pnpm build:site
+        run: pnpm site:build
 
       - name: Deploy to gh pages
         uses: JamesIves/github-pages-deploy-action@v4

@@ -8,7 +8,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 您需要做什么?
+    header: 您需要做什么?
     text:
       - 按照要求修改群昵称。(要求详见群昵称设置页面)
       - 向群主提交在校或录取证明领取头衔。(要求见下文或群公告)
@@ -22,7 +22,7 @@ content:
 
   - tag: text
     type: info
-    heading: inNENU
+    header: inNENU
     text:
       - inNENU 包含 108 万余字的学校介绍与新生攻略，可以解答您绝大部分的疑问。我们同时提供 App、 QQ小程序、微信小程序和网站。
       - inNENU 在顶部提供搜索栏，支持全文搜索。欢迎您搜索您的疑问，如果您在 inNENU 找不到答案，欢迎您群内提问。
@@ -32,13 +32,13 @@ content:
 
   - tag: text
     type: info
-    heading: 简介
+    header: 简介
     text:
       - 本群为东北师范大学 2024 本科新生群，用于新生对学校生活的疑问解答、新生寻找小伙伴和学校相关通知公告。
 
   - tag: text
     type: danger
-    heading: 本群仅限东师学生
+    header: 本群仅限东师学生
     text:
       - 本群仅面向新生和在校生，如果您非本校学生，请现在退群。
       - 如果您已经毕业，或有考研、报考等相关问题，您可加入“in 东北师大” QQ 群。
@@ -54,7 +54,7 @@ content:
 
   - tag: p
     type: info
-    heading: 身份认证
+    header: 身份认证
     text:
       - 我们通过群头衔为群员之间互相提供身份认证 (手机 QQ 需切换至普通模式方可显示头衔)如 “21本经管” 即为 2021 级经管学院本科生。
       - 通过头衔，您可以鉴别群成员身份，并安心咨询或求助此类群成员。
@@ -67,7 +67,7 @@ content:
 
   - tag: text
     type: info
-    heading: 认证方式
+    header: 认证方式
     text:
       - |-
         在校生: 打开东师企业号点击校园卡-校园卡，再点击右上角个人信息截图
@@ -89,7 +89,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 多样化的诈骗手段
+    header: 多样化的诈骗手段
     text: 我们建议您查看常见网上诈骗介绍，以防止您遭受金钱上的损失。
     path: /newcomer/safety/
 

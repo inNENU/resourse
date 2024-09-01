@@ -9,7 +9,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 课程设置
+    header: 课程设置
     text:
       - 我校的课程体系由『通识教育课程』、『专业教育课程』和『发展方向课程』组成。
       - 新生入学后的第一个学期采取『注课制』，一般在『学期初』进行。
@@ -19,14 +19,14 @@ content:
 
   - tag: ul
     type: info
-    heading: 新生研讨课
+    header: 新生研讨课
     text:
       - 新生研讨课 (Freshman Seminars) 是专门面向大一新生开设的小班研讨类课程，教学方式以研讨式教学为主。一般包括『有效预习』、『课前资料』、『课堂有效讨论』、『课后扩展延伸』等环节。
     path: /guide/course/discuss
 
   - tag: ul
     type: info
-    heading: 奖学金
+    header: 奖学金
     text:
       - 学校的本科生奖学金包括『学校奖学金、国家奖学金、社会奖学金』。
       # 暂无
@@ -35,21 +35,21 @@ content:
 
   - tag: ul
     type: info
-    heading: 转专业
+    header: 转专业
     text:
       - 转专业的要求是『从未转过专业』、『在校期间无违法违纪行为，未受过处分』、『在读一、二年级的本科非定向生』、『身体条件符合申请转入专业的体检标准者』、『非艺术类、体育类、中外合作办学类等特殊招生专业』。
     path: /guide/change-major/
 
   - tag: ul
     type: info
-    heading: 缓考
+    header: 缓考
     text:
       - 对于因病或其它特殊情况不能正常参加期末考试者，须出具县级以上医院证明等材料，方能申请『缓考』。
     path: /guide/study/aftertake
 
   - tag: ul
     type: info
-    heading: 学业警示
+    header: 学业警示
     text:
       - 学业预警按照情节轻重程度分为学业警示和退学警示。
       - 『初次达到退学警示一年后，再次受到退学警示』，学校将予以退学处理。

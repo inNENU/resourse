@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: warning
-    heading: 完成卡挂失
+    header: 完成卡挂失
     text:
       - 在补卡前，必须在旁边的自助终端机或微信企业号校园卡板块进行挂失。
 
@@ -43,12 +43,12 @@ content:
 
   - tag: text
     type: tip
-    heading: 补办的卡
+    header: 补办的卡
     text: 补办的卡内使用全新的 IC 卡号，是一张彻彻底底的新卡。
 
   - tag: ul
     type: note
-    heading: 注意
+    header: 注意
     text:
       - 消费限额以及校园卡密码会被重置为默认值
       - 银行卡(学子卡) 绑定会被解除，需要重新绑定
@@ -57,7 +57,7 @@ content:
       - 使用新卡后，您将无法在自助终端机查询旧卡的流水信息。
 
   - tag: ol
-    heading: 您需要
+    header: 您需要
     text:
       - 到自助终端机和生活用水补助机激活直饮机与生活热水；
       - 请您立即到自助终端机修改校园卡密码与消费限额；

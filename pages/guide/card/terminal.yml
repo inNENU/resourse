@@ -15,7 +15,7 @@ content:
     text: 自助终端机位置
 
   - tag: ul
-    heading: 本部校区
+    header: 本部校区
     text:
       - 北苑食堂一楼
       - 图书馆一楼大厅
@@ -37,7 +37,7 @@ content:
         detail: 惟真楼 315 (坐电梯到三楼按指示牌引导)
 
   - tag: ul
-    heading: 净月校区
+    header: 净月校区
     text:
       - 第一食堂二楼南侧
       - 第二食堂一楼东南位置
@@ -57,9 +57,9 @@ content:
     text: 现金充值机位置
 
   - tag: ul
-    heading: 本部校区
+    header: 本部校区
     text: 三舍 D 区(留学生公寓)
 
   - tag: ul
-    heading: 净月校区
+    header: 净月校区
     text: 留学生公寓二楼

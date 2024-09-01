@@ -9,7 +9,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 新生党员应在入学时及时办理党员组织关系接转。
+    header: 新生党员应在入学时及时办理党员组织关系接转。
 
   - tag: title
     text: 党组织关系转接
@@ -21,7 +21,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 省内学生
+    header: 省内学生
     text:
       - |-
         各学院 (部) 转入的吉林省内学生党员，需明确所转入的具体党支部名称，请咨询学院 (部) 组织员老师，信息如下:

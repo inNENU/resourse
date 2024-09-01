@@ -12,7 +12,7 @@ content:
 
   - tag: text
     type: info
-    heading: 原理
+    header: 原理
     text:
       - 当您连接 Wifi，并在认证时勾选无感知认证，系统会在您成功登录后记录下设备的 MAC 地址，并绑定到您的账户上。
       - 当以后有具有相同 MAC 地址的设备连接校园网后，认证系统会识别并自动将其作为您的设备进行自动认证。
@@ -26,7 +26,7 @@ content:
       - 但是从 Android 和 iOS 的高版本开始，为了防止他人通过 Wifi 追踪用户造成隐私泄露，设备会在每次连接时默认提供一个随机地址，这就使得无感知认证无法工作。
 
   - tag: text
-    heading: iOS
+    header: iOS
     text:
       - 按以下流程进行操作。
 
@@ -36,7 +36,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: Android
+    header: Android
     text:
       - 按以下流程进行操作。
 

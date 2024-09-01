@@ -27,17 +27,17 @@ content:
 
   - tag: text
     type: info
-    heading: 培训部
+    header: 培训部
     text: 训练英辩思维、增加知识量的绝佳好地，各类 lecture 的主讲人、资料的收集整理人就在这里没错啦~
 
   - tag: text
     type: info
-    heading: 新媒体
+    header: 新媒体
     text: 信息就是资源，TA 是搜集各类比赛信息、推送优质新闻的小能手，宣发杠杠滴
 
   - tag: text
     type: info
-    heading: 秘书处
+    header: 秘书处
     text: 与其他学校进行沟通举行联谊比赛，沟通场地、协调
 
   - tag: title

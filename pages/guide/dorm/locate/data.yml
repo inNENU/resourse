@@ -8,7 +8,7 @@ content:
     text: 本科生
 
   - tag: ul
-    heading: 三舍A (女 2705人)
+    header: 三舍A (女 2705人)
     text:
       - 文学院1006人
       - 外国语学院651人
@@ -20,7 +20,7 @@ content:
       - 马克思主义学部1人
 
   - tag: ul
-    heading: 三舍B (男 1916人)
+    header: 三舍B (男 1916人)
     text:
       - 地科160人
       - 化学学院182人
@@ -35,7 +35,7 @@ content:
       - 心理学院71人
 
   - tag: ul
-    heading: 三舍C (女 3011人)
+    header: 三舍C (女 3011人)
     text:
       - 地科465人
       - 教育学部419人
@@ -48,13 +48,13 @@ content:
       - 外国语学院1人
 
   - tag: ul
-    heading: 体育公寓 (738人)
+    header: 体育公寓 (738人)
     text:
       - 男生 514人
       - 女生 224人
 
   - tag: ul
-    heading: 春华楼 (女 871人)
+    header: 春华楼 (女 871人)
     text:
       - 传媒410人
       - 环境115人
@@ -62,14 +62,14 @@ content:
       - 经管1人
 
   - tag: ul
-    heading: 夏华楼A (男 287人)
+    header: 夏华楼A (男 287人)
     text:
       - 环境115人
       - 外语30人
       - 政法142人
 
   - tag: ul
-    heading: 夏华楼B (女 615人)
+    header: 夏华楼B (女 615人)
     text:
       - 传媒1人
       - 环境66人
@@ -78,13 +78,13 @@ content:
       - 信科1人
 
   - tag: ul
-    heading: 秋华楼 (女 951人)
+    header: 秋华楼 (女 951人)
     text:
       - 经管649人
       - 音乐302人
 
   - tag: ul
-    heading: 冬华楼A (男8人
+    header: 冬华楼A (男8人
       - 女62人)
     text:
       - |-
@@ -97,21 +97,21 @@ content:
         音乐23人
 
   - tag: ul
-    heading: 冬华楼B (男 27人)
+    header: 冬华楼B (男 27人)
     text:
       - 经管3人
       - 美术9人
       - 信科15人
 
   - tag: ul
-    heading: 日华楼 (女 1138人)
+    header: 日华楼 (女 1138人)
     text:
       - 环境1人
       - 美术710人
       - 信科427人
 
   - tag: ul
-    heading: 光华楼 (男 1157人)
+    header: 光华楼 (男 1157人)
     text:
       - 传媒114人
       - 纽瓦克2人

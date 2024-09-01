@@ -40,7 +40,7 @@ content:
 
   - tag: ul
     type: warning
-    heading: 注意事项
+    header: 注意事项
     text:
       - 市内出行时，无需预先填报也可刷卡入校。
       - 在进行下一次出校申请前，必须上报上一次的返校申请。

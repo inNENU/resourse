@@ -10,7 +10,7 @@ content:
       - 以下是基本保证流畅的最低性能要求。
 
   - tag: ul
-    heading: 轻薄办公本 (仅核显)
+    header: 轻薄办公本 (仅核显)
     text:
       - office 办公
       - 业余PS修图
@@ -29,7 +29,7 @@ content:
       - 网页游戏
 
   - tag: ul
-    heading: 全能本 (低端独显)
+    header: 全能本 (低端独显)
     text:
       - 业余 Vlog 剪辑
       - MasterCam
@@ -38,7 +38,7 @@ content:
       - Dota
 
   - tag: ul
-    heading: 主流游戏本 (XX50/XX50Ti)
+    header: 主流游戏本 (XX50/XX50Ti)
     text:
       - PR
       - AE
@@ -50,7 +50,7 @@ content:
       - 堡垒之夜
 
   - tag: ul
-    heading: 甜品级游戏本 (XX60/XX60Ti)
+    header: 甜品级游戏本 (XX60/XX60Ti)
     text:
       - 3DSMax
       - Maya

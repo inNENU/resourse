@@ -10,7 +10,7 @@ content:
 
   - tag: ol
     type: tip
-    heading: 本部图书馆研学空间 (试运行) 预约管理办法
+    header: 本部图书馆研学空间 (试运行) 预约管理办法
     text:
       - |-
         空间试运行期间开放时间: 工作日 8:00-11:00，13:30-17:00。节假日、寒暑假开放时间另行通知。
@@ -27,7 +27,7 @@ content:
     text: 合作学习空间
 
   - tag: text
-    heading: 智慧研学空间 (本部 609 室 611室 )
+    header: 智慧研学空间 (本部 609 室 611室 )
     text:
       - |-
         最佳体验: 5-15人
@@ -45,7 +45,7 @@ content:
     desc: 611 室
 
   - tag: text
-    heading: 智慧研学空间 (本部 610 室)
+    header: 智慧研学空间 (本部 610 室)
     text:
       - |-
         最佳体验: 5-15人
@@ -59,7 +59,7 @@ content:
     desc: 610 室
 
   - tag: text
-    heading: 小组式学习空间 (本部 213-C 室 本部 213-D 室)
+    header: 小组式学习空间 (本部 213-C 室 本部 213-D 室)
     text:
       - |-
         最佳体验: 8-10人
@@ -73,7 +73,7 @@ content:
     desc: 213-C 213-D 室
 
   - tag: text
-    heading: 小组式学习空间 (本部 213-E 室)
+    header: 小组式学习空间 (本部 213-E 室)
     text:
       - |-
         最佳体验: 5-6人
@@ -87,7 +87,7 @@ content:
     desc: 213-E 室
 
   - tag: text
-    heading: 沉浸式演示间 (本部 213-F 室)
+    header: 沉浸式演示间 (本部 213-F 室)
     text:
       - |-
         最佳体验: 4-5人
@@ -104,7 +104,7 @@ content:
     text: 智慧教室
 
   - tag: text
-    heading: 合作式教学空间 (本部213-A室)
+    header: 合作式教学空间 (本部213-A室)
     text:
       - |-
         最佳体验: 16-24人
@@ -118,7 +118,7 @@ content:
     desc: 213-A 室
 
   - tag: text
-    heading: 交互式教学空间 (本部213-B室)
+    header: 交互式教学空间 (本部213-B室)
     text:
       - |-
         最佳体验: 20-24人
@@ -132,7 +132,7 @@ content:
     desc: 213-B 室
 
   - tag: text
-    heading: 灵活式智慧教室 (本部213-G室)
+    header: 灵活式智慧教室 (本部213-G室)
     text:
       - |-
         最佳体验: 32-45人

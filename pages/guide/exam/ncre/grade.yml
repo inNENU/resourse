@@ -29,15 +29,15 @@ content:
 
   - tag: text
     type: info
-    heading: 电子证书
+    header: 电子证书
     text: 自 2022 年起，考试中心推出 NCRE 电子证书，所有符合取证条件的考生都将获得电子证书。2022 年为试点期，考生在报名时可同时申请纸质证书。
 
   - tag: text
     type: info
-    heading: 证书直邮服务
+    header: 证书直邮服务
     text: 考生在考后可登录中国教育考试网申请 NCRE 证书直邮服务，有关要求和申请流程详见网站。
 
   - tag: text
     type: warning
-    heading: 四级证书限制
+    header: 四级证书限制
     text: 四级科目的合格成绩，自考试结束之日起可保留半年 (按月计算) 。

@@ -20,7 +20,7 @@ content:
         detail: 浴池后侧
 
   - tag: text
-    heading: 糖果洗衣
+    header: 糖果洗衣
     text: 位于学生浴池旁
 
   - tag: img

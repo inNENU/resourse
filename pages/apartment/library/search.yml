@@ -14,7 +14,7 @@ content:
     text: 检索入口
 
   - tag: text
-    heading: 官网首页
+    header: 官网首页
     text: 访问图书馆主页，在检索栏选择“馆藏书目”，输入检索词直接检索。
 
   - tag: action
@@ -25,7 +25,7 @@ content:
     desc: 首页检索
 
   - tag: text
-    heading: 搜索服务
+    header: 搜索服务
     text: 推荐直接使用知行搜索
 
   - tag: action
@@ -39,7 +39,7 @@ content:
     text: 检索方法
 
   - tag: text
-    heading: 基本检索
+    header: 基本检索
     text: 输入书名、作者或关键词等信息，进行检索。
 
   - tag: img
@@ -47,7 +47,7 @@ content:
     desc: 基本检索
 
   - tag: text
-    heading: 高级检索
+    header: 高级检索
     text: 借助多字段与布尔逻辑相结合的方式，精确检索图书。
 
   - tag: img
@@ -58,7 +58,7 @@ content:
     text: 筛选结果
 
   - tag: text
-    heading: 电脑端
+    header: 电脑端
     text: 使用左侧栏目选项，筛选检索结果。
 
   - tag: img
@@ -66,7 +66,7 @@ content:
     desc: PC 端筛选
 
   - tag: text
-    heading: 移动端
+    header: 移动端
     text: 点击检索结果页面右上角的过滤器图标，筛选检索结果。
 
   - tag: img

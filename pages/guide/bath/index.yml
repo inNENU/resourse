@@ -7,7 +7,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 简介
+    header: 简介
     text:
       - 由于寝室没有独立卫浴，学校两校区均设有公共浴池。学生浴池采用单间洗浴，舒适、便利性、私密、安全。
       - 浴池同时配备了免费健身房与休息厅，以及便民商家服务。

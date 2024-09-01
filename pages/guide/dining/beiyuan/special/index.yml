@@ -29,7 +29,7 @@ content:
     watermark: true
 
   - tag: ul
-    heading: 包含档口
+    header: 包含档口
     text:
       - 开封包子
       - 米线、麻辣烫
@@ -71,7 +71,7 @@ content:
     watermark: true
 
   - tag: ul
-    heading: 包含档口
+    header: 包含档口
     text:
       - 东北小炒
       - 韩国明洞料理

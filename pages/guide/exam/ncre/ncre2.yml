@@ -8,7 +8,7 @@ content:
     text: 考试科目
 
   - tag: ul
-    heading: 共九个科目
+    header: 共九个科目
     text:
       - 语言程序设计类(C、C++、Java、Web、Python)
       - 数据库程序设计类(Access、MySQL)
@@ -44,7 +44,7 @@ content:
     text: 题型及分值比例
 
   - tag: ul
-    heading: MS Office 高级应用
+    header: MS Office 高级应用
     text:
       - |-
         单项选择题: 20 分(含公共基础知识部分 10 分)
@@ -56,7 +56,7 @@ content:
         演示文稿题(PowerPoint): 20 分
 
   - tag: ul
-    heading: C 语言程序设计
+    header: C 语言程序设计
     text:
       - |-
         单项选择题: 40 题，40 分(含公共基础知识部分 10 分)
@@ -68,7 +68,7 @@ content:
         程序设计题: 1 题，24 分
 
   - tag: ul
-    heading: Python 语言程序设计
+    header: Python 语言程序设计
     text:
       - |-
         单项选择题: 40 题，40 分(含公共基础知识部分 10 分)
@@ -80,7 +80,7 @@ content:
         综合应用题: 1 题，20 分
 
   - tag: ul
-    heading: 其它科目
+    header: 其它科目
     text:
       - |-
         单项选择题: 40 题，40 分(含公共基础知识部分 10 分)
@@ -98,52 +98,52 @@ content:
     text: NCRE 二级上机考试环境为 Windows 7 简体中文版。各科目使用的软件如下。
 
   - tag: ul
-    heading: MS Office 高级应用
+    header: MS Office 高级应用
     text:
       - MS Office 2016
 
   - tag: ul
-    heading: WPS Office 高级应用
+    header: WPS Office 高级应用
     text:
       - WPS Office 2019
 
   - tag: ul
-    heading: C 语言程序设计
+    header: C 语言程序设计
     text:
       - Visual C++ 2010 学习版
 
   - tag: ul
-    heading: C++ 语言程序设计
+    header: C++ 语言程序设计
     text:
       - Visual C++ 2010 学习版
 
   - tag: ul
-    heading: Java 语言程序设计
+    header: Java 语言程序设计
     text:
       - jdk 1.6.0 或 NetBeans 中国教育考试版 (2007)
 
   - tag: ul
-    heading: Web 程序设计
+    header: Web 程序设计
     text:
       - NetBeans 中国教育考试版 (2007)，IE 6.0 及以上
 
   - tag: ul
-    heading: Python 语言程序设计
+    header: Python 语言程序设计
     text:
       - Python 3.5.3 至 3.9.10 版本，IDLE 开发环境
 
   - tag: ul
-    heading: Access 数据库程序设计
+    header: Access 数据库程序设计
     text:
       - MS Ofice Access 2016
 
   - tag: ul
-    heading: MySQL 数据库程序设计
+    header: MySQL 数据库程序设计
     text:
       - WAMP 5.0 以上，包含 MySQL (Community 5.5.16) 以及 PHP
 
   - tag: ul
-    heading: openGauss 数据库程序设计
+    header: openGauss 数据库程序设计
     text:
       - openGauss 1.0.1
 
@@ -155,12 +155,12 @@ content:
 
   - tag: text
     type: tip
-    heading: 酌情报考
+    header: 酌情报考
     text:
       - 对国企、公务员和部分私企有用，在工作中计算机技术的基本运用是十分必要的，建议报考。
 
   - tag: text
     type: warning
-    heading: Office 科目选择
+    header: Office 科目选择
     text:
       - 请注意，如果意向为公务员的话，建议选择 WPS Office，而意向从教建议选择 MS Office。

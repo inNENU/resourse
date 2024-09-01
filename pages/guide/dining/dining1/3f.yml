@@ -13,7 +13,7 @@ content:
     text: 三楼共分为两个部分，一个是前面大厅的餐厅，一个是后面的清真餐厅。
 
   - tag: text
-    heading: 大厅
+    header: 大厅
     text:
       - 大厅的早饭和午饭都为自助餐，种类丰富，价格亲民。
       - |-
@@ -32,7 +32,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 清真餐厅
+    header: 清真餐厅
     text:
       - 从三楼餐厅侧面进去，也可以从清真餐厅大门上楼。
       - "供应时间: 7:00 - 20:00"

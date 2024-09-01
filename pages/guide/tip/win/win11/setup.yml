@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: tip
-    heading: 用户向导
+    header: 用户向导
     text:
       - 当您购买新设备并首次开机后，系统就会为您呈现这个设置向导。
       - 通常情况下，只要您仔细阅读屏幕内容并根据指引操作，即可很轻松的完成整个用户设置向导。

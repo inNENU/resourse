@@ -29,7 +29,7 @@ content:
         path: nanyuan
 
   - tag: text
-    heading: 校外超市
+    header: 校外超市
 
   - tag: list
     header: false

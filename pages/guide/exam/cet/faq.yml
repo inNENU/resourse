@@ -7,38 +7,38 @@ cite: https://cet.neea.edu.cn/html1/category/16093/1129-1.htm
 content:
   - tag: text
     type: info
-    heading: 大一可以参加该考试么?
+    header: 大一可以参加该考试么?
     text:
       - 我校考点从未在年级上进行任何限制。
 
   - tag: text
     type: info
-    heading: 四六级都必须要考吗?
+    header: 四六级都必须要考吗?
     text:
       - 四级必须，六级可选。一般认为四级和六级分别对应大学生在第四个学期和第六个学期应有的英语水平，因而大学一般会对毕业生有四级考试通过的要求，六级作为较高水平的测试，仅在保研时有需求。
 
   - tag: text
     type: info
-    heading: 口语有必要考吗?
+    header: 口语有必要考吗?
     text:
       - 因人而异。如果您需要，可以考一下。
 
   - tag: text
     type: info
-    heading: 可以提前交卷么?
+    header: 可以提前交卷么?
     text:
       - 不可以，考生不得中途离场。
 
   - tag: text
     type: info
-    heading: 是否需要自备耳机?
+    header: 是否需要自备耳机?
     text:
       - 在东北师范大学考点的同学无需自备耳机，听力部分使用教室音响。
       - Mr.Hope 的个人感受是音响会一定程度增加听力语音的回音，但对人物对话的清晰度影响微小，不会对听力考试成绩产生较大影响。
 
   - tag: text
     type: info
-    heading: 如何查询 CET 的成绩?
+    header: 如何查询 CET 的成绩?
     text:
       - 目前，CET 暂仅提供当次考试成绩查询，上半年笔试和口试成绩，考生在 8 月通中国考试网进行查询，下半年笔试和口试成绩，考生在第二年的 2 月通过中国考试网进行查询。
 
@@ -47,21 +47,21 @@ content:
 
   - tag: text
     type: info
-    heading: 如何领取成绩报告单?
+    header: 如何领取成绩报告单?
     text:
       - 自 2016 年起，CET 成绩报告单同时报道笔试和口试成绩，考生在笔试考试结束 90 个工作日到笔试考点领取。
       - 我校会直接通过学院下发。
 
   - tag: text
     type: info
-    heading: 成绩报告单丢失了可以补办吗?
+    header: 成绩报告单丢失了可以补办吗?
     text:
       - 成绩报告单遗失或毁损后不予补发，但可按规定办理 CET 考试成绩证明。具体流程请详见“成绩证明”。
     path: proof
 
   - tag: text
     type: info
-    heading: CET 笔试中的注意事项
+    header: CET 笔试中的注意事项
     text:
       - |-
         (1)考生在在答题笔试前，请认真完成以下内容:
@@ -78,7 +78,7 @@ content:
 
   - tag: text
     type: info
-    heading: CET 口试中的注意事项
+    header: CET 口试中的注意事项
     text:
       - CET-SET 为计算机化考试，请提前登录本网站，熟悉考试系统。
       - 考生须按准考证上规定时间到达考场，入场时必须携带准考证和与准考证上一致的身份证件；禁止将手机、其他具有通讯功能的电子产品及考试用书、参考材料等与考试无关的物品带入考场。
@@ -89,14 +89,14 @@ content:
 
   - tag: text
     type: info
-    heading: 如对成绩有异议怎么办?
+    header: 如对成绩有异议怎么办?
     text:
       - 如对成绩有异议，可按规定进行分数核查。具体办法请详见“成绩核查”。
     path: check
 
   - tag: text
     type: info
-    heading: 查询成绩为什么是 0?
+    header: 查询成绩为什么是 0?
     text:
       - |-
         以下几种情况均会造成成绩为 0 分:

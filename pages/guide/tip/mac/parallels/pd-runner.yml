@@ -8,7 +8,7 @@ content:
 
   - tag: text
     type: info
-    heading: 摘自软件项目主页
+    header: 摘自软件项目主页
     text:
       - PD Runner 是一个适用于 Parallels Desktop 的启动器，可无视试用期限强制启动客户机。
 
@@ -20,7 +20,7 @@ content:
     text: 常见误区
 
   - tag: text
-    heading: 不要下载
+    header: 不要下载
     text:
       - 请不要试图从诸如下方的示例地址中下载此工具。
 
@@ -29,7 +29,7 @@ content:
     content: $file/tools/PDPatcher-v18.1.1r1.zip
 
   - tag: text
-    heading: 不要安装
+    header: 不要安装
     text:
       - 如果您不小心获得了该工具，请立即删除。不要双击运行，并拖拽左侧图标至右侧完成安装步骤。
 
@@ -44,7 +44,7 @@ content:
       - 由于这是个人开发者未经签名的工具，macOS 系统按照预期可能会在双击时发出警告并禁止安装程序运行。请不要允许此安装程序。
 
   - tag: text
-    heading: 不要运行
+    header: 不要运行
     text:
       - 如果您错误的完成安装，PD Runner 图标会出现在 Mac 的程序坞中。请您立即对其进行删除，不要双击并运行它。
 
@@ -55,11 +55,11 @@ content:
       - 如果您错误的试图运行它，在程序被禁止运行后，请立即卸载它。请不要点击左上角的苹果图标，并进入“系统偏好设置”，选择“安全性与隐私”，并在“通用”中允许该程序的运行。
 
   - tag: text
-    heading: 不要使用
+    header: 不要使用
 
   - tag: text
     type: info
-    heading: 摘自软件项目主页
+    header: 摘自软件项目主页
     text:
       - PD Runner 是一个菜单栏 APP，启动后会在菜单栏显示程序图标. 点击菜单栏图标可列出当前 Mac 上安装的所有客户机，然后点击客户机名称即可启动对应的客户机。
 

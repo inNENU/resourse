@@ -8,7 +8,7 @@ content:
     text: 主任
 
   - tag: ul
-    heading: 张丹
+    header: 张丹
     text:
       - |-
         办公地点: 校本部行政楼 228
@@ -23,7 +23,7 @@ content:
     text: 职员
 
   - tag: ul
-    heading: 刘佳
+    header: 刘佳
     text:
       - |-
         办公地点: 校本部行政楼 228
@@ -35,7 +35,7 @@ content:
         工作职责: 负责课程建设、教材建设与管理、教学改革项目申报与管理等工作。
 
   - tag: ul
-    heading: 任悦
+    header: 任悦
     text:
       - |-
         办公地点: 校本部行政楼 228

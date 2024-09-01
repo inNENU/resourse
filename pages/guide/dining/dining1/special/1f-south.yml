@@ -13,7 +13,7 @@ content:
     text: 一食堂一楼北侧共有 8 家档口。
 
   - tag: ul
-    heading: 从东到西
+    header: 从东到西
     text:
       - 川锦汇麻辣拌/川香傲冒菜
       - 五谷渔粉/百味佳米线

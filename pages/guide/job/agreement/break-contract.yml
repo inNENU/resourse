@@ -15,7 +15,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 所需材料
+    header: 所需材料
     text:
       - 个人书面申请，必须由学生所在学院(部)副书记签字并加盖就业专用章。
       - 原三方协议书。

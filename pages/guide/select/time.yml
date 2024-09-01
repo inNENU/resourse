@@ -7,7 +7,7 @@ shareable: true
 content:
   - tag: ul
     type: info
-    heading: 2024 年秋季学期本科生选课时间安排
+    header: 2024 年秋季学期本科生选课时间安排
     text:
       - |-
         预选时间: 2024年6月14日14：00至2024年6月17日12：00
@@ -21,7 +21,7 @@ content:
 
   - tag: text
     type: info
-    heading: 2024 年秋季学期研究生选课时间安排
+    header: 2024 年秋季学期研究生选课时间安排
     text:
       - 公共课选课时间尚未更新。
       - |-

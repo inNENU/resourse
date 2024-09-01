@@ -5,7 +5,7 @@ time: 2023-09-23T08:04:54.250Z
 shareable: true
 content:
   - tag: text
-    heading: 学生发起
+    header: 学生发起
     align: center
     text:
       - 学生登录并完善学籍信息，提交辅导员审核通过
@@ -25,7 +25,7 @@ content:
       - 学校审核通过
 
   - tag: text
-    heading: 用人单位发起
+    header: 用人单位发起
     align: center
     text:
       - 用人单位注册并审核通过

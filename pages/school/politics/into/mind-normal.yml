@@ -59,7 +59,7 @@ content:
         选修课程建议: 马克思主义哲学概论、思想政治教育学原理、中国特色社会主义理论概论
 
   - tag: text
-    heading: 参考书目
+    header: 参考书目
 
   - tag: ol
     text:

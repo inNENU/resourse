@@ -3,7 +3,7 @@ shareable: true
 content:
   - tag: text
     type: tip
-    heading: 🔔叮～收到一封来自光年合唱团的邀请函～
+    header: 🔔叮～收到一封来自光年合唱团的邀请函～
 
   - tag: text
     text:
@@ -18,7 +18,7 @@ content:
 
   - tag: ul
     type: info
-    heading: 🎡光年合唱团日常排练内容
+    header: 🎡光年合唱团日常排练内容
     text:
       - 🎼专业的开嗓环节和听音训练
       - 🎼五线谱识谱和基础乐理学习
@@ -30,7 +30,7 @@ content:
 
   - tag: text
     type: info
-    heading: 🎡光年合唱团参办的活动与成绩
+    header: 🎡光年合唱团参办的活动与成绩
     text:
       - 🏆连续举办三届主题听唱会活动，座无虚席的音乐厅是我们最盛大的梦想舞台
       - 🥇连续多年举办室外音乐会活动，熙熙攘攘的拥簇人群是我们最真实的人气写照

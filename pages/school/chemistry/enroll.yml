@@ -8,7 +8,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 美丽化学 寄情东师
+    header: 美丽化学 寄情东师
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/F/B2/9B/2128569D05B74C62DCB82E1C844_0FA550DC_DE31CCB.mp4?e=.mp4

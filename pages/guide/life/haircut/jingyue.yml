@@ -21,7 +21,7 @@ content:
         detail: 学生浴池正门右侧
 
   - tag: text
-    heading: DL 发型设计
+    header: DL 发型设计
 
   - tag: img
     src: $img/life/jingyue/dl-haircut.jpg

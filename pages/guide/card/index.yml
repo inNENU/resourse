@@ -7,7 +7,7 @@ shareable: true
 content:
   - tag: text
     type: warning
-    heading: 校园卡不是手机卡
+    header: 校园卡不是手机卡
     text:
       - 校园卡由学校统一发放，是一张银行卡大小的 IC 卡片，与手机卡没有任何关系。
       - 如有任何人拿手机卡《忽悠》你是校园卡要求你必须办理，请严词拒绝，如必要请联系保卫处。

@@ -16,7 +16,7 @@ content:
     text: 预留与核验途径
 
   - tag: ul
-    heading: 线上
+    header: 线上
     text:
       - 铁路 12306APP
       - 铁路 12306 微信公众号
@@ -24,7 +24,7 @@ content:
       - 铁路 12306 支付宝小程序
 
   - tag: ul
-    heading: 线下
+    header: 线下
     text:
       - 自动售票机
       - 人工售票窗口

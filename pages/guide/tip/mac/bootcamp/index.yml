@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: ul
     type: note
-    heading: 仅限搭载 Intel 处理器的 Mac
+    header: 仅限搭载 Intel 处理器的 Mac
     text:
       - 您可以使用“启动转换助理”在搭载 Intel 处理器的 Mac 上安装 Windows 10。
       - 如果您的 Mac 搭载 Apple 芯片，您需要使用虚拟机。

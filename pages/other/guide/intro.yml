@@ -99,7 +99,7 @@ content:
 
   - tag: ol
     type: warning
-    heading: 请您特别注意
+    header: 请您特别注意
     text:
       - 该 inNENU 为 Mr.Hope 个人的作品 ，与东北师范大学无关，东北师范大学没有义务 inNENU 内容的正确与否负责。
       - Mr.Hope 在此郑重承诺，Mr.Hope 会竭力保持 inNENU 内容的正确性！但 108 万余字的内容难免会存在部分疏漏。Mr.Hope 不对 inNENU 可能存在的部分错误内容以及您采信这些错误内容产生的后果负责。

@@ -8,7 +8,7 @@ content:
     text: 职员
 
   - tag: ul
-    heading: 张菁
+    header: 张菁
     text:
       - |-
         办公地点: 校本部行政楼 218

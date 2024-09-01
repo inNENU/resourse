@@ -11,6 +11,9 @@ export default config(
   ...hopeConfig,
   {
     ignores: [
+      ".oss/**",
+      ".resource/**",
+      ".site/**",
       "**/node_modules/**",
       "coverage/**",
       "**/.vuepress/.cache/",

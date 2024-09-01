@@ -17,7 +17,7 @@ content:
 
   - tag: text
     type: info
-    heading: 微波炉使用注意事项
+    header: 微波炉使用注意事项
     text:
       - 一、请将微波炉调至中高火，不要用高火
       - 二、食物请不要带纸制包装加热，以免失火

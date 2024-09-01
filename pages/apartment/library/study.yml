@@ -14,70 +14,70 @@ content:
     text: 本部图书馆
 
   - tag: text
-    heading: 第一学习空间
+    header: 第一学习空间
     text: 本部图书馆二楼南侧，340个座位
 
   - tag: img
     src: $img/library/benbu-library1.jpg
 
   - tag: text
-    heading: 第二中文文科图书借阅室
+    header: 第二中文文科图书借阅室
     text: 本部图书馆二楼北侧，196个座位
 
   - tag: img
     src: $img/library/benbu-library2.jpg
 
   - tag: text
-    heading: 中文文科图书参考阅览室
+    header: 中文文科图书参考阅览室
     text: 本部图书馆三楼南侧，148个座位
 
   - tag: img
     src: $img/library/benbu-library3.jpg
 
   - tag: text
-    heading: 第一中文文科图书借阅室
+    header: 第一中文文科图书借阅室
     text: 本部图书馆三楼北侧，220个座位
 
   - tag: img
     src: $img/library/benbu-library4.jpg
 
   - tag: text
-    heading: 中文理科图书借阅室
+    header: 中文理科图书借阅室
     text: 本部图书馆四楼南侧，202个座位
 
   - tag: img
     src: $img/library/benbu-library5.jpg
 
   - tag: text
-    heading: 多媒体阅览室
+    header: 多媒体阅览室
     text: 本部图书馆四楼北侧，220个座位
 
   - tag: img
     src: $img/library/benbu-library6.jpg
 
   - tag: text
-    heading: 特藏书刊阅览室
+    header: 特藏书刊阅览室
     text: 本部图书馆五楼南侧，36个座位
 
   - tag: img
     src: $img/library/benbu-library7.jpg
 
   - tag: text
-    heading: 外文图书借阅室
+    header: 外文图书借阅室
     text: 本部图书馆六楼北侧 ，18个座位
 
   - tag: img
     src: $img/library/benbu-library8.jpg
 
   - tag: text
-    heading: 期刊阅览区
+    header: 期刊阅览区
     text: 本部图书馆二楼大厅 ，62个座位
 
   - tag: img
     src: $img/library/benbu-library9.jpg
 
   - tag: text
-    heading: 东北文献中心阅览室
+    header: 东北文献中心阅览室
     text: 本部图书馆四楼南侧B区，16个座位
 
   - tag: img
@@ -90,7 +90,7 @@ content:
       - 据 Mr.Hope 亲身经历，里面的研究员会认为东北文献中心是他们自己的办公室，学生进去他们会很不高兴直接把你撵出去并向你宣称这里不开放。
 
   - tag: text
-    heading: 教育信息中心
+    header: 教育信息中心
     text: 田家炳一楼，22个座位
 
   - tag: img
@@ -100,35 +100,35 @@ content:
     text: 净月图书馆
 
   - tag: text
-    heading: 数字阅读区
+    header: 数字阅读区
     text: 净月馆二楼北侧，40个座位
 
   - tag: img
     src: $img/library/jingyue-library1.jpg
 
   - tag: text
-    heading: 休闲阅读区
+    header: 休闲阅读区
     text: 净月馆二楼南侧，58个座位
 
   - tag: img
     src: $img/library/jingyue-library2.jpg
 
   - tag: text
-    heading: 理科图书借阅区
+    header: 理科图书借阅区
     text: 净月馆三楼A区、B区，176个座位
 
   - tag: img
     src: $img/library/jingyue-library3.jpg
 
   - tag: text
-    heading: 文科图书借阅区
+    header: 文科图书借阅区
     text: 净月馆四楼B区、C区，236个座位
 
   - tag: img
     src: $img/library/jingyue-library4.jpg
 
   - tag: text
-    heading: 参考图书阅览区
+    header: 参考图书阅览区
     text: 净月馆五楼B区、C区，282个座位
 
   - tag: img

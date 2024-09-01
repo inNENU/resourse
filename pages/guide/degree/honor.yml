@@ -14,7 +14,7 @@ content:
 
   - tag: text
     type: info
-    heading: 荣誉课程
+    header: 荣誉课程
     text:
       - 荣誉课程是指专业教育课程中着力培养学生高阶思维和创新能力的高挑战度、高难度课程。
 
@@ -39,13 +39,13 @@ content:
 
   - tag: text
     type: info
-    heading: 颁发条件
+    header: 颁发条件
     text:
       - 各本科专业须根据课程性质和特点确立 20 - 30 学分的荣誉课程，并在本专业人才培养方案中明确标注。荣誉课程应在多个学期分散开设，避免过于集中开设。
 
   - tag: text
     type: note
-    heading: 人数范围
+    header: 人数范围
     text:
       - 试行期间，人数不多于专业总人数的 3%，后续扩大至不超过 5%。
 

@@ -45,7 +45,7 @@ content:
     src: $img/apartment/door.png
 
   - tag: ul
-    heading: 费用
+    header: 费用
     text:
       - |-
         月: 50 元

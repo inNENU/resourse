@@ -52,19 +52,19 @@ content:
 
   - tag: text
     type: warning
-    heading: 早晚高峰期在路上可能会堵车
+    header: 早晚高峰期在路上可能会堵车
 
   - tag: title
     text: 出租车乘降中心位置
 
   - tag: text
-    heading: 出站口 4
+    header: 出站口 4
     text:
       - 从出站口 4 出来后，请右转直行。
       - 在直行过程中，请留意头上和左手边指示，乘降中心通道在左手边。
 
   - tag: text
-    heading: 出站口 5
+    header: 出站口 5
     text:
       - 从出站口 5 出来之后请左转，约十步即可在右侧看到出租车乘降中心的牌子。
 
@@ -74,7 +74,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 出站口 3
+    header: 出站口 3
     text:
       - 从出站口 3 出来时，请走到头并右转 (不要上楼)
       - 继续直行，您即可在右手边看到出租车乘降中心。
@@ -91,11 +91,11 @@ content:
 
   - tag: text
     type: note
-    heading: 请在出租车乘降中心有序排队等待，依次上车!
+    header: 请在出租车乘降中心有序排队等待，依次上车!
 
   - tag: text
     type: danger
-    heading: 不要考虑拉客拼车
+    header: 不要考虑拉客拼车
     text:
       - 请不要被乘降中心附近拉客拼车的人吸引! 队伍在非恶劣天气下会前进的很快，恶劣天气最多等待半个小时(因为这个时候打车来火车站的人也很多)。
       - 切勿不要听信在附近拉客的人的说辞，因为这样您不仅有可能乘坐黑车，更有可能被迫跟抱着行李和其他陌生人 (比如其他三个东北大汉) 拼同一辆车。

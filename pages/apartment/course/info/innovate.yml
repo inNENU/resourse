@@ -8,7 +8,7 @@ content:
     text: 主任
 
   - tag: ul
-    heading: 张拓
+    header: 张拓
     text:
       - |-
         办公地点: 校本部综合行政楼 226
@@ -23,7 +23,7 @@ content:
     text: 职员
 
   - tag: ul
-    heading: 张志伟
+    header: 张志伟
     text:
       - |-
         办公地点: 校本部综合行政楼 226
@@ -35,7 +35,7 @@ content:
         工作职责: 协助管理非师范生专业实践工作
 
   - tag: ul
-    heading: 侯瑞
+    header: 侯瑞
     text:
       - |-
         办公地点: 校本部综合行政楼 226
@@ -47,7 +47,7 @@ content:
         工作职责: 协助管理师范生教育实践工作。负责师范生应用实践工作。负责大学生创新创业工作
 
   - tag: ul
-    heading: 韩斯文
+    header: 韩斯文
     text:
       - |-
         办公地点: 校本部综合行政楼 226

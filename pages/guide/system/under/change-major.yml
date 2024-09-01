@@ -12,7 +12,7 @@ content:
 
   - tag: text
     type: info
-    heading: 如何访问本科教学服务系统
+    header: 如何访问本科教学服务系统
     path: intro
 
   - tag: title
@@ -26,7 +26,7 @@ content:
     watermark: true
 
   - tag: ul
-    heading: 查看转专业计划
+    header: 查看转专业计划
     text:
       - 进入“转专业管理”后，点击页面上方的“转专业计划”，弹出网页框。
       - 可在线查看本学期各专业拟接收人数、转入条件、考核方式和报名人数等信息；
@@ -37,7 +37,7 @@ content:
     watermark: true
 
   - tag: ul
-    heading: 进行转专业申请
+    header: 进行转专业申请
     text:
       - 点击“申请”，弹出申请表对话框，核对学号、姓名、照片等个人信息。
       - 填写项目，带红色*号的为必填项。

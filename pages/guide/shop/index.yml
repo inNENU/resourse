@@ -32,7 +32,7 @@ content:
         path: nanyuan
 
   - tag: text
-    heading: 校外超市
+    header: 校外超市
 
   - tag: list
     header: false
@@ -49,7 +49,7 @@ content:
 
   - tag: text
     type: info
-    heading: 京东超市可能要从 2024 年暑假撤出，更换为天猫。
+    header: 京东超市可能要从 2024 年暑假撤出，更换为天猫。
 
   - tag: list
     header: false
@@ -69,7 +69,7 @@ content:
         path: jingyue-temp
 
   - tag: text
-    heading: 校外超市
+    header: 校外超市
 
   - tag: list
     header: false

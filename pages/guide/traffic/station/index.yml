@@ -17,13 +17,13 @@ content:
       - 长春南站
 
   - tag: text
-    heading: 长春站
+    header: 长春站
     text: 长春站同时经停普通列车和高铁，承载了长春 60% 的客流量。
 
   - tag: text
-    heading: 长春西站
+    header: 长春西站
     text: 长春西站以高铁为主，是长春站客运能力负载满额后设立的站点。
 
   - tag: text
-    heading: 长春南站
+    header: 长春南站
     text: 长春南站为货运站，主要以货物运输为主，几乎没有经停车辆。

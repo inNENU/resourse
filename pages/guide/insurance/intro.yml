@@ -13,7 +13,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 建议办理医保的原因
+    header: 建议办理医保的原因
     text:
       - 当代大学生伴随身体素质的下降，身体健康状况不容乐观，据教育部数据，大学生这一特殊群体中有 15%—35%存在不同程度身心健康问题
       - 大学生体质健康指标近年来仅增长 0.2%，整体体质呈下降趋势。
@@ -29,7 +29,7 @@ content:
 
   - tag: ul
     type: note
-    heading: 保费上涨
+    header: 保费上涨
     text:
       - 医疗费用每年以 10%的增长率逐年攀升
       - 居民医保次均住院费用由 2012 年的 5698 元一路上涨到 2020 年的 7546 元，期间涨幅为 32.43%
@@ -41,15 +41,15 @@ content:
 
   - tag: text
     type: info
-    heading: 城乡居民基本医疗保险
+    header: 城乡居民基本医疗保险
     path: base
 
   - tag: text
     type: info
-    heading: 大学生医疗补充保险
+    header: 大学生医疗补充保险
     path: supplement
 
   - tag: text
     type: info
-    heading: 大学生公费医疗
+    header: 大学生公费医疗
     path: public

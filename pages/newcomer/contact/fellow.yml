@@ -15,7 +15,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 郑重声明
+    header: 郑重声明
     text: 由于不存在“官方”老乡群，Mr.Hope 仅保证以下老乡群的大部分成员均为东北师范大学学生。加群之后的任何后果与责任自负。
 
   - tag: action

@@ -59,7 +59,7 @@ content:
     text: 笔试参考资源
 
   - tag: p
-    heading: 《普通物理》可参阅以下资料
+    header: 《普通物理》可参阅以下资料
 
   - tag: ol
     text:
@@ -73,7 +73,7 @@ content:
         陈熙谋编著. 大学物理通用教程 光学 第 2 版. 北京:  北京大学出版社, 2011.05.
 
   - tag: p
-    heading: 《高等数学》可参阅以下资料
+    header: 《高等数学》可参阅以下资料
 
   - tag: ol
     text:

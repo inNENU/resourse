@@ -7,7 +7,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 2024 年秋季学期选课时间
+    header: 2024 年秋季学期选课时间
     path: time
 
   - tag: list

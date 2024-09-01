@@ -1,4 +1,4 @@
-name: Deploy resource to server
+name: Deploy resource
 
 on:
   push:
@@ -29,9 +29,13 @@ jobs:
           node-version: 20
           cache: pnpm
 
+      - name: Sync OSS
+        run: |
+          pnpm sync:oss
+
       - name: Generate resource
         run: |
-          pnpm generate:resource
+          pnpm resource:generate
 
       - name: Deploy to resource branch
         uses: JamesIves/github-pages-deploy-action@v4

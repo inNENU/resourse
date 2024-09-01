@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 考试说明
+    header: 考试说明
     text:
       - 2019 - 2022 四届都是有考试的，但从 2023 级开始就没有了。
 
@@ -14,7 +14,7 @@ content:
     text: 课程考试
 
   - tag: p
-    heading: 考试
+    header: 考试
     text: 在学习完所有的在线课程后，可以点击在线考试进行考试。
 
   - tag: p
@@ -27,7 +27,7 @@ content:
 
   - tag: text
     type: warning
-    heading: 注意事项
+    header: 注意事项
     text:
       - 每个人有 20 次考试的机会。
       - 点击重考后，原有的考试成绩作废，以新考试的成绩为准。
@@ -35,7 +35,7 @@ content:
 
   # - tag: text
   #   type: info
-  #   heading: 考试相关知识点
+  #   header: 考试相关知识点
   #   path: knowledge/
 
   - tag: title
@@ -63,7 +63,7 @@ content:
 
   - tag: ol
     type: warning
-    heading: 注意事项
+    header: 注意事项
     text:
       - 该作业不评分，字数也无任何要求。与其说是一个作业更不如说是一个问卷调查。
       - 可以写的少，但是请仔细斟酌您写的内容，因为您的辅导员、学院和学校都可能会看。

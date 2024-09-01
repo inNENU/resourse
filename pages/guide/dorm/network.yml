@@ -8,20 +8,20 @@ content:
     text: 供网时间
 
   - tag: text
-    heading: 本部校区
+    header: 本部校区
     text:
       - "三舍: 6 点至次日 0 点。"
       - "体育公寓: 军事化管理无网络"
 
   - tag: text
-    heading: 净月校区
+    header: 净月校区
     text:
       - "春华、日华、秋华、光华公寓: 6:00 — (次日)0:00"
       - "夏华公寓: 全天"
       - "天华公寓: 与供电时间一致"
 
   - tag: ul
-    heading: 提示
+    header: 提示
     text:
       - 研究生宿舍全天供网。
       - 本科生寝室不屏蔽手机信号。

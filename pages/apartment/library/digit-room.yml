@@ -16,11 +16,11 @@ content:
     text: 位置
 
   - tag: text
-    heading: 本部
+    header: 本部
     text: 本部图书馆电子阅览室位于 213 室(二楼南侧 B 区)，共有 128 个“自习阅览/电子阅览”两用阅览席。
 
   - tag: text
-    heading: 净月
+    header: 净月
     text: 净月图书馆电子阅览室位于 318 室(三楼 C 区)，共有 123 个机位。
 
   - tag: title
@@ -37,20 +37,20 @@ content:
 
   # TODO: 检查
   # - tag: text
-  #   heading: 账号
+  #   header: 账号
   #   text: 电子阅览室的默认账号和密码均为学号。
 
   - tag: title
     text: 计费
 
   - tag: text
-    heading: 免费上机时长
+    header: 免费上机时长
     text:
       - 每个人每学年有 60 学时的免费上机时间，一学时为 45 分钟。
 
   # TODO: 完善
   - tag: ul
-    heading: 充值
+    header: 充值
     text:
       - 在圈存机处充值。
       - 东北师范大学企业公众号——东师图书馆——我的圕——费用结算
@@ -59,7 +59,7 @@ content:
     text: 其他服务
 
   - tag: text
-    heading: 打印
+    header: 打印
     text: 电子阅览室可以打印黑白的文档，打印十分便宜。
 
   - tag: text
@@ -68,7 +68,7 @@ content:
 
   - tag: text
     type: tip
-    heading: Mr.Hope の提示
+    header: Mr.Hope の提示
     text:
       - 电子阅览室的使用时间是完全由刷卡上下机时间决定的，而不是您实际电脑的使用时间，所以使用完电子阅览室后请务必不要忘记刷卡下机。
       - 电子阅览室的免费机时是按照学年计算的，也就是每年免费 45 小时。

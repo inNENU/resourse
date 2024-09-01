@@ -8,7 +8,7 @@ content:
     text: 主任
 
   - tag: ul
-    heading: 邢宇
+    header: 邢宇
     text:
       - |-
         邮箱: xingyu@nenu.edu.cn
@@ -22,7 +22,7 @@ content:
         4. 学校办公室经费管理和用款签批
 
   - tag: ul
-    heading: 林超
+    header: 林超
     text:
       - |-
         邮箱: linc927@nenu.edu.cn
@@ -41,7 +41,7 @@ content:
     text: 净月校区党工委副书记
 
   - tag: ul
-    heading: 关继国
+    header: 关继国
     text:
       - |-
         邮箱: jgguan@nenu.edu.cn
@@ -58,7 +58,7 @@ content:
     text: 副主任
 
   - tag: ul
-    heading: 钟明
+    header: 钟明
     text:
       - |-
         邮箱: zhongm815@nenu.edu.cn
@@ -78,7 +78,7 @@ content:
         7. 完成领导交办的其它工作
 
   - tag: ul
-    heading: 刘文健
+    header: 刘文健
     text:
       - |-
         邮箱: liuwj108@nenu.edu.cn
@@ -94,7 +94,7 @@ content:
         3. 完成领导交办的其它工作
 
   - tag: ul
-    heading: 黄金丰
+    header: 黄金丰
     text:
       - |-
         邮箱: huangjf187@nenu.edu.cn
@@ -110,7 +110,7 @@ content:
         3. 完成领导交办的其他工作
 
   - tag: ul
-    heading: 元修成
+    header: 元修成
     text:
       - |-
         邮箱: yxc@nenu.edu.cn
@@ -135,7 +135,7 @@ content:
 #     text: 法律事务办公室主任
 
 #   - tag: ul
-#     heading: 樊泓池
+#     header: 樊泓池
 #     text:
 #       - |-
 #         邮箱: fanhc781@nenu.edu.cn
@@ -151,7 +151,7 @@ content:
 #     text: 法律事务办公室科员
 
 #   - tag: ul
-#     heading: 皮明绘
+#     header: 皮明绘
 #     text:
 #       - |-
 #         职务: 科员
@@ -171,7 +171,7 @@ content:
 #         6. 完成领导交办的其它工作
 
 #   - tag: ul
-#     heading: 李东健
+#     header: 李东健
 #     text:
 #       - |-
 #         职务: 科员

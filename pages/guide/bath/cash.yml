@@ -35,7 +35,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 友情提示
+    header: 友情提示
     text:
       - 满一元提现是微信的要求。
       - 由于微信支付会收取 0.06% 的手续费，因此退款时会将这一部分扣除。

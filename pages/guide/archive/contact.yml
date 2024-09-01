@@ -16,14 +16,14 @@ content:
     text: 联系方式
 
   - tag: text
-    heading: 微信公众号
+    header: 微信公众号
 
   - tag: img
     src: $img/archive/account.jpg
     desc: 档案馆公众号 / 东北师范大学企业号
 
   - tag: text
-    heading: 联系电话
+    header: 联系电话
 
   - tag: phone
     fName: 档案馆
@@ -35,7 +35,7 @@ content:
     site: https://dag.nenu.edu.cn/
 
   - tag: text
-    heading: 官网
+    header: 官网
 
   - tag: action
     content: https://dag.nenu.edu.cn/

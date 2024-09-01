@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: note
-    heading: 本部本科寝室分布
+    header: 本部本科寝室分布
     text:
       - 本部本科生主要住在三舍，体育学院学生住在体育公寓。
       - 三舍 A B C 住本科生，D 为留学生公寓。作为高层建筑，三舍有电梯。

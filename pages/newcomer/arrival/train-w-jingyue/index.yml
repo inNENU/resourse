@@ -44,20 +44,20 @@ content:
 
   - tag: text
     type: tip
-    heading: 轨道交通换乘
+    header: 轨道交通换乘
     text: 如果您行李较少，轨道交通是最便捷最快的方式。票价 5 元。
     path: railway
 
   - tag: text
     type: info
-    heading: 出租车/网约车
+    header: 出租车/网约车
     text:
       - 如果您有太多的行李很难自行搬运，或您出站时轨道交通已不在运行时间，那么您应该需要打车或呼叫网约车。
     path: taxi
 
   - tag: text
     type: warning
-    heading: 公交转轻轨
+    header: 公交转轻轨
     text:
       - 此选项仅为那些携带了无法通过地铁安检物品的人列出!
     path: bus

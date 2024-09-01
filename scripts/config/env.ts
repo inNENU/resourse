@@ -7,4 +7,5 @@ innenuConfig({
   icon: "https://res.innenu.com/icons/",
   mapFolder: "./data/function/map",
   mapKey: "NLVBZ-PGJRQ-T7K5F-GQ54N-GIXDH-FCBC4",
+  pageFolder: "./page",
 });

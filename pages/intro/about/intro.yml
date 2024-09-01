@@ -13,7 +13,7 @@ content:
 
   - tag: ol
     type: note
-    heading: 编者 Mr.Hope 注
+    header: 编者 Mr.Hope 注
     text:
       - |-
         学术水平从数据上看呈下降趋势: 博士、硕士学位授权一级学科数据与 2023 年数据相比分别下降 1 个和 3 个。除因纽瓦克学院复招导致覆盖学科门类增加一个外，其他数据无任何增长。
@@ -31,7 +31,7 @@ content:
 
   - tag: ul
     type: tip
-    heading: 联系方式
+    header: 联系方式
     text:
       - "地址: 吉林省长春市人民大街 5268 号(130024)"
       - "电话: 0431-85684088"

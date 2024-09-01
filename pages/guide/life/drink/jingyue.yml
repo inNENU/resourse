@@ -35,7 +35,7 @@ content:
   # TODO: 獴大咖价位表
 
   - tag: text
-    heading: 鲜榨果汁
+    header: 鲜榨果汁
 
   - tag: img
     src: $img/dining/dining1/2f-detail7.jpg
@@ -48,7 +48,7 @@ content:
     watermark: true
 
   - tag: text
-    heading: 菓碰茶
+    header: 菓碰茶
 
   - tag: img
     src: $img/dining/dining2/special15-1.jpg

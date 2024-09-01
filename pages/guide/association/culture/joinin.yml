@@ -7,7 +7,7 @@ content:
     desc: 卓尔不群，音你不凡
 
   - tag: text
-    heading: 社团概况
+    header: 社团概况
     text: |-
       成立时间: 2000 年 3 月 25 日
 
@@ -31,12 +31,12 @@ content:
 
   - tag: text
     type: info
-    heading: 产品部
+    header: 产品部
     text: 微信推送、维持工作室的正常运营、策划和组织会议、培训及其他活动、管理固定资产和日常开销。
 
   - tag: text
     type: info
-    heading: 设计部
+    header: 设计部
     text: 页面设计，更新卓音在线、设计海报、易拉宝、PPT 等视频剪辑、照片后期。
 
   - tag: carousel

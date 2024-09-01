@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 充值方式
+    header: 充值方式
     text: 校园卡支持多种方式进行充值，包括微信、支付宝以及学校统一办理的银行卡充值。
 
   - tag: list

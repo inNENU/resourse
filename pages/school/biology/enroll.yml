@@ -8,7 +8,7 @@ content:
     text: 院长说专业
 
   - tag: text
-    heading: 热爱生命 筑梦未来
+    header: 热爱生命 筑梦未来
 
   - tag: video
     src: https://zsb.nenu.edu.cn/__local/7/4F/97/FAF653AE7E6E5C67ECDCBC498C2_D8E906FC_20E49F8F.mp4?e=.mp4

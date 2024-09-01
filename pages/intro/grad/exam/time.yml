@@ -26,12 +26,12 @@ content:
     text: 初试时间
 
   - tag: text
-    heading: 日期
+    header: 日期
     text:
       - 2023 年 12 月 23 日至 24 日
 
   - tag: ul
-    heading: 时间
+    header: 时间
     text:
       - 上午 8:30 - 11:30
       - 下午 14:00 - 17:00

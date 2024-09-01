@@ -48,11 +48,11 @@ content:
     text: 师资力量
 
   - tag: ul
-    heading: 系主任
+    header: 系主任
     text: 孟翀
 
   - tag: ul
-    heading: 专业教师
+    header: 专业教师
     text:
       - 史册
       - 王建辉

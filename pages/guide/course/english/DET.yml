@@ -31,14 +31,14 @@ content:
   # TODO: Update at 2025-03 2025-09
   - tag: text
     type: info
-    heading: 2024 年秋季开学 DET 考试时间
+    header: 2024 年秋季开学 DET 考试时间
     text:
       - |-
         9 月 7 日 9:00 - 11:20。
 
   - tag: ol
     type: info
-    heading: 术科类专业以及民族班定义
+    header: 术科类专业以及民族班定义
     text:
       - 按照艺术、体育类录取的学生
       - 按照高水平运动员录取的学生

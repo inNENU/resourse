@@ -8,7 +8,7 @@ cite:
 content:
   - tag: text
     type: info
-    heading: 体测的重要性
+    header: 体测的重要性
     text: 每人每年秋季学期都要进行一次体质与健康测试，体质与健康测试不达标的，不能取得评奖、评优及毕业资格。
 
   - tag: title
@@ -30,7 +30,7 @@ content:
     text: 体测时间安排
 
   - tag: text
-    heading: 大一、大二、大三学年
+    header: 大一、大二、大三学年
     text:
       - 大一、大二、大三的学生每年秋季学期(一般安排在开学后第两周周末)参加测试。
 
@@ -42,12 +42,12 @@ content:
 
   - tag: text
     type: warning
-    heading: 体测未通过
+    header: 体测未通过
     text:
       - 如果您在学年开学初未通过体育测试，必须选择健康体能班进行学习方可参加 12 月份健康体能班的体质健康补考测试。
 
   - tag: text
-    heading: 大四学年
+    header: 大四学年
     text:
       - 大四学年的测试安排在大三学年的春季学期(一般安排在 4 月末 5 月初)进行。
 
@@ -57,7 +57,7 @@ content:
 
   - tag: text
     type: info
-    heading: 缓考
+    header: 缓考
     text:
       - 考虑到不同学生的情况，体质与健康测试会提供缓考。
       - 缓考一般在正式考试后的后一两周或两个月。如果因为原因无法参加正式测试，需要提出缓考申请。
@@ -82,7 +82,7 @@ content:
 
   - tag: text
     type: info
-    heading: 体重指数
+    header: 体重指数
     text: 体重指数(BMI) = 体重(千克) / 身高的平方(平方米)
 
   - tag: title
@@ -90,20 +90,20 @@ content:
 
   - tag: text
     type: info
-    heading: 服装得体
+    header: 服装得体
     text:
       - 体测时必须 穿运动服、运动鞋。
       - 体测当天门口可能会有体育老师看着，如果穿休闲裤的话真的不会让您参加测试让您回去换裤子。
 
   - tag: text
     type: info
-    heading: 携带身份证
+    header: 携带身份证
     text:
       - 如果身份证丢失无法参加正式测试，请尽快补办，并在补测或缓测时跟测试教师说明情况。
 
   - tag: text
     type: info
-    heading: 全员参加
+    header: 全员参加
     text:
       - 所有学生每个学年必须参加体测，若无法参加必须申请免测。
       - 申请免予执行《标准》的学生的诊断结果须存入学生个人体检档案，体测结果记为 60 分，且体育课只能选修体育保健班的课程。

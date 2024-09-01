@@ -6,7 +6,7 @@ shareable: true
 content:
   - tag: text
     type: info
-    heading: 支付宝充值校园卡
+    header: 支付宝充值校园卡
     text: 您可以通过支付宝内的“校园一卡通”功能对校园卡进行重置。
 
   - tag: title

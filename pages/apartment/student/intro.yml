@@ -30,19 +30,19 @@ content:
     text: 人员信息
 
   - tag: text
-    heading: 学指委
+    header: 学指委
 
   - tag: img
     src: $img/apartment/student-direct.gif
 
   - tag: text
-    heading: 学工部
+    header: 学工部
 
   - tag: img
     src: $img/apartment/student-work.png
 
   - tag: text
-    heading: 学生处
+    header: 学生处
 
   - tag: img
     src: $img/apartment/student-office.png

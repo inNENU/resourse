@@ -24,7 +24,7 @@ content:
     text: 相关问题
 
   - tag: text
-    heading: 学籍相关
+    header: 学籍相关
     text: 学籍相关问题请咨询研究生院综合办公室。
 
   - tag: phone
@@ -36,7 +36,7 @@ content:
     postCode: 130024
 
   - tag: text
-    heading: 学制及培养环节相关
+    header: 学制及培养环节相关
     text: 学制及培养环节相关问题请咨询研究生院学术学位培养工作办公室、专业学位培养工作办公室。
 
   - tag: phone
@@ -49,7 +49,7 @@ content:
     postCode: 130024
 
   - tag: text
-    heading: 助学金、住宿情况、档案管理相关
+    header: 助学金、住宿情况、档案管理相关
     text: 助学金、住宿情况、档案管理相关问题请咨询研究生院教育工作办公室。
 
   - tag: phone
@@ -62,7 +62,7 @@ content:
     postCode: 130024
 
   - tag: text
-    heading: 学位授予相关
+    header: 学位授予相关
     text: 学位授予相关问题请咨询学位办公室。
 
   - tag: phone
@@ -74,7 +74,7 @@ content:
     postCode: 130024
 
   - tag: text
-    heading: 学费、住宿费相关
+    header: 学费、住宿费相关
     text: 学费、住宿费相关问题请咨询财务处。
 
   - tag: phone
@@ -86,7 +86,7 @@ content:
     postCode: 130024
 
   - tag: text
-    heading: 就业相关
+    header: 就业相关
     text: 就业相关问题请咨询学生就业指导服务中心。
 
   - tag: phone

@@ -55,7 +55,7 @@ content:
       - 如发现任何问题隐患，请及时告知工作人员
 
   - tag: text
-    heading: 温馨提示
+    header: 温馨提示
     text:
       - |-
         自习室清理时间为:

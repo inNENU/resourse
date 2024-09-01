@@ -8,7 +8,7 @@ cite:
 content:
   - tag: ol
     type: info
-    heading: 离校时已经落实工作单位
+    header: 离校时已经落实工作单位
     text:
       - 尽快与用人单位签订劳动合同
       - 跟进社会保险缴纳情况
@@ -17,7 +17,7 @@ content:
 
   - tag: ol
     type: info
-    heading: 离校时还未落实工作单位
+    header: 离校时还未落实工作单位
     text:
       - |-
         根据本人意愿将户口、档案

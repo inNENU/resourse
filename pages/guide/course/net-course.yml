@@ -30,14 +30,14 @@ content:
     text: 相关手册
 
   - tag: text
-    heading: 智慧树
+    header: 智慧树
 
   - tag: doc
     name: 使用文档
     url: $file/course/zhihuishu.pptx
 
   - tag: text
-    heading: 学堂在线
+    header: 学堂在线
 
   - tag: doc
     name: 学堂云使用手册

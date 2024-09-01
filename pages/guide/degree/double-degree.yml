@@ -15,7 +15,7 @@ content:
 
   - tag: text
     type: tip
-    heading: 是否可修读
+    header: 是否可修读
     text:
       - 双学位需要学校支持。
       - 目前东师所有专业均并未开设任何双学位培养项目。

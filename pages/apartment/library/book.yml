@@ -87,7 +87,7 @@ content:
   #   text: 远程借阅工作台位置及咨询电话
 
   # - tag: text
-  #   heading: 本部校区
+  #   header: 本部校区
   #   text:
   #     - "地点: 一楼总还书处"
   #     - "邮箱: bbycjy@nenu.edu.cn"
@@ -101,7 +101,7 @@ content:
   #   remark: 负责远程借阅服务
 
   # - tag: text
-  #   heading: 净月校区
+  #   header: 净月校区
   #   text:
   #     - "地点: 四楼借还书处"
   #     - "邮箱: jyycjy@nenu.edu.cn"

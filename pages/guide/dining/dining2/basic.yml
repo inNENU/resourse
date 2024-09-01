@@ -13,7 +13,7 @@ content:
     text: 二食堂的基本餐区位于二楼西北侧，包含盒饭以及小份菜。
 
   - tag: text
-    heading: 基本餐供应时间
+    header: 基本餐供应时间
     text:
       - |-
         早: 06:30 — 08:30 (供应包子、饼、粥、豆浆等)
@@ -23,7 +23,7 @@ content:
         晚: 16:00 — 18:00
 
   - tag: text
-    heading: 价格
+    header: 价格
     text:
       - |-
         米饭: ￥0.5/碗

@@ -13,7 +13,7 @@ content:
     text: 一食堂一楼北侧共有 11 家档口。
 
   - tag: ul
-    heading: 从西到东
+    header: 从西到东
     text:
       - 重庆鸡公煲
       - 哈尔滨水饺
