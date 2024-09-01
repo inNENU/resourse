@@ -9,6 +9,7 @@ on:
       - "pages/**"
       - "scripts/**"
       - "site/**"
+      - "package.json"
 
 permissions:
   contents: write

@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "config/**"
+      - "data/**"
+      - "pages/**"
+      - "scripts/**"
+      - "site/**"
+      - "package.json"
 
 permissions:
   contents: write
