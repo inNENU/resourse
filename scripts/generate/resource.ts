@@ -84,14 +84,22 @@ export const generateResource = (diffFiles: string[]): void => {
       ) as ResourceVersionInfo)
     : DEFAULT_VERSION_INFO;
 
-  getUpdatedResourceNames(diffFiles).forEach((name) => {
-    // 生成新的压缩文件
-    zipFile(name);
-    // 更新版本号与尺寸
-    versionInfo.version[name] += 1;
-    versionInfo.size[name] = Math.round(
-      statSync(`./.oss/${name}.zip`).size / 1024,
-    );
+  const updatedResourceNames = getUpdatedResourceNames(diffFiles);
+
+  RESOURCE_NAMES.forEach((name) => {
+    if (
+      !existsSync(`./.oss/${name}.zip`) ||
+      updatedResourceNames.includes(name)
+    )
+      zipFile(name);
+
+    if (updatedResourceNames.includes(name)) {
+      // 更新版本号与尺寸
+      versionInfo.version[name] += 1;
+      versionInfo.size[name] = Math.round(
+        statSync(`./.oss/${name}.zip`).size / 1024,
+      );
+    }
   });
 
   // 写入版本信息
