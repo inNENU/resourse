@@ -36,11 +36,8 @@
     "moduleResolution": "NodeNext"
   },
   "include": [
-    "./__tests__/**/*.ts",
     "./scripts/**/*.ts",
     "./site/.vuepress/**/*.ts",
-    "./site/.vuepress/**/*.vue",
-    "./typings/**/*.ts",
-    "eslint.config.js"
+    "./site/.vuepress/**/*.vue"
   ]
 }
