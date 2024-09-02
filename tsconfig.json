@@ -38,6 +38,7 @@
   "include": [
     "./scripts/**/*.ts",
     "./site/.vuepress/**/*.ts",
-    "./site/.vuepress/**/*.vue"
+    "./site/.vuepress/**/*.vue",
+    "eslint.config.js"
   ]
 }

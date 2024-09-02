@@ -40,13 +40,13 @@ jobs:
         run: |
           echo "${{ secrets.ENV }}" > .env
 
-      - name: Sync OSS
-        run: |
-          pnpm sync:oss
-
       - name: Generate resource
         run: |
           pnpm resource:generate
+
+      - name: Sync OSS
+        run: |
+          pnpm sync:oss
 
       - name: Deploy to resource branch
         uses: JamesIves/github-pages-deploy-action@v4
