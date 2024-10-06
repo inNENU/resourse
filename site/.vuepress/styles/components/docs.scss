@@ -9,14 +9,14 @@
   padding: 8px 16px;
   border-radius: 8px;
 
-  background-color: var(--bg-color-block);
-  color: var(--text-color);
+  background-color: var(--vp-c-control);
+  color: var(--vp-c-text);
 
   line-height: 1.2;
   font-size: 17px;
 
   &:hover {
-    background-color: var(--bg-color-hover);
+    background-color: var(--vp-c-control-hover);
     text-decoration: none !important;
   }
 }

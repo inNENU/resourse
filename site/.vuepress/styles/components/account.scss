@@ -45,13 +45,13 @@
 .innenu-account-name {
   margin: 4px 0;
   font-size: 18px;
-  text-shadow: 0 0 1px var(--grey);
+  text-shadow: 0 0 1px var(--vp-c-text-mute);
 }
 
 .innenu-account-desc {
   max-width: 80%;
   margin: 4px auto;
-  color: var(--grey3);
+  color: var(--vp-c-text-mute);
   font-size: 14px;
 }
 
@@ -72,10 +72,10 @@
   border-radius: 50%;
   line-height: 1;
 
-  background-color: var(--bg-color);
+  background-color: var(--vp-c-control);
 
   &:hover {
-    background-color: var(--bg-color-secondary);
+    background-color: var(--vp-c-control-hover);
   }
 }
 

@@ -1,9 +1,6 @@
 @use "@sass-palette/hope-config";
-@use "mixins";
 
 .innenu-card {
-  @include mixins.hover;
-
   display: block;
   overflow: hidden;
   color: inherit;
@@ -12,13 +9,18 @@
   margin: 12px 16px;
   border-radius: 16px;
 
-  background-color: var(--bg-color-block);
-  box-shadow: 1px 1px 2px 3px var(--card-shadow);
+  background-color: var(--vp-c-control);
+  box-shadow: 1px 1px 2px 3px var(--vp-c-shadow);
 
   text-align: left;
 
   @media (min-width: hope-config.$tablet) {
     margin: 12px auto;
+  }
+
+  &:hover {
+    background-color: var(--vp-c-control-hover) !important;
+    text-decoration: none !important;
   }
 }
 
@@ -43,7 +45,7 @@
 
 .innenu-card-desc {
   margin-top: 8px;
-  color: var(--dark-grey);
+  color: var(--vp-c-text-mute);
   font-size: 14px;
   line-height: 1.4;
 
@@ -73,7 +75,7 @@
 
 .innenu-card-name {
   margin: 2px auto;
-  color: var(--grey);
+  color: var(--vp-c-text-subtle);
   font-size: 12px;
 
   @media (min-width: hope-config.$tablet) {

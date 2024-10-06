@@ -84,11 +84,11 @@ const submit = async () => {
 </script>
 <style>
 .verify-input {
-  background: var(--bg-color-secondary);
+  background: var(--vp-c-bg-control);
   font-size: 18px;
   padding: 8px 12px;
   margin: 8px 16px;
   border-radius: 8px;
-  border: 1px solid var(--border-color);
+  border: 1px solid var(--vp-c-border);
 }
 </style>

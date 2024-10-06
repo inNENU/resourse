@@ -65,10 +65,13 @@ export default hopeTheme(
         components: ["VidStack"],
       },
 
+      markdownImage: {
+        figure: true,
+      },
+
       mdEnhance: {
         align: true,
         attrs: true,
-        figure: true,
       },
 
       searchPro: true,

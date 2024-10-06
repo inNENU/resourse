@@ -1,5 +1,4 @@
 @use "@sass-palette/hope-config";
-@use "mixins";
 
 .innenu-list {
   position: relative;
@@ -10,7 +9,7 @@
   list-style: none;
   border-radius: 8px;
 
-  background-color: var(--bg-color-block);
+  background-color: var(--vp-c-control);
 
   &.noheader {
     margin-top: 8px;
@@ -27,16 +26,14 @@
   padding: 0 16px;
   border-radius: 0;
 
-  background-color: var(--bg-color-block);
-  color: var(--text-color);
+  background-color: var(--vp-c-control);
+  color: var(--vp-c-text);
 
   font-weight: normal;
   font-size: 17px;
   line-height: 1.45;
 
   &.route-link {
-    @include mixins.hover;
-
     position: relative;
     padding-right: 30px;
 
@@ -54,9 +51,14 @@
       margin-top: -4px;
       border-width: 2px 2px 0 0;
       border-style: solid;
-      border-color: var(--arrow-color);
+      border-color: var(--vp-c-text-mute);
 
       transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+    }
+
+    &:hover {
+      background-color: var(--vp-c-control-hover) !important;
+      text-decoration: none !important;
     }
   }
 
@@ -73,7 +75,7 @@
     left: 16px;
 
     height: 1px;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--vp-c-border);
 
     transform: scaleY(0.4);
     transform-origin: 0 100%;
@@ -105,7 +107,7 @@
 .innenu-list-text {
   flex-grow: 1;
 
-  color: var(--text-color);
+  color: var(--vp-c-text);
 
   line-height: 1.5;
   text-align: left;
@@ -120,15 +122,11 @@
 
   max-width: 40%;
 
-  color: #8a8a8e;
+  color: var(--vp-c-text-subtle);
 
   text-align: right;
   text-overflow: ellipsis;
   white-space: nowrap;
-
-  #{hope-config.$dark-selector} {
-    color: #98989f;
-  }
 }
 
 .innenu-list-footer {
@@ -136,7 +134,7 @@
   margin: 0 16px;
   padding: 5px 16px 0;
 
-  color: var(--dark-grey);
+  color: var(--vp-c-text-mute);
 
   font-size: 13px;
   text-align: left;
