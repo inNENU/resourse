@@ -43,3 +43,10 @@ content:
   - tag: doc
     name: 东北师范大学本科学生学业预警工作实施办法(试行)
     url: $file/jwc/alert.pdf
+
+  - tag: list
+    items:
+      # TODO: Update at 2025-03
+      - text: 2024年春季学期本科学生学业预警的通知
+        icon: notice
+        url: notice-detail?id=c6e943eb27804c6d95001d977bddc747&title=关于开展2024年春季学期本科学生学业预警的通知的通知

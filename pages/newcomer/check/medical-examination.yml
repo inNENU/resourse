@@ -21,18 +21,17 @@ content:
       # - 体育学院新生因报到时间晚，将随新生补检时一起进行，时间另行通知。
       - 采血需要空腹或清淡饮食。
 
-  - tag: title
-    text: 体检时间
-
-  # TODO: Update at 2024-08
-  - tag: text
-    type: tip
-    text: 学校尚未通知 2024 年新生体检时间，可能会在军训后视情况安排。
-
   - tag: text
     type: warning
     text:
       - 新生如有采血项目，要求空腹或清淡饮食。
+
+  - tag: title
+    text: 体检时间
+
+  - tag: text
+    type: tip
+    text: 以学校通知为准。
 
   - tag: title
     text: 体检地点
@@ -46,5 +45,5 @@ content:
   - tag: location
     header: 净月
     points:
-      - loc: 43.8257228,125.4244387
+      - loc: 43.825723,125.424439
         name: 校医院
