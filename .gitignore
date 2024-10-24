@@ -6,6 +6,7 @@ pnpm-lock.yaml
 .oss/
 .resource/
 .site/
+.text/
 
 # env files
 .env

@@ -26,7 +26,8 @@
     "site:dev": "vuepress dev .site",
     "site:generate": "tsx ./scripts/generate-site.ts",
     "sync:account": "tsx ./scripts/sync-account.ts",
-    "sync:oss": "tsx ./scripts/sync-oss.ts"
+    "sync:oss": "tsx ./scripts/sync-oss.ts",
+    "text:generate": "tsx ./scripts/generate-text.ts"
   },
   "nano-staged": {
     "**/*": "prettier --write -u",
@@ -42,7 +43,7 @@
     "cpx2": "8.0.0",
     "del": "8.0.0",
     "dotenv": "16.4.5",
-    "innenu-generator": "0.0.19",
+    "innenu-generator": "0.0.21",
     "js-yaml": "4.1.0",
     "markdown-it": "14.1.0",
     "nodejs-jieba": "0.2.1",
