@@ -20,7 +20,7 @@
 
   background-color: var(--vp-c-control);
 
-  @media (min-width: hope-config.$mobile) {
+  @media (min-width: hope-config.$tablet) {
     width: calc(16.666% - 10px);
   }
 

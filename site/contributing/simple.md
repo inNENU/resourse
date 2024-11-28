@@ -1,6 +1,7 @@
 ---
 title: 简易贡献指南
 order: 1
+icon: lightbulb
 ---
 
 ## 简易贡献指南

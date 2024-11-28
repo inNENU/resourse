@@ -1,5 +1,6 @@
 ---
 title: 开发介绍
+icon: info-circle
 dir:
   order: 2
 ---

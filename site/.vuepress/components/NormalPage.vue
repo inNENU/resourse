@@ -43,8 +43,8 @@ const id = computed(() => page.value.path.replace(/\.html$/, ""));
   padding: 4px 8px;
   border-radius: 8px;
 
-  background-color: var(--theme-color);
-  color: var(--white);
+  background-color: var(--vp-c-accent-bg);
+  color: var(--vp-c-white);
 
   font-size: 14px;
   line-height: 1.5;
