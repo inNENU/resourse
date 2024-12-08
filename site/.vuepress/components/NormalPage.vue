@@ -28,7 +28,7 @@ const id = computed(() => page.value.path.replace(/\.html$/, ""));
 </template>
 
 <style lang="scss">
-@use "vuepress-shared/styles/wrapper";
+@use "vuepress-theme-hope/styles/wrapper";
 
 .open-app-wrapper {
   @include wrapper.horizontal-wrapper;

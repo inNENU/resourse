@@ -52,6 +52,12 @@ export default hopeTheme(
       date: "更新日期",
     },
 
+    markdown: {
+      align: true,
+      attrs: true,
+      figure: true,
+    },
+
     plugins: {
       copyright: {
         disableCopy: process.env.NODE_ENV !== "development",
@@ -65,16 +71,7 @@ export default hopeTheme(
         components: ["VidStack"],
       },
 
-      markdownImage: {
-        figure: true,
-      },
-
-      mdEnhance: {
-        align: true,
-        attrs: true,
-      },
-
-      searchPro: true,
+      slimsearch: true,
     },
   },
   { custom: true },
