@@ -18,7 +18,7 @@ export const setupAccount = (): void => {
     const registerAccount = (): void => {
       document
         .querySelectorAll<HTMLElement>(".account-action")
-        ?.forEach((el) => {
+        .forEach((el) => {
           el.addEventListener("click", () => {
             const { qqcode, qq, wxcode, wxid } = el.dataset;
 
@@ -31,7 +31,7 @@ export const setupAccount = (): void => {
               message.pop(`${CHECK_ICON}<span>QQ 号已复制到剪切板</span>`);
             } else if (wxid) {
               message.pop(
-                `<img src="${`https://open.weixin.qq.com/qr/code?username=${wxid}`}" />`,
+                `<img src="https://open.weixin.qq.com/qr/code?username=${wxid}" />`,
                 5000,
               );
             }

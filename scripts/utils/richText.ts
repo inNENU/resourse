@@ -5,6 +5,7 @@ import type { AnyNode } from "domhandler";
 const $ = load("");
 
 export const parseHTML = (content: string): AnyNode[] =>
+  // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
   $.parseHTML(content) || [];
 
 export const ALLOWED_TAGS: [tag: string, allowedAttrs?: string[]][] = [
@@ -75,11 +76,8 @@ export const ALLOWED_TAGS: [tag: string, allowedAttrs?: string[]][] = [
   ["ul"],
 ];
 
-export const getText = (content: string | AnyNode[]): string => {
-  const nodes =
-    typeof content === "string" ? parseHTML(content) || [] : content;
-
-  return nodes
+export const getText = (content: string | AnyNode[]): string =>
+  (typeof content === "string" ? parseHTML(content) : content)
     .map((node) => {
       if (node.type === "text") return node.data;
 
@@ -88,7 +86,6 @@ export const getText = (content: string | AnyNode[]): string => {
       return "";
     })
     .join("");
-};
 
 export interface GetNodeOptions {
   getLinkText?: (link: string) => Promise<string | null> | string | null;
@@ -149,7 +146,7 @@ const handleNode = async (
 
       // resolve img source for img tag
       if (node.name === "img" && attrs.src && options.getImageSrc) {
-        const result = await options.getImageSrc?.(attrs.src);
+        const result = await options.getImageSrc(attrs.src);
 
         if (result === null) return null;
 
@@ -179,10 +176,11 @@ const handleNode = async (
 export const getRichTextNodes = async (
   content: string | AnyNode[],
   options: GetNodeOptions = {},
-): Promise<RichTextNode[]> => {
-  const rootNodes = Array.isArray(content) ? content : parseHTML(content) || [];
-
-  return (
-    await Promise.all(rootNodes.map((node) => handleNode(node, options)))
+): Promise<RichTextNode[]> =>
+  (
+    await Promise.all(
+      (Array.isArray(content) ? content : parseHTML(content)).map((node) =>
+        handleNode(node, options),
+      ),
+    )
   ).filter((item): item is RichTextNode => item !== null);
-};

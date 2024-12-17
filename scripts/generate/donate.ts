@@ -31,7 +31,7 @@ export const generateDonate = (data: Donate, filePath: string): PageData => {
   const goodData = data.donations
     .filter((item) => item[1] <= 2)
     .sort(([, a], [, b]) => b - a)
-    .map((item) => `${item[0]}`);
+    .map((item) => item[0]);
 
   const pageData: PageConfig = {
     title: `${baseName}年感谢名单`,

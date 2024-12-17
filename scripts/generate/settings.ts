@@ -37,6 +37,7 @@ export const generateSettings = (data: unknown): unknown => {
           const config =
             typeof component === "string" ? groupConfig[component] : component;
 
+          // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
           if (!config) console.error("config is not found:", component);
 
           if ("items" in config)
@@ -69,6 +70,7 @@ export const generateSettings = (data: unknown): unknown => {
                 ? groupConfig[component]
                 : component;
 
+            // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
             if (!config) console.error("config is not found:", component);
 
             if ("items" in config)
