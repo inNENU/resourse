@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "additionalProperties": false,
+  "$defs": {
+    "article": {
+      "type": "object",
+      "properties": {
+        "cover": {
+          "description": "封面",
+          "type": "string",
+          "pattern": "^https:\\/\\/mmbiz\\.qpic\\.cn\\/.+$"
+        },
+        "title": {
+          "description": "标题",
+          "type": "string"
+        },
+        "desc": {
+          "description": "描述",
+          "type": "string"
+        },
+        "url": {
+          "description": "链接",
+          "type": "string",
+          "pattern": "^https:\\/\\/mp\\.weixin\\.qq\\.com\\/s\\/.+$"
+        }
+      },
+      "required": ["cover", "title", "url"],
+      "additionalProperties": false
+    }
+  },
+  "properties": {
+    "name": {
+      "description": "账户名称",
+      "type": "string",
+      "maxLength": 16
+    },
+    "detail": {
+      "description": "账户全名",
+      "type": "string"
+    },
+    "desc": {
+      "description": "账户描述",
+      "type": "string",
+      "maxLength": 120
+    },
+    "id": {
+      "description": "账户微信公众号ID",
+      "type": "string"
+    },
+    "logo": {
+      "description": "账户图标",
+      "type": "string",
+      "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)$"
+    },
+    "follow": {
+      "description": "关注链接",
+      "type": "string"
+    },
+    "article": {
+      "description": "文章内容",
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/article"
+      },
+      "additionalItems": false
+    }
+  },
+  "required": ["name", "id", "logo", "article"],
+  "type": "object"
+}

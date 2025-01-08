@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "additionalProperties": false,
+  "$defs": {
+    "location": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "点位名称",
+          "type": "string"
+        },
+        "detail": {
+          "description": "点位详情文字",
+          "type": "string"
+        },
+        "loc": {
+          "description": "位置",
+          "type": "string",
+          "pattern": "^\\d{2,3}\\.\\d{3,6},\\d{2,3}\\.\\d{3,6}$"
+        },
+        "path": {
+          "description": "地点详情路径",
+          "type": "string"
+        }
+      },
+      "required": ["name", "loc"],
+      "additionalProperties": false
+    },
+    "category-data": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "分类名称",
+          "type": "string"
+        },
+        "content": {
+          "description": "分类点位",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/location"
+          }
+        }
+      },
+      "required": ["name", "content"],
+      "additionalProperties": false
+    }
+  },
+  "propertyNames": {
+    "type": "string",
+    "description": "分类名称"
+  },
+  "patternProperties": {
+    "^.+$": {
+      "description": "分类数据",
+      "$ref": "#/$defs/category-data"
+    }
+  },
+  "type": "object"
+}

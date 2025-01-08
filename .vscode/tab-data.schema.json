@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "$defs": {
+    "tab-item": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "description": "项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "项目图标",
+          "type": "string"
+        },
+        "color": {
+          "description": "项目颜色",
+          "type": "string",
+          "enum": [
+            "red",
+            "blue",
+            "purple",
+            "orange",
+            "grey",
+            "mauve",
+            "olive",
+            "cyan"
+          ]
+        },
+        "name": {
+          "description": "项目英文名称",
+          "type": "string"
+        },
+        "path": {
+          "description": "项目路径",
+          "type": "string"
+        },
+        "under": {
+          "description": "本科生路径",
+          "type": ["string", "false"]
+        },
+        "grad": {
+          "description": "研究生路径",
+          "oneOf": [{ "type": "string" }, { "enum": [false] }]
+        },
+        "benbu": {
+          "description": "本部路径",
+          "type": "string"
+        },
+        "jingyue": {
+          "description": "净月路径",
+          "type": "string"
+        },
+        "url": {
+          "description": "项目地址",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["text", "icon", "color", "name"],
+      "default": {
+        "text": "",
+        "icon": "",
+        "color": "",
+        "name": "",
+        "path": ""
+      },
+      "additionalProperties": false
+    },
+    "tab-category": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "类别文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "类别图标",
+          "type": "string"
+        },
+        "path": {
+          "description": "类别路径",
+          "type": "string"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/tab-item"
+          }
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["items", "icon", "name", "path"],
+      "default": {
+        "name": "",
+        "icon": "",
+        "path": "",
+        "items": []
+      },
+      "additionalProperties": false
+    },
+    "env": {
+      "type": "array",
+      "items": {
+        "enum": ["app", "qq", "wx", "web"]
+      }
+    }
+  },
+  "patternProperties": {
+    "^.+$": {
+      "$ref": "#/$defs/tab-category"
+    }
+  },
+  "properties": {
+    "title": {
+      "description": "导航栏标题",
+      "type": "string",
+      "maxLength": 12
+    },
+    "desc": {
+      "description": "页面描述",
+      "type": "string"
+    },
+    "author": {
+      "description": "页面作者",
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      ]
+    },
+    "time": {
+      "description": "页面更新时间",
+      "type": "string",
+      "oneOf": [
+        {
+          "format": "date"
+        },
+        {
+          "format": "date-string"
+        }
+      ]
+    },
+    "grey": {
+      "description": "页面是否使用黑色背景",
+      "type": "boolean"
+    },
+    "outdated": {
+      "description": "页面内容是否过时",
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false,
+  "type": "object"
+}

@@ -1,0 +1,1133 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "$id": "https://res.innenu.com/.vscode/components.schema.json",
+  "$defs": {
+    "service-status": {
+      "description": "服务状态",
+      "oneOf": [{ "const": "local" }, { "const": "online" }]
+    },
+    "image-link": {
+      "description": "图片地址",
+      "type": "string",
+      "pattern": "^(?:https?:\\/\\/|\\$img/).*\\.(?:jpe?g|png|gif)(?:\\?v=\\d+)?$"
+    },
+    "env": {
+      "description": "环境",
+      "type": "array",
+      "items": {
+        "enum": ["app", "qq", "wx", "web"]
+      }
+    },
+    "style-object": {
+      "description": "样式对象",
+      "type": "object",
+      "patternProperties": {
+        "^.+$": {
+          "type": "string"
+        }
+      }
+    },
+    "loc": {
+      "description": "位置信息",
+      "type": "string",
+      "pattern": "^\\d{2,3}\\.\\d{3,6},\\d{2,3}\\.\\d{3,6}$"
+    },
+    "point": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "description": "点位名称",
+          "type": "string"
+        },
+        "detail": {
+          "description": "点位详情文字",
+          "type": "string"
+        },
+        "loc": {
+          "$ref": "#/$defs/loc"
+        },
+        "path": {
+          "description": "地点详情路径",
+          "type": "string"
+        }
+      },
+      "required": ["loc"],
+      "default": { "loc": "" },
+      "additionalProperties": false
+    },
+    "img-mode": {
+      "description": "图片填充模式",
+      "enum": [
+        "widthFix",
+        "scaleToFill",
+        "aspectFit",
+        "aspectFill",
+        "top",
+        "bottom",
+        "center",
+        "left",
+        "right",
+        "top left",
+        "top right",
+        "bottom left",
+        "bottom right"
+      ]
+    },
+    "base-list-item": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "description": "列表项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "列表项目图标",
+          "type": "string"
+        },
+        "desc": {
+          "description": "列表项目描述",
+          "type": "string"
+        },
+        "path": {
+          "description": "列表项目路径",
+          "type": "string"
+        },
+        "url": {
+          "description": "列表项目地址",
+          "type": "string"
+        },
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["text"],
+      "default": { "text": "", "path": "" },
+      "additionalProperties": false
+    },
+    "navigator-list-item": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "description": "列表项目类型",
+          "const": "navigator"
+        },
+        "text": {
+          "description": "列表项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "列表项目图标",
+          "type": "string"
+        },
+        "desc": {
+          "description": "列表项目描述",
+          "type": "string"
+        },
+        "openType": {
+          "description": "小程序提供的开放能力",
+          "type": "string"
+        },
+        "target": {
+          "description": "跳转目标",
+          "type": "string"
+        },
+        "url": {
+          "description": "列表项目地址",
+          "type": "string"
+        }
+      },
+      "required": ["type", "text"],
+      "default": { "type": "navigator", "text": "" },
+      "additionalProperties": false
+    },
+    "switch-list-item": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "description": "列表项目类型",
+          "const": "switch"
+        },
+        "text": {
+          "description": "列表项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "列表项目图标",
+          "type": "string"
+        },
+        "desc": {
+          "description": "列表项目描述",
+          "type": "string"
+        },
+        "key": {
+          "description": "所控变量在 storage 中的 key 值",
+          "type": "string"
+        },
+        "handler": {
+          "description": "开关对应的函数名称",
+          "type": "string"
+        },
+        "color": {
+          "description": "开关颜色",
+          "type": "string"
+        }
+      },
+      "required": ["type", "text", "key"],
+      "default": { "type": "switch", "text": "", "key": "" },
+      "additionalProperties": false
+    },
+    "picker-list-item": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "description": "列表项目类型",
+          "const": "picker"
+        },
+        "text": {
+          "description": "列表项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "列表项目图标",
+          "type": "string"
+        },
+        "desc": {
+          "description": "列表项目描述",
+          "type": "string"
+        },
+        "select": {
+          "description": "选择器中包含的值",
+          "type": "array"
+        },
+        "key": {
+          "description": "所控变量在 storage 中的 key 值",
+          "type": "string"
+        },
+        "handler": {
+          "description": "选择器对应的函数名称",
+          "type": "string"
+        },
+        "single": {
+          "description": "是否为单列选择器",
+          "type": "boolean"
+        },
+        "inlay": {
+          "description": "是否为嵌入式 picker",
+          "type": "boolean"
+        }
+      },
+      "required": ["type", "text", "select", "key"],
+      "default": { "text": "", "select": [], "key": "" },
+      "additionalProperties": false
+    },
+    "slider-list-item": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "const": "slider"
+        },
+        "text": {
+          "description": "列表项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "列表项目图标",
+          "type": "string"
+        },
+        "desc": {
+          "description": "列表项目描述",
+          "type": "string"
+        },
+        "key": {
+          "description": "所控变量在 storage 中的 key 值",
+          "type": "string"
+        },
+        "handler": {
+          "description": "滑块对应的函数名称",
+          "type": "string"
+        },
+        "min": {
+          "description": "最小值",
+          "type": "number"
+        },
+        "max": {
+          "description": "最大值",
+          "type": "number"
+        },
+        "step": {
+          "description": "步长",
+          "type": "number"
+        }
+      },
+      "required": ["type", "text", "key"],
+      "default": { "type": "slider", "text": "", "handler": "" },
+      "additionalProperties": false
+    },
+    "button-list-item": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "const": "button"
+        },
+        "text": {
+          "description": "列表项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "列表项目图标",
+          "type": "string"
+        },
+        "desc": {
+          "description": "列表项目描述",
+          "type": "string"
+        },
+        "handler": {
+          "description": "按钮对应的函数名称",
+          "type": "string"
+        },
+        "openType": {
+          "description": "开放能力",
+          "type": "string",
+          "enum": [
+            "share",
+            "openSetting",
+            "openGroupProfile",
+            "openGuildProfile",
+            "contact",
+            "addFriend",
+            "addGroupApp",
+            "addToFavorites",
+            "getPhoneNumber",
+            "getUserInfo",
+            "feedback",
+            "chooseAvatar"
+          ]
+        },
+        "openId": {
+          "description": "用户 openId",
+          "type": "string"
+        },
+        "groupId": {
+          "description": "群 ID",
+          "type": "string"
+        },
+        "guildId": {
+          "description": "频道 ID",
+          "type": "string"
+        },
+        "disabled": {
+          "description": "是否禁用按钮",
+          "type": "boolean"
+        }
+      },
+      "required": ["type", "text"],
+      "default": { "type": "button", "text": "", "handler": "" },
+      "additionalProperties": false
+    },
+    "grid-item": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "description": "网格项目文字",
+          "type": "string"
+        },
+        "icon": {
+          "description": "网格项目图标",
+          "type": "string"
+        },
+        "path": {
+          "description": "网格项目路径",
+          "type": "string"
+        },
+        "url": {
+          "description": "网格项目地址",
+          "type": "string"
+        },
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["text", "icon", "color", "name"],
+      "default": {
+        "text": "",
+        "icon": "",
+        "color": "",
+        "name": "",
+        "path": ""
+      },
+      "additionalProperties": false
+    },
+    "title-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#title",
+      "description": "标题组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "title"
+        },
+        "text": {
+          "description": "标题文字",
+          "type": "string"
+        },
+        "style": {
+          "description": "标题样式",
+          "oneOf": [{ "type": "string" }, { "$ref": "#/$defs/style-object" }]
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "text"],
+      "default": { "tag": "title", "text": "" },
+      "additionalProperties": false
+    },
+    "table-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#table",
+      "description": "表格组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "table"
+        },
+        "caption": {
+          "description": "表格标题",
+          "type": "string"
+        },
+        "header": {
+          "description": "表格表头",
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "body": {
+          "description": "表格内容",
+          "type": "array",
+          "items": {
+            "description": "表格每行内容",
+            "type": "array",
+            "items": {
+              "description": "表格单元文字",
+              "type": "string"
+            }
+          }
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["header", "body"],
+      "default": { "tag": "table", "header": [], "body": [] },
+      "additionalProperties": false
+    },
+    "text-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#text",
+      "description": "标题组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "enum": ["text", "p", "ol", "ul"]
+        },
+        "header": {
+          "description": "文字块标题",
+          "oneOf": [{ "type": "string" }, { "const": true }]
+        },
+        "text": {
+          "description": "文字内容",
+          "oneOf": [
+            { "type": "string" },
+            { "type": "array", "items": { "type": "string" } }
+          ]
+        },
+        "type": {
+          "description": "文字块类型",
+          "enum": ["tip", "warning", "danger", "info", "note"]
+        },
+        "path": {
+          "description": "跳转路径",
+          "type": "string"
+        },
+        "url": {
+          "description": "跳转页面",
+          "type": "string"
+        },
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
+        },
+        "align": {
+          "description": "文字块对齐",
+          "enum": ["left", "right", "center", "justify"]
+        },
+        "style": {
+          "description": "文字样式",
+          "oneOf": [{ "type": "string" }, { "$ref": "#/$defs/style-object" }]
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "default": { "tag": "text", "text": [""] },
+      "required": ["tag"],
+      "additionalProperties": false
+    },
+    "list-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#list",
+      "description": "列表组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "list"
+        },
+        "header": {
+          "description": "列表标题",
+          "type": ["string", "boolean"],
+          "oneOf": [{ "type": "string" }, { "const": false }]
+        },
+        "items": {
+          "description": "列表项目",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/base-list-item"
+          }
+        },
+        "footer": {
+          "description": "列表页脚",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "items"],
+      "default": { "tag": "list", "items": [] },
+      "additionalProperties": false
+    },
+    "img-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#img",
+      "description": "图片组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "img"
+        },
+        "src": {
+          "$ref": "#/$defs/image-link"
+        },
+        "desc": {
+          "description": "图片描述",
+          "type": "string"
+        },
+        "watermark": {
+          "description": "图片水印",
+          "type": "boolean"
+        },
+        "imgMode": {
+          "$ref": "#/$defs/img-mode"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "src"],
+      "default": { "tag": "img", "src": "" },
+      "additionalProperties": false
+    },
+    "doc-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#doc",
+      "description": "文档组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "doc"
+        },
+        "name": {
+          "description": "文档名称",
+          "type": "string"
+        },
+        "url": {
+          "description": "文档地址",
+          "type": "string",
+          "pattern": "^(https?:\\/\\/|\\$file/|\\$img/).*\\.(?:docx?|pptx?|xlsx?|pdf|jpe?g|png|gif)$"
+        },
+        "header": {
+          "description": "组件标题",
+          "type": "string"
+        },
+        "downloadable": {
+          "type": "boolean",
+          "default": false
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "name", "url"],
+      "default": { "tag": "doc", "name": "", "url": "" },
+      "additionalProperties": false
+    },
+    "phone-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#phone",
+      "description": "电话组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "phone"
+        },
+        "num": {
+          "description": "电话号码",
+          "type": ["string", "number"],
+          "oneOf": [
+            { "type": "number" },
+            { "type": "string", "pattern": "^(?:0\\d{2,3}-)?\\d+$" }
+          ]
+        },
+        "header": {
+          "description": "组件标题",
+          "type": "string"
+        },
+        "fName": {
+          "description": "联系人的名称",
+          "type": "string"
+        },
+        "lName": {
+          "description": "联系人的姓氏",
+          "type": "string"
+        },
+        "org": {
+          "description": "联系人所在公司",
+          "type": "string"
+        },
+        "remark": {
+          "description": "联系人备注",
+          "type": "string"
+        },
+        "workNum": {
+          "description": "联系人的工作电话",
+          "type": ["string", "number"],
+          "oneOf": [
+            { "type": "number" },
+            { "type": "string", "pattern": "^(?:0\\d{2,3}-)?\\d+$" }
+          ]
+        },
+        "nick": {
+          "description": "联系人昵称",
+          "type": "string"
+        },
+        "wechat": {
+          "description": "联系人微信号",
+          "type": "string"
+        },
+        "province": {
+          "description": "联系人的省份地址",
+          "type": "string"
+        },
+        "city": {
+          "description": "联系人的城市地址",
+          "type": "string"
+        },
+        "street": {
+          "description": "联系人的街道地址",
+          "type": "string"
+        },
+        "postCode": {
+          "type": "number",
+          "minLength": 6,
+          "maxLength": 6
+        },
+        "title": {
+          "description": "联系人的职位",
+          "type": "string"
+        },
+        "hostNum": {
+          "description": "联系人的公司电话",
+          "type": ["string", "number"],
+          "oneOf": [
+            { "type": "number" },
+            { "type": "string", "pattern": "^(?:0\\d{2,3}-)?\\d+$" }
+          ]
+        },
+        "site": {
+          "description": "联系人的网站",
+          "type": "string",
+          "pattern": "^https?:\\/\\/"
+        },
+        "mail": {
+          "description": "联系人的电子邮件",
+          "type": "string",
+          "pattern": "^\\w(?:[\\w._-]*\\w)?@(?:\\w(?:[\\w-]*\\w)?\\.)*\\w+$"
+        },
+        "homeNum": {
+          "description": "联系人的住宅电话",
+          "type": ["string", "number"],
+          "oneOf": [
+            { "type": "number" },
+            { "type": "string", "pattern": "^(?:0\\d{2,3}-)?\\d+$" }
+          ]
+        },
+        "avatar": {
+          "description": "联系人头像图片路径(仅限本地路径)",
+          "type": "string",
+          "pattern": "^\\/.*\\.{jpe?g,png}$"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "num", "fName"],
+      "default": { "tag": "phone", "number": "" },
+      "additionalProperties": false
+    },
+    "action-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#action",
+      "description": "动作组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "action"
+        },
+        "content": {
+          "description": "动作内容",
+          "type": "string"
+        },
+        "header": {
+          "description": "组件标题",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "content"],
+      "default": { "tag": "action", "content": "" },
+      "additionalProperties": false
+    },
+    "account-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#account",
+      "description": "账户组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "account"
+        },
+        "name": {
+          "description": "主体名称",
+          "type": "string"
+        },
+        "logo": {
+          "description": "头像图标在线地址",
+          "type": "string"
+        },
+        "detail": {
+          "description": "主体的全称",
+          "type": "string"
+        },
+        "desc": {
+          "description": "主体描述",
+          "type": "string"
+        },
+        "qq": {
+          "description": "主体的 QQ 号",
+          "type": "number"
+        },
+        "qqid": {
+          "description": "主体的 QQ Openid",
+          "type": "string"
+        },
+        "qqcode": {
+          "description": "主体的 QQ 二维码地址",
+          "type": "string"
+        },
+        "wxid": {
+          "description": "主体的微信公众号 ID",
+          "type": "string"
+        },
+        "wxcode": {
+          "description": "主体的微信二维码地址",
+          "type": "string"
+        },
+        "account": {
+          "description": "主体的微信公众号配置文件 ID",
+          "type": "string"
+        },
+        "loc": {
+          "description": "主体的地址",
+          "$ref": "#/$defs/loc"
+        },
+        "mail": {
+          "description": "主体的电子邮件",
+          "type": "string",
+          "pattern": "^\\w(?:[\\w._-]*\\w)?@(?:\\w(?:[\\w-]*\\w)?\\.)*\\w+$"
+        },
+        "site": {
+          "description": "主题的网站",
+          "type": "string",
+          "pattern": "^https?:\\/\\/"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "name", "logo"],
+      "default": { "tag": "account", "name": "", "logo": "" },
+      "additionalProperties": false
+    },
+    "location-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#location",
+      "description": "地点组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "location"
+        },
+        "header": {
+          "description": "位置展示的内容",
+          "type": "string"
+        },
+        "points": {
+          "description": "地点",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/point"
+          }
+        },
+        "navigate": {
+          "description": "是否允许导航，仅在企业主体微信小程序上可用",
+          "type": "boolean"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "header", "points"],
+      "default": { "tag": "location", "content": "" },
+      "additionalProperties": false
+    },
+    "carousel-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#carousel",
+      "description": "地点组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "carousel"
+        },
+        "images": {
+          "description": "图片",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/image-link"
+          }
+        },
+        "fill": {
+          "description": "组件是否填满屏幕宽度",
+          "type": "boolean"
+        },
+        "indicatorDots": {
+          "description": "是否显示面板指示点",
+          "type": "boolean"
+        },
+        "dotColor": {
+          "description": "指示点颜色",
+          "type": "string"
+        },
+        "autoplay": {
+          "description": "自动切换",
+          "type": "boolean"
+        },
+        "interval": {
+          "description": "自动切换时间间隔",
+          "type": "number"
+        },
+        "duration": {
+          "description": "滑动动画时长",
+          "type": "number"
+        },
+        "circular": {
+          "description": "自动切换时间间隔",
+          "type": "boolean"
+        },
+        "vertical": {
+          "description": "滑动方向是否纵向",
+          "type": "number"
+        },
+        "class": {
+          "description": "carousel 项目的类名",
+          "type": "string"
+        },
+        "style": {
+          "description": "carousel 项目的样式 ",
+          "type": "string"
+        },
+        "imgMode": {
+          "$ref": "#/$defs/img-mode"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "images"],
+      "default": { "tag": "carousel", "images": [""] },
+      "additionalProperties": false
+    },
+    "card-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#card",
+      "description": "卡片组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "card"
+        },
+        "type": {
+          "description": "卡片类型",
+          "type": "string",
+          "enum": ["page", "web"]
+        },
+        "path": {
+          "description": "指向的页面",
+          "type": "string"
+        },
+        "url": {
+          "description": "跳转的路径",
+          "type": "string"
+        },
+        "cover": {
+          "description": "卡片封面地址",
+          "$ref": "#/$defs/image-link"
+        },
+        "title": {
+          "description": "卡片标题",
+          "type": "string"
+        },
+        "desc": {
+          "description": "卡片描述",
+          "type": "string"
+        },
+        "logo": {
+          "description": "卡片 Logo 地址",
+          "type": "string"
+        },
+        "name": {
+          "description": "卡片 Logo 名称",
+          "type": "string"
+        },
+        "appId": {
+          "description": "跳转小程序 ID",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "title"],
+      "default": {
+        "tag": "card",
+        "type": "",
+        "url": "",
+        "title": "",
+        "cover": ""
+      },
+      "additionalProperties": false
+    },
+    "grid-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#grid",
+      "description": "网格组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "grid"
+        },
+        "header": {
+          "description": "网格标题",
+          "type": ["string", "boolean"],
+          "oneOf": [{ "type": "string" }, { "const": false }]
+        },
+        "items": {
+          "description": "网格项目",
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/grid-item"
+          }
+        },
+        "footer": {
+          "description": "网格页脚",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "items"],
+      "default": { "tag": "grid", "items": [] },
+      "additionalProperties": false
+    },
+    "media-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#media",
+      "description": "媒体",
+      "type": "object",
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "音频组件",
+          "properties": {
+            "tag": {
+              "description": "标签名称",
+              "const": "audio"
+            },
+            "src": {
+              "description": "媒体文件地址",
+              "type": "string"
+            },
+            "loop": {
+              "description": "是否循环播放",
+              "type": "boolean"
+            },
+            "controls": {
+              "description": "显示默认控件",
+              "type": "boolean"
+            },
+            "name": {
+              "description": "音频名称",
+              "type": "string"
+            },
+            "author": {
+              "description": "音频作者",
+              "type": "string"
+            },
+            "env": {
+              "$ref": "#/$defs/env"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "description": "视频组件",
+          "properties": {
+            "tag": {
+              "const": "video"
+            },
+            "src": {
+              "description": "媒体文件地址",
+              "type": "string"
+            },
+            "loop": {
+              "description": "是否循环播放",
+              "type": "boolean"
+            },
+            "controls": {
+              "description": "显示默认控件",
+              "type": "boolean"
+            },
+            "poster": {
+              "description": "视频封面",
+              "$ref": "#/$defs/image-link"
+            },
+            "autoplay": {
+              "description": "是否自动播放",
+              "type": "boolean"
+            },
+            "startTime": {
+              "description": "视频初始播放位置",
+              "type": "number"
+            },
+            "env": {
+              "$ref": "#/$defs/env"
+            }
+          },
+          "additionalProperties": false
+        }
+      ],
+      "required": ["tag", "src"],
+      "default": { "tag": "video", "src": "" }
+    },
+    "functional-list-component": {
+      "$comment": "https://innenu.com/contributing/tag-list.html#functional-list",
+      "description": "列表组件",
+      "type": "object",
+      "properties": {
+        "tag": {
+          "description": "标签名称",
+          "const": "functional-list"
+        },
+        "header": {
+          "description": "列表标题",
+          "type": ["string", "boolean"],
+          "oneOf": [{ "type": "string" }, { "const": false }]
+        },
+        "items": {
+          "description": "列表项目",
+          "type": "array",
+          "items": {
+            "oneOf": [
+              { "$ref": "#/$defs/base-list-item" },
+              { "$ref": "#/$defs/navigator-list-item" },
+              { "$ref": "#/$defs/switch-list-item" },
+              { "$ref": "#/$defs/picker-list-item" },
+              { "$ref": "#/$defs/slider-list-item" },
+              { "$ref": "#/$defs/button-list-item" }
+            ]
+          }
+        },
+        "footer": {
+          "description": "列表页脚",
+          "type": "string"
+        },
+        "env": {
+          "$ref": "#/$defs/env"
+        }
+      },
+      "required": ["tag", "items"],
+      "default": { "tag": "functional-list", "items": [] },
+      "additionalProperties": false
+    },
+    "component": {
+      "description": "组件",
+      "oneOf": [
+        { "$ref": "#/$defs/title-component" },
+        { "$ref": "#/$defs/table-component" },
+        { "$ref": "#/$defs/text-component" },
+        { "$ref": "#/$defs/list-component" },
+        { "$ref": "#/$defs/img-component" },
+        { "$ref": "#/$defs/doc-component" },
+        { "$ref": "#/$defs/phone-component" },
+        { "$ref": "#/$defs/action-component" },
+        { "$ref": "#/$defs/account-component" },
+        { "$ref": "#/$defs/location-component" },
+        { "$ref": "#/$defs/carousel-component" },
+        { "$ref": "#/$defs/card-component" },
+        { "$ref": "#/$defs/grid-component" },
+        { "$ref": "#/$defs/media-component" },
+        { "$ref": "#/$defs/functional-list-component" }
+      ]
+    },
+    "components": {
+      "description": "组件列表",
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/component"
+      },
+      "additionalItems": false
+    }
+  }
+}

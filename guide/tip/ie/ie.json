@@ -1,0 +1,1 @@
+{"title":"在 Windows 中强制打开 IE","icon":"ie","shareable":true,"id":"guide/tip/ie/ie","author":"Mr.Hope","cite":[],"content":[{"tag":"text","text":["目前，Win 11 并未移除 IE 组件，也没有禁用入口，您可以使用脚本强制打开。","您可以从下方的地址下载脚本"]},{"tag":"action","header":"Win11 强制打开 IE 脚本","content":"https://assets.innenu.com/file/tools/win11-ie.vbs"}],"time":"2023 年 11 月 6 日 10:17:51"}

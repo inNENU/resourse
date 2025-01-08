@@ -1,0 +1,366 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "$ref": "https://res.innenu.com/.vscode/components.schema.json",
+  "additionalProperties": false,
+  "$defs": {
+    "service-status": {
+      "description": "服务状态",
+      "oneOf": [{ "const": "local" }, { "const": "online" }]
+    }
+  },
+  "properties": {
+    "main-page": {
+      "type": "object",
+      "description": "主页显示配置",
+      "patternProperties": {
+        "^(\\d{4}|guest|default)": { "type": "string" }
+      }
+    },
+    "main-presets": {
+      "type": "object",
+      "description": "主页预设配置",
+      "patternProperties": {
+        ".*": {
+          "type": "array",
+          "items": {
+            "oneOf": [{ "type": "string" }, { "$ref": "#/$defs/component" }]
+          }
+        }
+      }
+    },
+    "function-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|guest|default)": { "type": "string" }
+      }
+    },
+    "function-presets": {
+      "type": "object",
+      "patternProperties": {
+        ".*": {
+          "type": "array",
+          "items": {
+            "oneOf": [{ "type": "string" }, { "$ref": "#/$defs/component" }]
+          }
+        }
+      }
+    },
+    "intro-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|guest|default)": {
+          "type": "object",
+          "properties": {
+            "items": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "more": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "guide-page": {
+      "type": "object",
+      "patternProperties": {
+        "^(\\d{4}|guest|default)": {
+          "type": "object",
+          "properties": {
+            "items": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "more": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "user": {
+      "$ref": "#/$defs/components"
+    },
+    "about": {
+      "$ref": "#/$defs/components"
+    },
+    "service": {
+      "type": "object",
+      "properties": {
+        "forceOnline": {
+          "description": "强制转用线上",
+          "type": "boolean"
+        },
+
+        "account-activate": {
+          "description": "账号激活",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-login": {
+          "description": "认证服务器登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-init-info": {
+          "description": "初始化认证信息",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-init": {
+          "description": "初始化认证",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-captcha": {
+          "description": "认证验证码",
+          "$ref": "#/$defs/service-status"
+        },
+        "re-auth": {
+          "description": "二次验证",
+          "$ref": "#/$defs/service-status"
+        },
+        "reset-password": {
+          "description": "密码重置",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "auth-center-login": {
+          "description": "认证中心登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "auth-center-check": {
+          "description": "认证中心检查",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "official-academic-list": {
+          "description": "学术预告列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "official-academic-detail": {
+          "description": "学术会议详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "official-info-list": {
+          "description": "官网信息列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "official-info-detail": {
+          "description": "官网信息详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "official-notice-list": {
+          "description": "官网通知列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "official-notice-detail": {
+          "description": "官网通知详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-major-plan": {
+          "description": "本科人才培养计划",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "action-login": {
+          "description": "功能大厅登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "borrow-books": {
+          "description": "借书数据",
+          "$ref": "#/$defs/service-status"
+        },
+        "card-balance": {
+          "description": "校园卡余额",
+          "$ref": "#/$defs/service-status"
+        },
+        "email-page": {
+          "description": "邮件页面",
+          "$ref": "#/$defs/service-status"
+        },
+        "notice-list": {
+          "description": "通知列表",
+          "$ref": "#/$defs/service-status"
+        },
+        "notice-detail": {
+          "description": "通知详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "recent-email": {
+          "description": "近期邮件",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "grad-plan": {
+          "description": "研究生培养计划",
+          "$ref": "#/$defs/service-status"
+        },
+        "grad-recommend-plan": {
+          "description": "研究生推免计划",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-admission": {
+          "description": "本科生录取",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-history-score": {
+          "description": "本科生历史分数",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-enroll-plan": {
+          "description": "本科生招生计划",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "under-study-login": {
+          "description": "本科生教务系统登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-study-check": {
+          "description": "本科生教务系统登录检查",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-course-table": {
+          "description": "本科生课程表",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-commentary": {
+          "description": "本科生评教",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-grade-list": {
+          "description": "本科生成绩",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-grade-detail": {
+          "description": "本科生成绩详情",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-special-exam": {
+          "description": "本科生专项考试",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "under-select-category": {
+          "description": "本科生选课分类",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-select-class": {
+          "description": "本科生选课课堂",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-select-info": {
+          "description": "本科生选课信息",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-select-search": {
+          "description": "本科生选课搜索",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-select-process": {
+          "description": "本科生选课操作",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-select-selected": {
+          "description": "本科生已选课程",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "under-system-login": {
+          "description": "本科生教务系统登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "create-under-archive": {
+          "description": "创建学籍",
+          "$ref": "#/$defs/service-status"
+        },
+        "view-under-archive": {
+          "description": "查看学籍",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-change-major": {
+          "description": "转专业计划",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-course-table-old": {
+          "description": "本科生生课程表",
+          "$ref": "#/$defs/service-status"
+        },
+        "under-exam-place-old": {
+          "description": "考场地点",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "my-login": {
+          "description": "我的登录",
+          "$ref": "#/$defs/service-status"
+        },
+        "apply-email": {
+          "description": "邮箱申请",
+          "$ref": "#/$defs/service-status"
+        },
+
+        "library-people": {
+          "description": "图书馆人数",
+          "$ref": "#/$defs/service-status"
+        },
+        "weather": {
+          "description": "天气",
+          "$ref": "#/$defs/service-status"
+        }
+      },
+      "additionalProperties": false
+    },
+    "notice": {
+      "type": "object",
+      "patternProperties": {
+        ".*": {
+          "description": "页面 ID",
+          "type": "object",
+          "properties": {
+            "title": {
+              "description": "通知标题",
+              "type": "string"
+            },
+            "content": {
+              "description": "通知内容",
+              "type": "string"
+            },
+            "force": {
+              "description": "是否强制显示",
+              "type": "boolean"
+            }
+          },
+          "required": ["title", "content"]
+        }
+      }
+    },
+    "update": {
+      "type": "object",
+      "description": "升级配置",
+      "properties": {
+        "force": {
+          "description": "是否强制升级",
+          "type": "boolean"
+        },
+        "reset": {
+          "description": "是否重置",
+          "type": "boolean"
+        }
+      }
+    }
+  },
+  "required": [
+    "main-page",
+    "main-presets",
+    "function-page",
+    "function-presets",
+    "intro-page",
+    "guide-page",
+    "user",
+    "about",
+    "service",
+    "notice"
+  ],
+  "type": "object"
+}
