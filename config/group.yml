@@ -126,11 +126,11 @@ common:
   items:
     - text: 课程表
       icon: course-table
-      url: course-table
+      url: under-course-table
 
     - text: 成绩查询
       icon: grade
-      url: grade
+      url: under-grade
 
     - text: 学校通知
       icon: notice
@@ -283,11 +283,11 @@ under-study:
   items:
     - text: 课程表
       icon: course-table
-      url: course-table
+      url: under-course-table
 
     - text: 成绩查询
       icon: grade
-      url: grade
+      url: under-grade
 
     - text: 选课系统
       icon: select
