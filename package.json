@@ -37,9 +37,9 @@
     "@alicloud/cdn20180510": "4.2.2",
     "@mdit-vue/plugin-frontmatter": "2.1.3",
     "@vuepress/bundler-vite": "2.0.0-rc.19",
-    "@vuepress/plugin-slimsearch": "2.0.0-rc.69",
-    "@vuepress/plugin-feed": "2.0.0-rc.69",
-    "@vueuse/core": "12.3.0",
+    "@vuepress/plugin-feed": "2.0.0-rc.70",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.70",
+    "@vueuse/core": "12.4.0",
     "cheerio": "1.0.0",
     "cpx2": "8.0.0",
     "del": "8.0.0",
@@ -53,23 +53,32 @@
     "vidstack": "1.12.12",
     "vue": "3.5.13",
     "vuepress": "2.0.0-rc.19",
-    "vuepress-shared": "2.0.0-rc.67",
-    "vuepress-theme-hope": "2.0.0-rc.67"
+    "vuepress-shared": "2.0.0-rc.68",
+    "vuepress-theme-hope": "2.0.0-rc.68"
   },
   "devDependencies": {
     "@types/js-yaml": "4.0.9",
     "@types/markdown-it": "14.1.2",
     "@types/node": "22.10.5",
     "domhandler": "5.0.3",
-    "eslint": "9.17.0",
-    "eslint-config-mister-hope": "0.4.0",
+    "eslint": "9.18.0",
+    "eslint-config-mister-hope": "0.4.1",
     "eslint-plugin-vue": "9.32.0",
     "husky": "9.1.7",
     "nano-staged": "0.8.0",
     "prettier": "3.4.2",
     "tsx": "4.19.2",
-    "typescript": "5.7.2",
-    "vitest": "2.1.8"
+    "typescript": "5.7.3",
+    "vitest": "3.0.0-beta.4"
   },
-  "packageManager": "pnpm@9.15.3"
+  "packageManager": "pnpm@10.0.0",
+  "pnpm": {
+    "overrides": {
+      "@vuepress/cli>esbuild": "^0.24.1"
+    },
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "nodejs-jieba"
+    ]
+  }
 }
